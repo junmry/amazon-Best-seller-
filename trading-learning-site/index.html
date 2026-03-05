@@ -1,0 +1,425 @@
+        // Display document in reading view
+        function displayDocument(docName, content) {
+            // Show reading view
+            document.getElementById('homeView').style.display = 'none';
+            document.getElementById('pathView').style.display = 'none';
+            document.getElementById('resourcesView').style.display = 'none';
+            document.getElementById('readingView').classList.add('active');
+            document.getElementById('heroSection').style.display = 'none';
+            
+            // Update title and content
+            const displayName = docName.replace(/-/g, ' ').replace(/书籍精华-/, '');
+            document.getElementById('readingTitle').textContent = displayName;
+            document.getElementById('readingContent').innerHTML = markdownToHtml(content);
+            
+            // Update active state in sidebar
+            document.querySelectorAll('.nav-tree a').forEach(link => {
+                link.classList.remove('active');
+            });
+            const activeLink = document.querySelector(`[onclick="loadDocument('${docName}')"]`);
+            if (activeLink) activeLink.classList.add('active');
+            
+            // Scroll to top
+            window.scrollTo(0, 0);
+            
+            // Save progress
+            saveProgress(docName);
+        }
+
+        // Markdown to HTML converter
+        function markdownToHtml(markdown) {
+            let html = markdown
+                // Headers
+                .replace(/^### (.*$)/gim, '<h3>$1</h3>')
+                .replace(/^## (.*$)/gim, '<h2>$1</h2>')
+                .replace(/^# (.*$)/gim, '<h1>$1</h1>')
+                // Bold and Italic
+                .replace(/\*\*\*(.*?)\*\*\*/gim, '<strong><em>$1</em></strong>')
+                .replace(/\*\*(.*?)\*\*/gim, '<strong>$1</strong>')
+                .replace(/\*(.*?)\*/gim, '<em>$1</em>')
+                // Code blocks
+                .replace(/```([\s\S]*?)```/gim, '<pre><code>$1</code></pre>')
+                // Inline code
+                .replace(/`([^`]+)`/gim, '<code>$1</code>')
+                // Blockquotes
+                .replace(/^> (.*$)/gim, '<blockquote>$1</blockquote>')
+                // Horizontal rules
+                .replace(/^---$/gim, '<hr>')
+                // Lists
+                .replace(/^- \[(.?)\] (.*$)/gim, '<li><input type="checkbox" $1> $2</li>')
+                .replace(/^- (.*$)/gim, '<li>$1</li>')
+                // Links
+                .replace(/\[([^\]]+)\]\(([^)]+)\)/gim, '<a href="$2" target="_blank">$1</a>')
+                // Line breaks
+                .replace(/\n/gim, '<br>');
+            
+            // Wrap lists
+            html = html.replace(/(<li>.*<\/li>)/gims, '<ul>$1</ul>');
+            
+            return html;
+        }
+
+        // Navigation functions
+        function showHome() {
+            document.getElementById('homeView').style.display = 'block';
+            document.getElementById('pathView').style.display = 'none';
+            document.getElementById('resourcesView').style.display = 'none';
+            document.getElementById('readingView').classList.remove('active');
+            document.getElementById('heroSection').style.display = 'block';
+            
+            // Update nav active state
+            document.querySelectorAll('.nav-links a').forEach(link => link.classList.remove('active'));
+            document.querySelector('.nav-links a:first-child').classList.add('active');
+            
+            window.scrollTo(0, 0);
+        }
+
+        function showCourses() {
+            showHome();
+        }
+
+        function showPath() {
+            document.getElementById('homeView').style.display = 'none';
+            document.getElementById('pathView').style.display = 'block';
+            document.getElementById('resourcesView').style.display = 'none';
+            document.getElementById('readingView').classList.remove('active');
+            document.getElementById('heroSection').style.display = 'none';
+            
+            // Update nav active state
+            document.querySelectorAll('.nav-links a').forEach(link => link.classList.remove('active'));
+            document.querySelectorAll('.nav-links a')[2].classList.add('active');
+            
+            window.scrollTo(0, 0);
+        }
+
+        function showResources() {
+            document.getElementById('homeView').style.display = 'none';
+            document.getElementById('pathView').style.display = 'none';
+            document.getElementById('resourcesView').style.display = 'block';
+            document.getElementById('readingView').classList.remove('active');
+            document.getElementById('heroSection').style.display = 'none';
+            
+            // Update nav active state
+            document.querySelectorAll('.nav-links a').forEach(link => link.classList.remove('active'));
+            document.querySelectorAll('.nav-links a')[3].classList.add('active');
+            
+            window.scrollTo(0, 0);
+        }
+
+        // Search functionality
+        function handleSearch(event) {
+            if (event.key === 'Enter') {
+                const query = event.target.value.toLowerCase().trim();
+                if (!query) return;
+                
+                // Search through document titles
+                const docList = [
+                    '00-股票是什么',
+                    '01-K线基础入门',
+                    '02-技术指标入门',
+                    '03-股票交易基础常识',
+                    '04-书籍精华-专业投机原理',
+                    '05-书籍精华-短线交易秘诀',
+                    '06-书籍精华-股票大作手回忆录',
+                    '07-书籍精华-彼得林奇的成功投资',
+                    '08-书籍精华-约翰聂夫谈投资',
+                    '09-投资心理学基础',
+                    '10-交易术语大全',
+                    '00-学习体系总览'
+                ];
+                
+                const matches = docList.filter(doc => 
+                    doc.toLowerCase().includes(query) ||
+                    getDocTitle(doc).toLowerCase().includes(query)
+                );
+                
+                if (matches.length > 0) {
+                    loadDocument(matches[0]);
+                } else {
+                    alert('未找到相关内容，请尝试其他关键词');
+                }
+            }
+        }
+
+        function getDocTitle(docName) {
+            const titles = {
+                '00-股票是什么': '股票是什么',
+                '01-K线基础入门': 'K线基础入门',
+                '02-技术指标入门': '技术指标入门',
+                '03-股票交易基础常识': '股票交易基础常识',
+                '04-书籍精华-专业投机原理': '专业投机原理',
+                '05-书籍精华-短线交易秘诀': '短线交易秘诀',
+                '06-书籍精华-股票大作手回忆录': '股票大作手回忆录',
+                '07-书籍精华-彼得林奇的成功投资': '彼得林奇的成功投资',
+                '08-书籍精华-约翰聂夫谈投资': '约翰聂夫谈投资',
+                '09-投资心理学基础': '投资心理学基础',
+                '10-交易术语大全': '交易术语大全',
+                '00-学习体系总览': '学习体系总览'
+            };
+            return titles[docName] || docName;
+        }
+
+        // Mobile menu toggle
+        function toggleMobileMenu() {
+            const sidebar = document.getElementById('sidebar');
+            sidebar.classList.toggle('mobile-open');
+        }
+
+        // Progress tracking
+        function saveProgress(docName) {
+            let progress = JSON.parse(localStorage.getItem('learningProgress') || '[]');
+            if (!progress.includes(docName)) {
+                progress.push(docName);
+                localStorage.setItem('learningProgress', JSON.stringify(progress));
+                updateProgressBar();
+            }
+        }
+
+        function updateProgressBar() {
+            const progress = JSON.parse(localStorage.getItem('learningProgress') || '[]');
+            const totalDocs = 12;
+            const percentage = Math.round((progress.length / totalDocs) * 100);
+            
+            document.getElementById('progressBar').style.width = percentage + '%';
+            document.getElementById('progressText').textContent = percentage + '% 已完成 (' + progress.length + '/' + totalDocs + ')';
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            updateProgressBar();
+        });
+
+        // Embedded content fallback
+        function getEmbeddedContent(docName) {
+            const contents = {
+                '00-股票是什么': `# 股票是什么？——从零开始理解投资
+
+> 本文档面向：完全不懂股票、金融的纯小白
+
+## 一、用最通俗的话解释股票
+
+### 1.1 什么是股票？
+
+**一句话解释**：
+> 股票就是公司的"所有权凭证"。买了股票，你就成了公司的股东（老板之一）。
+
+**生活化比喻**：
+- 想象你和朋友合伙开一家奶茶店
+- 你们约定：出10万元，占10%的股份
+- 这张"占股10%"的凭证，就是股票
+- 公司赚钱分红，你有份；公司亏钱，你也承担
+
+### 1.2 为什么要发行股票？
+
+**公司的角度**：
+- 需要资金扩大生产、研发新产品
+- 向银行贷款要还利息
+- 发行股票融资，不用还本付息
+
+**投资者的角度**：
+- 看好公司未来发展
+- 通过股价上涨和分红获利
+- 比存银行收益可能更高（但风险也更大）
+
+## 二、股票市场的基本运作
+
+### 2.1 股票价格是怎么定的？
+
+**核心原理：供求关系**
+
+想买的人 > 想卖的人 → 股价上涨
+想卖的人 > 想买的人 → 股价下跌
+
+### 2.2 股票赚钱的两种方式
+
+**方式一：低买高卖（资本利得）**
+- 买入价：10元/股
+- 卖出价：15元/股
+- 盈利：5元/股
+
+**方式二：分红（股息收入）**
+- 公司盈利后分给股东的利润
+
+## 三、新手必须知道的风险
+
+> **重要提示**：股市有风险，入市需谨慎！
+
+**真实数据**：A股市场七亏二平一赚（70%的人亏钱）
+
+### 风险控制原则
+
+1. **只用闲钱投资**：3年内不用的钱
+2. **不要借钱炒股**：杠杆会放大亏损
+3. **分散投资**：不要把鸡蛋放一个篮子
+4. **设定止损**：单笔亏损不超过总资金2%
+5. **持续学习**：市场永远在变化
+
+## 四、开始投资前的准备
+
+### 正确的心态
+- ✅ 把投资当作长期事业
+- ✅ 接受亏损是学费
+- ✅ 不追求一夜暴富
+- ✅ 保持学习和复盘
+
+### 错误的心态
+- ❌ 想快速发财
+- ❌ 听信"内幕消息"
+- ❌ 追涨杀跌
+- ❌ 重仓all in
+
+> **记住**：投资是一场马拉松，不是百米冲刺。保护好本金才能走得更远。`,
+
+                '09-投资心理学基础': `# 投资心理学基础
+
+> 本文档面向：开始接触交易，需要建立正确心态的学习者
+
+## 一、为什么心理学对交易至关重要？
+
+**技术分析只占交易成功的30%，而心态管理占70%。**
+
+### 交易中的主要情绪
+
+| 情绪 | 表现 | 后果 |
+|------|------|------|
+| **贪婪** | 盈利时想赚更多，不愿止盈 | 利润回吐 |
+| **恐惧** | 亏损时害怕扩大，过早止损 | 频繁小亏 |
+| **希望** | 套牢时期待反弹，不愿割肉 | 小亏变大亏 |
+| **后悔** | 错过机会后急于追进 | 高位接盘 |
+
+## 二、常见心理陷阱
+
+### 1. 确认偏误
+只寻找支持自己观点的信息，忽视反面证据。
+
+### 2. 损失厌恶
+亏损的痛苦是盈利快乐的2-2.5倍，导致该止损时不止损。
+
+### 3. 从众心理
+跟随大众，缺乏独立思考，成为接盘侠。
+
+### 4. 过度自信
+连续盈利几次就觉得自己是股神，加大仓位后一次大亏。
+
+## 三、建立正确的交易心态
+
+**原则一：接受不确定性**
+- 交易是概率游戏，不是确定性游戏
+- 接受亏损是交易成本的一部分
+
+**原则二：过程导向**
+- 关注执行过程，而非单次结果
+- 只要系统期望值为正，长期必盈利
+
+**原则三：长期视角**
+- 不要追求一夜暴富
+- 复利的力量：年化20%，10年6.2倍
+
+**原则四：情绪隔离**
+- 像机器人一样执行规则
+- 情绪波动时停止交易
+
+## 四、实用的情绪管理技巧
+
+### 交易前
+1. 冥想/深呼吸5分钟
+2. 预演最坏情况
+3. 检查身体状态
+
+### 交易中
+1. 设置自动止损
+2. 限制盯盘时间
+3. 记录情绪状态
+
+### 交易后
+1. 无论盈亏，立即复盘
+2. 奖励严格执行计划
+3. 运动放松
+
+> **核心原则**：控制好自己，就控制了交易。`,
+
+                '10-交易术语大全': `# 交易术语大全
+
+> 本文档汇总股票交易中的常用术语，方便快速查阅
+
+## 一、市场基础术语
+
+| 术语 | 解释 |
+|------|------|
+| **A股** | 在中国大陆发行，人民币交易的股票 |
+| **主板** | 大型成熟企业，代码600/000开头 |
+| **创业板** | 成长型企业，代码300开头，涨跌幅20% |
+| **科创板** | 科技创新企业，代码688开头 |
+| **蓝筹股** | 大型优质企业股票 |
+| **概念股** | 有特定概念炒作的股票 |
+
+## 二、交易术语
+
+| 术语 | 解释 |
+|------|------|
+| **T+1** | 当日买入，次日才能卖出 |
+| **做多** | 买入股票，期待上涨获利 |
+| **做空** | 借入股票卖出，期待下跌后买回 |
+| **满仓** | 全部资金都买入股票 |
+| **空仓** | 没有持有任何股票 |
+| **加仓** | 在原有基础上再买 |
+| **止损** | 亏损达到预设位置时卖出 |
+| **止盈** | 盈利达到目标时卖出 |
+| **套牢** | 买入后股价下跌，无法盈利卖出 |
+| **割肉** | 亏损卖出 |
+
+## 三、价格相关术语
+
+| 术语 | 解释 |
+|------|------|
+| **涨停** | 当日涨幅达到上限（主板10%） |
+| **跌停** | 当日跌幅达到下限（主板10%） |
+| **开盘价** | 当日第一笔成交价格 |
+| **收盘价** | 当日最后一笔成交价格 |
+| **最高价** | 当日最高成交价格 |
+| **最低价** | 当日最低成交价格 |
+
+## 四、趋势术语
+
+| 术语 | 解释 |
+|------|------|
+| **牛市** | 市场整体上涨趋势 |
+| **熊市** | 市场整体下跌趋势 |
+| **横盘** | 价格在水平区间内波动 |
+| **突破** | 股价突破盘整区间 |
+| **回调** | 上涨过程中的暂时下跌 |
+| **反弹** | 下跌后暂时回升 |
+
+## 五、财务术语
+
+| 术语 | 解释 |
+|------|------|
+| **市盈率(PE)** | 股价/每股收益，衡量估值 |
+| **市净率(PB)** | 股价/每股净资产 |
+| **ROE** | 净资产收益率，衡量盈利能力 |
+| **股息率** | 分红与股价的比率 |
+| **市值** | 股价 × 总股本 |
+
+## 六、技术分析术语
+
+| 术语 | 解释 |
+|------|------|
+| **K线** | 记录价格变动的图表 |
+| **阳线** | 收盘价高于开盘价（红色） |
+| **阴线** | 收盘价低于开盘价（绿色） |
+| **均线(MA)** | 移动平均价格线 |
+| **MACD** | 指数平滑异同移动平均线 |
+| **KDJ** | 随机指标 |
+| **金叉** | 短期均线上穿长期均线（买入信号） |
+| **死叉** | 短期均线下穿长期均线（卖出信号） |
+| **支撑位** | 股价下跌时可能反弹的位置 |
+| **压力位** | 股价上涨时可能回落的位置 |
+
+> **提示**：术语只是工具，理解背后的含义才是关键。`
+            };
+            
+            return contents[docName] || `# ${docName}\n\n内容加载中...请稍后刷新页面重试。`;
+        }
+    </script>
+</body>
+</html>`
