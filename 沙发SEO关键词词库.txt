@@ -1,0 +1,171 @@
+=== KEIKI 沙发 SEO 关键词词库 ===
+整理时间：2026年3月5日
+数据来源：BSR Sofa 类目词频分析
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+一、标题高频词（按词频排序）
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+排名    关键词                  词频    建议用途
+─────────────────────────────────────────────────
+1       sofa                    50      核心词，必埋
+2       couch                   48      核心词，必埋
+3       sectional               44      款式词，L型/U型沙发用
+4       modular                 31      款式词，模块化沙发用
+5       living                  30      场景词，living room
+6       room                    30      场景词，搭配living
+7       cloud                   29      卖点词，云朵沙发
+8       chaise                  28      款式词，带躺椅用
+9       seat                    24      规格词，x-seat
+10      boneless                21      品牌/款式词，无骨沙发
+11      deep                    21      卖点词，深坐感
+12      assembly                21      属性词，需组装
+13      shaped                  19      款式词，U-shaped/L-shaped
+14      couches                 17      核心词复数
+15      black                   16      颜色词
+16      corduroy                15      材质词，灯芯绒
+17      modern                  15      风格词，现代风
+18      facing                  12      款式词，left/right facing
+19      shape                   11      款式词
+20      required                11      属性词
+21      comfy                   9       卖点词，舒适
+22      left                    9       款式词，左向
+23      seater                  9       规格词，x-seater
+24      ottoman                 9       配件词，脚凳
+25      upholstered             8       材质词，软包
+26      foam                    8       材质词，海绵
+27      memory                  7       材质词，memory foam
+28      grey                    7       颜色词
+29      108                     6       尺寸词
+30      bedroom                 6       场景词
+31      oversized               5       卖点词，超大
+32      sleeper                 5       功能词，沙发床
+33      fluffy                  3       卖点词，蓬松
+34      flexible                3       卖点词，灵活
+35      combination             3       款式词，组合
+36      minimalist              3       风格词，极简
+37      right                   3       款式词，右向
+38      dark                    3       颜色词
+39      convertible             3       功能词，可转换
+40      107                     3       尺寸词
+41      maxyoyo                 3       品牌词
+42      box                     3       包装/款式词
+43      ottomans                3       配件词复数
+44      110                     2       尺寸词
+45      side                    2       位置词
+46      pockets                 2       功能词，储物袋
+47      module                  2       款式词
+48      beige                   2       颜色词
+49      comfort                 2       卖点词
+50      stripe                  2       图案词
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+二、五点描述高频词（按词频排序）
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+排名    关键词                  词频    建议用途
+─────────────────────────────────────────────────
+1       sofa                    181     核心词，每点可埋
+2       sectional               87      款式词
+3       comfort                 87      卖点词，舒适性
+4       couch                   84      核心词
+5       modular                 78      款式词
+6       space                   70      场景词，空间
+7       cloud                   59      卖点词，云朵感
+8       living                  53      场景词
+9       assembly                51      属性词，安装
+10      fabric                  47      材质词，面料
+11      room                    46      场景词
+12      corduroy                46      材质词，灯芯绒
+13      design                  45      卖点词，设计
+14      high                    43      卖点词，高密度/高品质
+15      foam                    41      材质词，海绵
+16      experience              41      卖点词，体验
+17      seat                    38      规格词
+18      soft                    37      卖点词，柔软
+19      perfect                 36      卖点词，完美
+20      chaise                  35      款式词
+21      seating                 33      功能词，座椅
+22      support                 33      卖点词，支撑
+23      shaped                  33      款式词
+24      easy                    32      卖点词，易安装/易清洁
+25      comfortable             32      卖点词，舒适
+26      into                    32      搭配词
+27      any                     31      搭配词
+28      required                30      属性词
+29      designed                29      卖点词，设计
+30      hours                   28      卖点词，长时间使用
+31      cushions                28      部件词，坐垫
+32      plush                   28      卖点词， plush感
+33      like                    28      搭配词
+34      while                   26      搭配词
+35      home                    25      场景词
+36      each                    24      搭配词
+37      style                   24      卖点词，风格
+38      resilience              23      卖点词，回弹性
+39      use                     21      功能词
+40      simply                  21      卖点词，简单
+41      deep                    21      卖点词，深坐
+42      spacious                21      卖点词，宽敞
+43      lounge                  21      功能词，休闲
+44      providing               21      搭配词
+45      time                    20      搭配词
+46      shape                   19      款式词
+47      ideal                   19      卖点词，理想
+48      back                    19      部件词，靠背
+49      whether                 19      搭配词
+50      long                    19      卖点词，长久/长款
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+三、SEO 埋词建议
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【必埋核心词】（每处都要出现）
+- sofa / couch
+- sectional（如适用）
+- living room
+
+【标题优先埋】
+- 款式词：sectional, modular, chaise, shaped
+- 规格词：seat, seater, 尺寸数字
+- 材质词：corduroy, upholstered, foam
+- 颜色词：black, grey, beige
+- 品牌词：boneless（如适用）
+
+【五点描述优先埋】
+- 卖点词：comfort, comfortable, soft, plush, deep, spacious
+- 材质词：fabric, foam, corduroy
+- 功能词：seating, lounge, support
+- 场景词：space, home, living, room
+- 属性词：assembly, required, easy
+
+【长尾词组合】
+- modular sectional sofa
+- cloud couch living room
+- deep seat sectional
+- corduroy sofa couch
+- l shaped sectional
+- u shaped sectional
+- modern sectional sofa
+- comfy cloud couch
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+四、颜色词库
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+black（黑色）           16
+beige（米色）           2
+grey/gray（灰色）       7
+dark（深色）            3
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+五、尺寸词库
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+108                     6
+107                     3
+110                     2
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+文件生成完毕，可直接用于标题和五点描述的SEO优化。
