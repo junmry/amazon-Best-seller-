@@ -1,0 +1,15 @@
+{
+  "learned": [
+    {
+      "date": "20260324",
+      "amazon_topic": "评论管理与声誉策略",
+      "stat_topic": "数据可视化原则"
+    },
+    {
+      "date": "20260326",
+      "amazon_topic": "ACOS/TACOS优化策略",
+      "stat_topic": "描述性统计与分布"
+    }
+  ],
+  "last_date": "20260326"
+}
