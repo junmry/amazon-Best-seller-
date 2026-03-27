@@ -14,7 +14,12 @@
       "date": "20260327",
       "amazon_topic": "价格弹性与动态定价",
       "stat_topic": "异常值检测与处理"
+    },
+    {
+      "date": "20260328",
+      "amazon_topic": "SP/SB/SD广告类型对比与选择",
+      "stat_topic": "描述性统计与分布"
     }
   ],
-  "last_date": "20260327"
+  "last_date": "20260328"
 }
