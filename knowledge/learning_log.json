@@ -19,7 +19,12 @@
       "date": "20260328",
       "amazon_topic": "SP/SB/SD广告类型对比与选择",
       "stat_topic": "描述性统计与分布"
+    },
+    {
+      "date": "20260329",
+      "amazon_topic": "FBA费用结构与利润计算",
+      "stat_topic": "回归分析基础与应用"
     }
   ],
-  "last_date": "20260328"
+  "last_date": "20260329"
 }
