@@ -24,7 +24,12 @@
       "date": "20260329",
       "amazon_topic": "FBA费用结构与利润计算",
       "stat_topic": "回归分析基础与应用"
+    },
+    {
+      "date": "20260330",
+      "amazon_topic": "关键词研究与长尾词挖掘策略",
+      "stat_topic": "异常值检测与处理"
     }
   ],
-  "last_date": "20260329"
+  "last_date": "20260330"
 }
