@@ -34,7 +34,12 @@
       "date": "20260331",
       "amazon_topic": "ACOS/TACOS优化策略",
       "stat_topic": "描述性统计与分布"
+    },
+    {
+      "date": "20260401",
+      "amazon_topic": "关键词研究与长尾词挖掘策略",
+      "stat_topic": "时间序列分析基础"
     }
   ],
-  "last_date": "20260331"
+  "last_date": "20260401"
 }
