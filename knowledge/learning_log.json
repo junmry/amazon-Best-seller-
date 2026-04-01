@@ -39,7 +39,12 @@
       "date": "20260401",
       "amazon_topic": "关键词研究与长尾词挖掘策略",
       "stat_topic": "时间序列分析基础"
+    },
+    {
+      "date": "20260402",
+      "amazon_topic": "FBA费用结构与利润计算",
+      "stat_topic": "多重比较校正方法"
     }
   ],
-  "last_date": "20260401"
+  "last_date": "20260402"
 }
