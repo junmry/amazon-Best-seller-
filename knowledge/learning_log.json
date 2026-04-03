@@ -49,7 +49,12 @@
       "date": "20260403",
       "amazon_topic": "亚马逊SEO最佳实践",
       "stat_topic": "数据可视化原则"
+    },
+    {
+      "date": "20260404",
+      "amazon_topic": "库存管理与IPI优化",
+      "stat_topic": "相关性与因果性区分"
     }
   ],
-  "last_date": "20260403"
+  "last_date": "20260404"
 }
