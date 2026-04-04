@@ -54,7 +54,12 @@
       "date": "20260404",
       "amazon_topic": "库存管理与IPI优化",
       "stat_topic": "相关性与因果性区分"
+    },
+    {
+      "date": "20260405",
+      "amazon_topic": "价格弹性与动态定价",
+      "stat_topic": "多重比较校正方法"
     }
   ],
-  "last_date": "20260404"
+  "last_date": "20260405"
 }
