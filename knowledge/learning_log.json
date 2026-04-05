@@ -59,7 +59,12 @@
       "date": "20260405",
       "amazon_topic": "价格弹性与动态定价",
       "stat_topic": "多重比较校正方法"
+    },
+    {
+      "date": "20260406",
+      "amazon_topic": "竞品分析方法与工具",
+      "stat_topic": "辛普森悖论识别"
     }
   ],
-  "last_date": "20260405"
+  "last_date": "20260406"
 }
