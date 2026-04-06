@@ -64,7 +64,12 @@
       "date": "20260406",
       "amazon_topic": "竞品分析方法与工具",
       "stat_topic": "辛普森悖论识别"
+    },
+    {
+      "date": "20260407",
+      "amazon_topic": "ACOS/TACOS优化策略",
+      "stat_topic": "幸存者偏差避免"
     }
   ],
-  "last_date": "20260406"
+  "last_date": "20260407"
 }
