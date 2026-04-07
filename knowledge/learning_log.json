@@ -69,7 +69,12 @@
       "date": "20260407",
       "amazon_topic": "ACOS/TACOS优化策略",
       "stat_topic": "幸存者偏差避免"
+    },
+    {
+      "date": "20260408",
+      "amazon_topic": "竞品分析方法与工具",
+      "stat_topic": "时间序列分析基础"
     }
   ],
-  "last_date": "20260407"
+  "last_date": "20260408"
 }
