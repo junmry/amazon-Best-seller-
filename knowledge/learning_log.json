@@ -74,7 +74,12 @@
       "date": "20260408",
       "amazon_topic": "竞品分析方法与工具",
       "stat_topic": "时间序列分析基础"
+    },
+    {
+      "date": "20260409",
+      "amazon_topic": "FBA费用结构与利润计算",
+      "stat_topic": "幸存者偏差避免"
     }
   ],
-  "last_date": "20260408"
+  "last_date": "20260409"
 }
