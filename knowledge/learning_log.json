@@ -79,7 +79,12 @@
       "date": "20260409",
       "amazon_topic": "FBA费用结构与利润计算",
       "stat_topic": "幸存者偏差避免"
+    },
+    {
+      "date": "20260410",
+      "amazon_topic": "SP/SB/SD广告类型对比与选择",
+      "stat_topic": "样本量计算与统计功效"
     }
   ],
-  "last_date": "20260409"
+  "last_date": "20260410"
 }
