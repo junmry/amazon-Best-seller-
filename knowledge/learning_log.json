@@ -84,7 +84,12 @@
       "date": "20260410",
       "amazon_topic": "SP/SB/SD广告类型对比与选择",
       "stat_topic": "样本量计算与统计功效"
+    },
+    {
+      "date": "20260411",
+      "amazon_topic": "新品推广与冷启动策略",
+      "stat_topic": "数据可视化原则"
     }
   ],
-  "last_date": "20260410"
+  "last_date": "20260411"
 }
