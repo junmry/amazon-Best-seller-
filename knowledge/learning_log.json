@@ -89,7 +89,12 @@
       "date": "20260411",
       "amazon_topic": "新品推广与冷启动策略",
       "stat_topic": "数据可视化原则"
+    },
+    {
+      "date": "20260412",
+      "amazon_topic": "SP/SB/SD广告类型对比与选择",
+      "stat_topic": "贝叶斯思维与应用"
     }
   ],
-  "last_date": "20260411"
+  "last_date": "20260412"
 }
