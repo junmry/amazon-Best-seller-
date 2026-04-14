@@ -104,7 +104,12 @@
       "date": "20260414",
       "amazon_topic": "A9/A10搜索算法原理与排名因素",
       "stat_topic": "数据可视化原则"
+    },
+    {
+      "date": "20260415",
+      "amazon_topic": "亚马逊SEO最佳实践",
+      "stat_topic": "时间序列分析基础"
     }
   ],
-  "last_date": "20260414"
+  "last_date": "20260415"
 }
