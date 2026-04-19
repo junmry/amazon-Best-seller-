@@ -44,6 +44,9 @@ ENV/
 *.zip
 *.tar.gz
 
+# 超大文件（GitHub 限制 100MB）
+skills/amazon-analytics/
+
 # 保持追踪的例外
 !keyword_library/**/*.xlsx
 !content_creator/**/*.xlsx
