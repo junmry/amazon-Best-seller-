@@ -1,0 +1,50 @@
+# Git 忽略规则
+# 自动生成/临时文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv/
+
+# 下载目录（PDF/临时文件）
+.kimi/downloads/
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 日志文件
+*.log
+
+# 敏感文件（包含 token/密钥）
+.env
+*.pem
+*.key
+
+# 大文件/二进制（可选）
+*.xlsx
+*.pdf
+*.mp4
+*.mov
+*.avi
+*.zip
+*.tar.gz
+
+# 保持追踪的例外
+!keyword_library/**/*.xlsx
+!content_creator/**/*.xlsx
+!content_creator/**/*.pdf
