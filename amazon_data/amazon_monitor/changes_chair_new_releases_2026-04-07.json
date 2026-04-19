@@ -1,0 +1,98 @@
+[
+  {
+    "asin": "B0FZ861RJM",
+    "title": "",
+    "old_rank": 11,
+    "new_rank": 24,
+    "change": -13,
+    "direction": "down"
+  },
+  {
+    "asin": "B0GQKBWJJ9",
+    "title": "",
+    "old_rank": 18,
+    "new_rank": 29,
+    "change": -11,
+    "direction": "down"
+  },
+  {
+    "asin": "B0GHNS73M8",
+    "title": "",
+    "old_rank": 10,
+    "new_rank": 2,
+    "change": 8,
+    "direction": "up"
+  },
+  {
+    "asin": "B0GPQLC2YG",
+    "title": "",
+    "old_rank": 8,
+    "new_rank": 3,
+    "change": 5,
+    "direction": "up"
+  },
+  {
+    "asin": "B0G1YKC5PW",
+    "title": "",
+    "old_rank": 17,
+    "new_rank": 12,
+    "change": 5,
+    "direction": "up"
+  },
+  {
+    "asin": "B0GHN2R9H6",
+    "title": "",
+    "old_rank": 13,
+    "new_rank": 18,
+    "change": -5,
+    "direction": "down"
+  },
+  {
+    "asin": "B0GL1W4TV4",
+    "title": "",
+    "old_rank": 4,
+    "new_rank": 6,
+    "change": -2,
+    "direction": "down"
+  },
+  {
+    "asin": "B0GQXVM1B7",
+    "title": "",
+    "old_rank": 5,
+    "new_rank": 7,
+    "change": -2,
+    "direction": "down"
+  },
+  {
+    "asin": "B0GQXD7PGK",
+    "title": "",
+    "old_rank": 2,
+    "new_rank": 1,
+    "change": 1,
+    "direction": "up"
+  },
+  {
+    "asin": "B0GLXNVHY6",
+    "title": "",
+    "old_rank": 3,
+    "new_rank": 4,
+    "change": -1,
+    "direction": "down"
+  },
+  {
+    "asin": "B0GPW6TXC9",
+    "title": "",
+    "old_rank": 19,
+    "new_rank": 20,
+    "change": -1,
+    "direction": "down"
+  },
+  {
+    "asin": "B0GPW5WZNM",
+    "title": "",
+    "old_rank": 27,
+    "new_rank": 28,
+    "change": -1,
+    "direction": "down"
+  }
+]

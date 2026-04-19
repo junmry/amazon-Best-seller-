@@ -1,0 +1,130 @@
+[
+  {
+    "asin": "B0FXX7RZZX",
+    "title": "",
+    "old_rank": 10,
+    "new_rank": 16,
+    "change": -6,
+    "direction": "down"
+  },
+  {
+    "asin": "B0GL1SCKF5",
+    "title": "",
+    "old_rank": 13,
+    "new_rank": 8,
+    "change": 5,
+    "direction": "up"
+  },
+  {
+    "asin": "B0GG9BQQZN",
+    "title": "",
+    "old_rank": 14,
+    "new_rank": 9,
+    "change": 5,
+    "direction": "up"
+  },
+  {
+    "asin": "B0GRVBY1C5",
+    "title": "",
+    "old_rank": 12,
+    "new_rank": 17,
+    "change": -5,
+    "direction": "down"
+  },
+  {
+    "asin": "B0GHVFGVTD",
+    "title": "",
+    "old_rank": 21,
+    "new_rank": 26,
+    "change": -5,
+    "direction": "down"
+  },
+  {
+    "asin": "B0GGS8PKQJ",
+    "title": "",
+    "old_rank": 7,
+    "new_rank": 3,
+    "change": 4,
+    "direction": "up"
+  },
+  {
+    "asin": "B0G6ZGTG2N",
+    "title": "",
+    "old_rank": 4,
+    "new_rank": 6,
+    "change": -2,
+    "direction": "down"
+  },
+  {
+    "asin": "B0G29VPQ9S",
+    "title": "",
+    "old_rank": 9,
+    "new_rank": 11,
+    "change": -2,
+    "direction": "down"
+  },
+  {
+    "asin": "B0G63XWPKN",
+    "title": "",
+    "old_rank": 2,
+    "new_rank": 1,
+    "change": 1,
+    "direction": "up"
+  },
+  {
+    "asin": "B0GDZJRXTT",
+    "title": "",
+    "old_rank": 1,
+    "new_rank": 2,
+    "change": -1,
+    "direction": "down"
+  },
+  {
+    "asin": "B0G52DJPSW",
+    "title": "",
+    "old_rank": 3,
+    "new_rank": 4,
+    "change": -1,
+    "direction": "down"
+  },
+  {
+    "asin": "B0GRYWGLB6",
+    "title": "",
+    "old_rank": 6,
+    "new_rank": 5,
+    "change": 1,
+    "direction": "up"
+  },
+  {
+    "asin": "B0GR5DKDC7",
+    "title": "",
+    "old_rank": 11,
+    "new_rank": 10,
+    "change": 1,
+    "direction": "up"
+  },
+  {
+    "asin": "B0GMBSN7FX",
+    "title": "",
+    "old_rank": 15,
+    "new_rank": 14,
+    "change": 1,
+    "direction": "up"
+  },
+  {
+    "asin": "B0GD69M8CQ",
+    "title": "",
+    "old_rank": 17,
+    "new_rank": 18,
+    "change": -1,
+    "direction": "down"
+  },
+  {
+    "asin": "B0FXX93BFX",
+    "title": "",
+    "old_rank": 20,
+    "new_rank": 19,
+    "change": 1,
+    "direction": "up"
+  }
+]

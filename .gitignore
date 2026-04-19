@@ -35,19 +35,15 @@ ENV/
 *.pem
 *.key
 
-# 大文件/二进制（可选）
-*.xlsx
-*.pdf
+# 大文件/二进制
 *.mp4
 *.mov
 *.avi
 *.zip
 *.tar.gz
 
-# 超大文件（GitHub 限制 100MB）
+# 超大文件目录（GitHub 限制 100MB）
 skills/amazon-analytics/
 
-# 保持追踪的例外
-!keyword_library/**/*.xlsx
-!content_creator/**/*.xlsx
+# 允许版本控制的例外
 !content_creator/**/*.pdf

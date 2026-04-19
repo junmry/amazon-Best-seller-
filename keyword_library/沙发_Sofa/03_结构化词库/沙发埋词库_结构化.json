@@ -1,0 +1,3576 @@
+{
+  "metadata": {
+    "total_terms": 3988,
+    "dimensions": [
+      "人群",
+      "场景",
+      "尺码",
+      "款式"
+    ],
+    "sizes": [
+      "大沙发",
+      "小沙发"
+    ]
+  },
+  "大沙发": {
+    "人群": {
+      "主词": [
+        {
+          "term": "family size",
+          "volume": 393,
+          "keyword": "family"
+        }
+      ],
+      "副词": [
+        {
+          "term": "family size",
+          "volume": 393,
+          "keyword": "sofa"
+        }
+      ],
+      "次副词": [],
+      "长尾词": [
+        {
+          "term": "gaming chairs for adults",
+          "volume": 24070
+        },
+        {
+          "term": "human dog bed for adult",
+          "volume": 5156
+        },
+        {
+          "term": "portable bed for adults",
+          "volume": 4792
+        },
+        {
+          "term": "reading chairs for adults",
+          "volume": 4762
+        },
+        {
+          "term": "sleeping cots for adults",
+          "volume": 4348
+        },
+        {
+          "term": "roll away beds with mattresses for adults",
+          "volume": 4308
+        },
+        {
+          "term": "beanbag chairs for adults",
+          "volume": 3964
+        },
+        {
+          "term": "oversized chair with ottoman",
+          "volume": 3717
+        },
+        {
+          "term": "big bean bag chairs for adults",
+          "volume": 3474
+        },
+        {
+          "term": "large ottoman",
+          "volume": 3070
+        },
+        {
+          "term": "rollaway bed with mattress for adults",
+          "volume": 3035
+        },
+        {
+          "term": "ottomans for living room",
+          "volume": 2227
+        },
+        {
+          "term": "cama individual para adultos",
+          "volume": 1848
+        },
+        {
+          "term": "large bean bag chairs for adults",
+          "volume": 1848
+        },
+        {
+          "term": "cot bed for adults",
+          "volume": 1803
+        },
+        {
+          "term": "sleeping mats for adults",
+          "volume": 1545
+        },
+        {
+          "term": "living room ottoman",
+          "volume": 1222
+        },
+        {
+          "term": "folding cots for adults",
+          "volume": 1156
+        },
+        {
+          "term": "bag chairs for adults",
+          "volume": 1116
+        },
+        {
+          "term": "oversized ottoman",
+          "volume": 1111
+        },
+        {
+          "term": "portable cots for adults",
+          "volume": 1101
+        },
+        {
+          "term": "adult dog bed for humans",
+          "volume": 1015
+        },
+        {
+          "term": "yoga chairs for adults",
+          "volume": 974
+        },
+        {
+          "term": "cama portatil adultos",
+          "volume": 969
+        },
+        {
+          "term": "foldable cots for adults",
+          "volume": 969
+        },
+        {
+          "term": "bed cots for adults",
+          "volume": 964
+        },
+        {
+          "term": "folding bed with mattress for adults",
+          "volume": 919
+        },
+        {
+          "term": "portable mattress for adults",
+          "volume": 909
+        },
+        {
+          "term": "full over full bunk beds for adults",
+          "volume": 909
+        },
+        {
+          "term": "travel chairs for adults",
+          "volume": 893
+        },
+        {
+          "term": "oversized bean bag chairs for adults",
+          "volume": 868
+        },
+        {
+          "term": "bed chairs for sitting up in bed for adults",
+          "volume": 858
+        },
+        {
+          "term": "ottoman for living room",
+          "volume": 858
+        },
+        {
+          "term": "sleep chair bed for adults",
+          "volume": 833
+        },
+        {
+          "term": "comfy reading chairs for adults",
+          "volume": 772
+        },
+        {
+          "term": "foam chairs for adults",
+          "volume": 732
+        },
+        {
+          "term": "fold up beds for adults",
+          "volume": 712
+        },
+        {
+          "term": "large dog couch",
+          "volume": 651
+        },
+        {
+          "term": "sleeping chair bed for adults",
+          "volume": 636
+        },
+        {
+          "term": "travel bed for adults",
+          "volume": 626
+        },
+        {
+          "term": "large square ottoman",
+          "volume": 616
+        },
+        {
+          "term": "chair beds for adults",
+          "volume": 611
+        },
+        {
+          "term": "ottoman large",
+          "volume": 595
+        },
+        {
+          "term": "folding beds for adults",
+          "volume": 545
+        },
+        {
+          "term": "chair to bed convertible for adults",
+          "volume": 525
+        },
+        {
+          "term": "adult cots for sleeping",
+          "volume": 525
+        },
+        {
+          "term": "big man recliners",
+          "volume": 525
+        },
+        {
+          "term": "cot with mattress for adults",
+          "volume": 520
+        },
+        {
+          "term": "hide away beds for adults",
+          "volume": 515
+        },
+        {
+          "term": "reclinables para adultos",
+          "volume": 505
+        },
+        {
+          "term": "adult dog bed",
+          "volume": 499
+        },
+        {
+          "term": "portable beds for adults",
+          "volume": 494
+        },
+        {
+          "term": "living room chair with ottoman",
+          "volume": 494
+        },
+        {
+          "term": "day bed with pop up trundle for adults",
+          "volume": 489
+        },
+        {
+          "term": "sleep mat for adults",
+          "volume": 474
+        },
+        {
+          "term": "boneless furniture for adults",
+          "volume": 469
+        },
+        {
+          "term": "chair that turns into bed for adults",
+          "volume": 459
+        },
+        {
+          "term": "cama sandwich para adultos",
+          "volume": 454
+        },
+        {
+          "term": "sillón puff para adultos",
+          "volume": 454
+        },
+        {
+          "term": "fold out chair bed for adults",
+          "volume": 439
+        },
+        {
+          "term": "camping couch for adults",
+          "volume": 424
+        },
+        {
+          "term": "beam bag chair for adults",
+          "volume": 419
+        },
+        {
+          "term": "ottoman living room",
+          "volume": 419
+        },
+        {
+          "term": "bing bag chairs for adults",
+          "volume": 414
+        },
+        {
+          "term": "oversized chair and ottoman",
+          "volume": 414
+        },
+        {
+          "term": "camas plegables para adultos",
+          "volume": 409
+        },
+        {
+          "term": "cot for adults",
+          "volume": 409
+        },
+        {
+          "term": "fold up cots for adults",
+          "volume": 393
+        },
+        {
+          "term": "family size",
+          "volume": 393
+        },
+        {
+          "term": "extra large ottoman",
+          "volume": 388
+        },
+        {
+          "term": "large ottomans for living room",
+          "volume": 388
+        },
+        {
+          "term": "oversized accent chair with ottoman",
+          "volume": 378
+        },
+        {
+          "term": "sleep cots for adults",
+          "volume": 368
+        },
+        {
+          "term": "dog couches for large dogs",
+          "volume": 368
+        },
+        {
+          "term": "family bed",
+          "volume": 368
+        },
+        {
+          "term": "pet friendly couches for living room",
+          "volume": 368
+        },
+        {
+          "term": "folding cot bed for adults",
+          "volume": 363
+        },
+        {
+          "term": "sectional with ottoman",
+          "volume": 363
+        },
+        {
+          "term": "large square ottoman with storage",
+          "volume": 363
+        },
+        {
+          "term": "oversized ottoman with storage",
+          "volume": 358
+        },
+        {
+          "term": "beanbags for adults",
+          "volume": 353
+        },
+        {
+          "term": "black ottoman for living room",
+          "volume": 353
+        },
+        {
+          "term": "ottomans for living room clearance",
+          "volume": 353
+        },
+        {
+          "term": "home entertainment center",
+          "volume": 353
+        },
+        {
+          "term": "maxyoyo accent chair with ottoman adjustable backrest, tufted living room chair upholstered lounge c",
+          "volume": 348
+        },
+        {
+          "term": "big ottoman",
+          "volume": 338
+        },
+        {
+          "term": "cama sofa para adultos",
+          "volume": 333
+        },
+        {
+          "term": "cozy reading chairs for adults",
+          "volume": 333
+        },
+        {
+          "term": "comfy gaming chairs for adults",
+          "volume": 333
+        },
+        {
+          "term": "sofa cama individual para adultos",
+          "volume": 328
+        },
+        {
+          "term": "cots for adults",
+          "volume": 308
+        },
+        {
+          "term": "adult beanbag chair",
+          "volume": 308
+        },
+        {
+          "term": "portable folding chairs for adults",
+          "volume": 308
+        },
+        {
+          "term": "foldaway bed with mattress for adults",
+          "volume": 297
+        },
+        {
+          "term": "living room chairs with ottoman",
+          "volume": 297
+        },
+        {
+          "term": "large pouf ottoman",
+          "volume": 297
+        },
+        {
+          "term": "blow up furniture for adults",
+          "volume": 277
+        },
+        {
+          "term": "beanbag chair for adults",
+          "volume": 262
+        },
+        {
+          "term": "chairs that turn into beds for adults",
+          "volume": 257
+        },
+        {
+          "term": "human size dog bed for adults",
+          "volume": 257
+        }
+      ]
+    },
+    "场景": {
+      "主词": [
+        {
+          "term": "couches for living room",
+          "volume": 179399,
+          "keyword": "living room"
+        }
+      ],
+      "副词": [
+        {
+          "term": "couches for living room",
+          "volume": 179399,
+          "keyword": "couch"
+        }
+      ],
+      "次副词": [],
+      "长尾词": [
+        {
+          "term": "couches for living room",
+          "volume": 179399
+        },
+        {
+          "term": "sectional couches for living room",
+          "volume": 122224
+        },
+        {
+          "term": "living room decor",
+          "volume": 83024
+        },
+        {
+          "term": "boneless couches for living room",
+          "volume": 73018
+        },
+        {
+          "term": "sofas for living room",
+          "volume": 70830
+        },
+        {
+          "term": "living room furniture",
+          "volume": 63812
+        },
+        {
+          "term": "living room chairs",
+          "volume": 33898
+        },
+        {
+          "term": "couch sets for living room",
+          "volume": 17075
+        },
+        {
+          "term": "chairs living room",
+          "volume": 16111
+        },
+        {
+          "term": "living room couch",
+          "volume": 14944
+        },
+        {
+          "term": "living room set",
+          "volume": 12979
+        },
+        {
+          "term": "sectional sofas for living room",
+          "volume": 12303
+        },
+        {
+          "term": "living room chair",
+          "volume": 11095
+        },
+        {
+          "term": "couches for living room clearance",
+          "volume": 10217
+        },
+        {
+          "term": "living room",
+          "volume": 9787
+        },
+        {
+          "term": "accent chairs for living room",
+          "volume": 9565
+        },
+        {
+          "term": "home sofa living room",
+          "volume": 9161
+        },
+        {
+          "term": "living room furniture sets",
+          "volume": 8813
+        },
+        {
+          "term": "black couches for living room",
+          "volume": 8545
+        },
+        {
+          "term": "black sectional couches for living room",
+          "volume": 6818
+        },
+        {
+          "term": "couch for living room",
+          "volume": 4484
+        },
+        {
+          "term": "living room essentials",
+          "volume": 4363
+        },
+        {
+          "term": "sofa set for living room",
+          "volume": 4060
+        },
+        {
+          "term": "chairs for living room",
+          "volume": 3873
+        },
+        {
+          "term": "living room couches set",
+          "volume": 3868
+        },
+        {
+          "term": "chair for living room",
+          "volume": 3863
+        },
+        {
+          "term": "living room chairs set of 2",
+          "volume": 3722
+        },
+        {
+          "term": "living room sofa",
+          "volume": 3323
+        },
+        {
+          "term": "living room couch set",
+          "volume": 3303
+        },
+        {
+          "term": "living room sets furniture",
+          "volume": 2949
+        },
+        {
+          "term": "cloud couches for living room",
+          "volume": 2868
+        },
+        {
+          "term": "sectionals for living room",
+          "volume": 2853
+        },
+        {
+          "term": "l couches for living room",
+          "volume": 2757
+        },
+        {
+          "term": "leather sofas for living room",
+          "volume": 2696
+        },
+        {
+          "term": "sofas for living room clearance",
+          "volume": 2646
+        },
+        {
+          "term": "green couches for living room",
+          "volume": 2499
+        },
+        {
+          "term": "chair living room",
+          "volume": 2494
+        },
+        {
+          "term": "large sectional couches for living room",
+          "volume": 2474
+        },
+        {
+          "term": "living room accessories",
+          "volume": 2388
+        },
+        {
+          "term": "grey couches for living room",
+          "volume": 2358
+        },
+        {
+          "term": "brown couches for living room",
+          "volume": 2303
+        },
+        {
+          "term": "living room sets",
+          "volume": 2237
+        },
+        {
+          "term": "ottomans for living room",
+          "volume": 2227
+        },
+        {
+          "term": "sofa for living room",
+          "volume": 2116
+        },
+        {
+          "term": "side chairs for living room",
+          "volume": 2075
+        },
+        {
+          "term": "l shape couches for living room",
+          "volume": 2060
+        },
+        {
+          "term": "living room furniture sets clearance",
+          "volume": 2005
+        },
+        {
+          "term": "comfy chairs for living room",
+          "volume": 1974
+        },
+        {
+          "term": "3 seater couch for living room",
+          "volume": 1964
+        },
+        {
+          "term": "cheap couches for living room",
+          "volume": 1924
+        },
+        {
+          "term": "l-shaped sectional couches living room",
+          "volume": 1782
+        },
+        {
+          "term": "leather couches for living room",
+          "volume": 1772
+        },
+        {
+          "term": "comfy couches for living room",
+          "volume": 1752
+        },
+        {
+          "term": "lounge chair living room",
+          "volume": 1737
+        },
+        {
+          "term": "living room sectional",
+          "volume": 1646
+        },
+        {
+          "term": "boneless sofas living room",
+          "volume": 1595
+        },
+        {
+          "term": "white couches for living room",
+          "volume": 1510
+        },
+        {
+          "term": "leather sectional couches for living room",
+          "volume": 1489
+        },
+        {
+          "term": "black living room table",
+          "volume": 1484
+        },
+        {
+          "term": "oversized chairs for living room",
+          "volume": 1454
+        },
+        {
+          "term": "living room accent chair",
+          "volume": 1434
+        },
+        {
+          "term": "black sofas for living room",
+          "volume": 1414
+        },
+        {
+          "term": "recliner couches for living room",
+          "volume": 1393
+        },
+        {
+          "term": "sectional couches for living room clearance",
+          "volume": 1383
+        },
+        {
+          "term": "living room chairs clearance",
+          "volume": 1353
+        },
+        {
+          "term": "grey sectional couches for living room",
+          "volume": 1348
+        },
+        {
+          "term": "living room sofa set",
+          "volume": 1343
+        },
+        {
+          "term": "foam couches for living room",
+          "volume": 1297
+        },
+        {
+          "term": "living room couches",
+          "volume": 1262
+        },
+        {
+          "term": "living room ottoman",
+          "volume": 1222
+        },
+        {
+          "term": "recliner couches living room",
+          "volume": 1217
+        },
+        {
+          "term": "beige couches for living room",
+          "volume": 1166
+        },
+        {
+          "term": "living room furniture set",
+          "volume": 1166
+        },
+        {
+          "term": "sofa sectionals for living room",
+          "volume": 1161
+        },
+        {
+          "term": "3 piece living room set",
+          "volume": 1161
+        },
+        {
+          "term": "gray couches for living room",
+          "volume": 1116
+        },
+        {
+          "term": "ashley furniture living room couches",
+          "volume": 1116
+        },
+        {
+          "term": "sectional sofas large living room",
+          "volume": 1106
+        },
+        {
+          "term": "living room storage furniture",
+          "volume": 1106
+        },
+        {
+          "term": "oversized sofas for living room",
+          "volume": 1101
+        },
+        {
+          "term": "couch sectionals for living room",
+          "volume": 1085
+        },
+        {
+          "term": "furniture for living room",
+          "volume": 1060
+        },
+        {
+          "term": "modern sofas for living room",
+          "volume": 1055
+        },
+        {
+          "term": "living room chairs comfy",
+          "volume": 1050
+        },
+        {
+          "term": "sofa sets for living room clearance",
+          "volume": 1015
+        },
+        {
+          "term": "2 piece couch sets for living room",
+          "volume": 1015
+        },
+        {
+          "term": "black living room furniture",
+          "volume": 1010
+        },
+        {
+          "term": "modern couches for living room",
+          "volume": 999
+        },
+        {
+          "term": "soft couches for living room",
+          "volume": 984
+        },
+        {
+          "term": "living room sets furniture clearance",
+          "volume": 984
+        },
+        {
+          "term": "accent chair for living room",
+          "volume": 964
+        },
+        {
+          "term": "l shaped couches for living room",
+          "volume": 954
+        },
+        {
+          "term": "reclining sectional couch for living room",
+          "volume": 954
+        },
+        {
+          "term": "black boneless couches for living room",
+          "volume": 924
+        },
+        {
+          "term": "black chair for living room",
+          "volume": 919
+        },
+        {
+          "term": "couches for living room clearance set",
+          "volume": 893
+        },
+        {
+          "term": "boneless chair for living room",
+          "volume": 873
+        },
+        {
+          "term": "sectionals for living room clearance",
+          "volume": 863
+        },
+        {
+          "term": "recliners for living room",
+          "volume": 863
+        },
+        {
+          "term": "living room sectional furniture sets",
+          "volume": 858
+        }
+      ]
+    },
+    "尺码": {
+      "主词": [
+        {
+          "term": "oversized chair",
+          "volume": 20101,
+          "keyword": "oversized"
+        },
+        {
+          "term": "big joe bean bag chair",
+          "volume": 7025,
+          "keyword": "big"
+        },
+        {
+          "term": "sofa bed full size",
+          "volume": 3676,
+          "keyword": "full size"
+        },
+        {
+          "term": "large ottoman",
+          "volume": 3070,
+          "keyword": "large"
+        },
+        {
+          "term": "3 seater couch",
+          "volume": 2767,
+          "keyword": "3 seater"
+        },
+        {
+          "term": "king size murphy bed",
+          "volume": 999,
+          "keyword": "king size"
+        },
+        {
+          "term": "4 seater couch",
+          "volume": 777,
+          "keyword": "4 seater"
+        },
+        {
+          "term": "3 person couch",
+          "volume": 449,
+          "keyword": "3 person"
+        }
+      ],
+      "副词": [
+        {
+          "term": "oversized chair",
+          "volume": 20101,
+          "keyword": "sofa"
+        },
+        {
+          "term": "3 seater couch",
+          "volume": 2767,
+          "keyword": "couch"
+        }
+      ],
+      "次副词": [],
+      "长尾词": [
+        {
+          "term": "oversized chair",
+          "volume": 20101
+        },
+        {
+          "term": "big joe bean bag chair",
+          "volume": 7025
+        },
+        {
+          "term": "oversized chaise lounge",
+          "volume": 5363
+        },
+        {
+          "term": "big bean bag",
+          "volume": 4045
+        },
+        {
+          "term": "oversized chair with ottoman",
+          "volume": 3717
+        },
+        {
+          "term": "sofa bed full size",
+          "volume": 3676
+        },
+        {
+          "term": "big bean bag chairs for adults",
+          "volume": 3474
+        },
+        {
+          "term": "oversized lounge chair",
+          "volume": 3429
+        },
+        {
+          "term": "oversized accent chair",
+          "volume": 3217
+        },
+        {
+          "term": "large ottoman",
+          "volume": 3070
+        },
+        {
+          "term": "full size murphy bed",
+          "volume": 2999
+        },
+        {
+          "term": "3 seater couch",
+          "volume": 2767
+        },
+        {
+          "term": "large bean bag",
+          "volume": 2631
+        },
+        {
+          "term": "oversized bean bag chair",
+          "volume": 2626
+        },
+        {
+          "term": "oversized camping chair",
+          "volume": 2560
+        },
+        {
+          "term": "oversized couch",
+          "volume": 2540
+        },
+        {
+          "term": "big comfy couch",
+          "volume": 2484
+        },
+        {
+          "term": "large sectional couches for living room",
+          "volume": 2474
+        },
+        {
+          "term": "oversized chaise lounge chair",
+          "volume": 2161
+        },
+        {
+          "term": "oversized reading chair",
+          "volume": 2005
+        },
+        {
+          "term": "3 seater couch for living room",
+          "volume": 1964
+        },
+        {
+          "term": "large bean bag chairs for adults",
+          "volume": 1848
+        },
+        {
+          "term": "big joe bean bag",
+          "volume": 1808
+        },
+        {
+          "term": "big comfy chair",
+          "volume": 1691
+        },
+        {
+          "term": "murphy bed full size",
+          "volume": 1686
+        },
+        {
+          "term": "oversized sectional sofa",
+          "volume": 1656
+        },
+        {
+          "term": "large bean bag chairs",
+          "volume": 1646
+        },
+        {
+          "term": "big lots furniture",
+          "volume": 1585
+        },
+        {
+          "term": "oversized round chair",
+          "volume": 1484
+        },
+        {
+          "term": "oversized chairs for living room",
+          "volume": 1454
+        },
+        {
+          "term": "queen size sofa bed",
+          "volume": 1343
+        },
+        {
+          "term": "oversized chaise",
+          "volume": 1287
+        },
+        {
+          "term": "sofa bed queen size",
+          "volume": 1232
+        },
+        {
+          "term": "large couch",
+          "volume": 1176
+        },
+        {
+          "term": "3 seater sofa",
+          "volume": 1151
+        },
+        {
+          "term": "big bean bag chair",
+          "volume": 1131
+        },
+        {
+          "term": "big chair",
+          "volume": 1121
+        },
+        {
+          "term": "oversized ottoman",
+          "volume": 1111
+        },
+        {
+          "term": "sectional sofas large living room",
+          "volume": 1106
+        },
+        {
+          "term": "oversized sofas for living room",
+          "volume": 1101
+        },
+        {
+          "term": "big couch",
+          "volume": 1075
+        },
+        {
+          "term": "big comfy couch molly doll",
+          "volume": 1050
+        },
+        {
+          "term": "full size sofa bed",
+          "volume": 1015
+        },
+        {
+          "term": "king size murphy bed",
+          "volume": 999
+        },
+        {
+          "term": "flexispot mochi oversized recliner",
+          "volume": 964
+        },
+        {
+          "term": "oversized boneless couch",
+          "volume": 934
+        },
+        {
+          "term": "large floor pillow",
+          "volume": 914
+        },
+        {
+          "term": "oversized bean bag chairs for adults",
+          "volume": 868
+        },
+        {
+          "term": "large pillows for couch",
+          "volume": 833
+        },
+        {
+          "term": "the big comfy couch merch",
+          "volume": 823
+        },
+        {
+          "term": "large chair",
+          "volume": 823
+        },
+        {
+          "term": "big couches for living room",
+          "volume": 808
+        },
+        {
+          "term": "double chaise lounge",
+          "volume": 797
+        },
+        {
+          "term": "4 seater couch",
+          "volume": 777
+        },
+        {
+          "term": "large throw pillows for couch",
+          "volume": 752
+        },
+        {
+          "term": "the big comfy couch",
+          "volume": 742
+        },
+        {
+          "term": "oversized sectional couches for living room",
+          "volume": 727
+        },
+        {
+          "term": "biglots furniture",
+          "volume": 707
+        },
+        {
+          "term": "oversized armchair",
+          "volume": 696
+        },
+        {
+          "term": "oversized throw pillows",
+          "volume": 691
+        },
+        {
+          "term": "boneless oversized chair",
+          "volume": 681
+        },
+        {
+          "term": "large sectional couch",
+          "volume": 671
+        },
+        {
+          "term": "oversized chairs",
+          "volume": 666
+        },
+        {
+          "term": "big sectional couches for living room",
+          "volume": 656
+        },
+        {
+          "term": "oversized bean bag",
+          "volume": 656
+        },
+        {
+          "term": "large dog couch",
+          "volume": 651
+        },
+        {
+          "term": "oversized sectional",
+          "volume": 646
+        },
+        {
+          "term": "oversized modular sectional sofa",
+          "volume": 631
+        },
+        {
+          "term": "large sofa",
+          "volume": 626
+        },
+        {
+          "term": "large square ottoman",
+          "volume": 616
+        },
+        {
+          "term": "full size foldable mattress",
+          "volume": 611
+        },
+        {
+          "term": "pull out sofa bed queen size",
+          "volume": 611
+        },
+        {
+          "term": "oversized papasan chair",
+          "volume": 606
+        },
+        {
+          "term": "ottoman large",
+          "volume": 595
+        },
+        {
+          "term": "big chairs comfy",
+          "volume": 575
+        },
+        {
+          "term": "oversized couches for living room",
+          "volume": 575
+        },
+        {
+          "term": "oversized comfy chair",
+          "volume": 575
+        },
+        {
+          "term": "oversized sofa",
+          "volume": 565
+        },
+        {
+          "term": "queen size pull out sofa bed",
+          "volume": 540
+        },
+        {
+          "term": "big man recliners",
+          "volume": 525
+        },
+        {
+          "term": "oversized chair for bedroom",
+          "volume": 520
+        },
+        {
+          "term": "oversized swivel accent chair",
+          "volume": 510
+        },
+        {
+          "term": "oversized chaise lounge chair indoor",
+          "volume": 499
+        },
+        {
+          "term": "sofa 3 seater",
+          "volume": 489
+        },
+        {
+          "term": "full size pull out sofa bed",
+          "volume": 484
+        },
+        {
+          "term": "large floor cushion",
+          "volume": 479
+        },
+        {
+          "term": "couch 3 seater",
+          "volume": 469
+        },
+        {
+          "term": "large sectional",
+          "volume": 469
+        },
+        {
+          "term": "foldable full size bed frame",
+          "volume": 464
+        },
+        {
+          "term": "king size sofa bed",
+          "volume": 454
+        },
+        {
+          "term": "3 person couch",
+          "volume": 449
+        },
+        {
+          "term": "sofa cama full size",
+          "volume": 449
+        },
+        {
+          "term": "xl couch covers for oversized sofa",
+          "volume": 449
+        },
+        {
+          "term": "oversized round chaise lounge",
+          "volume": 444
+        },
+        {
+          "term": "oversized chase lounge chair",
+          "volume": 429
+        },
+        {
+          "term": "full size folding bed",
+          "volume": 424
+        },
+        {
+          "term": "oversized round lounge chair",
+          "volume": 424
+        },
+        {
+          "term": "large accent chair",
+          "volume": 419
+        },
+        {
+          "term": "oversized chair and ottoman",
+          "volume": 414
+        },
+        {
+          "term": "biglots furniture clearance",
+          "volume": 409
+        }
+      ]
+    },
+    "款式": {
+      "主词": [
+        {
+          "term": "sectional couches for living room",
+          "volume": 122224,
+          "keyword": "sectional"
+        },
+        {
+          "term": "modular sectional sofa",
+          "volume": 27636,
+          "keyword": "modular"
+        },
+        {
+          "term": "l shaped couch",
+          "volume": 23974,
+          "keyword": "l shape"
+        },
+        {
+          "term": "l shaped couch",
+          "volume": 23974,
+          "keyword": "l shaped"
+        },
+        {
+          "term": "chaise lounge chair indoor",
+          "volume": 16580,
+          "keyword": "chaise"
+        },
+        {
+          "term": "corner bed",
+          "volume": 4717,
+          "keyword": "corner"
+        },
+        {
+          "term": "farmhouse living room furniture",
+          "volume": 681,
+          "keyword": "farmhouse"
+        }
+      ],
+      "副词": [
+        {
+          "term": "sectional couches for living room",
+          "volume": 122224,
+          "keyword": "couch"
+        },
+        {
+          "term": "modular sectional sofa",
+          "volume": 27636,
+          "keyword": "sofa"
+        }
+      ],
+      "次副词": [],
+      "长尾词": [
+        {
+          "term": "sectional couches for living room",
+          "volume": 122224
+        },
+        {
+          "term": "sectional couch",
+          "volume": 35469
+        },
+        {
+          "term": "modular sectional sofa",
+          "volume": 27636
+        },
+        {
+          "term": "cloud couch sectional",
+          "volume": 25469
+        },
+        {
+          "term": "l shaped couch",
+          "volume": 23974
+        },
+        {
+          "term": "sectional",
+          "volume": 18878
+        },
+        {
+          "term": "chaise lounge chair indoor",
+          "volume": 16580
+        },
+        {
+          "term": "modular couch",
+          "volume": 12414
+        },
+        {
+          "term": "sectional sofas for living room",
+          "volume": 12303
+        },
+        {
+          "term": "boneless sectional couch",
+          "volume": 11444
+        },
+        {
+          "term": "sectional sofa",
+          "volume": 8873
+        },
+        {
+          "term": "black sectional couches for living room",
+          "volume": 6818
+        },
+        {
+          "term": "chaise lounge indoor",
+          "volume": 6666
+        },
+        {
+          "term": "chaise lounge",
+          "volume": 6459
+        },
+        {
+          "term": "modular sofa",
+          "volume": 6176
+        },
+        {
+          "term": "oversized chaise lounge",
+          "volume": 5363
+        },
+        {
+          "term": "boneless chaise lounge",
+          "volume": 5348
+        },
+        {
+          "term": "chaise",
+          "volume": 4727
+        },
+        {
+          "term": "corner bed",
+          "volume": 4717
+        },
+        {
+          "term": "leather sectional",
+          "volume": 4202
+        },
+        {
+          "term": "couch sectional",
+          "volume": 3888
+        },
+        {
+          "term": "corner chair",
+          "volume": 3717
+        },
+        {
+          "term": "u shaped sectional couch",
+          "volume": 3484
+        },
+        {
+          "term": "sectional sleeper sofa",
+          "volume": 3297
+        },
+        {
+          "term": "sectionals",
+          "volume": 3247
+        },
+        {
+          "term": "sectional couches",
+          "volume": 3060
+        },
+        {
+          "term": "l shaped sectional couch",
+          "volume": 2999
+        },
+        {
+          "term": "modular cloud sofa",
+          "volume": 2919
+        },
+        {
+          "term": "cloud sectional couch",
+          "volume": 2898
+        },
+        {
+          "term": "reclining sectional",
+          "volume": 2898
+        },
+        {
+          "term": "sectionals for living room",
+          "volume": 2853
+        },
+        {
+          "term": "boneless couch sectional",
+          "volume": 2797
+        },
+        {
+          "term": "couch cover for sectional",
+          "volume": 2626
+        },
+        {
+          "term": "black sectional couch",
+          "volume": 2621
+        },
+        {
+          "term": "corner couch",
+          "volume": 2515
+        },
+        {
+          "term": "large sectional couches for living room",
+          "volume": 2474
+        },
+        {
+          "term": "honbay modular sectional sofa",
+          "volume": 2358
+        },
+        {
+          "term": "brown sectional couch",
+          "volume": 2333
+        },
+        {
+          "term": "green sectional couch",
+          "volume": 2303
+        },
+        {
+          "term": "couch with chaise",
+          "volume": 2257
+        },
+        {
+          "term": "oversized chaise lounge chair",
+          "volume": 2161
+        },
+        {
+          "term": "belfin modular sectional sofa",
+          "volume": 2116
+        },
+        {
+          "term": "black sectional",
+          "volume": 2101
+        },
+        {
+          "term": "leather sectional couch",
+          "volume": 2090
+        },
+        {
+          "term": "modular sectional",
+          "volume": 2070
+        },
+        {
+          "term": "l shape couches for living room",
+          "volume": 2060
+        },
+        {
+          "term": "l shaped sofa",
+          "volume": 1939
+        },
+        {
+          "term": "sofa sectional",
+          "volume": 1939
+        },
+        {
+          "term": "sleeper sectional",
+          "volume": 1818
+        },
+        {
+          "term": "l-shaped sectional couches living room",
+          "volume": 1782
+        },
+        {
+          "term": "cloud modular sectional sofa",
+          "volume": 1757
+        },
+        {
+          "term": "sofa with chaise",
+          "volume": 1727
+        },
+        {
+          "term": "boneless chaise",
+          "volume": 1712
+        },
+        {
+          "term": "boneless sectional",
+          "volume": 1696
+        },
+        {
+          "term": "oversized sectional sofa",
+          "volume": 1656
+        },
+        {
+          "term": "cloud couch modular sectional sofa",
+          "volume": 1646
+        },
+        {
+          "term": "living room sectional",
+          "volume": 1646
+        },
+        {
+          "term": "leather sectional couches for living room",
+          "volume": 1489
+        },
+        {
+          "term": "sectional couch connectors",
+          "volume": 1449
+        },
+        {
+          "term": "modular home",
+          "volume": 1409
+        },
+        {
+          "term": "recliner couches for living room",
+          "volume": 1393
+        },
+        {
+          "term": "sectional couches for living room clearance",
+          "volume": 1383
+        },
+        {
+          "term": "chaise lounges",
+          "volume": 1373
+        },
+        {
+          "term": "modular sectional couch",
+          "volume": 1373
+        },
+        {
+          "term": "cloud sectional",
+          "volume": 1358
+        },
+        {
+          "term": "grey sectional couches for living room",
+          "volume": 1348
+        },
+        {
+          "term": "oversized chaise",
+          "volume": 1287
+        },
+        {
+          "term": "aiden & ivy sectional sofa",
+          "volume": 1282
+        },
+        {
+          "term": "grey sectional couch",
+          "volume": 1272
+        },
+        {
+          "term": "beige sectional couch",
+          "volume": 1257
+        },
+        {
+          "term": "l shaped bench",
+          "volume": 1252
+        },
+        {
+          "term": "belffin modular couch",
+          "volume": 1217
+        },
+        {
+          "term": "recliner couches living room",
+          "volume": 1217
+        },
+        {
+          "term": "modular cloud couch",
+          "volume": 1196
+        },
+        {
+          "term": "corduroy sectional couch",
+          "volume": 1196
+        },
+        {
+          "term": "sofa sectionals for living room",
+          "volume": 1161
+        },
+        {
+          "term": "sofa modular",
+          "volume": 1156
+        },
+        {
+          "term": "vanomi modular sectional sofa",
+          "volume": 1141
+        },
+        {
+          "term": "midnight madness sectional",
+          "volume": 1126
+        },
+        {
+          "term": "sectional sofas large living room",
+          "volume": 1106
+        },
+        {
+          "term": "couch sectionals for living room",
+          "volume": 1085
+        },
+        {
+          "term": "sleeper sectional sofa",
+          "volume": 1060
+        },
+        {
+          "term": "modern sofas for living room",
+          "volume": 1055
+        },
+        {
+          "term": "green sectional",
+          "volume": 1050
+        },
+        {
+          "term": "round chaise lounge",
+          "volume": 1045
+        },
+        {
+          "term": "sectional couch with storage",
+          "volume": 1045
+        },
+        {
+          "term": "recliner sectional",
+          "volume": 1040
+        },
+        {
+          "term": "corner furniture",
+          "volume": 1030
+        },
+        {
+          "term": "l shaped couch with pull out bed",
+          "volume": 1030
+        },
+        {
+          "term": "closeout sectionals clearance",
+          "volume": 1030
+        },
+        {
+          "term": "modern couches for living room",
+          "volume": 999
+        },
+        {
+          "term": "luxe 108 sectional couch",
+          "volume": 969
+        },
+        {
+          "term": "flexispot mochi oversized recliner",
+          "volume": 964
+        },
+        {
+          "term": "white sectional couch",
+          "volume": 964
+        },
+        {
+          "term": "l shaped couches for living room",
+          "volume": 954
+        },
+        {
+          "term": "reclining sectional couch for living room",
+          "volume": 954
+        },
+        {
+          "term": "corner sofa",
+          "volume": 944
+        },
+        {
+          "term": "chaise couch",
+          "volume": 939
+        },
+        {
+          "term": "sectional with storage",
+          "volume": 939
+        },
+        {
+          "term": "sectional sleeper sofa with pull out bed",
+          "volume": 934
+        }
+      ]
+    }
+  },
+  "小沙发": {
+    "人群": {
+      "主词": [
+        {
+          "term": "teen girl room decor",
+          "volume": 5515,
+          "keyword": "girl"
+        },
+        {
+          "term": "teen girl room decor",
+          "volume": 5515,
+          "keyword": "teen"
+        },
+        {
+          "term": "apartment size couch",
+          "volume": 4813,
+          "keyword": "men"
+        },
+        {
+          "term": "catres para dormir adultos",
+          "volume": 2499,
+          "keyword": "cat"
+        },
+        {
+          "term": "girls bedroom furniture",
+          "volume": 1772,
+          "keyword": "girls"
+        },
+        {
+          "term": "bedroom must haves for women",
+          "volume": 353,
+          "keyword": "women"
+        }
+      ],
+      "副词": [
+        {
+          "term": "teen girl room decor",
+          "volume": 5515,
+          "keyword": "sofa"
+        },
+        {
+          "term": "apartment size couch",
+          "volume": 4813,
+          "keyword": "couch"
+        },
+        {
+          "term": "girls bedroom furniture",
+          "volume": 1772,
+          "keyword": "furniture"
+        }
+      ],
+      "次副词": [],
+      "长尾词": [
+        {
+          "term": "teen girl room decor",
+          "volume": 5515
+        },
+        {
+          "term": "apartment size couch",
+          "volume": 4813
+        },
+        {
+          "term": "bedroom chairs for adults",
+          "volume": 4196
+        },
+        {
+          "term": "accent chair with ottoman",
+          "volume": 4085
+        },
+        {
+          "term": "apartment",
+          "volume": 4015
+        },
+        {
+          "term": "apartment furniture",
+          "volume": 3601
+        },
+        {
+          "term": "studio apartment essentials",
+          "volume": 2803
+        },
+        {
+          "term": "catres para dormir adultos",
+          "volume": 2499
+        },
+        {
+          "term": "girls bedroom furniture",
+          "volume": 1772
+        },
+        {
+          "term": "small apartment furniture",
+          "volume": 1398
+        },
+        {
+          "term": "apartment couch",
+          "volume": 1297
+        },
+        {
+          "term": "studio apartment furniture",
+          "volume": 1287
+        },
+        {
+          "term": "loveseat with ottoman",
+          "volume": 1191
+        },
+        {
+          "term": "living room essentials for apartments",
+          "volume": 1176
+        },
+        {
+          "term": "small houses to live in for adults",
+          "volume": 1101
+        },
+        {
+          "term": "teen bed",
+          "volume": 964
+        },
+        {
+          "term": "couch for apartment",
+          "volume": 904
+        },
+        {
+          "term": "apartment essentials for bedroom",
+          "volume": 828
+        },
+        {
+          "term": "ottoman bed sleeper",
+          "volume": 797
+        },
+        {
+          "term": "bedroom ottoman",
+          "volume": 787
+        },
+        {
+          "term": "apartment needs",
+          "volume": 767
+        },
+        {
+          "term": "living room furniture for apartment",
+          "volume": 747
+        },
+        {
+          "term": "teen room",
+          "volume": 747
+        },
+        {
+          "term": "bedroom chair with ottoman",
+          "volume": 712
+        },
+        {
+          "term": "pink apartment essentials",
+          "volume": 691
+        },
+        {
+          "term": "mens apartment decor",
+          "volume": 671
+        },
+        {
+          "term": "ottoman sleeper",
+          "volume": 601
+        },
+        {
+          "term": "apartment couches for living room",
+          "volume": 601
+        },
+        {
+          "term": "teen girl room",
+          "volume": 595
+        },
+        {
+          "term": "bean bag ottoman",
+          "volume": 585
+        },
+        {
+          "term": "mens bedroom",
+          "volume": 580
+        },
+        {
+          "term": "small apartment storage",
+          "volume": 565
+        },
+        {
+          "term": "small dog couch",
+          "volume": 560
+        },
+        {
+          "term": "spiderman bean bag",
+          "volume": 560
+        },
+        {
+          "term": "sleeper ottoman",
+          "volume": 530
+        },
+        {
+          "term": "accent chairs with ottoman",
+          "volume": 515
+        },
+        {
+          "term": "small apartment couch",
+          "volume": 515
+        },
+        {
+          "term": "girls bean bag chair",
+          "volume": 510
+        },
+        {
+          "term": "rv couch replacement",
+          "volume": 494
+        },
+        {
+          "term": "sleeper sofa mattress replacement",
+          "volume": 489
+        },
+        {
+          "term": "teen bean bag chair",
+          "volume": 489
+        },
+        {
+          "term": "tiny homes to live in for adults 2 bedroom",
+          "volume": 474
+        },
+        {
+          "term": "catres para dormir niños",
+          "volume": 474
+        },
+        {
+          "term": "teen bedroom furniture",
+          "volume": 464
+        },
+        {
+          "term": "bean bag chair for teens",
+          "volume": 464
+        },
+        {
+          "term": "teen chair",
+          "volume": 459
+        },
+        {
+          "term": "bean bags for teens",
+          "volume": 454
+        },
+        {
+          "term": "apartment friendly",
+          "volume": 444
+        },
+        {
+          "term": "couch for studio apartment",
+          "volume": 434
+        },
+        {
+          "term": "swivel accent chair with ottoman",
+          "volume": 429
+        },
+        {
+          "term": "couch for apartment living room",
+          "volume": 424
+        },
+        {
+          "term": "teen girl bathroom decor",
+          "volume": 419
+        },
+        {
+          "term": "apartment sofa",
+          "volume": 419
+        },
+        {
+          "term": "couches for apartment living room",
+          "volume": 404
+        },
+        {
+          "term": "small ottoman pouf",
+          "volume": 398
+        },
+        {
+          "term": "tween bedroom decor for girls",
+          "volume": 393
+        },
+        {
+          "term": "ottoman small",
+          "volume": 383
+        },
+        {
+          "term": "black ottoman for bedroom",
+          "volume": 383
+        },
+        {
+          "term": "beds for teens",
+          "volume": 383
+        },
+        {
+          "term": "bedroom must haves for women",
+          "volume": 353
+        },
+        {
+          "term": "teen lounge chair",
+          "volume": 353
+        },
+        {
+          "term": "teen beds",
+          "volume": 338
+        },
+        {
+          "term": "bedroom lounge chair for adults",
+          "volume": 333
+        },
+        {
+          "term": "teen girl bedroom furniture",
+          "volume": 333
+        },
+        {
+          "term": "studio apartment",
+          "volume": 333
+        },
+        {
+          "term": "teen chair for bedroom",
+          "volume": 333
+        },
+        {
+          "term": "balcony couch for apartments",
+          "volume": 308
+        },
+        {
+          "term": "manual reclining loveseat",
+          "volume": 303
+        },
+        {
+          "term": "studio apartment must haves",
+          "volume": 297
+        },
+        {
+          "term": "girls chair for bedroom",
+          "volume": 272
+        },
+        {
+          "term": "small apartment",
+          "volume": 267
+        },
+        {
+          "term": "furniture for apartment",
+          "volume": 257
+        },
+        {
+          "term": "recliner chair with ottoman",
+          "volume": 247
+        },
+        {
+          "term": "couch for living room apartment",
+          "volume": 247
+        },
+        {
+          "term": "teen couch",
+          "volume": 227
+        },
+        {
+          "term": "studio apartment couch",
+          "volume": 222
+        },
+        {
+          "term": "bedroom chair for adults",
+          "volume": 207
+        },
+        {
+          "term": "teenagers bed",
+          "volume": 207
+        },
+        {
+          "term": "childrens couch",
+          "volume": 196
+        },
+        {
+          "term": "small couch for studio apartment",
+          "volume": 196
+        },
+        {
+          "term": "bedroom chair for teens",
+          "volume": 196
+        },
+        {
+          "term": "chair for teen boy room",
+          "volume": 186
+        },
+        {
+          "term": "ottoman sleeper bed",
+          "volume": 186
+        },
+        {
+          "term": "ottoman bed - fold-out bed twin",
+          "volume": 181
+        },
+        {
+          "term": "bedroom essentials for new apartment",
+          "volume": 181
+        },
+        {
+          "term": "apartment living room essentials",
+          "volume": 171
+        },
+        {
+          "term": "bean bag ottoman foot rest",
+          "volume": 166
+        },
+        {
+          "term": "oversized loveseat with ottoman",
+          "volume": 161
+        },
+        {
+          "term": "tall man recliner",
+          "volume": 161
+        },
+        {
+          "term": "sofa for apartment living room",
+          "volume": 161
+        },
+        {
+          "term": "living room apartment essentials",
+          "volume": 161
+        },
+        {
+          "term": "teen room furniture",
+          "volume": 161
+        },
+        {
+          "term": "couches for apartment",
+          "volume": 156
+        },
+        {
+          "term": "couch apartment",
+          "volume": 156
+        },
+        {
+          "term": "mens bedroom furniture",
+          "volume": 151
+        },
+        {
+          "term": "black couches for living room apartment",
+          "volume": 146
+        },
+        {
+          "term": "apartment size sofa",
+          "volume": 146
+        },
+        {
+          "term": "teen lounge furniture",
+          "volume": 146
+        },
+        {
+          "term": "comfy bedroom chairs for adults",
+          "volume": 141
+        },
+        {
+          "term": "small couch for apartment",
+          "volume": 141
+        }
+      ]
+    },
+    "场景": {
+      "主词": [
+        {
+          "term": "bedroom furniture",
+          "volume": 26080,
+          "keyword": "bedroom"
+        },
+        {
+          "term": "colchonetas para dormir en el piso",
+          "volume": 8676,
+          "keyword": "dorm"
+        },
+        {
+          "term": "office furniture",
+          "volume": 8666,
+          "keyword": "office"
+        },
+        {
+          "term": "apartment size couch",
+          "volume": 4813,
+          "keyword": "apartment"
+        },
+        {
+          "term": "studio apartment essentials",
+          "volume": 2803,
+          "keyword": "studio"
+        }
+      ],
+      "副词": [
+        {
+          "term": "bedroom furniture",
+          "volume": 26080,
+          "keyword": "furniture"
+        },
+        {
+          "term": "colchonetas para dormir en el piso",
+          "volume": 8676,
+          "keyword": "sofa"
+        },
+        {
+          "term": "apartment size couch",
+          "volume": 4813,
+          "keyword": "couch"
+        }
+      ],
+      "次副词": [],
+      "长尾词": [
+        {
+          "term": "bedroom furniture",
+          "volume": 26080
+        },
+        {
+          "term": "bedroom chair",
+          "volume": 16499
+        },
+        {
+          "term": "chair for bedroom",
+          "volume": 11838
+        },
+        {
+          "term": "bedroom furniture set",
+          "volume": 10388
+        },
+        {
+          "term": "colchonetas para dormir en el piso",
+          "volume": 8676
+        },
+        {
+          "term": "office furniture",
+          "volume": 8666
+        },
+        {
+          "term": "small couch for bedroom",
+          "volume": 7005
+        },
+        {
+          "term": "dorm",
+          "volume": 6782
+        },
+        {
+          "term": "couch for bedroom",
+          "volume": 5570
+        },
+        {
+          "term": "comfy chair for bedroom",
+          "volume": 5252
+        },
+        {
+          "term": "apartment size couch",
+          "volume": 4813
+        },
+        {
+          "term": "chairs for bedrooms",
+          "volume": 4727
+        },
+        {
+          "term": "lounge chair for bedroom",
+          "volume": 4348
+        },
+        {
+          "term": "bedroom chairs for adults",
+          "volume": 4196
+        },
+        {
+          "term": "apartment",
+          "volume": 4015
+        },
+        {
+          "term": "bedroom couch",
+          "volume": 3873
+        },
+        {
+          "term": "apartment furniture",
+          "volume": 3601
+        },
+        {
+          "term": "office couch",
+          "volume": 3585
+        },
+        {
+          "term": "mini couch for bedroom",
+          "volume": 3383
+        },
+        {
+          "term": "couches for small living room",
+          "volume": 3217
+        },
+        {
+          "term": "sillones para dormitorio",
+          "volume": 2989
+        },
+        {
+          "term": "small chair for bedroom",
+          "volume": 2848
+        },
+        {
+          "term": "small couches for living room",
+          "volume": 2848
+        },
+        {
+          "term": "studio apartment essentials",
+          "volume": 2803
+        },
+        {
+          "term": "office furniture for small spaces",
+          "volume": 2671
+        },
+        {
+          "term": "catres para dormir adultos",
+          "volume": 2499
+        },
+        {
+          "term": "accent chairs for bedroom",
+          "volume": 2358
+        },
+        {
+          "term": "dorm room",
+          "volume": 2282
+        },
+        {
+          "term": "reading chair for bedroom",
+          "volume": 2025
+        },
+        {
+          "term": "bedroom furniture sets",
+          "volume": 1994
+        },
+        {
+          "term": "bedroom chairs",
+          "volume": 1878
+        },
+        {
+          "term": "small bedroom chair",
+          "volume": 1808
+        },
+        {
+          "term": "girls bedroom furniture",
+          "volume": 1772
+        },
+        {
+          "term": "small sectional couches for living room",
+          "volume": 1671
+        },
+        {
+          "term": "bedroom set furniture",
+          "volume": 1651
+        },
+        {
+          "term": "room chairs for bedrooms",
+          "volume": 1585
+        },
+        {
+          "term": "sofa for bedroom",
+          "volume": 1505
+        },
+        {
+          "term": "folding office chair",
+          "volume": 1419
+        },
+        {
+          "term": "small apartment furniture",
+          "volume": 1398
+        },
+        {
+          "term": "couch for small living room",
+          "volume": 1328
+        },
+        {
+          "term": "accent chair for bedroom",
+          "volume": 1318
+        },
+        {
+          "term": "muebles para el dormitorio",
+          "volume": 1318
+        },
+        {
+          "term": "sofa and loveseat sets for living room",
+          "volume": 1303
+        },
+        {
+          "term": "apartment couch",
+          "volume": 1297
+        },
+        {
+          "term": "studio apartment furniture",
+          "volume": 1287
+        },
+        {
+          "term": "bedroom furnitures",
+          "volume": 1262
+        },
+        {
+          "term": "foldable office chair",
+          "volume": 1237
+        },
+        {
+          "term": "bedroom chairs for small rooms",
+          "volume": 1222
+        },
+        {
+          "term": "chairs for bedroom",
+          "volume": 1217
+        },
+        {
+          "term": "couches for living room small",
+          "volume": 1217
+        },
+        {
+          "term": "bedroom must haves",
+          "volume": 1181
+        },
+        {
+          "term": "living room essentials for apartments",
+          "volume": 1176
+        },
+        {
+          "term": "small living room chair",
+          "volume": 1161
+        },
+        {
+          "term": "colchonetas para dormir",
+          "volume": 1151
+        },
+        {
+          "term": "cozy chair for bedroom",
+          "volume": 1126
+        },
+        {
+          "term": "bedroom sofa",
+          "volume": 1101
+        },
+        {
+          "term": "black chair for bedroom",
+          "volume": 1075
+        },
+        {
+          "term": "pink chair for bedroom",
+          "volume": 1065
+        },
+        {
+          "term": "comfortable chair for bedroom",
+          "volume": 1055
+        },
+        {
+          "term": "office couch for small space",
+          "volume": 1030
+        },
+        {
+          "term": "office sofa",
+          "volume": 1010
+        },
+        {
+          "term": "bedroom lounge chair",
+          "volume": 994
+        },
+        {
+          "term": "furniture for bedroom",
+          "volume": 979
+        },
+        {
+          "term": "dorm chair",
+          "volume": 974
+        },
+        {
+          "term": "small office couch",
+          "volume": 969
+        },
+        {
+          "term": "king size bedroom sets furniture 5 piece",
+          "volume": 949
+        },
+        {
+          "term": "small sofa for bedroom",
+          "volume": 944
+        },
+        {
+          "term": "corner chairs for bedroom",
+          "volume": 944
+        },
+        {
+          "term": "black bedroom furniture",
+          "volume": 944
+        },
+        {
+          "term": "sofacamas para dormir",
+          "volume": 944
+        },
+        {
+          "term": "dormeo",
+          "volume": 919
+        },
+        {
+          "term": "office furniture set",
+          "volume": 914
+        },
+        {
+          "term": "boneless couch for bedroom",
+          "volume": 909
+        },
+        {
+          "term": "couch for apartment",
+          "volume": 904
+        },
+        {
+          "term": "small couch for office",
+          "volume": 904
+        },
+        {
+          "term": "chair bedroom",
+          "volume": 898
+        },
+        {
+          "term": "couch for office",
+          "volume": 868
+        },
+        {
+          "term": "outdoor futon",
+          "volume": 858
+        },
+        {
+          "term": "apartment essentials for bedroom",
+          "volume": 828
+        },
+        {
+          "term": "office lounge chair",
+          "volume": 808
+        },
+        {
+          "term": "couches for bedrooms",
+          "volume": 803
+        },
+        {
+          "term": "mini sofa for bedroom",
+          "volume": 803
+        },
+        {
+          "term": "accent chair for office",
+          "volume": 792
+        },
+        {
+          "term": "bedroom ottoman",
+          "volume": 787
+        },
+        {
+          "term": "apartment needs",
+          "volume": 767
+        },
+        {
+          "term": "small living room furniture",
+          "volume": 767
+        },
+        {
+          "term": "dorm couch",
+          "volume": 757
+        },
+        {
+          "term": "living room furniture for apartment",
+          "volume": 747
+        },
+        {
+          "term": "small chairs for living room",
+          "volume": 737
+        },
+        {
+          "term": "bedroom accent chairs",
+          "volume": 727
+        },
+        {
+          "term": "small bedroom couch",
+          "volume": 722
+        },
+        {
+          "term": "bedroom chair with ottoman",
+          "volume": 712
+        },
+        {
+          "term": "bedroom beds",
+          "volume": 696
+        },
+        {
+          "term": "pink apartment essentials",
+          "volume": 691
+        },
+        {
+          "term": "colchoneta para dormir",
+          "volume": 691
+        },
+        {
+          "term": "bedroom chair comfy",
+          "volume": 681
+        },
+        {
+          "term": "office accent chair",
+          "volume": 681
+        },
+        {
+          "term": "mens apartment decor",
+          "volume": 671
+        },
+        {
+          "term": "loveseats for small living rooms",
+          "volume": 671
+        },
+        {
+          "term": "master bedroom furniture",
+          "volume": 666
+        }
+      ]
+    },
+    "尺码": {
+      "主词": [
+        {
+          "term": "loveseat",
+          "volume": 32999,
+          "keyword": "loveseat"
+        },
+        {
+          "term": "small couch",
+          "volume": 24156,
+          "keyword": "small"
+        },
+        {
+          "term": "day bed with trundle bed twin",
+          "volume": 8651,
+          "keyword": "twin"
+        },
+        {
+          "term": "mini couch",
+          "volume": 7868,
+          "keyword": "mini"
+        },
+        {
+          "term": "single mattress",
+          "volume": 3691,
+          "keyword": "single"
+        },
+        {
+          "term": "2 seater couch",
+          "volume": 2297,
+          "keyword": "2 seater"
+        },
+        {
+          "term": "tiny home to live in",
+          "volume": 1171,
+          "keyword": "tiny"
+        },
+        {
+          "term": "compact loveseats small spaces",
+          "volume": 1050,
+          "keyword": "compact"
+        },
+        {
+          "term": "double cots for camping 2 person",
+          "volume": 530,
+          "keyword": "2 person"
+        }
+      ],
+      "副词": [
+        {
+          "term": "loveseat",
+          "volume": 32999,
+          "keyword": "loveseat"
+        },
+        {
+          "term": "small couch",
+          "volume": 24156,
+          "keyword": "couch"
+        },
+        {
+          "term": "day bed with trundle bed twin",
+          "volume": 8651,
+          "keyword": "sofa"
+        }
+      ],
+      "次副词": [],
+      "长尾词": [
+        {
+          "term": "loveseat",
+          "volume": 32999
+        },
+        {
+          "term": "small couch",
+          "volume": 24156
+        },
+        {
+          "term": "loveseat covers",
+          "volume": 11560
+        },
+        {
+          "term": "boneless loveseat",
+          "volume": 9782
+        },
+        {
+          "term": "loveseat sofa",
+          "volume": 9398
+        },
+        {
+          "term": "day bed with trundle bed twin",
+          "volume": 8651
+        },
+        {
+          "term": "mini couch",
+          "volume": 7868
+        },
+        {
+          "term": "twin daybed",
+          "volume": 7797
+        },
+        {
+          "term": "small sectional couch",
+          "volume": 7787
+        },
+        {
+          "term": "small couch for bedroom",
+          "volume": 7005
+        },
+        {
+          "term": "loveseat recliner",
+          "volume": 6939
+        },
+        {
+          "term": "twin floor bed",
+          "volume": 6843
+        },
+        {
+          "term": "small sofa",
+          "volume": 6686
+        },
+        {
+          "term": "reclining loveseat",
+          "volume": 6015
+        },
+        {
+          "term": "small recliners for small spaces",
+          "volume": 5621
+        },
+        {
+          "term": "small space furniture",
+          "volume": 5207
+        },
+        {
+          "term": "murphy bed twin",
+          "volume": 5005
+        },
+        {
+          "term": "small couches for small spaces",
+          "volume": 4303
+        },
+        {
+          "term": "couch and loveseat sets",
+          "volume": 4181
+        },
+        {
+          "term": "small chair",
+          "volume": 3984
+        },
+        {
+          "term": "twin murphy bed",
+          "volume": 3873
+        },
+        {
+          "term": "single mattress",
+          "volume": 3691
+        },
+        {
+          "term": "small recliner",
+          "volume": 3510
+        },
+        {
+          "term": "mini couch for bedroom",
+          "volume": 3383
+        },
+        {
+          "term": "small loveseat",
+          "volume": 3287
+        },
+        {
+          "term": "single bed",
+          "volume": 3242
+        },
+        {
+          "term": "couches for small living room",
+          "volume": 3217
+        },
+        {
+          "term": "small accent chair",
+          "volume": 3126
+        },
+        {
+          "term": "twin daybed with trundle",
+          "volume": 3116
+        },
+        {
+          "term": "loveseat sleeper sofa",
+          "volume": 3025
+        },
+        {
+          "term": "small couches for living room",
+          "volume": 2848
+        },
+        {
+          "term": "small chair for bedroom",
+          "volume": 2848
+        },
+        {
+          "term": "loveseat sofa bed",
+          "volume": 2838
+        },
+        {
+          "term": "twin day bed",
+          "volume": 2737
+        },
+        {
+          "term": "office furniture for small spaces",
+          "volume": 2671
+        },
+        {
+          "term": "small folding chair",
+          "volume": 2626
+        },
+        {
+          "term": "small sofa bed",
+          "volume": 2590
+        },
+        {
+          "term": "twin floor bed frame",
+          "volume": 2535
+        },
+        {
+          "term": "recliner loveseat",
+          "volume": 2499
+        },
+        {
+          "term": "small futon",
+          "volume": 2419
+        },
+        {
+          "term": "twin to king daybed",
+          "volume": 2373
+        },
+        {
+          "term": "mini cloud couch",
+          "volume": 2303
+        },
+        {
+          "term": "2 seater couch",
+          "volume": 2297
+        },
+        {
+          "term": "small bed",
+          "volume": 2262
+        },
+        {
+          "term": "floor bed twin",
+          "volume": 2196
+        },
+        {
+          "term": "boneless couch small",
+          "volume": 2191
+        },
+        {
+          "term": "sleeper loveseat",
+          "volume": 2176
+        },
+        {
+          "term": "single sofa",
+          "volume": 2176
+        },
+        {
+          "term": "leather loveseat",
+          "volume": 2126
+        },
+        {
+          "term": "sofa and loveseat set",
+          "volume": 2126
+        },
+        {
+          "term": "mini sofa",
+          "volume": 2025
+        },
+        {
+          "term": "foldable mattress twin",
+          "volume": 2025
+        },
+        {
+          "term": "single sofa bed",
+          "volume": 2015
+        },
+        {
+          "term": "small sectional",
+          "volume": 1994
+        },
+        {
+          "term": "single couch",
+          "volume": 1959
+        },
+        {
+          "term": "small boneless couch",
+          "volume": 1954
+        },
+        {
+          "term": "folding mattress twin",
+          "volume": 1929
+        },
+        {
+          "term": "small loveseat for small spaces",
+          "volume": 1873
+        },
+        {
+          "term": "couch for small spaces",
+          "volume": 1843
+        },
+        {
+          "term": "cloud loveseat",
+          "volume": 1813
+        },
+        {
+          "term": "small bedroom chair",
+          "volume": 1808
+        },
+        {
+          "term": "small l shaped couch",
+          "volume": 1792
+        },
+        {
+          "term": "small sofas for small spaces",
+          "volume": 1737
+        },
+        {
+          "term": "loveseat sleeper",
+          "volume": 1727
+        },
+        {
+          "term": "loveseat couch",
+          "volume": 1691
+        },
+        {
+          "term": "loveseats",
+          "volume": 1676
+        },
+        {
+          "term": "sofa bed twin",
+          "volume": 1676
+        },
+        {
+          "term": "small sectional couches for living room",
+          "volume": 1671
+        },
+        {
+          "term": "small bean bag chair",
+          "volume": 1595
+        },
+        {
+          "term": "small chairs for small spaces",
+          "volume": 1570
+        },
+        {
+          "term": "couch small",
+          "volume": 1565
+        },
+        {
+          "term": "twin cot",
+          "volume": 1479
+        },
+        {
+          "term": "twin size floor bed",
+          "volume": 1459
+        },
+        {
+          "term": "comfy chair for small spaces",
+          "volume": 1409
+        },
+        {
+          "term": "small apartment furniture",
+          "volume": 1398
+        },
+        {
+          "term": "twin sofa bed",
+          "volume": 1398
+        },
+        {
+          "term": "couch for small living room",
+          "volume": 1328
+        },
+        {
+          "term": "black loveseat",
+          "volume": 1318
+        },
+        {
+          "term": "small couches",
+          "volume": 1313
+        },
+        {
+          "term": "sofa and loveseat sets for living room",
+          "volume": 1303
+        },
+        {
+          "term": "double recliner",
+          "volume": 1292
+        },
+        {
+          "term": "cloud couch loveseat",
+          "volume": 1287
+        },
+        {
+          "term": "single bed mattress",
+          "volume": 1252
+        },
+        {
+          "term": "bedroom chairs for small rooms",
+          "volume": 1222
+        },
+        {
+          "term": "couches for living room small",
+          "volume": 1217
+        },
+        {
+          "term": "loveseat with ottoman",
+          "volume": 1191
+        },
+        {
+          "term": "tiny home to live in",
+          "volume": 1171
+        },
+        {
+          "term": "small living room chair",
+          "volume": 1161
+        },
+        {
+          "term": "twin folding mattress",
+          "volume": 1141
+        },
+        {
+          "term": "pink loveseat",
+          "volume": 1126
+        },
+        {
+          "term": "matching sofa and loveseat set",
+          "volume": 1126
+        },
+        {
+          "term": "mini furniture",
+          "volume": 1106
+        },
+        {
+          "term": "small sleeper sofa",
+          "volume": 1106
+        },
+        {
+          "term": "sofa cama twin",
+          "volume": 1106
+        },
+        {
+          "term": "furniture for small spaces",
+          "volume": 1101
+        },
+        {
+          "term": "small houses to live in for adults",
+          "volume": 1101
+        },
+        {
+          "term": "day bed twin",
+          "volume": 1080
+        },
+        {
+          "term": "green loveseat",
+          "volume": 1075
+        },
+        {
+          "term": "small pull out couch",
+          "volume": 1075
+        },
+        {
+          "term": "small foldable chair",
+          "volume": 1075
+        }
+      ]
+    },
+    "款式": {
+      "主词": [
+        {
+          "term": "futon",
+          "volume": 89933,
+          "keyword": "futon"
+        },
+        {
+          "term": "sleeper sofa",
+          "volume": 33893,
+          "keyword": "sleeper"
+        },
+        {
+          "term": "loveseat",
+          "volume": 32999,
+          "keyword": "loveseat"
+        },
+        {
+          "term": "recliners",
+          "volume": 11217,
+          "keyword": "recliner"
+        }
+      ],
+      "副词": [
+        {
+          "term": "futon",
+          "volume": 89933,
+          "keyword": "sofa"
+        }
+      ],
+      "次副词": [],
+      "长尾词": [
+        {
+          "term": "futon",
+          "volume": 89933
+        },
+        {
+          "term": "futon sofa bed",
+          "volume": 66993
+        },
+        {
+          "term": "sleeper sofa",
+          "volume": 33893
+        },
+        {
+          "term": "loveseat",
+          "volume": 32999
+        },
+        {
+          "term": "sleeper chair",
+          "volume": 21267
+        },
+        {
+          "term": "futon couch",
+          "volume": 19252
+        },
+        {
+          "term": "futon mattress",
+          "volume": 18616
+        },
+        {
+          "term": "loveseat covers",
+          "volume": 11560
+        },
+        {
+          "term": "recliners",
+          "volume": 11217
+        },
+        {
+          "term": "boneless loveseat",
+          "volume": 9782
+        },
+        {
+          "term": "futon bed",
+          "volume": 9494
+        },
+        {
+          "term": "loveseat sofa",
+          "volume": 9398
+        },
+        {
+          "term": "small sectional couch",
+          "volume": 7787
+        },
+        {
+          "term": "loveseat recliner",
+          "volume": 6939
+        },
+        {
+          "term": "sleeper chair pull out bed",
+          "volume": 6095
+        },
+        {
+          "term": "reclining loveseat",
+          "volume": 6015
+        },
+        {
+          "term": "sleeper couch",
+          "volume": 5999
+        },
+        {
+          "term": "small recliners for small spaces",
+          "volume": 5621
+        },
+        {
+          "term": "futons",
+          "volume": 5555
+        },
+        {
+          "term": "recliner sofa",
+          "volume": 4767
+        },
+        {
+          "term": "japanese futon",
+          "volume": 4570
+        },
+        {
+          "term": "sleeper sofas convertible couches",
+          "volume": 4494
+        },
+        {
+          "term": "convertible sleeper chair",
+          "volume": 4464
+        },
+        {
+          "term": "recliner couch",
+          "volume": 4414
+        },
+        {
+          "term": "sofa sleeper",
+          "volume": 4262
+        },
+        {
+          "term": "couch and loveseat sets",
+          "volume": 4181
+        },
+        {
+          "term": "futon frame",
+          "volume": 4151
+        },
+        {
+          "term": "small recliner",
+          "volume": 3510
+        },
+        {
+          "term": "small loveseat",
+          "volume": 3287
+        },
+        {
+          "term": "loveseat sleeper sofa",
+          "volume": 3025
+        },
+        {
+          "term": "futon sofa",
+          "volume": 3015
+        },
+        {
+          "term": "love seat sleeper bed",
+          "volume": 2919
+        },
+        {
+          "term": "loveseat sofa bed",
+          "volume": 2838
+        },
+        {
+          "term": "futon chair",
+          "volume": 2833
+        },
+        {
+          "term": "recliner loveseat",
+          "volume": 2499
+        },
+        {
+          "term": "sleeper sofa bed",
+          "volume": 2459
+        },
+        {
+          "term": "small futon",
+          "volume": 2419
+        },
+        {
+          "term": "sleeper couches",
+          "volume": 2196
+        },
+        {
+          "term": "sleeper loveseat",
+          "volume": 2176
+        },
+        {
+          "term": "leather loveseat",
+          "volume": 2126
+        },
+        {
+          "term": "sofa and loveseat set",
+          "volume": 2126
+        },
+        {
+          "term": "modern accent chair",
+          "volume": 2015
+        },
+        {
+          "term": "small sectional",
+          "volume": 1994
+        },
+        {
+          "term": "black recliner",
+          "volume": 1949
+        },
+        {
+          "term": "small loveseat for small spaces",
+          "volume": 1873
+        },
+        {
+          "term": "futon bed with mattress included",
+          "volume": 1833
+        },
+        {
+          "term": "cloud loveseat",
+          "volume": 1813
+        },
+        {
+          "term": "small l shaped couch",
+          "volume": 1792
+        },
+        {
+          "term": "loveseat sleeper",
+          "volume": 1727
+        },
+        {
+          "term": "leather futon",
+          "volume": 1712
+        },
+        {
+          "term": "loveseat couch",
+          "volume": 1691
+        },
+        {
+          "term": "loveseats",
+          "volume": 1676
+        },
+        {
+          "term": "small sectional couches for living room",
+          "volume": 1671
+        },
+        {
+          "term": "black futon",
+          "volume": 1626
+        },
+        {
+          "term": "sofa recliner",
+          "volume": 1626
+        },
+        {
+          "term": "pink futon",
+          "volume": 1565
+        },
+        {
+          "term": "sofa sleeper couch",
+          "volume": 1510
+        },
+        {
+          "term": "futon couch bed",
+          "volume": 1499
+        },
+        {
+          "term": "sleeper",
+          "volume": 1469
+        },
+        {
+          "term": "futon frame only",
+          "volume": 1409
+        },
+        {
+          "term": "futons sofa/bed clearance",
+          "volume": 1398
+        },
+        {
+          "term": "floor futon",
+          "volume": 1378
+        },
+        {
+          "term": "mid century modern accent chair",
+          "volume": 1363
+        },
+        {
+          "term": "black loveseat",
+          "volume": 1318
+        },
+        {
+          "term": "sofa and loveseat sets for living room",
+          "volume": 1303
+        },
+        {
+          "term": "convertible sleeper sofa",
+          "volume": 1303
+        },
+        {
+          "term": "double recliner",
+          "volume": 1292
+        },
+        {
+          "term": "futon bunk bed",
+          "volume": 1287
+        },
+        {
+          "term": "cloud couch loveseat",
+          "volume": 1287
+        },
+        {
+          "term": "futon mattresses",
+          "volume": 1247
+        },
+        {
+          "term": "recliner table",
+          "volume": 1227
+        },
+        {
+          "term": "love seat recliner sofa",
+          "volume": 1222
+        },
+        {
+          "term": "loveseat with ottoman",
+          "volume": 1191
+        },
+        {
+          "term": "co sleeper",
+          "volume": 1186
+        },
+        {
+          "term": "couch recliner",
+          "volume": 1181
+        },
+        {
+          "term": "convertable sleeper chair",
+          "volume": 1171
+        },
+        {
+          "term": "rv sofa sleeper",
+          "volume": 1156
+        },
+        {
+          "term": "futon'",
+          "volume": 1131
+        },
+        {
+          "term": "pink loveseat",
+          "volume": 1126
+        },
+        {
+          "term": "matching sofa and loveseat set",
+          "volume": 1126
+        },
+        {
+          "term": "love seat recliner",
+          "volume": 1126
+        },
+        {
+          "term": "small sleeper sofa",
+          "volume": 1106
+        },
+        {
+          "term": "futon frame and mattress set",
+          "volume": 1075
+        },
+        {
+          "term": "green loveseat",
+          "volume": 1075
+        },
+        {
+          "term": "compact loveseats small spaces",
+          "volume": 1050
+        },
+        {
+          "term": "rv recliners wall hugger",
+          "volume": 1025
+        },
+        {
+          "term": "sleeper sofa with storage",
+          "volume": 1020
+        },
+        {
+          "term": "kelty loveseat",
+          "volume": 1010
+        },
+        {
+          "term": "power reclining loveseat",
+          "volume": 999
+        },
+        {
+          "term": "double recliner loveseat",
+          "volume": 989
+        },
+        {
+          "term": "sleeper chairs",
+          "volume": 984
+        },
+        {
+          "term": "velvet loveseat",
+          "volume": 959
+        },
+        {
+          "term": "corner chairs for bedroom",
+          "volume": 944
+        },
+        {
+          "term": "couch with recliner",
+          "volume": 929
+        },
+        {
+          "term": "small sectional sofa",
+          "volume": 929
+        },
+        {
+          "term": "3-in-1 convertible sleeper sofa bed",
+          "volume": 919
+        },
+        {
+          "term": "wall hugger reclining loveseat",
+          "volume": 914
+        },
+        {
+          "term": "pull out loveseat",
+          "volume": 909
+        },
+        {
+          "term": "oversized loveseat",
+          "volume": 909
+        },
+        {
+          "term": "recliners for small spaces",
+          "volume": 898
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "data-analysis": {
+      "version": "1.0.0",
+      "installedAt": 1772802257723
+    },
+    "qiushi": {
+      "version": "1.0.0",
+      "installedAt": 1775660930158
+    }
+  }
+}

@@ -1,0 +1,264 @@
+#!/bin/bash
+# Amazon 趋势分析运行脚本
+cd /root/.openclaw/workspace
+
+# 先运行爬虫
+echo "$(date '+%Y-%m-%d %H:%M:%S') - 开始爬取数据..."
+python3 scripts/amazon_monitor.py
+
+# 运行趋势分析
+echo ""
+echo "$(date '+%Y-%m-%d %H:%M:%S') - 开始趋势分析..."
+python3 scripts/amazon_trend_analyzer.py
+
+echo ""
+echo "完成！趋势报告已生成。"
+port datetime, timedelta
+from collections import defaultdict
+from pathlib import Path
+
+DATA_DIR = "/root/.openclaw/workspace/data/amazon_monitor"
+OUTPUT_DIR = "/root/.openclaw/workspace/data/amazon_insights"
+
+class TrendAnalyzer:
+    def __init__(self):
+        self.data_files = self._load_all_data()
+        self.insights = {
+            "rising_stars": [],      # 上升新星
+            "falling_warnings": [],   # 衰退预警
+            "new_entrants": [],       # 新进入者
+            "price_changes": [],      # 价格异动
+            "trending_features": {},  # 热门特征
+            "seasonal_signals": {}    # 季节性信号
+        }
+    
+    def _load_all_data(self):
+        """加载所有历史数据"""
+        files = {}
+        for f in os.listdir(DATA_DIR):
+            if f.endswith('.json') and not f.startswith('changes_'):
+                parts = f.replace('.json', '').split('_')
+                if len(parts) >= 3:
+                    category, list_type, date = parts[0], parts[1], parts[2]
+                    key = f"{category}_{list_type}"
+                    if key not in files:
+                        files[key] = []
+                    filepath = os.path.join(DATA_DIR, f)
+                    with open(filepath, 'r') as fp:
+                        data = json.load(fp)
+                        files[key].append({
+                            "date": date,
+                            "data": data
+                        })
+        # 按日期排序
+        for key in files:
+            files[key].sort(key=lambda x: x["date"])
+        return files
+    
+    def analyze_trends(self, days_back=14):
+        """分析趋势"""
+        cutoff_date = (datetime.now() - timedelta(days=days_back)).strftime("%Y-%m-%d")
+        
+        for key, history in self.data_files.items():
+            category, list_type = key.split('_')
+            if len(history) < 2:
+                continue
+            
+            recent_history = [h for h in history if h["date"] >= cutoff_date]
+            if len(recent_history) < 2:
+                recent_history = history[-7:] if len(history) >= 7 else history
+            
+            self._analyze_ranking_trends(recent_history, category, list_type)
+            self._analyze_price_trends(recent_history, category, list_type)
+            self._extract_feature_trends(recent_history, category, list_type)
+        
+        return self.insights
+    
+    def _analyze_ranking_trends(self, history, category, list_type):
+        """分析排名趋势"""
+        asin_history = defaultdict(lambda: {"ranks": [], "titles": []})
+        
+        for entry in history:
+            for product in entry["data"]:
+                asin = product.get("asin")
+                if not asin:
+                    continue
+                asin_history[asin]["ranks"].append(product.get("rank", 999))
+                asin_history[asin]["titles"].append(product.get("title", ""))
+        
+        for asin, data in asin_history.items():
+            if len(data["ranks"]) < 2:
+                continue
+            
+            first_rank = data["ranks"][0]
+            last_rank = data["ranks"][-1]
+            rank_change = first_rank - last_rank
+            change_pct = (rank_change / first_rank) * 100 if first_rank > 0 else 0
+            
+            title = data["titles"][-1][:60] + "..." if len(data["titles"][-1]) > 60 else data["titles"][-1]
+            
+            # 上升新星：排名提升超过30%且目前在TOP 30
+            if change_pct > 30 and last_rank <= 30:
+                self.insights["rising_stars"].append({
+                    "asin": asin, "title": title, "category": category,
+                    "list_type": list_type, "old_rank": first_rank,
+                    "new_rank": last_rank, "change_pct": round(change_pct, 1)
+                })
+            
+            # 衰退预警：排名下降超过30%且目前在50名以后
+            elif change_pct < -30 and last_rank > 50:
+                self.insights["falling_warnings"].append({
+                    "asin": asin, "title": title, "category": category,
+                    "list_type": list_type, "old_rank": first_rank,
+                    "new_rank": last_rank, "change_pct": round(abs(change_pct), 1)
+                })
+    
+    def _analyze_price_trends(self, history, category, list_type):
+        """分析价格异动"""
+        asin_prices = defaultdict(lambda: {"prices": [], "titles": []})
+        
+        for entry in history:
+            for product in entry["data"]:
+                asin = product.get("asin")
+                price_str = product.get("price", "")
+                if not asin or not price_str:
+                    continue
+                
+                price_match = re.search(r'[\d,]+\.?\d*', price_str.replace(',', ''))
+                if price_match:
+                    try:
+                        price = float(price_match.group())
+                        asin_prices[asin]["prices"].append(price)
+                        asin_prices[asin]["titles"].append(product.get("title", ""))
+                    except:
+                        pass
+        
+        for asin, data in asin_prices.items():
+            if len(data["prices"]) < 2:
+                continue
+            
+            first_price = data["prices"][0]
+            last_price = data["prices"][-1]
+            price_change_pct = ((last_price - first_price) / first_price) * 100
+            
+            if abs(price_change_pct) > 20:
+                title = data["titles"][-1][:50] if data["titles"] else ""
+                self.insights["price_changes"].append({
+                    "asin": asin, "title": title, "category": category,
+                    "list_type": list_type, "old_price": first_price,
+                    "new_price": last_price, "change_pct": round(price_change_pct, 1),
+                    "direction": "降价" if price_change_pct < 0 else "涨价"
+                })
+    
+    def _extract_feature_trends(self, history, category, list_type):
+        """提取热门特征"""
+        features = {
+            "材质": ["leather", "velvet", "linen", "fabric", "microfiber", "chenille", 
+                   "faux leather", "pu leather", "boucle", "corduroy", "suede"],
+            "款式": ["sectional", "modular", "chesterfield", "mid-century", "modern", 
+                    "contemporary", "traditional", "tufted", "l-shaped", "u-shaped"],
+            "功能": ["sleeper", "convertible", "reclining", "recliner", "storage", 
+                    "ottoman", "adjustable", "folding", "bed"]
+        }
+        
+        feature_counts = defaultdict(lambda: defaultdict(int))
+        
+        for entry in history[-3:]:
+            for product in entry["data"]:
+                title = product.get("title", "").lower()
+                rank = product.get("rank", 999)
+                weight = max(1, 101 - rank)
+                
+                for feature_type, keywords in features.items():
+                    for keyword in keywords:
+                        if keyword in title:
+                            feature_counts[feature_type][keyword] += weight
+        
+        key_name = f"{category}_{list_type}"
+        self.insights["trending_features"][key_name] = dict(feature_counts)
+    
+    def generate_report(self):
+        """生成报告"""
+        lines = []
+        today = datetime.now().strftime("%Y-%m-%d")
+        
+        lines.append("# 亚马逊趋势洞察报告")
+        lines.append(f"生成时间: {today} | 分析周期: 最近14天")
+        lines.append("")
+        
+        # 上升新星
+        lines.append("## 上升新星（排名提升>30%）")
+        if self.insights["rising_stars"]:
+            for item in sorted(self.insights["rising_stars"], 
+                              key=lambda x: x["change_pct"], reverse=True)[:10]:
+                lines.append(f"- #{item['new_rank']} {item['title'][:45]} | "
+                           f"{item['category']} | 提升{item['change_pct']}%")
+        else:
+            lines.append("*暂无显著上升趋势*")
+        lines.append("")
+        
+        # 衰退预警
+        lines.append("## 衰退预警（排名下滑>30%）")
+        if self.insights["falling_warnings"]:
+            for item in sorted(self.insights["falling_warnings"],
+                              key=lambda x: x["change_pct"], reverse=True)[:10]:
+                lines.append(f"- #{item['new_rank']} {item['title'][:45]} | "
+                           f"{item['category']} | 下滑{item['change_pct']}%")
+        else:
+            lines.append("*暂无显著下降趋势*")
+        lines.append("")
+        
+        # 价格异动
+        lines.append("## 价格异动（变化>20%）")
+        if self.insights["price_changes"]:
+            for item in sorted(self.insights["price_changes"],
+                              key=lambda x: abs(x["change_pct"]), reverse=True)[:10]:
+                lines.append(f"- {item['direction']} ${item['old_price']:.0f}→${item['new_price']:.0f} | "
+                           f"{item['title'][:40]}")
+        else:
+            lines.append("*暂无显著价格变动*")
+        lines.append("")
+        
+        # 热门特征
+        lines.append("## 热门特征趋势")
+        for key, features in self.insights["trending_features"].items():
+            lines.append(f"### {key}")
+            for feature_type, counts in features.items():
+                if counts:
+                    top = sorted(counts.items(), key=lambda x: x[1], reverse=True)[:5]
+                    lines.append(f"- {feature_type}: {', '.join([f'{k}({v})' for k,v in top])}")
+            lines.append("")
+        
+        return "\n".join(lines)
+    
+    def save_insights(self):
+        """保存洞察"""
+        os.makedirs(OUTPUT_DIR, exist_ok=True)
+        today = datetime.now().strftime("%Y-%m-%d")
+        
+        json_path = os.path.join(OUTPUT_DIR, f"insights_{today}.json")
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(self.insights, f, ensure_ascii=False, indent=2)
+        
+        report = self.generate_report()
+        md_path = os.path.join(OUTPUT_DIR, f"report_{today}.md")
+        with open(md_path, 'w', encoding='utf-8') as f:
+            f.write(report)
+        
+        return json_path, md_path
+
+
+def main():
+    print("Amazon 趋势分析器启动...")
+    analyzer = TrendAnalyzer()
+    analyzer.analyze_trends()
+    json_path, md_path = analyzer.save_insights()
+    print(f"分析完成！")
+    print(f"数据: {json_path}")
+    print(f"报告: {md_path}")
+    print("\n" + "="*50)
+    print(analyzer.generate_report())
+
+
+if __name__ == "__main__":
+    main()

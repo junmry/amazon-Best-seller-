@@ -1,0 +1,101 @@
+# Dining Sets 埋词词库（纯词版）
+# 生成日期: 2026-03-09
+# 用途: 直接复制到Listing中埋词使用
+
+================================================================================
+一、核心关键词（必埋）
+================================================================================
+dining, patio, table, outdoor, chairs, set, furniture, garden, piece, seater
+
+================================================================================
+二、产品类型词
+================================================================================
+dining, patio, table, outdoor, chairs, sets, furniture, chair, garden, piece, tabletop, pieces, seating, indoor, outdoors, tables, armchairs
+
+================================================================================
+三、材质词
+================================================================================
+wood, hdpe, metal, steel, rattan, fabric, cushions, acacia, aluminum, textilene, cushion, glass, wicker, tempered, slatted, teak, cushioned, woodgrain, polyethylene, wooden, wood-grain, wood-like, plastic
+
+================================================================================
+四、颜色词
+================================================================================
+black, natural, brown, grey, gray, white, beige, blue, navy, purple, bronze, red, walnut, green, silver
+
+================================================================================
+五、尺寸/数量词
+================================================================================
+seat, square, large, round, rectangular, inch, extra, seats, extended, small, compact, inches, extendable
+
+================================================================================
+六、场景/用途词
+================================================================================
+backyard, deck, family, lawn, gatherings, meals, porch, friends, yard, balcony, gathering, party, dinners, dinner, meal, courtyard, terraces, camping
+
+================================================================================
+七、功能/特性词
+================================================================================
+umbrella, hole, easy, space, weather, assembly, durable, sturdy, maintenance, rust, all-weather, resistant, ergonomic, stackable, clean, storage, cleaning, removable, installation, weather-resistant, waterproof, folding, saving, low-maintenance, fade, space-saving, rust-resistant
+
+================================================================================
+八、风格词
+================================================================================
+modern, elegant, stylish, simple, aesthetic, classic, beautiful, traditional, contemporary, farmhouse, industrial, minimalist
+
+================================================================================
+九、长尾关键词（用于Search Terms）
+================================================================================
+outdoor dining set
+patio dining table
+patio dining set
+dining table set
+outdoor table and chairs
+patio table and chairs
+garden dining set
+patio furniture dining set
+outdoor dining table
+7 piece dining set
+5 piece patio set
+acacia wood dining table
+metal outdoor dining set
+wicker patio dining set
+HDPE outdoor furniture
+tempered glass table
+folding patio dining set
+all weather dining set
+umbrella hole table
+stackable patio chairs
+outdoor dining furniture
+patio dining furniture
+garden table and chairs
+deck dining set
+lawn dining set
+
+================================================================================
+十、后端搜索词（Backend Search Terms - 每行250字符以内）
+================================================================================
+outdoor dining furniture patio set table chairs garden deck backyard lawn porch balcony
+acacia wood teak metal steel aluminum rattan wicker HDPE polyethylene plastic resin weather resistant
+tempered glass tabletop slatted wooden surface 7 piece 5 piece 9 piece seater seating set
+umbrella hole cut out shade sun protection folding stackable space saving compact storage
+modern elegant classic contemporary farmhouse durable sturdy stable rust proof fade resistant
+easy assembly installation low maintenance family friendly comfortable ergonomic cushioned gathering
+
+================================================================================
+十一、标题埋词公式
+================================================================================
+[品牌] + [Piece数量] + [材质] + [核心产品] + [关键功能] + [适用场景]
+
+示例:
+SERWALL 7-Piece HDPE Outdoor Dining Table Set with Umbrella Hole for Patio Garden
+Devoko 5-Piece Acacia Wood Patio Dining Set Modern Style with Tempered Glass Table
+Backyard 6-Piece Dining Set Metal Frame All-Weather Resistant with Cushions for Family
+
+================================================================================
+十二、五点描述埋词建议
+================================================================================
+Bullet 1 - 规格: 7-piece, dining table, 6 chairs, 66-inch, rectangular tabletop
+Bullet 2 - 材质: solid acacia wood, HDPE tabletop, tempered glass, powder-coated steel frame
+Bullet 3 - 功能: umbrella hole cut-out, weather-resistant, all-weather use, fade-resistant
+Bullet 4 - 场景: perfect for patio, garden, backyard gatherings, family dining, outdoor
+Bullet 5 - 服务: easy assembly, low maintenance, durable construction, sturdy, customer service

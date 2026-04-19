@@ -1,0 +1,23 @@
+{
+  "profile": {
+    "height_cm": 182,
+    "gender": "male",
+    "dietary_restrictions": ["no_spicy"],
+    "preferences": [],
+    "goal": "maintain"
+  },
+  "weight_records": [],
+  "nutrition_stats": {
+    "daily_intake": {},
+    "weekly_avg": {},
+    "deficiency_tracking": {
+      "protein": {"target_g": 120, "avg_intake_g": 0, "status": "unknown"},
+      "fiber": {"target_g": 30, "avg_intake_g": 0, "status": "unknown"},
+      "vitamin_c": {"target_mg": 100, "avg_intake_mg": 0, "status": "unknown"},
+      "calcium": {"target_mg": 800, "avg_intake_mg": 0, "status": "unknown"},
+      "iron": {"target_mg": 12, "avg_intake_mg": 0, "status": "unknown"}
+    }
+  },
+  "meal_logs": {},
+  "recommendation_history": []
+}

@@ -1,0 +1,145 @@
+# Dining Sets 亚马逊埋词词库
+# 用途: 用于AI生成Listing时的关键词嵌入参考
+# 数据来源: 亚马逊Top 100 Dining Sets产品分析
+# 生成日期: 2026-03-09
+
+======================================================================
+
+## 一、核心关键词（标题必须包含）
+
+```
+dining, patio, table, outdoor, chairs, set, furniture, garden, piece
+```
+
+## 二、产品类型词
+
+```
+dining, patio, table, outdoor, chairs, sets, furniture, chair, garden, piece, tabletop, comfortable, pieces, seating, suitable
+```
+
+## 三、材质词
+
+```
+wood, hdpe, metal, steel, rattan, fabric, cushions, acacia, aluminum, textilene, cushion, glass, wicker, tempered, slatted, teak, cushioned, woodgrain, polyethylene, wooden
+```
+
+## 四、颜色词
+
+```
+black, natural, brown, grey, gray, white, beige, blue, navy, purple, bronze, red, walnut, green, silver
+```
+
+## 五、尺寸/数量词
+
+```
+seat, square, large, round, rectangular, inch, extra, seats, extended, small
+```
+
+## 六、使用场景词
+
+```
+backyard, deck, family, lawn, gatherings, meals, porch, friends, yard, balcony, gathering, party, dinners, dinner, meal, courtyard, family-friendly, backyards, terraces, camping
+```
+
+## 七、功能/特性词
+
+```
+umbrella, hole, easy, space, weather, assembly, durable, sturdy, maintenance, rust, all-weather, resistant, ergonomic, stackable, clean, storage, cleaning, removable, installation, weather-resistant
+```
+
+## 八、风格词
+
+```
+modern, elegant, stylish, simple, aesthetic, classic, beautiful, traditional, contemporary, farmhouse, industrial, minimalist
+```
+
+======================================================================
+## 九、推荐长尾关键词（用于Search Terms和后端关键词）
+======================================================================
+
+```
+outdoor dining set, patio dining table, patio dining set, dining table set, outdoor table and chairs, patio table and chairs, garden dining set, patio furniture dining set, outdoor dining table, 7 piece dining set, 5 piece patio set, acacia wood dining table, metal outdoor dining set, wicker patio dining set, HDPE outdoor furniture, tempered glass table, folding patio dining set, all weather dining set, umbrella hole table, stackable patio chairs, ergonomic dining chairs, durable outdoor furniture, easy assembly patio set, weather resistant dining set, modern outdoor dining set, elegant patio furniture, rust resistant metal frame, low maintenance outdoor set, family friendly dining set, backyard dining furniture, outdoor dining furniture, patio dining furniture, garden table and chairs, deck dining set, lawn dining set
+```
+
+======================================================================
+## 十、标题埋词结构模板
+======================================================================
+
+### 模板A（标准版）
+```
+[品牌] + [Piece数量] + [材质] + [核心产品] + [关键功能] + [适用场景]
+
+示例:
+SERWALL 7-Piece HDPE Outdoor Dining Table Set with Umbrella Hole for Patio Garden
+```
+
+### 模板B（材质强调版）
+```
+[Piece数量] + [材质+工艺] + [产品类型] + [风格] + [核心功能]
+
+示例:
+5-Piece Acacia Wood Patio Dining Set Modern Style with Tempered Glass Tabletop
+```
+
+### 模板C（场景导向版）
+```
+[场景] + [Piece数量] + [产品] + [材质] + [特性/优势]
+
+示例:
+Backyard 6-Piece Dining Set Metal Frame All-Weather Resistant with Cushions
+```
+
+======================================================================
+## 十一、五点描述埋词分布指南
+======================================================================
+
+**Bullet 1 - 产品规格**（埋词重点: piece/seater/table/chairs/set）
+- 包含: 件套数、尺寸、包含组件
+- 埋词示例: 7-piece, dining table, 6 chairs, 66-inch, rectangular
+
+**Bullet 2 - 材质工艺**（埋词重点: wood/acacia/HDPE/metal/glass）
+- 包含: 主要材质、制作工艺、材质优势
+- 埋词示例: solid acacia wood, HDPE tabletop, tempered glass, powder-coated steel
+
+**Bullet 3 - 功能特性**（埋词重点: umbrella/weather/resistant/durable）
+- 包含: 核心功能、防护特性、设计亮点
+- 埋词示例: umbrella hole cut-out, weather-resistant, all-weather use, fade-resistant
+
+**Bullet 4 - 使用场景**（埋词重点: patio/garden/backyard/deck/family）
+- 包含: 适用场景、目标人群、使用场景描述
+- 埋词示例: perfect for patio, garden, backyard gatherings, family dining
+
+**Bullet 5 - 安装服务**（埋词重点: easy/assembly/durable/maintainence）
+- 包含: 安装说明、维护要求、售后服务
+- 埋词示例: easy assembly, low maintenance, durable construction, customer service
+
+======================================================================
+## 十二、后端搜索词（Backend Search Terms）
+======================================================================
+
+```
+outdoor dining furniture patio set table chairs
+garden deck backyard lawn porch balcony terrace
+acacia wood teak metal steel aluminum rattan wicker
+HDPE polyethylene plastic resin all weather resistant
+tempered glass tabletop slatted wooden surface
+7 piece 5 piece 9 piece seater seating set
+umbrella hole cut out shade sun protection
+folding stackable space saving compact storage
+modern elegant classic contemporary farmhouse
+durable sturdy stable rust proof fade resistant
+easy assembly installation low maintenance
+family friendly comfortable ergonomic cushioned
+gathering party dinner meal outdoor living
+```
+
+======================================================================
+## 十三、埋词注意事项
+======================================================================
+
+1. **标题埋词**: 前80个字符最重要，确保核心词在前80字符内出现
+2. **自然埋入**: 关键词必须自然融入句子，不可堆砌
+3. **单复数**: 同时埋入单复数形式（chair/chairs, table/tables）
+4. **不要重复**: 标题中不要重复同一关键词
+5. **后端优化**: Search Terms中可放入标题未覆盖的变体和长尾词
+6. **A+页面**: 图片关键词和文字中也要适当埋入核心词

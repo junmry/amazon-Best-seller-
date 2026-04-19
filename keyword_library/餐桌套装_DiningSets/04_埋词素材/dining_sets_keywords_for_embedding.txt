@@ -1,0 +1,95 @@
+======================================================================
+Dining Sets 埋词词库
+数据来源: 亚马逊Top 100 Dining Sets产品
+生成日期: 2026-03-09
+======================================================================
+
+【核心埋词 - 必须包含】
+----------------------------------------------------------------------
+dining, patio, table, outdoor, chairs, sets, furniture, chair, garden, piece, seater, seating
+
+【产品类型词】
+----------------------------------------------------------------------
+dining, patio, table, outdoor, chairs, sets, furniture, chair, garden, piece, tabletop, comfortable, pieces, seating, suitable, indoor, stable, adjustable, outdoors, tables
+
+【材质词】
+----------------------------------------------------------------------
+wood, hdpe, metal, steel, rattan, fabric, cushions, acacia, aluminum, textilene, cushion, glass, wicker, tempered, slatted, teak, cushioned, woodgrain, polyethylene, wooden
+
+【颜色词】
+----------------------------------------------------------------------
+black, natural, brown, grey, gray, white, beige, blue, navy, purple, bronze, red, walnut, green, silver
+
+【尺寸/数量词】
+----------------------------------------------------------------------
+seat, square, large, round, rectangular, inch, extra, seats, extended, small, compact
+
+【场景/用途词】
+----------------------------------------------------------------------
+backyard, deck, family, lawn, gatherings, meals, porch, friends, yard, balcony, gathering, party, dinners, dinner, meal, courtyard, family-friendly, backyards, terraces, camping, porches, family-safe, yards, decks, lawns, family-style, terrace
+
+【功能/特性词】
+----------------------------------------------------------------------
+umbrella, hole, easy, space, weather, assembly, durable, sturdy, maintenance, rust, all-weather, resistant, ergonomic, stackable, clean, storage, cleaning, removable, installation, weather-resistant, waterproof, folding, saving, low-maintenance, fade
+
+【风格词】
+----------------------------------------------------------------------
+modern, elegant, stylish, simple, aesthetic, classic, beautiful, traditional, contemporary, farmhouse, industrial, minimalist
+
+======================================================================
+【推荐埋词组合 - 长尾词】
+======================================================================
+
+  • outdoor dining set
+  • patio dining table
+  • patio dining set
+  • dining table set
+  • outdoor table and chairs
+  • patio table and chairs
+  • garden dining set
+  • patio furniture dining set
+  • outdoor dining table
+  • 7 piece dining set
+  • 5 piece patio set
+  • acacia wood dining table
+  • metal outdoor dining set
+  • wicker patio dining set
+  • HDPE outdoor furniture
+  • tempered glass table
+  • folding patio dining set
+  • all weather dining set
+  • umbrella hole table
+  • stackable patio chairs
+  • ergonomic dining chairs
+  • durable outdoor furniture
+  • easy assembly patio set
+  • weather resistant dining set
+  • modern outdoor dining set
+  • elegant patio furniture
+  • rust resistant metal frame
+  • low maintenance outdoor set
+  • family friendly dining set
+  • backyard dining furniture
+
+======================================================================
+【标题埋词模板参考】
+======================================================================
+
+模板1: [品牌] + [Piece] + [材质] + [产品] + [场景] + [功能]
+例: SERWALL 7-Piece HDPE Outdoor Dining Table Set with Umbrella Hole for Patio
+
+模板2: [Piece] + [材质] + [风格] + [产品] + [核心功能]
+例: 5-Piece Acacia Wood Modern Patio Dining Set with Tempered Glass Table
+
+模板3: [场景] + [Piece] + [产品] + [材质] + [特性]
+例: Backyard 6-Piece Dining Table Set Metal Frame All-Weather with Cushions
+
+======================================================================
+【五点描述埋词分布建议】
+======================================================================
+
+Point 1 - 产品规格: piece, seater, dining, table, chairs, set, size, dimensions
+Point 2 - 材质工艺: wood, acacia, HDPE, metal, steel, rattan, wicker, tempered glass
+Point 3 - 功能特性: umbrella hole, weather resistant, waterproof, fade resistant, rust proof
+Point 4 - 使用场景: patio, garden, backyard, deck, lawn, family gathering, outdoor dining
+Point 5 - 服务安装: easy assembly, low maintenance, durable, sturdy, customer service

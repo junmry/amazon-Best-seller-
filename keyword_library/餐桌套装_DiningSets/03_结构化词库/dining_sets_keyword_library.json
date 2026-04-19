@@ -1,0 +1,4357 @@
+{
+  "metadata": {
+    "source_file": "BSR(Dining-Sets(Current))-100-US-20260309.xlsx",
+    "product_count": 100,
+    "analyzed_fields": [
+      "Product Title",
+      "Bullet Points",
+      "Sub-Category"
+    ],
+    "total_unique_words": 2072,
+    "high_frequency_words": 872
+  },
+  "keyword_library": {
+    "产品类型": [
+      {
+        "word": "dining",
+        "frequency": 732
+      },
+      {
+        "word": "patio",
+        "frequency": 552
+      },
+      {
+        "word": "table",
+        "frequency": 546
+      },
+      {
+        "word": "outdoor",
+        "frequency": 489
+      },
+      {
+        "word": "chairs",
+        "frequency": 392
+      },
+      {
+        "word": "sets",
+        "frequency": 168
+      },
+      {
+        "word": "furniture",
+        "frequency": 151
+      },
+      {
+        "word": "chair",
+        "frequency": 145
+      },
+      {
+        "word": "garden",
+        "frequency": 103
+      },
+      {
+        "word": "piece",
+        "frequency": 96
+      },
+      {
+        "word": "tabletop",
+        "frequency": 63
+      },
+      {
+        "word": "comfortable",
+        "frequency": 63
+      },
+      {
+        "word": "pieces",
+        "frequency": 42
+      },
+      {
+        "word": "seating",
+        "frequency": 37
+      },
+      {
+        "word": "suitable",
+        "frequency": 35
+      },
+      {
+        "word": "indoor",
+        "frequency": 21
+      },
+      {
+        "word": "stable",
+        "frequency": 21
+      },
+      {
+        "word": "adjustable",
+        "frequency": 20
+      },
+      {
+        "word": "outdoors",
+        "frequency": 16
+      },
+      {
+        "word": "tables",
+        "frequency": 15
+      },
+      {
+        "word": "setup",
+        "frequency": 13
+      },
+      {
+        "word": "armchairs",
+        "frequency": 11
+      },
+      {
+        "word": "settings",
+        "frequency": 11
+      },
+      {
+        "word": "patios",
+        "frequency": 10
+      },
+      {
+        "word": "gardens",
+        "frequency": 7
+      },
+      {
+        "word": "setting",
+        "frequency": 6
+      },
+      {
+        "word": "indoors",
+        "frequency": 6
+      },
+      {
+        "word": "adaptable",
+        "frequency": 3
+      },
+      {
+        "word": "deck/backyard/poolside/garden",
+        "frequency": 2
+      },
+      {
+        "word": "patiojoy",
+        "frequency": 1
+      },
+      {
+        "word": "indoor-outdoor",
+        "frequency": 1
+      },
+      {
+        "word": "ultra-portable",
+        "frequency": 1
+      },
+      {
+        "word": "seater",
+        "frequency": 1
+      },
+      {
+        "word": "centerpiece",
+        "frequency": 1
+      },
+      {
+        "word": "confortable",
+        "frequency": 1
+      },
+      {
+        "word": "outdoor-ready",
+        "frequency": 1
+      },
+      {
+        "word": "indoor/outdoor",
+        "frequency": 1
+      },
+      {
+        "word": "outdoorgrade",
+        "frequency": 1
+      },
+      {
+        "word": "armchair",
+        "frequency": 1
+      },
+      {
+        "word": "one-piece",
+        "frequency": 1
+      },
+      {
+        "word": "set-suncrown",
+        "frequency": 1
+      },
+      {
+        "word": "mixpatio",
+        "frequency": 1
+      },
+      {
+        "word": "centerpieces",
+        "frequency": 1
+      },
+      {
+        "word": "setups",
+        "frequency": 1
+      }
+    ],
+    "材质": [
+      {
+        "word": "wood",
+        "frequency": 96
+      },
+      {
+        "word": "hdpe",
+        "frequency": 91
+      },
+      {
+        "word": "metal",
+        "frequency": 83
+      },
+      {
+        "word": "steel",
+        "frequency": 69
+      },
+      {
+        "word": "rattan",
+        "frequency": 58
+      },
+      {
+        "word": "fabric",
+        "frequency": 58
+      },
+      {
+        "word": "cushions",
+        "frequency": 55
+      },
+      {
+        "word": "acacia",
+        "frequency": 49
+      },
+      {
+        "word": "aluminum",
+        "frequency": 47
+      },
+      {
+        "word": "textilene",
+        "frequency": 44
+      },
+      {
+        "word": "cushion",
+        "frequency": 40
+      },
+      {
+        "word": "glass",
+        "frequency": 32
+      },
+      {
+        "word": "wicker",
+        "frequency": 32
+      },
+      {
+        "word": "tempered",
+        "frequency": 19
+      },
+      {
+        "word": "slatted",
+        "frequency": 16
+      },
+      {
+        "word": "teak",
+        "frequency": 14
+      },
+      {
+        "word": "cushioned",
+        "frequency": 10
+      },
+      {
+        "word": "woodgrain",
+        "frequency": 10
+      },
+      {
+        "word": "polyethylene",
+        "frequency": 10
+      },
+      {
+        "word": "wooden",
+        "frequency": 9
+      },
+      {
+        "word": "wood-grain",
+        "frequency": 7
+      },
+      {
+        "word": "wood-like",
+        "frequency": 6
+      },
+      {
+        "word": "plastic",
+        "frequency": 4
+      },
+      {
+        "word": "polywood",
+        "frequency": 3
+      },
+      {
+        "word": "fabrics",
+        "frequency": 3
+      },
+      {
+        "word": "all-aluminum",
+        "frequency": 3
+      },
+      {
+        "word": "gray-teak",
+        "frequency": 2
+      },
+      {
+        "word": "teak-finish",
+        "frequency": 2
+      },
+      {
+        "word": "w/tempered",
+        "frequency": 1
+      },
+      {
+        "word": "w/acacia",
+        "frequency": 1
+      },
+      {
+        "word": "hardwood",
+        "frequency": 1
+      },
+      {
+        "word": "wood-patterned",
+        "frequency": 1
+      },
+      {
+        "word": "glasses",
+        "frequency": 1
+      },
+      {
+        "word": "glass-top",
+        "frequency": 1
+      },
+      {
+        "word": "wood-specific",
+        "frequency": 1
+      },
+      {
+        "word": "wood-look",
+        "frequency": 1
+      },
+      {
+        "word": "wicker-backed",
+        "frequency": 1
+      },
+      {
+        "word": "wood-texture",
+        "frequency": 1
+      },
+      {
+        "word": "plastics",
+        "frequency": 1
+      },
+      {
+        "word": "iron/steel",
+        "frequency": 1
+      },
+      {
+        "word": "wood-textured",
+        "frequency": 1
+      }
+    ],
+    "颜色": [
+      {
+        "word": "black",
+        "frequency": 36
+      },
+      {
+        "word": "natural",
+        "frequency": 26
+      },
+      {
+        "word": "brown",
+        "frequency": 19
+      },
+      {
+        "word": "grey",
+        "frequency": 10
+      },
+      {
+        "word": "gray",
+        "frequency": 9
+      },
+      {
+        "word": "white",
+        "frequency": 7
+      },
+      {
+        "word": "beige",
+        "frequency": 5
+      },
+      {
+        "word": "blue",
+        "frequency": 5
+      },
+      {
+        "word": "navy",
+        "frequency": 5
+      },
+      {
+        "word": "purple",
+        "frequency": 5
+      },
+      {
+        "word": "bronze",
+        "frequency": 3
+      },
+      {
+        "word": "red",
+        "frequency": 2
+      },
+      {
+        "word": "walnut",
+        "frequency": 1
+      },
+      {
+        "word": "green",
+        "frequency": 1
+      },
+      {
+        "word": "silver",
+        "frequency": 1
+      }
+    ],
+    "尺寸数量": [
+      {
+        "word": "seat",
+        "frequency": 65
+      },
+      {
+        "word": "square",
+        "frequency": 36
+      },
+      {
+        "word": "crafted",
+        "frequency": 35
+      },
+      {
+        "word": "large",
+        "frequency": 31
+      },
+      {
+        "word": "soft",
+        "frequency": 29
+      },
+      {
+        "word": "round",
+        "frequency": 28
+      },
+      {
+        "word": "rectangular",
+        "frequency": 25
+      },
+      {
+        "word": "inch",
+        "frequency": 22
+      },
+      {
+        "word": "extra",
+        "frequency": 18
+      },
+      {
+        "word": "seats",
+        "frequency": 14
+      },
+      {
+        "word": "extended",
+        "frequency": 11
+      },
+      {
+        "word": "small",
+        "frequency": 10
+      },
+      {
+        "word": "rounded",
+        "frequency": 7
+      },
+      {
+        "word": "afternoon",
+        "frequency": 7
+      },
+      {
+        "word": "compact",
+        "frequency": 6
+      },
+      {
+        "word": "feet",
+        "frequency": 6
+      },
+      {
+        "word": "ground",
+        "frequency": 6
+      },
+      {
+        "word": "year-round",
+        "frequency": 5
+      },
+      {
+        "word": "after-sales",
+        "frequency": 4
+      },
+      {
+        "word": "larger",
+        "frequency": 4
+      },
+      {
+        "word": "removal",
+        "frequency": 4
+      },
+      {
+        "word": "inches",
+        "frequency": 3
+      },
+      {
+        "word": "ft",
+        "frequency": 2
+      },
+      {
+        "word": "extendable",
+        "frequency": 2
+      },
+      {
+        "word": "extra-wide",
+        "frequency": 2
+      },
+      {
+        "word": "w/square",
+        "frequency": 1
+      },
+      {
+        "word": "kidkraft",
+        "frequency": 1
+      },
+      {
+        "word": "xx-inch",
+        "frequency": 1
+      },
+      {
+        "word": "surrounded",
+        "frequency": 1
+      },
+      {
+        "word": "craftsmen",
+        "frequency": 1
+      },
+      {
+        "word": "softness",
+        "frequency": 1
+      },
+      {
+        "word": "under-seat",
+        "frequency": 1
+      },
+      {
+        "word": "extra-supportive",
+        "frequency": 1
+      },
+      {
+        "word": "craftsmanship",
+        "frequency": 1
+      },
+      {
+        "word": "l63inch",
+        "frequency": 1
+      },
+      {
+        "word": "w38inch",
+        "frequency": 1
+      },
+      {
+        "word": "h28inch",
+        "frequency": 1
+      },
+      {
+        "word": "all-around",
+        "frequency": 1
+      },
+      {
+        "word": "softening",
+        "frequency": 1
+      },
+      {
+        "word": "softens",
+        "frequency": 1
+      },
+      {
+        "word": "crafts",
+        "frequency": 1
+      },
+      {
+        "word": "all-round",
+        "frequency": 1
+      },
+      {
+        "word": "extra-thick",
+        "frequency": 1
+      },
+      {
+        "word": "big",
+        "frequency": 1
+      },
+      {
+        "word": "wrap-around",
+        "frequency": 1
+      },
+      {
+        "word": "crafting",
+        "frequency": 1
+      },
+      {
+        "word": "inch-wide",
+        "frequency": 1
+      },
+      {
+        "word": "shifting",
+        "frequency": 1
+      },
+      {
+        "word": "loveseats",
+        "frequency": 1
+      }
+    ],
+    "场景用途": [
+      {
+        "word": "backyard",
+        "frequency": 86
+      },
+      {
+        "word": "deck",
+        "frequency": 55
+      },
+      {
+        "word": "family",
+        "frequency": 49
+      },
+      {
+        "word": "lawn",
+        "frequency": 35
+      },
+      {
+        "word": "gatherings",
+        "frequency": 34
+      },
+      {
+        "word": "meals",
+        "frequency": 30
+      },
+      {
+        "word": "porch",
+        "frequency": 29
+      },
+      {
+        "word": "friends",
+        "frequency": 20
+      },
+      {
+        "word": "yard",
+        "frequency": 19
+      },
+      {
+        "word": "balcony",
+        "frequency": 17
+      },
+      {
+        "word": "gathering",
+        "frequency": 11
+      },
+      {
+        "word": "party",
+        "frequency": 11
+      },
+      {
+        "word": "dinners",
+        "frequency": 11
+      },
+      {
+        "word": "dinner",
+        "frequency": 10
+      },
+      {
+        "word": "meal",
+        "frequency": 6
+      },
+      {
+        "word": "courtyard",
+        "frequency": 4
+      },
+      {
+        "word": "family-friendly",
+        "frequency": 4
+      },
+      {
+        "word": "backyards",
+        "frequency": 4
+      },
+      {
+        "word": "terraces",
+        "frequency": 3
+      },
+      {
+        "word": "camping",
+        "frequency": 2
+      },
+      {
+        "word": "porches",
+        "frequency": 2
+      },
+      {
+        "word": "family-safe",
+        "frequency": 1
+      },
+      {
+        "word": "yards",
+        "frequency": 1
+      },
+      {
+        "word": "decks",
+        "frequency": 1
+      },
+      {
+        "word": "lawns",
+        "frequency": 1
+      },
+      {
+        "word": "family-style",
+        "frequency": 1
+      },
+      {
+        "word": "terrace",
+        "frequency": 1
+      }
+    ],
+    "功能特性": [
+      {
+        "word": "umbrella",
+        "frequency": 214
+      },
+      {
+        "word": "hole",
+        "frequency": 160
+      },
+      {
+        "word": "easy",
+        "frequency": 127
+      },
+      {
+        "word": "space",
+        "frequency": 82
+      },
+      {
+        "word": "weather",
+        "frequency": 67
+      },
+      {
+        "word": "assembly",
+        "frequency": 65
+      },
+      {
+        "word": "durable",
+        "frequency": 64
+      },
+      {
+        "word": "sturdy",
+        "frequency": 54
+      },
+      {
+        "word": "maintenance",
+        "frequency": 45
+      },
+      {
+        "word": "rust",
+        "frequency": 45
+      },
+      {
+        "word": "all-weather",
+        "frequency": 43
+      },
+      {
+        "word": "resistant",
+        "frequency": 42
+      },
+      {
+        "word": "ergonomic",
+        "frequency": 41
+      },
+      {
+        "word": "stackable",
+        "frequency": 38
+      },
+      {
+        "word": "clean",
+        "frequency": 37
+      },
+      {
+        "word": "storage",
+        "frequency": 24
+      },
+      {
+        "word": "cleaning",
+        "frequency": 23
+      },
+      {
+        "word": "removable",
+        "frequency": 21
+      },
+      {
+        "word": "installation",
+        "frequency": 21
+      },
+      {
+        "word": "weather-resistant",
+        "frequency": 19
+      },
+      {
+        "word": "waterproof",
+        "frequency": 14
+      },
+      {
+        "word": "folding",
+        "frequency": 12
+      },
+      {
+        "word": "saving",
+        "frequency": 11
+      },
+      {
+        "word": "low-maintenance",
+        "frequency": 11
+      },
+      {
+        "word": "fade",
+        "frequency": 11
+      },
+      {
+        "word": "umbrellas",
+        "frequency": 11
+      },
+      {
+        "word": "space-saving",
+        "frequency": 9
+      },
+      {
+        "word": "holes",
+        "frequency": 8
+      },
+      {
+        "word": "ergonomically",
+        "frequency": 8
+      },
+      {
+        "word": "rust-resistant",
+        "frequency": 7
+      },
+      {
+        "word": "spaces",
+        "frequency": 7
+      },
+      {
+        "word": "rustic",
+        "frequency": 5
+      },
+      {
+        "word": "scratch-resistant",
+        "frequency": 5
+      },
+      {
+        "word": "uv-resistant",
+        "frequency": 5
+      },
+      {
+        "word": "install",
+        "frequency": 4
+      },
+      {
+        "word": "fade-resistant",
+        "frequency": 4
+      },
+      {
+        "word": "water-resistant",
+        "frequency": 4
+      },
+      {
+        "word": "stain-resistant",
+        "frequency": 3
+      },
+      {
+        "word": "easy-clean",
+        "frequency": 3
+      },
+      {
+        "word": "anti-rust",
+        "frequency": 3
+      },
+      {
+        "word": "rust-proof",
+        "frequency": 3
+      },
+      {
+        "word": "rust-free",
+        "frequency": 2
+      },
+      {
+        "word": "cleaners",
+        "frequency": 2
+      },
+      {
+        "word": "rustproof",
+        "frequency": 2
+      },
+      {
+        "word": "whole",
+        "frequency": 2
+      },
+      {
+        "word": "rusting",
+        "frequency": 2
+      },
+      {
+        "word": "weatherproof",
+        "frequency": 2
+      },
+      {
+        "word": "easy-care",
+        "frequency": 2
+      },
+      {
+        "word": "fade-proof",
+        "frequency": 2
+      },
+      {
+        "word": "easy-to-clean",
+        "frequency": 2
+      },
+      {
+        "word": "w/umbrella",
+        "frequency": 1
+      },
+      {
+        "word": "storage/relocation",
+        "frequency": 1
+      },
+      {
+        "word": "corrosion-resistant",
+        "frequency": 1
+      },
+      {
+        "word": "spill-resistant",
+        "frequency": 1
+      },
+      {
+        "word": "uv/fade/stain",
+        "frequency": 1
+      },
+      {
+        "word": "easy-to",
+        "frequency": 1
+      },
+      {
+        "word": "dirt-resistant",
+        "frequency": 1
+      },
+      {
+        "word": "spaced",
+        "frequency": 1
+      },
+      {
+        "word": "easy-cleaning",
+        "frequency": 1
+      },
+      {
+        "word": "self-assembly",
+        "frequency": 1
+      },
+      {
+        "word": "cleaned",
+        "frequency": 1
+      },
+      {
+        "word": "waterproofing",
+        "frequency": 1
+      },
+      {
+        "word": "wind-resistant",
+        "frequency": 1
+      },
+      {
+        "word": "weather-friendly",
+        "frequency": 1
+      },
+      {
+        "word": "pre-installed",
+        "frequency": 1
+      },
+      {
+        "word": "easy-assembly",
+        "frequency": 1
+      },
+      {
+        "word": "rust-resistance",
+        "frequency": 1
+      },
+      {
+        "word": "ergonomicallydesigned",
+        "frequency": 1
+      },
+      {
+        "word": "installing",
+        "frequency": 1
+      },
+      {
+        "word": "dimension-stackable",
+        "frequency": 1
+      },
+      {
+        "word": "wear-resistant",
+        "frequency": 1
+      },
+      {
+        "word": "rust-prone",
+        "frequency": 1
+      },
+      {
+        "word": "wipe-clean",
+        "frequency": 1
+      },
+      {
+        "word": "easy-to-carry",
+        "frequency": 1
+      },
+      {
+        "word": "heat-resistant",
+        "frequency": 1
+      },
+      {
+        "word": "insect-resistant",
+        "frequency": 1
+      },
+      {
+        "word": "rust/corrosion",
+        "frequency": 1
+      },
+      {
+        "word": "splash-resistant",
+        "frequency": 1
+      }
+    ],
+    "风格": [
+      {
+        "word": "modern",
+        "frequency": 48
+      },
+      {
+        "word": "elegant",
+        "frequency": 28
+      },
+      {
+        "word": "stylish",
+        "frequency": 19
+      },
+      {
+        "word": "simple",
+        "frequency": 15
+      },
+      {
+        "word": "aesthetic",
+        "frequency": 14
+      },
+      {
+        "word": "classic",
+        "frequency": 13
+      },
+      {
+        "word": "beautiful",
+        "frequency": 11
+      },
+      {
+        "word": "traditional",
+        "frequency": 8
+      },
+      {
+        "word": "contemporary",
+        "frequency": 7
+      },
+      {
+        "word": "farmhouse",
+        "frequency": 4
+      },
+      {
+        "word": "industrial",
+        "frequency": 2
+      },
+      {
+        "word": "minimalist",
+        "frequency": 1
+      }
+    ],
+    "其他高频词": [
+      {
+        "word": "design",
+        "frequency": 97
+      },
+      {
+        "word": "comfort",
+        "frequency": 86
+      },
+      {
+        "word": "frame",
+        "frequency": 83
+      },
+      {
+        "word": "lbs",
+        "frequency": 78
+      },
+      {
+        "word": "features",
+        "frequency": 70
+      },
+      {
+        "word": "support",
+        "frequency": 66
+      },
+      {
+        "word": "designed",
+        "frequency": 63
+      },
+      {
+        "word": "capacity",
+        "frequency": 63
+      },
+      {
+        "word": "perfect",
+        "frequency": 61
+      },
+      {
+        "word": "includes",
+        "frequency": 55
+      },
+      {
+        "word": "weight",
+        "frequency": 54
+      },
+      {
+        "word": "ideal",
+        "frequency": 51
+      },
+      {
+        "word": "durability",
+        "frequency": 49
+      },
+      {
+        "word": "stability",
+        "frequency": 48
+      },
+      {
+        "word": "material",
+        "frequency": 47
+      },
+      {
+        "word": "poolside",
+        "frequency": 46
+      },
+      {
+        "word": "provide",
+        "frequency": 45
+      },
+      {
+        "word": "enjoy",
+        "frequency": 45
+      },
+      {
+        "word": "time",
+        "frequency": 45
+      },
+      {
+        "word": "premium",
+        "frequency": 41
+      },
+      {
+        "word": "ensuring",
+        "frequency": 40
+      },
+      {
+        "word": "size",
+        "frequency": 39
+      },
+      {
+        "word": "back",
+        "frequency": 37
+      },
+      {
+        "word": "swivel",
+        "frequency": 36
+      },
+      {
+        "word": "making",
+        "frequency": 36
+      },
+      {
+        "word": "instructions",
+        "frequency": 35
+      },
+      {
+        "word": "providing",
+        "frequency": 34
+      },
+      {
+        "word": "water",
+        "frequency": 34
+      },
+      {
+        "word": "service",
+        "frequency": 34
+      },
+      {
+        "word": "please",
+        "frequency": 34
+      },
+      {
+        "word": "resistance",
+        "frequency": 34
+      },
+      {
+        "word": "included",
+        "frequency": 33
+      },
+      {
+        "word": "spacious",
+        "frequency": 33
+      },
+      {
+        "word": "shade",
+        "frequency": 33
+      },
+      {
+        "word": "breathable",
+        "frequency": 33
+      },
+      {
+        "word": "top",
+        "frequency": 32
+      },
+      {
+        "word": "provides",
+        "frequency": 32
+      },
+      {
+        "word": "experience",
+        "frequency": 31
+      },
+      {
+        "word": "surface",
+        "frequency": 30
+      },
+      {
+        "word": "backrest",
+        "frequency": 29
+      },
+      {
+        "word": "hardware",
+        "frequency": 29
+      },
+      {
+        "word": "rain",
+        "frequency": 29
+      },
+      {
+        "word": "materials",
+        "frequency": 28
+      },
+      {
+        "word": "customer",
+        "frequency": 28
+      },
+      {
+        "word": "high",
+        "frequency": 28
+      },
+      {
+        "word": "ensures",
+        "frequency": 28
+      },
+      {
+        "word": "days",
+        "frequency": 27
+      },
+      {
+        "word": "wide",
+        "frequency": 27
+      },
+      {
+        "word": "assemble",
+        "frequency": 27
+      },
+      {
+        "word": "armrests",
+        "frequency": 26
+      },
+      {
+        "word": "long-lasting",
+        "frequency": 26
+      },
+      {
+        "word": "protection",
+        "frequency": 26
+      },
+      {
+        "word": "smooth",
+        "frequency": 26
+      },
+      {
+        "word": "thick",
+        "frequency": 25
+      },
+      {
+        "word": "ensure",
+        "frequency": 24
+      },
+      {
+        "word": "allows",
+        "frequency": 24
+      },
+      {
+        "word": "high-quality",
+        "frequency": 24
+      },
+      {
+        "word": "easily",
+        "frequency": 23
+      },
+      {
+        "word": "people",
+        "frequency": 22
+      },
+      {
+        "word": "versatile",
+        "frequency": 22
+      },
+      {
+        "word": "reinforced",
+        "frequency": 22
+      },
+      {
+        "word": "pe",
+        "frequency": 21
+      },
+      {
+        "word": "long",
+        "frequency": 21
+      },
+      {
+        "word": "boxes",
+        "frequency": 21
+      },
+      {
+        "word": "uv",
+        "frequency": 21
+      },
+      {
+        "word": "curved",
+        "frequency": 20
+      },
+      {
+        "word": "add",
+        "frequency": 20
+      },
+      {
+        "word": "offers",
+        "frequency": 20
+      },
+      {
+        "word": "quality",
+        "frequency": 20
+      },
+      {
+        "word": "product",
+        "frequency": 20
+      },
+      {
+        "word": "finish",
+        "frequency": 20
+      },
+      {
+        "word": "withstand",
+        "frequency": 19
+      },
+      {
+        "word": "dimensions",
+        "frequency": 19
+      },
+      {
+        "word": "sitting",
+        "frequency": 19
+      },
+      {
+        "word": "person",
+        "frequency": 18
+      },
+      {
+        "word": "sunny",
+        "frequency": 18
+      },
+      {
+        "word": "required",
+        "frequency": 18
+      },
+      {
+        "word": "area",
+        "frequency": 18
+      },
+      {
+        "word": "screws",
+        "frequency": 18
+      },
+      {
+        "word": "makes",
+        "frequency": 18
+      },
+      {
+        "word": "powder-coated",
+        "frequency": 18
+      },
+      {
+        "word": "sun",
+        "frequency": 18
+      },
+      {
+        "word": "fading",
+        "frequency": 18
+      },
+      {
+        "word": "comes",
+        "frequency": 18
+      },
+      {
+        "word": "powder",
+        "frequency": 18
+      },
+      {
+        "word": "superior",
+        "frequency": 18
+      },
+      {
+        "word": "detailed",
+        "frequency": 17
+      },
+      {
+        "word": "necessary",
+        "frequency": 17
+      },
+      {
+        "word": "high-density",
+        "frequency": 17
+      },
+      {
+        "word": "comfortably",
+        "frequency": 17
+      },
+      {
+        "word": "resists",
+        "frequency": 17
+      },
+      {
+        "word": "tools",
+        "frequency": 17
+      },
+      {
+        "word": "allowing",
+        "frequency": 16
+      },
+      {
+        "word": "packages",
+        "frequency": 16
+      },
+      {
+        "word": "years",
+        "frequency": 16
+      },
+      {
+        "word": "questions",
+        "frequency": 16
+      },
+      {
+        "word": "free",
+        "frequency": 16
+      },
+      {
+        "word": "long-term",
+        "frequency": 16
+      },
+      {
+        "word": "exceptional",
+        "frequency": 16
+      },
+      {
+        "word": "style",
+        "frequency": 16
+      },
+      {
+        "word": "legs",
+        "frequency": 16
+      },
+      {
+        "word": "construction",
+        "frequency": 16
+      },
+      {
+        "word": "contact",
+        "frequency": 16
+      },
+      {
+        "word": "under",
+        "frequency": 16
+      },
+      {
+        "word": "conversation",
+        "frequency": 15
+      },
+      {
+        "word": "solid",
+        "frequency": 15
+      },
+      {
+        "word": "seamlessly",
+        "frequency": 15
+      },
+      {
+        "word": "featuring",
+        "frequency": 15
+      },
+      {
+        "word": "frames",
+        "frequency": 15
+      },
+      {
+        "word": "excellent",
+        "frequency": 15
+      },
+      {
+        "word": "team",
+        "frequency": 15
+      },
+      {
+        "word": "lasting",
+        "frequency": 15
+      },
+      {
+        "word": "choice",
+        "frequency": 15
+      },
+      {
+        "word": "strength",
+        "frequency": 15
+      },
+      {
+        "word": "conditions",
+        "frequency": 15
+      },
+      {
+        "word": "relax",
+        "frequency": 15
+      },
+      {
+        "word": "hdps",
+        "frequency": 14
+      },
+      {
+        "word": "rocking",
+        "frequency": 14
+      },
+      {
+        "word": "arrive",
+        "frequency": 14
+      },
+      {
+        "word": "needs",
+        "frequency": 14
+      },
+      {
+        "word": "unique",
+        "frequency": 14
+      },
+      {
+        "word": "complete",
+        "frequency": 14
+      },
+      {
+        "word": "look",
+        "frequency": 14
+      },
+      {
+        "word": "simply",
+        "frequency": 14
+      },
+      {
+        "word": "practical",
+        "frequency": 14
+      },
+      {
+        "word": "offer",
+        "frequency": 14
+      },
+      {
+        "word": "body",
+        "frequency": 14
+      },
+      {
+        "word": "quick",
+        "frequency": 14
+      },
+      {
+        "word": "heavy-duty",
+        "frequency": 14
+      },
+      {
+        "word": "decor",
+        "frequency": 13
+      },
+      {
+        "word": "elegance",
+        "frequency": 13
+      },
+      {
+        "word": "drinks",
+        "frequency": 13
+      },
+      {
+        "word": "guests",
+        "frequency": 13
+      },
+      {
+        "word": "life",
+        "frequency": 13
+      },
+      {
+        "word": "cover",
+        "frequency": 13
+      },
+      {
+        "word": "two",
+        "frequency": 13
+      },
+      {
+        "word": "coated",
+        "frequency": 13
+      },
+      {
+        "word": "enhanced",
+        "frequency": 13
+      },
+      {
+        "word": "height",
+        "frequency": 13
+      },
+      {
+        "word": "dimension",
+        "frequency": 13
+      },
+      {
+        "word": "season",
+        "frequency": 13
+      },
+      {
+        "word": "year",
+        "frequency": 13
+      },
+      {
+        "word": "serwall",
+        "frequency": 12
+      },
+      {
+        "word": "base",
+        "frequency": 12
+      },
+      {
+        "word": "outside",
+        "frequency": 12
+      },
+      {
+        "word": "grain",
+        "frequency": 12
+      },
+      {
+        "word": "armrest",
+        "frequency": 12
+      },
+      {
+        "word": "cozy",
+        "frequency": 12
+      },
+      {
+        "word": "color",
+        "frequency": 12
+      },
+      {
+        "word": "various",
+        "frequency": 12
+      },
+      {
+        "word": "hassle-free",
+        "frequency": 12
+      },
+      {
+        "word": "low",
+        "frequency": 12
+      },
+      {
+        "word": "whether",
+        "frequency": 12
+      },
+      {
+        "word": "ample",
+        "frequency": 12
+      },
+      {
+        "word": "sleek",
+        "frequency": 12
+      },
+      {
+        "word": "clear",
+        "frequency": 12
+      },
+      {
+        "word": "hand-woven",
+        "frequency": 12
+      },
+      {
+        "word": "optimal",
+        "frequency": 12
+      },
+      {
+        "word": "daily",
+        "frequency": 12
+      },
+      {
+        "word": "uneven",
+        "frequency": 12
+      },
+      {
+        "word": "maintain",
+        "frequency": 12
+      },
+      {
+        "word": "touch",
+        "frequency": 12
+      },
+      {
+        "word": "four",
+        "frequency": 12
+      },
+      {
+        "word": "feature",
+        "frequency": 12
+      },
+      {
+        "word": "degree",
+        "frequency": 12
+      },
+      {
+        "word": "rectangle",
+        "frequency": 11
+      },
+      {
+        "word": "quickly",
+        "frequency": 11
+      },
+      {
+        "word": "structure",
+        "frequency": 11
+      },
+      {
+        "word": "engineered",
+        "frequency": 11
+      },
+      {
+        "word": "convenient",
+        "frequency": 11
+      },
+      {
+        "word": "surfaces",
+        "frequency": 11
+      },
+      {
+        "word": "stainless",
+        "frequency": 11
+      },
+      {
+        "word": "food",
+        "frequency": 11
+      },
+      {
+        "word": "strong",
+        "frequency": 11
+      },
+      {
+        "word": "effortless",
+        "frequency": 11
+      },
+      {
+        "word": "wipe",
+        "frequency": 11
+      },
+      {
+        "word": "offering",
+        "frequency": 11
+      },
+      {
+        "word": "built-in",
+        "frequency": 11
+      },
+      {
+        "word": "covers",
+        "frequency": 11
+      },
+      {
+        "word": "one",
+        "frequency": 11
+      },
+      {
+        "word": "help",
+        "frequency": 11
+      },
+      {
+        "word": "constructed",
+        "frequency": 11
+      },
+      {
+        "word": "parts",
+        "frequency": 11
+      },
+      {
+        "word": "sling",
+        "frequency": 10
+      },
+      {
+        "word": "adding",
+        "frequency": 10
+      },
+      {
+        "word": "charm",
+        "frequency": 10
+      },
+      {
+        "word": "accommodate",
+        "frequency": 10
+      },
+      {
+        "word": "unlike",
+        "frequency": 10
+      },
+      {
+        "word": "dedicated",
+        "frequency": 10
+      },
+      {
+        "word": "texture",
+        "frequency": 10
+      },
+      {
+        "word": "appearance",
+        "frequency": 10
+      },
+      {
+        "word": "lines",
+        "frequency": 10
+      },
+      {
+        "word": "crack",
+        "frequency": 10
+      },
+      {
+        "word": "cloth",
+        "frequency": 10
+      },
+      {
+        "word": "special",
+        "frequency": 10
+      },
+      {
+        "word": "effortlessly",
+        "frequency": 10
+      },
+      {
+        "word": "beauty",
+        "frequency": 10
+      },
+      {
+        "word": "corrosion",
+        "frequency": 10
+      },
+      {
+        "word": "damage",
+        "frequency": 10
+      },
+      {
+        "word": "reliable",
+        "frequency": 10
+      },
+      {
+        "word": "scratches",
+        "frequency": 10
+      },
+      {
+        "word": "better",
+        "frequency": 10
+      },
+      {
+        "word": "adds",
+        "frequency": 10
+      },
+      {
+        "word": "zipper",
+        "frequency": 10
+      },
+      {
+        "word": "e-coating",
+        "frequency": 10
+      },
+      {
+        "word": "fits",
+        "frequency": 10
+      },
+      {
+        "word": "expandable",
+        "frequency": 9
+      },
+      {
+        "word": "pool",
+        "frequency": 9
+      },
+      {
+        "word": "relaxing",
+        "frequency": 9
+      },
+      {
+        "word": "iron",
+        "frequency": 9
+      },
+      {
+        "word": "bench",
+        "frequency": 9
+      },
+      {
+        "word": "include",
+        "frequency": 9
+      },
+      {
+        "word": "elements",
+        "frequency": 9
+      },
+      {
+        "word": "hosting",
+        "frequency": 9
+      },
+      {
+        "word": "needed",
+        "frequency": 9
+      },
+      {
+        "word": "convenience",
+        "frequency": 9
+      },
+      {
+        "word": "entertaining",
+        "frequency": 9
+      },
+      {
+        "word": "robust",
+        "frequency": 9
+      },
+      {
+        "word": "supports",
+        "frequency": 9
+      },
+      {
+        "word": "added",
+        "frequency": 9
+      },
+      {
+        "word": "place",
+        "frequency": 9
+      },
+      {
+        "word": "stain",
+        "frequency": 9
+      },
+      {
+        "word": "ultimate",
+        "frequency": 9
+      },
+      {
+        "word": "relaxation",
+        "frequency": 9
+      },
+      {
+        "word": "prevent",
+        "frequency": 9
+      },
+      {
+        "word": "coating",
+        "frequency": 9
+      },
+      {
+        "word": "create",
+        "frequency": 9
+      },
+      {
+        "word": "diameter",
+        "frequency": 9
+      },
+      {
+        "word": "using",
+        "frequency": 9
+      },
+      {
+        "word": "fully",
+        "frequency": 9
+      },
+      {
+        "word": "equipped",
+        "frequency": 9
+      },
+      {
+        "word": "thickened",
+        "frequency": 8
+      },
+      {
+        "word": "aluminium",
+        "frequency": 8
+      },
+      {
+        "word": "market",
+        "frequency": 8
+      },
+      {
+        "word": "holds",
+        "frequency": 8
+      },
+      {
+        "word": "room",
+        "frequency": 8
+      },
+      {
+        "word": "effort",
+        "frequency": 8
+      },
+      {
+        "word": "looking",
+        "frequency": 8
+      },
+      {
+        "word": "ready",
+        "frequency": 8
+      },
+      {
+        "word": "assist",
+        "frequency": 8
+      },
+      {
+        "word": "these",
+        "frequency": 8
+      },
+      {
+        "word": "families",
+        "frequency": 8
+      },
+      {
+        "word": "enjoying",
+        "frequency": 8
+      },
+      {
+        "word": "lightweight",
+        "frequency": 8
+      },
+      {
+        "word": "additional",
+        "frequency": 8
+      },
+      {
+        "word": "cracking",
+        "frequency": 8
+      },
+      {
+        "word": "upkeep",
+        "frequency": 8
+      },
+      {
+        "word": "blend",
+        "frequency": 8
+      },
+      {
+        "word": "secure",
+        "frequency": 8
+      },
+      {
+        "word": "addition",
+        "frequency": 8
+      },
+      {
+        "word": "damp",
+        "frequency": 8
+      },
+      {
+        "word": "parties",
+        "frequency": 8
+      },
+      {
+        "word": "harsh",
+        "frequency": 8
+      },
+      {
+        "word": "instruction",
+        "frequency": 8
+      },
+      {
+        "word": "heavy",
+        "frequency": 8
+      },
+      {
+        "word": "tighten",
+        "frequency": 8
+      },
+      {
+        "word": "wrapped",
+        "frequency": 8
+      },
+      {
+        "word": "complements",
+        "frequency": 8
+      },
+      {
+        "word": "polyester",
+        "frequency": 8
+      },
+      {
+        "word": "package",
+        "frequency": 8
+      },
+      {
+        "word": "leg",
+        "frequency": 8
+      },
+      {
+        "word": "casual",
+        "frequency": 8
+      },
+      {
+        "word": "lb",
+        "frequency": 8
+      },
+      {
+        "word": "standard",
+        "frequency": 8
+      },
+      {
+        "word": "step-by-step",
+        "frequency": 8
+      },
+      {
+        "word": "guarantee",
+        "frequency": 8
+      },
+      {
+        "word": "multiple",
+        "frequency": 8
+      },
+      {
+        "word": "pcs",
+        "frequency": 7
+      },
+      {
+        "word": "tangkula",
+        "frequency": 7
+      },
+      {
+        "word": "fixed",
+        "frequency": 7
+      },
+      {
+        "word": "cast",
+        "frequency": 7
+      },
+      {
+        "word": "yefu",
+        "frequency": 7
+      },
+      {
+        "word": "rope",
+        "frequency": 7
+      },
+      {
+        "word": "blends",
+        "frequency": 7
+      },
+      {
+        "word": "measures",
+        "frequency": 7
+      },
+      {
+        "word": "screw",
+        "frequency": 7
+      },
+      {
+        "word": "performance",
+        "frequency": 7
+      },
+      {
+        "word": "require",
+        "frequency": 7
+      },
+      {
+        "word": "soap",
+        "frequency": 7
+      },
+      {
+        "word": "minimal",
+        "frequency": 7
+      },
+      {
+        "word": "concerns",
+        "frequency": 7
+      },
+      {
+        "word": "safe",
+        "frequency": 7
+      },
+      {
+        "word": "floor",
+        "frequency": 7
+      },
+      {
+        "word": "safety",
+        "frequency": 7
+      },
+      {
+        "word": "leisure",
+        "frequency": 7
+      },
+      {
+        "word": "tea",
+        "frequency": 7
+      },
+      {
+        "word": "problem",
+        "frequency": 7
+      },
+      {
+        "word": "fit",
+        "frequency": 7
+      },
+      {
+        "word": "position",
+        "frequency": 7
+      },
+      {
+        "word": "warm",
+        "frequency": 7
+      },
+      {
+        "word": "worry-free",
+        "frequency": 7
+      },
+      {
+        "word": "process",
+        "frequency": 7
+      },
+      {
+        "word": "shipped",
+        "frequency": 7
+      },
+      {
+        "word": "boasts",
+        "frequency": 7
+      },
+      {
+        "word": "enjoyment",
+        "frequency": 7
+      },
+      {
+        "word": "separately",
+        "frequency": 7
+      },
+      {
+        "word": "matching",
+        "frequency": 7
+      },
+      {
+        "word": "manual",
+        "frequency": 7
+      },
+      {
+        "word": "wider",
+        "frequency": 7
+      },
+      {
+        "word": "placed",
+        "frequency": 7
+      },
+      {
+        "word": "variety",
+        "frequency": 7
+      },
+      {
+        "word": "six",
+        "frequency": 7
+      },
+      {
+        "word": "perfectly",
+        "frequency": 7
+      },
+      {
+        "word": "products",
+        "frequency": 7
+      },
+      {
+        "word": "technology",
+        "frequency": 7
+      },
+      {
+        "word": "exposure",
+        "frequency": 7
+      },
+      {
+        "word": "functional",
+        "frequency": 7
+      },
+      {
+        "word": "beautifully",
+        "frequency": 7
+      },
+      {
+        "word": "handwoven",
+        "frequency": 7
+      },
+      {
+        "word": "foot",
+        "frequency": 7
+      },
+      {
+        "word": "pads",
+        "frequency": 7
+      },
+      {
+        "word": "living",
+        "frequency": 7
+      },
+      {
+        "word": "accessories",
+        "frequency": 7
+      },
+      {
+        "word": "note",
+        "frequency": 7
+      },
+      {
+        "word": "mesh",
+        "frequency": 7
+      },
+      {
+        "word": "oil",
+        "frequency": 7
+      },
+      {
+        "word": "additionally",
+        "frequency": 7
+      },
+      {
+        "word": "shape",
+        "frequency": 7
+      },
+      {
+        "word": "maximum",
+        "frequency": 7
+      },
+      {
+        "word": "phi",
+        "frequency": 6
+      },
+      {
+        "word": "villa",
+        "frequency": 6
+      },
+      {
+        "word": "slats",
+        "frequency": 6
+      },
+      {
+        "word": "slat",
+        "frequency": 6
+      },
+      {
+        "word": "olefin",
+        "frequency": 6
+      },
+      {
+        "word": "parasol",
+        "frequency": 6
+      },
+      {
+        "word": "longer",
+        "frequency": 6
+      },
+      {
+        "word": "lounzy",
+        "frequency": 6
+      },
+      {
+        "word": "appeal",
+        "frequency": 6
+      },
+      {
+        "word": "fresh",
+        "frequency": 6
+      },
+      {
+        "word": "satisfaction",
+        "frequency": 6
+      },
+      {
+        "word": "new",
+        "frequency": 6
+      },
+      {
+        "word": "care",
+        "frequency": 6
+      },
+      {
+        "word": "aesthetics",
+        "frequency": 6
+      },
+      {
+        "word": "mind",
+        "frequency": 6
+      },
+      {
+        "word": "relaxed",
+        "frequency": 6
+      },
+      {
+        "word": "spills",
+        "frequency": 6
+      },
+      {
+        "word": "hours",
+        "frequency": 6
+      },
+      {
+        "word": "combining",
+        "frequency": 6
+      },
+      {
+        "word": "textured",
+        "frequency": 6
+      },
+      {
+        "word": "elevate",
+        "frequency": 6
+      },
+      {
+        "word": "environments",
+        "frequency": 6
+      },
+      {
+        "word": "information",
+        "frequency": 6
+      },
+      {
+        "word": "load-bearing",
+        "frequency": 6
+      },
+      {
+        "word": "like",
+        "frequency": 6
+      },
+      {
+        "word": "protect",
+        "frequency": 6
+      },
+      {
+        "word": "stacked",
+        "frequency": 6
+      },
+      {
+        "word": "exquisite",
+        "frequency": 6
+      },
+      {
+        "word": "hot",
+        "frequency": 6
+      },
+      {
+        "word": "summer",
+        "frequency": 6
+      },
+      {
+        "word": "breeze",
+        "frequency": 6
+      },
+      {
+        "word": "naturally",
+        "frequency": 6
+      },
+      {
+        "word": "foam",
+        "frequency": 6
+      },
+      {
+        "word": "backrests",
+        "frequency": 6
+      },
+      {
+        "word": "besides",
+        "frequency": 6
+      },
+      {
+        "word": "great",
+        "frequency": 6
+      },
+      {
+        "word": "reduce",
+        "frequency": 6
+      },
+      {
+        "word": "rays",
+        "frequency": 6
+      },
+      {
+        "word": "labeled",
+        "frequency": 6
+      },
+      {
+        "word": "sponge",
+        "frequency": 6
+      },
+      {
+        "word": "overall",
+        "frequency": 6
+      },
+      {
+        "word": "securely",
+        "frequency": 6
+      },
+      {
+        "word": "max",
+        "frequency": 6
+      },
+      {
+        "word": "avoid",
+        "frequency": 6
+      },
+      {
+        "word": "gentle",
+        "frequency": 6
+      },
+      {
+        "word": "stress",
+        "frequency": 6
+      },
+      {
+        "word": "bistro",
+        "frequency": 5
+      },
+      {
+        "word": "woven",
+        "frequency": 5
+      },
+      {
+        "word": "hips",
+        "frequency": 5
+      },
+      {
+        "word": "luxury",
+        "frequency": 5
+      },
+      {
+        "word": "leaf",
+        "frequency": 5
+      },
+      {
+        "word": "kitchen",
+        "frequency": 5
+      },
+      {
+        "word": "faux",
+        "frequency": 5
+      },
+      {
+        "word": "combinations",
+        "frequency": 5
+      },
+      {
+        "word": "edges",
+        "frequency": 5
+      },
+      {
+        "word": "safer",
+        "frequency": 5
+      },
+      {
+        "word": "down",
+        "frequency": 5
+      },
+      {
+        "word": "replacement",
+        "frequency": 5
+      },
+      {
+        "word": "missing",
+        "frequency": 5
+      },
+      {
+        "word": "enhancing",
+        "frequency": 5
+      },
+      {
+        "word": "generous",
+        "frequency": 5
+      },
+      {
+        "word": "per",
+        "frequency": 5
+      },
+      {
+        "word": "moisture",
+        "frequency": 5
+      },
+      {
+        "word": "realistic",
+        "frequency": 5
+      },
+      {
+        "word": "seasons",
+        "frequency": 5
+      },
+      {
+        "word": "straightforward",
+        "frequency": 5
+      },
+      {
+        "word": "everyone",
+        "frequency": 5
+      },
+      {
+        "word": "times",
+        "frequency": 5
+      },
+      {
+        "word": "separate",
+        "frequency": 5
+      },
+      {
+        "word": "wobble-free",
+        "frequency": 5
+      },
+      {
+        "word": "widened",
+        "frequency": 5
+      },
+      {
+        "word": "sizes",
+        "frequency": 5
+      },
+      {
+        "word": "saves",
+        "frequency": 5
+      },
+      {
+        "word": "waist",
+        "frequency": 5
+      },
+      {
+        "word": "don",
+        "frequency": 5
+      },
+      {
+        "word": "selected",
+        "frequency": 5
+      },
+      {
+        "word": "breathability",
+        "frequency": 5
+      },
+      {
+        "word": "real",
+        "frequency": 5
+      },
+      {
+        "word": "requires",
+        "frequency": 5
+      },
+      {
+        "word": "backed",
+        "frequency": 5
+      },
+      {
+        "word": "prolonged",
+        "frequency": 5
+      },
+      {
+        "word": "range",
+        "frequency": 5
+      },
+      {
+        "word": "quick-drying",
+        "frequency": 5
+      },
+      {
+        "word": "high-performance",
+        "frequency": 5
+      },
+      {
+        "word": "fast",
+        "frequency": 5
+      },
+      {
+        "word": "application",
+        "frequency": 5
+      },
+      {
+        "word": "helps",
+        "frequency": 5
+      },
+      {
+        "word": "cotton",
+        "frequency": 5
+      },
+      {
+        "word": "pounds",
+        "frequency": 5
+      },
+      {
+        "word": "promptly",
+        "frequency": 5
+      },
+      {
+        "word": "bbqs",
+        "frequency": 5
+      },
+      {
+        "word": "drainage",
+        "frequency": 5
+      },
+      {
+        "word": "level",
+        "frequency": 5
+      },
+      {
+        "word": "step",
+        "frequency": 5
+      },
+      {
+        "word": "rotation",
+        "frequency": 5
+      },
+      {
+        "word": "measuring",
+        "frequency": 5
+      },
+      {
+        "word": "arrives",
+        "frequency": 5
+      },
+      {
+        "word": "part",
+        "frequency": 5
+      },
+      {
+        "word": "filled",
+        "frequency": 5
+      },
+      {
+        "word": "areas",
+        "frequency": 5
+      },
+      {
+        "word": "ecoating",
+        "frequency": 5
+      },
+      {
+        "word": "combines",
+        "frequency": 5
+      },
+      {
+        "word": "generously",
+        "frequency": 5
+      },
+      {
+        "word": "muscle",
+        "frequency": 5
+      },
+      {
+        "word": "tension",
+        "frequency": 5
+      },
+      {
+        "word": "plus",
+        "frequency": 5
+      },
+      {
+        "word": "deep",
+        "frequency": 5
+      },
+      {
+        "word": "refined",
+        "frequency": 5
+      },
+      {
+        "word": "hera",
+        "frequency": 4
+      },
+      {
+        "word": "house",
+        "frequency": 4
+      },
+      {
+        "word": "vicllax",
+        "frequency": 4
+      },
+      {
+        "word": "u-shaped",
+        "frequency": 4
+      },
+      {
+        "word": "home",
+        "frequency": 4
+      },
+      {
+        "word": "greenvines",
+        "frequency": 4
+      },
+      {
+        "word": "pillows",
+        "frequency": 4
+      },
+      {
+        "word": "tilt",
+        "frequency": 4
+      },
+      {
+        "word": "shelf",
+        "frequency": 4
+      },
+      {
+        "word": "panel",
+        "frequency": 4
+      },
+      {
+        "word": "contains",
+        "frequency": 4
+      },
+      {
+        "word": "partial",
+        "frequency": 4
+      },
+      {
+        "word": "video",
+        "frequency": 4
+      },
+      {
+        "word": "attn",
+        "frequency": 4
+      },
+      {
+        "word": "tightly",
+        "frequency": 4
+      },
+      {
+        "word": "finishing",
+        "frequency": 4
+      },
+      {
+        "word": "adapts",
+        "frequency": 4
+      },
+      {
+        "word": "priority",
+        "frequency": 4
+      },
+      {
+        "word": "sharp",
+        "frequency": 4
+      },
+      {
+        "word": "highlight",
+        "frequency": 4
+      },
+      {
+        "word": "damaged",
+        "frequency": 4
+      },
+      {
+        "word": "scratch",
+        "frequency": 4
+      },
+      {
+        "word": "lets",
+        "frequency": 4
+      },
+      {
+        "word": "remain",
+        "frequency": 4
+      },
+      {
+        "word": "pre-assembled",
+        "frequency": 4
+      },
+      {
+        "word": "components",
+        "frequency": 4
+      },
+      {
+        "word": "treated",
+        "frequency": 4
+      },
+      {
+        "word": "elastic",
+        "frequency": 4
+      },
+      {
+        "word": "ship",
+        "frequency": 4
+      },
+      {
+        "word": "reach",
+        "frequency": 4
+      },
+      {
+        "word": "protective",
+        "frequency": 4
+      },
+      {
+        "word": "condition",
+        "frequency": 4
+      },
+      {
+        "word": "transit",
+        "frequency": 4
+      },
+      {
+        "word": "immediately",
+        "frequency": 4
+      },
+      {
+        "word": "leisurely",
+        "frequency": 4
+      },
+      {
+        "word": "sophisticated",
+        "frequency": 4
+      },
+      {
+        "word": "sunlight",
+        "frequency": 4
+      },
+      {
+        "word": "intimate",
+        "frequency": 4
+      },
+      {
+        "word": "pleasant",
+        "frequency": 4
+      },
+      {
+        "word": "users",
+        "frequency": 4
+      },
+      {
+        "word": "types",
+        "frequency": 4
+      },
+      {
+        "word": "accumulation",
+        "frequency": 4
+      },
+      {
+        "word": "dry",
+        "frequency": 4
+      },
+      {
+        "word": "pristine",
+        "frequency": 4
+      },
+      {
+        "word": "teslin",
+        "frequency": 4
+      },
+      {
+        "word": "together",
+        "frequency": 4
+      },
+      {
+        "word": "length",
+        "frequency": 4
+      },
+      {
+        "word": "high-strength",
+        "frequency": 4
+      },
+      {
+        "word": "double-layer",
+        "frequency": 4
+      },
+      {
+        "word": "carefully",
+        "frequency": 4
+      },
+      {
+        "word": "good",
+        "frequency": 4
+      },
+      {
+        "word": "host",
+        "frequency": 4
+      },
+      {
+        "word": "gaps",
+        "frequency": 4
+      },
+      {
+        "word": "center",
+        "frequency": 4
+      },
+      {
+        "word": "online",
+        "frequency": 4
+      },
+      {
+        "word": "angle",
+        "frequency": 4
+      },
+      {
+        "word": "thoughtfully",
+        "frequency": 4
+      },
+      {
+        "word": "recommend",
+        "frequency": 4
+      },
+      {
+        "word": "rest",
+        "frequency": 4
+      },
+      {
+        "word": "assured",
+        "frequency": 4
+      },
+      {
+        "word": "rooms",
+        "frequency": 4
+      },
+      {
+        "word": "zippered",
+        "frequency": 4
+      },
+      {
+        "word": "hassle",
+        "frequency": 4
+      },
+      {
+        "word": "aging",
+        "frequency": 4
+      },
+      {
+        "word": "common",
+        "frequency": 4
+      },
+      {
+        "word": "non-slip",
+        "frequency": 4
+      },
+      {
+        "word": "practicality",
+        "frequency": 4
+      },
+      {
+        "word": "main",
+        "frequency": 4
+      },
+      {
+        "word": "detachable",
+        "frequency": 4
+      },
+      {
+        "word": "accommodates",
+        "frequency": 4
+      },
+      {
+        "word": "theme",
+        "frequency": 4
+      },
+      {
+        "word": "single",
+        "frequency": 4
+      },
+      {
+        "word": "stains",
+        "frequency": 4
+      },
+      {
+        "word": "maintains",
+        "frequency": 4
+      },
+      {
+        "word": "supported",
+        "frequency": 4
+      },
+      {
+        "word": "total",
+        "frequency": 4
+      },
+      {
+        "word": "cool",
+        "frequency": 4
+      },
+      {
+        "word": "chat",
+        "frequency": 4
+      },
+      {
+        "word": "game",
+        "frequency": 4
+      },
+      {
+        "word": "dia",
+        "frequency": 4
+      },
+      {
+        "word": "occasions",
+        "frequency": 4
+      },
+      {
+        "word": "re",
+        "frequency": 4
+      },
+      {
+        "word": "enhance",
+        "frequency": 4
+      },
+      {
+        "word": "upgraded",
+        "frequency": 4
+      },
+      {
+        "word": "allow",
+        "frequency": 4
+      },
+      {
+        "word": "memorable",
+        "frequency": 4
+      },
+      {
+        "word": "resilience",
+        "frequency": 4
+      },
+      {
+        "word": "option",
+        "frequency": 4
+      },
+      {
+        "word": "maintaining",
+        "frequency": 4
+      },
+      {
+        "word": "moreover",
+        "frequency": 4
+      },
+      {
+        "word": "prevents",
+        "frequency": 4
+      },
+      {
+        "word": "purchase",
+        "frequency": 4
+      },
+      {
+        "word": "stays",
+        "frequency": 4
+      },
+      {
+        "word": "keeping",
+        "frequency": 4
+      },
+      {
+        "word": "everything",
+        "frequency": 4
+      },
+      {
+        "word": "follow",
+        "frequency": 4
+      },
+      {
+        "word": "encounter",
+        "frequency": 4
+      },
+      {
+        "word": "depth",
+        "frequency": 4
+      },
+      {
+        "word": "upgrade",
+        "frequency": 4
+      },
+      {
+        "word": "well",
+        "frequency": 4
+      },
+      {
+        "word": "peel",
+        "frequency": 4
+      },
+      {
+        "word": "rot",
+        "frequency": 4
+      },
+      {
+        "word": "over",
+        "frequency": 4
+      },
+      {
+        "word": "outstanding",
+        "frequency": 4
+      },
+      {
+        "word": "effectively",
+        "frequency": 4
+      },
+      {
+        "word": "sized",
+        "frequency": 4
+      },
+      {
+        "word": "temperatures",
+        "frequency": 4
+      },
+      {
+        "word": "styles",
+        "frequency": 4
+      },
+      {
+        "word": "environment",
+        "frequency": 4
+      },
+      {
+        "word": "seamless",
+        "frequency": 4
+      },
+      {
+        "word": "longevity",
+        "frequency": 4
+      },
+      {
+        "word": "moving",
+        "frequency": 4
+      },
+      {
+        "word": "balance",
+        "frequency": 4
+      },
+      {
+        "word": "pattern",
+        "frequency": 4
+      },
+      {
+        "word": "advanced",
+        "frequency": 4
+      },
+      {
+        "word": "full",
+        "frequency": 4
+      },
+      {
+        "word": "warmth",
+        "frequency": 4
+      },
+      {
+        "word": "feeling",
+        "frequency": 4
+      },
+      {
+        "word": "comfy",
+        "frequency": 4
+      },
+      {
+        "word": "withstands",
+        "frequency": 4
+      },
+      {
+        "word": "gas",
+        "frequency": 4
+      },
+      {
+        "word": "firepit",
+        "frequency": 4
+      },
+      {
+        "word": "cut-out",
+        "frequency": 3
+      },
+      {
+        "word": "grand",
+        "frequency": 3
+      },
+      {
+        "word": "pamapic",
+        "frequency": 3
+      },
+      {
+        "word": "greesum",
+        "frequency": 3
+      },
+      {
+        "word": "mfstudio",
+        "frequency": 3
+      },
+      {
+        "word": "wrought",
+        "frequency": 3
+      },
+      {
+        "word": "e-coated",
+        "frequency": 3
+      },
+      {
+        "word": "push",
+        "frequency": 3
+      },
+      {
+        "word": "fire",
+        "frequency": 3
+      },
+      {
+        "word": "pit",
+        "frequency": 3
+      },
+      {
+        "word": "commercial",
+        "frequency": 3
+      },
+      {
+        "word": "grade",
+        "frequency": 3
+      },
+      {
+        "word": "washable",
+        "frequency": 3
+      },
+      {
+        "word": "recycled",
+        "frequency": 3
+      },
+      {
+        "word": "kids",
+        "frequency": 3
+      },
+      {
+        "word": "packaged",
+        "frequency": 3
+      },
+      {
+        "word": "enabling",
+        "frequency": 3
+      },
+      {
+        "word": "reliability",
+        "frequency": 3
+      },
+      {
+        "word": "prevention",
+        "frequency": 3
+      },
+      {
+        "word": "requiring",
+        "frequency": 3
+      },
+      {
+        "word": "customized",
+        "frequency": 3
+      },
+      {
+        "word": "individual",
+        "frequency": 3
+      },
+      {
+        "word": "committed",
+        "frequency": 3
+      },
+      {
+        "word": "children",
+        "frequency": 3
+      },
+      {
+        "word": "proof",
+        "frequency": 3
+      },
+      {
+        "word": "sweat",
+        "frequency": 3
+      },
+      {
+        "word": "glides",
+        "frequency": 3
+      },
+      {
+        "word": "removed",
+        "frequency": 3
+      },
+      {
+        "word": "save",
+        "frequency": 3
+      },
+      {
+        "word": "integrated",
+        "frequency": 3
+      },
+      {
+        "word": "versatility",
+        "frequency": 3
+      },
+      {
+        "word": "temperature",
+        "frequency": 3
+      },
+      {
+        "word": "recyclable",
+        "frequency": 3
+      },
+      {
+        "word": "eliminate",
+        "frequency": 3
+      },
+      {
+        "word": "sense",
+        "frequency": 3
+      },
+      {
+        "word": "foam-filled",
+        "frequency": 3
+      },
+      {
+        "word": "stronger",
+        "frequency": 3
+      },
+      {
+        "word": "raw",
+        "frequency": 3
+      },
+      {
+        "word": "patient",
+        "frequency": 3
+      },
+      {
+        "word": "solution",
+        "frequency": 3
+      },
+      {
+        "word": "alfresco",
+        "frequency": 3
+      },
+      {
+        "word": "enhances",
+        "frequency": 3
+      },
+      {
+        "word": "instant",
+        "frequency": 3
+      },
+      {
+        "word": "rinse",
+        "frequency": 3
+      },
+      {
+        "word": "middle",
+        "frequency": 3
+      },
+      {
+        "word": "align",
+        "frequency": 3
+      },
+      {
+        "word": "rotate",
+        "frequency": 3
+      },
+      {
+        "word": "rod",
+        "frequency": 3
+      },
+      {
+        "word": "adjust",
+        "frequency": 3
+      },
+      {
+        "word": "wait",
+        "frequency": 3
+      },
+      {
+        "word": "tips",
+        "frequency": 3
+      },
+      {
+        "word": "issues",
+        "frequency": 3
+      },
+      {
+        "word": "matter",
+        "frequency": 3
+      },
+      {
+        "word": "specially",
+        "frequency": 3
+      },
+      {
+        "word": "weighing",
+        "frequency": 3
+      },
+      {
+        "word": "having",
+        "frequency": 3
+      },
+      {
+        "word": "carry",
+        "frequency": 3
+      },
+      {
+        "word": "always",
+        "frequency": 3
+      },
+      {
+        "word": "exceptionally",
+        "frequency": 3
+      },
+      {
+        "word": "loads",
+        "frequency": 3
+      },
+      {
+        "word": "embossed",
+        "frequency": 3
+      },
+      {
+        "word": "receiving",
+        "frequency": 3
+      },
+      {
+        "word": "curve",
+        "frequency": 3
+      },
+      {
+        "word": "info",
+        "frequency": 3
+      },
+      {
+        "word": "box",
+        "frequency": 3
+      },
+      {
+        "word": "happy",
+        "frequency": 3
+      },
+      {
+        "word": "sunshine",
+        "frequency": 3
+      },
+      {
+        "word": "valley",
+        "frequency": 3
+      },
+      {
+        "word": "airflow",
+        "frequency": 3
+      },
+      {
+        "word": "limited",
+        "frequency": 3
+      },
+      {
+        "word": "fatigue",
+        "frequency": 3
+      },
+      {
+        "word": "pipe",
+        "frequency": 3
+      },
+      {
+        "word": "creating",
+        "frequency": 3
+      },
+      {
+        "word": "rainproof",
+        "frequency": 3
+      },
+      {
+        "word": "complement",
+        "frequency": 3
+      },
+      {
+        "word": "landscaping",
+        "frequency": 3
+      },
+      {
+        "word": "edge",
+        "frequency": 3
+      },
+      {
+        "word": "resist",
+        "frequency": 3
+      },
+      {
+        "word": "delivering",
+        "frequency": 3
+      },
+      {
+        "word": "brings",
+        "frequency": 3
+      },
+      {
+        "word": "problems",
+        "frequency": 3
+      },
+      {
+        "word": "solve",
+        "frequency": 3
+      },
+      {
+        "word": "play",
+        "frequency": 3
+      },
+      {
+        "word": "board",
+        "frequency": 3
+      },
+      {
+        "word": "shaded",
+        "frequency": 3
+      },
+      {
+        "word": "crossbars",
+        "frequency": 3
+      },
+      {
+        "word": "layer",
+        "frequency": 3
+      },
+      {
+        "word": "toughness",
+        "frequency": 3
+      },
+      {
+        "word": "density",
+        "frequency": 3
+      },
+      {
+        "word": "favorite",
+        "frequency": 3
+      },
+      {
+        "word": "rainy",
+        "frequency": 3
+      },
+      {
+        "word": "inviting",
+        "frequency": 3
+      },
+      {
+        "word": "moments",
+        "frequency": 3
+      },
+      {
+        "word": "remove",
+        "frequency": 3
+      },
+      {
+        "word": "polished",
+        "frequency": 3
+      },
+      {
+        "word": "renowned",
+        "frequency": 3
+      },
+      {
+        "word": "designs",
+        "frequency": 3
+      },
+      {
+        "word": "move",
+        "frequency": 3
+      },
+      {
+        "word": "minutes",
+        "frequency": 3
+      },
+      {
+        "word": "brunches",
+        "frequency": 3
+      },
+      {
+        "word": "washing",
+        "frequency": 3
+      },
+      {
+        "word": "adapt",
+        "frequency": 3
+      },
+      {
+        "word": "timeless",
+        "frequency": 3
+      },
+      {
+        "word": "clearly",
+        "frequency": 3
+      },
+      {
+        "word": "confidence",
+        "frequency": 3
+      },
+      {
+        "word": "load",
+        "frequency": 3
+      },
+      {
+        "word": "thoughtful",
+        "frequency": 3
+      },
+      {
+        "word": "chic",
+        "frequency": 3
+      },
+      {
+        "word": "collection",
+        "frequency": 3
+      },
+      {
+        "word": "stay",
+        "frequency": 3
+      },
+      {
+        "word": "oversized",
+        "frequency": 3
+      },
+      {
+        "word": "tube",
+        "frequency": 3
+      },
+      {
+        "word": "climate",
+        "frequency": 3
+      },
+      {
+        "word": "width",
+        "frequency": 3
+      },
+      {
+        "word": "sunshades",
+        "frequency": 3
+      },
+      {
+        "word": "wind",
+        "frequency": 3
+      },
+      {
+        "word": "duty",
+        "frequency": 3
+      },
+      {
+        "word": "transforms",
+        "frequency": 3
+      },
+      {
+        "word": "increases",
+        "frequency": 3
+      },
+      {
+        "word": "splinter",
+        "frequency": 3
+      },
+      {
+        "word": "chip",
+        "frequency": 3
+      },
+      {
+        "word": "climates",
+        "frequency": 3
+      },
+      {
+        "word": "coastal",
+        "frequency": 3
+      },
+      {
+        "word": "meets",
+        "frequency": 3
+      },
+      {
+        "word": "structural",
+        "frequency": 3
+      },
+      {
+        "word": "standards",
+        "frequency": 3
+      },
+      {
+        "word": "heat",
+        "frequency": 3
+      },
+      {
+        "word": "conversations",
+        "frequency": 3
+      },
+      {
+        "word": "prone",
+        "frequency": 3
+      },
+      {
+        "word": "combination",
+        "frequency": 3
+      },
+      {
+        "word": "available",
+        "frequency": 3
+      },
+      {
+        "word": "degrees",
+        "frequency": 3
+      },
+      {
+        "word": "bottom",
+        "frequency": 3
+      },
+      {
+        "word": "items",
+        "frequency": 3
+      },
+      {
+        "word": "extreme",
+        "frequency": 3
+      },
+      {
+        "word": "weights",
+        "frequency": 3
+      },
+      {
+        "word": "tip",
+        "frequency": 3
+      },
+      {
+        "word": "sturdiness",
+        "frequency": 3
+      },
+      {
+        "word": "ottomans",
+        "frequency": 3
+      },
+      {
+        "word": "those",
+        "frequency": 3
+      },
+      {
+        "word": "open",
+        "frequency": 3
+      },
+      {
+        "word": "motion",
+        "frequency": 3
+      },
+      {
+        "word": "hand",
+        "frequency": 3
+      },
+      {
+        "word": "protects",
+        "frequency": 3
+      },
+      {
+        "word": "function",
+        "frequency": 3
+      },
+      {
+        "word": "giving",
+        "frequency": 3
+      },
+      {
+        "word": "functionality",
+        "frequency": 3
+      },
+      {
+        "word": "pressure",
+        "frequency": 3
+      },
+      {
+        "word": "covered",
+        "frequency": 3
+      },
+      {
+        "word": "multipurpose",
+        "frequency": 3
+      },
+      {
+        "word": "passed",
+        "frequency": 3
+      },
+      {
+        "word": "expansive",
+        "frequency": 3
+      },
+      {
+        "word": "scenarios",
+        "frequency": 3
+      },
+      {
+        "word": "dine",
+        "frequency": 3
+      },
+      {
+        "word": "ll",
+        "frequency": 3
+      },
+      {
+        "word": "occasion",
+        "frequency": 3
+      },
+      {
+        "word": "warranty",
+        "frequency": 3
+      },
+      {
+        "word": "coffee",
+        "frequency": 3
+      },
+      {
+        "word": "lumber",
+        "frequency": 3
+      },
+      {
+        "word": "stands",
+        "frequency": 3
+      },
+      {
+        "word": "light",
+        "frequency": 3
+      },
+      {
+        "word": "ships",
+        "frequency": 3
+      },
+      {
+        "word": "useful",
+        "frequency": 3
+      },
+      {
+        "word": "central",
+        "frequency": 3
+      },
+      {
+        "word": "match",
+        "frequency": 3
+      },
+      {
+        "word": "benches",
+        "frequency": 3
+      }
+    ]
+  },
+  "top_100_keywords": [
+    {
+      "word": "dining",
+      "frequency": 732
+    },
+    {
+      "word": "patio",
+      "frequency": 552
+    },
+    {
+      "word": "table",
+      "frequency": 546
+    },
+    {
+      "word": "outdoor",
+      "frequency": 489
+    },
+    {
+      "word": "chairs",
+      "frequency": 392
+    },
+    {
+      "word": "umbrella",
+      "frequency": 214
+    },
+    {
+      "word": "sets",
+      "frequency": 168
+    },
+    {
+      "word": "hole",
+      "frequency": 160
+    },
+    {
+      "word": "furniture",
+      "frequency": 151
+    },
+    {
+      "word": "chair",
+      "frequency": 145
+    },
+    {
+      "word": "easy",
+      "frequency": 127
+    },
+    {
+      "word": "garden",
+      "frequency": 103
+    },
+    {
+      "word": "design",
+      "frequency": 97
+    },
+    {
+      "word": "piece",
+      "frequency": 96
+    },
+    {
+      "word": "wood",
+      "frequency": 96
+    },
+    {
+      "word": "hdpe",
+      "frequency": 91
+    },
+    {
+      "word": "backyard",
+      "frequency": 86
+    },
+    {
+      "word": "comfort",
+      "frequency": 86
+    },
+    {
+      "word": "metal",
+      "frequency": 83
+    },
+    {
+      "word": "frame",
+      "frequency": 83
+    },
+    {
+      "word": "space",
+      "frequency": 82
+    },
+    {
+      "word": "lbs",
+      "frequency": 78
+    },
+    {
+      "word": "features",
+      "frequency": 70
+    },
+    {
+      "word": "steel",
+      "frequency": 69
+    },
+    {
+      "word": "weather",
+      "frequency": 67
+    },
+    {
+      "word": "support",
+      "frequency": 66
+    },
+    {
+      "word": "seat",
+      "frequency": 65
+    },
+    {
+      "word": "assembly",
+      "frequency": 65
+    },
+    {
+      "word": "durable",
+      "frequency": 64
+    },
+    {
+      "word": "tabletop",
+      "frequency": 63
+    },
+    {
+      "word": "designed",
+      "frequency": 63
+    },
+    {
+      "word": "comfortable",
+      "frequency": 63
+    },
+    {
+      "word": "capacity",
+      "frequency": 63
+    },
+    {
+      "word": "perfect",
+      "frequency": 61
+    },
+    {
+      "word": "rattan",
+      "frequency": 58
+    },
+    {
+      "word": "fabric",
+      "frequency": 58
+    },
+    {
+      "word": "deck",
+      "frequency": 55
+    },
+    {
+      "word": "cushions",
+      "frequency": 55
+    },
+    {
+      "word": "includes",
+      "frequency": 55
+    },
+    {
+      "word": "weight",
+      "frequency": 54
+    },
+    {
+      "word": "sturdy",
+      "frequency": 54
+    },
+    {
+      "word": "ideal",
+      "frequency": 51
+    },
+    {
+      "word": "acacia",
+      "frequency": 49
+    },
+    {
+      "word": "family",
+      "frequency": 49
+    },
+    {
+      "word": "durability",
+      "frequency": 49
+    },
+    {
+      "word": "modern",
+      "frequency": 48
+    },
+    {
+      "word": "stability",
+      "frequency": 48
+    },
+    {
+      "word": "aluminum",
+      "frequency": 47
+    },
+    {
+      "word": "material",
+      "frequency": 47
+    },
+    {
+      "word": "poolside",
+      "frequency": 46
+    },
+    {
+      "word": "provide",
+      "frequency": 45
+    },
+    {
+      "word": "enjoy",
+      "frequency": 45
+    },
+    {
+      "word": "maintenance",
+      "frequency": 45
+    },
+    {
+      "word": "rust",
+      "frequency": 45
+    },
+    {
+      "word": "time",
+      "frequency": 45
+    },
+    {
+      "word": "textilene",
+      "frequency": 44
+    },
+    {
+      "word": "all-weather",
+      "frequency": 43
+    },
+    {
+      "word": "pieces",
+      "frequency": 42
+    },
+    {
+      "word": "resistant",
+      "frequency": 42
+    },
+    {
+      "word": "ergonomic",
+      "frequency": 41
+    },
+    {
+      "word": "premium",
+      "frequency": 41
+    },
+    {
+      "word": "cushion",
+      "frequency": 40
+    },
+    {
+      "word": "ensuring",
+      "frequency": 40
+    },
+    {
+      "word": "size",
+      "frequency": 39
+    },
+    {
+      "word": "stackable",
+      "frequency": 38
+    },
+    {
+      "word": "back",
+      "frequency": 37
+    },
+    {
+      "word": "seating",
+      "frequency": 37
+    },
+    {
+      "word": "clean",
+      "frequency": 37
+    },
+    {
+      "word": "black",
+      "frequency": 36
+    },
+    {
+      "word": "square",
+      "frequency": 36
+    },
+    {
+      "word": "swivel",
+      "frequency": 36
+    },
+    {
+      "word": "making",
+      "frequency": 36
+    },
+    {
+      "word": "lawn",
+      "frequency": 35
+    },
+    {
+      "word": "suitable",
+      "frequency": 35
+    },
+    {
+      "word": "instructions",
+      "frequency": 35
+    },
+    {
+      "word": "crafted",
+      "frequency": 35
+    },
+    {
+      "word": "providing",
+      "frequency": 34
+    },
+    {
+      "word": "water",
+      "frequency": 34
+    },
+    {
+      "word": "service",
+      "frequency": 34
+    },
+    {
+      "word": "gatherings",
+      "frequency": 34
+    },
+    {
+      "word": "please",
+      "frequency": 34
+    },
+    {
+      "word": "resistance",
+      "frequency": 34
+    },
+    {
+      "word": "included",
+      "frequency": 33
+    },
+    {
+      "word": "spacious",
+      "frequency": 33
+    },
+    {
+      "word": "shade",
+      "frequency": 33
+    },
+    {
+      "word": "breathable",
+      "frequency": 33
+    },
+    {
+      "word": "glass",
+      "frequency": 32
+    },
+    {
+      "word": "top",
+      "frequency": 32
+    },
+    {
+      "word": "wicker",
+      "frequency": 32
+    },
+    {
+      "word": "provides",
+      "frequency": 32
+    },
+    {
+      "word": "large",
+      "frequency": 31
+    },
+    {
+      "word": "experience",
+      "frequency": 31
+    },
+    {
+      "word": "meals",
+      "frequency": 30
+    },
+    {
+      "word": "surface",
+      "frequency": 30
+    },
+    {
+      "word": "porch",
+      "frequency": 29
+    },
+    {
+      "word": "soft",
+      "frequency": 29
+    },
+    {
+      "word": "backrest",
+      "frequency": 29
+    },
+    {
+      "word": "hardware",
+      "frequency": 29
+    },
+    {
+      "word": "rain",
+      "frequency": 29
+    },
+    {
+      "word": "round",
+      "frequency": 28
+    }
+  ]
+}
