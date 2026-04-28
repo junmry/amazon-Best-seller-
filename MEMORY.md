@@ -1,5 +1,70 @@
 # MEMORY.md - Long-Term Memory
 
+## 床垫产品 VAN拆词 + BSR埋词词库
+**Created:** 2026-04-28
+**Location:** `keyword_library/床垫_Mattress/`
+
+### 输入数据
+- 竞品拓词: 8,977个关键词（来自50个竞品ASIN）
+- BSR数据: Top 3产品（EGOHOME #79, Novilla #288, Zinus #342）
+
+### VAN分层结果
+| 层级 | 关键词数 | 总搜索量 | 代表词 |
+|------|---------|---------|--------|
+| L1 锚定层 | 67 | 2,025,541 | queen mattress (367K), full size mattress (246K), twin mattress (226K) |
+| L2 主战场 | 680 | 1,047,695 | queen mattress 14 inch, mattress bag, sleeping mat |
+| L3 验证区 | 7,068 | 9,438,887 | 大量bed frame词（不相关噪音） |
+| L5 探索区 | 1,162 | 0 | single mattress memory foam, 8 inch twin size mattress |
+
+### 15维度拆词覆盖
+| 维度 | 覆盖关键词 | 总搜索量 | Top属性词 |
+|------|-----------|---------|----------|
+| 尺寸 | 5,252 | 7,641,750 | queen (1,709次), twin (1,436次), king (1,037次) |
+| 类型 | 1,484 | 1,188,303 | memory foam (496次), foam (714次), hybrid (193次) |
+| 厚度 | 537 | 258,311 | 12 inch (102次), 4 inch (134次), 10 inch (80次) |
+| 硬度 | 445 | 214,401 | firm (274次), soft (73次), extra firm (66次) |
+| 功能特性 | 328 | 210,462 | cooling (126次), foldable (117次), portable (36次) |
+| 使用场景 | 1,327 | 1,629,182 | floor (240次), bunk bed (153次), camping (145次) |
+| 目标人群 | 589 | 647,352 | toddler (180次), kids (165次), adult (149次) |
+| 包装方式 | 80 | 70,655 | mattress in a box (58次) |
+| 材质面料 | 92 | 36,553 | bamboo (17次), organic (16次), fiberglass free (11次) |
+| 认证标准 | 4 | 4,917 | certipur-us, made in usa, oeko-tex |
+| 品牌 | 472 | 508,450 | nectar (109次), zinus (75次), ashley (49次) |
+| 价格定位 | 56 | 22,934 | cheap (32次), luxury (10次) |
+| 特殊功能 | 376 | 263,987 | adjustable (183次), storage (121次) |
+| 床架相关 | 1,289 | 3,226,621 | bed frame (976次) |
+| 竞争词 | 661 | 842,408 | top (618次), best (35次) |
+
+### 输出文件位置
+**主目录:** `keyword_library/床垫_Mattress/`
+| 子目录 | 文件 | 说明 |
+|--------|------|------|
+| 01_原始数据 | 竞品拓词_床垫_2026-04-28.xlsx | 原始拓词数据 |
+| 01_原始数据 | BSR床垫_Top3_2026-04-28.xlsx | 原始BSR数据 |
+| 02_拆词结果 | 床垫关键词拆词_完整层级V1.xlsx | **15维度完整拆词** |
+| 03_结构化词库 | 床垫埋词库.json | 结构化JSON词库 |
+| 04_埋词素材 | 床垫SEO关键词词库.txt/md | BSR高频词+维度词+埋词策略 |
+
+### 已入库
+✅ 类目清单已更新 (`keyword_library/_index/类目清单.md`)
+
+### BSR Top 3 产品高频词
+- **mattress** 24次, **foam** 18次, **sleep** 15次, **memory** 12次
+- **twin** 9次, **certified** 8次, **breathable** 8次, **cooling** 7次
+- **pressure** 7次, **support** 6次, **airflow** 6次, **gel** 5次
+
+### 埋词策略建议
+- **标题**: 品牌 + 尺寸 + 类型 + 厚度 + 核心功能 + 场景/人群
+- **五点**: 材质认证 → 功能特性 → 目标人群/场景 → 包装配送 → 售后保障
+- **后台**: 长尾组合 + 同义词变体 + 西班牙语变体 + 品牌防御词
+
+### 待优化
+- [ ] 竞品拓词中大量不相关词（tv, home, amazon basics）需要过滤
+- [ ] BSR只有3个产品，样本量偏小，建议补充更多BSR数据
+- [ ] 拆词维度词典可继续扩展
+
+---
+
 ## L级别投流词分层 — 全品类覆盖
 **Created:** 2026-04-24
 **参考标准:** Recliner ABA五层流量模型

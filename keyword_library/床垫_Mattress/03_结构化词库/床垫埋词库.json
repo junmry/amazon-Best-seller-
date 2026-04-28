@@ -1,0 +1,542 @@
+{
+  "尺寸": [
+    {
+      "word": "queen",
+      "volume": 398527,
+      "source": "queen bed frame"
+    },
+    {
+      "word": "king",
+      "volume": 230266,
+      "source": "king size bed frame"
+    },
+    {
+      "word": "twin",
+      "volume": 226351,
+      "source": "twin mattress"
+    },
+    {
+      "word": "full",
+      "volume": 246703,
+      "source": "full size mattress"
+    },
+    {
+      "word": "california king",
+      "volume": 27414,
+      "source": "california king bed frames"
+    },
+    {
+      "word": "crib",
+      "volume": 3323,
+      "source": "breathable crib mattress"
+    },
+    {
+      "word": "toddler",
+      "volume": 137151,
+      "source": "toddler bed"
+    },
+    {
+      "word": "single",
+      "volume": 4272,
+      "source": "single mattress"
+    },
+    {
+      "word": "double",
+      "volume": 3383,
+      "source": "double bed frame"
+    },
+    {
+      "word": "twin xl",
+      "volume": 27757,
+      "source": "twin xl mattress"
+    }
+  ],
+  "类型": [
+    {
+      "word": "memory foam",
+      "volume": 50551,
+      "source": "memory foam mattress topper"
+    },
+    {
+      "word": "innerspring",
+      "volume": 1212,
+      "source": "full size innerspring mattress"
+    },
+    {
+      "word": "hybrid",
+      "volume": 8797,
+      "source": "hybrid mattress queen"
+    },
+    {
+      "word": "latex",
+      "volume": 1126,
+      "source": "latex mattress"
+    },
+    {
+      "word": "gel",
+      "volume": 3106,
+      "source": "gel infused memory foam mattress topper"
+    },
+    {
+      "word": "spring",
+      "volume": 24404,
+      "source": "box spring for queen bed"
+    },
+    {
+      "word": "coil",
+      "volume": 2944,
+      "source": "hybrid mattresses with coils"
+    },
+    {
+      "word": "foam",
+      "volume": 50551,
+      "source": "memory foam mattress topper"
+    },
+    {
+      "word": "futon",
+      "volume": 18606,
+      "source": "futon mattress"
+    },
+    {
+      "word": "air mattress",
+      "volume": 23732,
+      "source": "twin air mattress"
+    }
+  ],
+  "厚度": [
+    {
+      "word": "4 inch",
+      "volume": 11651,
+      "source": "queen mattress 14 inch"
+    },
+    {
+      "word": "5 inch",
+      "volume": 2636,
+      "source": "samsung tv 65 inch"
+    },
+    {
+      "word": "6 inch",
+      "volume": 2606,
+      "source": "6 inch twin mattress"
+    },
+    {
+      "word": "8 inch",
+      "volume": 4429,
+      "source": "98 inch tv"
+    },
+    {
+      "word": "10 inch",
+      "volume": 6242,
+      "source": "twin mattress 10 inch"
+    },
+    {
+      "word": "12 inch",
+      "volume": 7702,
+      "source": "12 inch queen mattress"
+    },
+    {
+      "word": "14 inch",
+      "volume": 11651,
+      "source": "queen mattress 14 inch"
+    },
+    {
+      "word": "thin",
+      "volume": 5580,
+      "source": "most expensive thing on amazon"
+    },
+    {
+      "word": "thick",
+      "volume": 1949,
+      "source": "thick mattress topper"
+    }
+  ],
+  "硬度": [
+    {
+      "word": "firm",
+      "volume": 14267,
+      "source": "firm mattress topper"
+    },
+    {
+      "word": "medium firm",
+      "volume": 2101,
+      "source": "medium firm mattress queen"
+    },
+    {
+      "word": "medium",
+      "volume": 2101,
+      "source": "medium firm mattress queen"
+    },
+    {
+      "word": "plush",
+      "volume": 1929,
+      "source": "plush mattress topper"
+    },
+    {
+      "word": "soft",
+      "volume": 4282,
+      "source": "queen mattress soft"
+    },
+    {
+      "word": "extra firm",
+      "volume": 5585,
+      "source": "extra firm mattress topper"
+    },
+    {
+      "word": "pillow top",
+      "volume": 1308,
+      "source": "pillow top mattress"
+    }
+  ],
+  "功能": [
+    {
+      "word": "cooling",
+      "volume": 21484,
+      "source": "cooling mattress topper"
+    },
+    {
+      "word": "breathable",
+      "volume": 3323,
+      "source": "breathable crib mattress"
+    },
+    {
+      "word": "pressure relief",
+      "volume": 550,
+      "source": "pressure relief mattress topper"
+    },
+    {
+      "word": "motion isolation",
+      "volume": 0,
+      "source": "motion isolation queen mattress"
+    },
+    {
+      "word": "edge support",
+      "volume": 0,
+      "source": "queen mattress with edge support"
+    },
+    {
+      "word": "hypoallergenic",
+      "volume": 0,
+      "source": "hypoallergenic mattress"
+    },
+    {
+      "word": "foldable",
+      "volume": 15939,
+      "source": "foldable mattress"
+    },
+    {
+      "word": "portable",
+      "volume": 7747,
+      "source": "portable bed"
+    }
+  ],
+  "场景": [
+    {
+      "word": "bunk bed",
+      "volume": 35691,
+      "source": "bunk bed"
+    },
+    {
+      "word": "trundle bed",
+      "volume": 14166,
+      "source": "trundle bed twin"
+    },
+    {
+      "word": "daybed",
+      "volume": 49460,
+      "source": "daybed"
+    },
+    {
+      "word": "rv",
+      "volume": 5015,
+      "source": "rv mattress"
+    },
+    {
+      "word": "camping",
+      "volume": 22419,
+      "source": "camping mattress"
+    },
+    {
+      "word": "dorm",
+      "volume": 22949,
+      "source": "dorm room essentials for girls"
+    },
+    {
+      "word": "guest room",
+      "volume": 469,
+      "source": "guest room bed"
+    },
+    {
+      "word": "floor",
+      "volume": 27656,
+      "source": "japanese floor mattress"
+    },
+    {
+      "word": "platform bed",
+      "volume": 11338,
+      "source": "platform bed"
+    }
+  ],
+  "人群": [
+    {
+      "word": "kids",
+      "volume": 30292,
+      "source": "twin mattress for kids"
+    },
+    {
+      "word": "children",
+      "volume": 732,
+      "source": "delta children crib mattress"
+    },
+    {
+      "word": "toddler",
+      "volume": 137151,
+      "source": "toddler bed"
+    },
+    {
+      "word": "baby",
+      "volume": 4176,
+      "source": "baby mattress"
+    },
+    {
+      "word": "adult",
+      "volume": 11813,
+      "source": "camping cots for adults"
+    },
+    {
+      "word": "back pain",
+      "volume": 9474,
+      "source": "back pain relief products"
+    },
+    {
+      "word": "side sleeper",
+      "volume": 909,
+      "source": "side sleeper mattress"
+    },
+    {
+      "word": "heavy people",
+      "volume": 419,
+      "source": "bed frame for heavy people"
+    }
+  ],
+  "包装": [
+    {
+      "word": "mattress in a box",
+      "volume": 10752,
+      "source": "queen mattress in a box"
+    },
+    {
+      "word": "bed in a box",
+      "volume": 6914,
+      "source": "bed in a box"
+    },
+    {
+      "word": "compressed",
+      "volume": 141,
+      "source": "compressed mattress"
+    }
+  ],
+  "材质": [
+    {
+      "word": "bamboo",
+      "volume": 2530,
+      "source": "bamboo bed frame"
+    },
+    {
+      "word": "organic",
+      "volume": 1848,
+      "source": "organic mattress"
+    },
+    {
+      "word": "cotton",
+      "volume": 651,
+      "source": "cotton mattress"
+    },
+    {
+      "word": "fiberglass free",
+      "volume": 550,
+      "source": "fiberglass free mattress"
+    },
+    {
+      "word": "natural",
+      "volume": 469,
+      "source": "mellow naturalista classic 12-inch solid wood platform bed"
+    },
+    {
+      "word": "wool",
+      "volume": 262,
+      "source": "wool mattress"
+    }
+  ],
+  "认证": [
+    {
+      "word": "certipur-us",
+      "volume": 444,
+      "source": "certipur-us mattress"
+    },
+    {
+      "word": "oeko tex",
+      "volume": 1227,
+      "source": "oeko tex"
+    },
+    {
+      "word": "made in usa",
+      "volume": 1590,
+      "source": "made in usa"
+    }
+  ],
+  "品牌": [
+    {
+      "word": "zinus",
+      "volume": 11858,
+      "source": "zinus queen mattress"
+    },
+    {
+      "word": "novilla",
+      "volume": 5136,
+      "source": "novilla queen size mattress"
+    },
+    {
+      "word": "egohome",
+      "volume": 1348,
+      "source": "egohome mattress"
+    },
+    {
+      "word": "casper",
+      "volume": 3722,
+      "source": "casper"
+    },
+    {
+      "word": "purple",
+      "volume": 13833,
+      "source": "purple mattress"
+    },
+    {
+      "word": "nectar",
+      "volume": 72387,
+      "source": "nectar calm"
+    },
+    {
+      "word": "lucid",
+      "volume": 4676,
+      "source": "lucid mattress topper"
+    },
+    {
+      "word": "sealy",
+      "volume": 2242,
+      "source": "sealy mattress"
+    }
+  ],
+  "价格": [
+    {
+      "word": "cheap",
+      "volume": 1176,
+      "source": "cheap queen mattress"
+    },
+    {
+      "word": "budget",
+      "volume": 439,
+      "source": "budget mattress bags moving storage"
+    },
+    {
+      "word": "luxury",
+      "volume": 1121,
+      "source": "luxury bed frame"
+    },
+    {
+      "word": "premium",
+      "volume": 0,
+      "source": "premium furniture"
+    }
+  ],
+  "特殊功能": [
+    {
+      "word": "adjustable",
+      "volume": 15015,
+      "source": "adjustable bed frame"
+    },
+    {
+      "word": "storage",
+      "volume": 30772,
+      "source": "queen bed frame with storage"
+    },
+    {
+      "word": "split",
+      "volume": 2207,
+      "source": "split king adjustable bed frame"
+    },
+    {
+      "word": "waterproof",
+      "volume": 2409,
+      "source": "waterproof twin mattress protector"
+    },
+    {
+      "word": "massage",
+      "volume": 3434,
+      "source": "massage bed"
+    },
+    {
+      "word": "smart",
+      "volume": 1353,
+      "source": "smart bed"
+    },
+    {
+      "word": "heated",
+      "volume": 0,
+      "source": "heated queen size mattress pad"
+    }
+  ],
+  "床架": [
+    {
+      "word": "bed frame",
+      "volume": 398527,
+      "source": "queen bed frame"
+    },
+    {
+      "word": "platform bed",
+      "volume": 11338,
+      "source": "platform bed"
+    },
+    {
+      "word": "foundation",
+      "volume": 221303,
+      "source": "luxe foundation"
+    },
+    {
+      "word": "box spring",
+      "volume": 24404,
+      "source": "box spring for queen bed"
+    },
+    {
+      "word": "headboard",
+      "volume": 129690,
+      "source": "queen bed frame with headboard"
+    },
+    {
+      "word": "adjustable base",
+      "volume": 2005,
+      "source": "bed frame compatible with adjustable base"
+    }
+  ],
+  "竞争词": [
+    {
+      "word": "best",
+      "volume": 1585,
+      "source": "best mattress topper for back pain"
+    },
+    {
+      "word": "top",
+      "volume": 178939,
+      "source": "mattress topper"
+    },
+    {
+      "word": "review",
+      "volume": 202,
+      "source": "bedjet reviews"
+    },
+    {
+      "word": "5 star",
+      "volume": 0,
+      "source": "5 star air mattress"
+    }
+  ]
+}
