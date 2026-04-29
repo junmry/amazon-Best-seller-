@@ -1,5 +1,73 @@
 # MEMORY.md - Long-Term Memory
 
+## 热压机 Heat Press VAN拆词 + BSR埋词词库
+**Created:** 2026-04-29
+**Location:** `keyword_library/热压机_HeatPress/`
+
+### 输入数据
+- 竞品拓词: 2,062个关键词（来自50个竞品ASIN）
+- BSR数据: Top 3产品（Honoson #1, HTVRONT #2, Calogy #3）
+- 注意：BSR Top 3均为 **mini heat press**（迷你热压机），类目实际集中在小型热压设备
+
+### VAN分层结果
+| 层级 | 关键词数 | 总搜索量 | 代表词 |
+|------|---------|---------|--------|
+| L1 锚定层 | 300 | 889,391 | heat press for shirts (611), t shirt press (1,702), shirt press (1,524) |
+| L2 主战场 | 561 | 699,736 | heat press machine (1,272), cricut heat press (1,427), iron press (1,468) |
+| L3 验证区 | 1,201 | 314,810 | heat press machine for t shirts (539), mini heat press machine (367), hat press (228) |
+| L4 长尾区 | 0 | 0 | — |
+| L5 探索区 | 0 | 0 | — |
+
+> 注：热压机类目搜索量偏小，长尾词仍有搜索量，大部分关键词集中在L1-L3
+
+### 15维度拆词覆盖
+| 维度 | 覆盖关键词 | 总搜索量 | Top属性词 |
+|------|-----------|---------|----------|
+| 产品类型 | 398 | 343,422 | heat press, heat press machine, t shirt press, iron press |
+| 使用场景 | 408 | 278,815 | t shirts, hats, caps, pillows, crafts, bags, mugs |
+| 功能特性 | 356 | 238,946 | sublimation, vinyl, htv, heat transfer, temperature control |
+| 电源电压 | 380 | 262,608 | 110v, 220v, us plug, cord, cable |
+| 品牌 | 389 | 447,883 | cricut, htvront, vevor, teckwrap, siser |
+| 尺寸规格 | 237 | 162,080 | mini, small, portable, 12x10, 15x15, 9x9 |
+| 颜色 | 153 | 119,934 | white, black, pink, blue, mint, mint green |
+| 操作方式 | 107 | 57,064 | easy, portable, lightweight, one button, quick heat |
+| 配件套餐 | 99 | 50,873 | bundle, kit, starter kit, with accessories |
+| 工艺技术 | 40 | 22,386 | sublimation printing, dye sublimation, vinyl cutting |
+| 材质工艺 | 17 | 21,125 | teflon, ceramic, aluminum, stainless steel |
+| 温度设置 | 4 | 4,483 | 3 temp, adjustable temperature, 284℉, 320℉, 356℉ |
+| 目标人群 | 46 | 14,291 | beginner, crafter, diy, hobbyist, small business |
+| 竞争属性 | 35 | 11,971 | best, top, best seller, new, upgraded |
+| 价格定位 | 8 | 2,719 | cheap, affordable, budget, inexpensive |
+
+### 输出文件位置
+**主目录:** `keyword_library/热压机_HeatPress/`
+| 子目录 | 文件 | 说明 |
+|--------|------|------|
+| 01_原始数据 | 竞品拓词_热压机_2026-04-29.xlsx | 原始拓词数据 |
+| 01_原始数据 | BSR热压机_Top3_2026-04-29.xlsx | 原始BSR数据 |
+| 02_拆词结果 | 热压机关键词拆词_完整层级V1.xlsx | **15维度完整拆词** |
+| 03_结构化词库 | 热压机埋词库.json | 结构化JSON词库 |
+| 04_埋词素材 | 热压机SEO关键词词库.md | BSR高频词+维度词+埋词策略 |
+
+### BSR Top 3 产品高频词
+- **heat** 25次, **press** 24次, **mini** 17次, **iron** 16次, **small** 13次
+- **temp/temperature** 12/11次, **power** 11次, **machine** 11次, **projects** 10次
+- **size** 7次, **suitable** 7次, **easy** 7次, **craft** 6次, **transfer** 6次
+
+### 埋词策略建议
+- **标题**: 品牌 + 尺寸(mini/small/portable) + 核心产品(heat press machine) + 功能(3 temp settings) + 场景(t-shirts/crafts) + 颜色
+- **五点**: 尺寸温度 → 功能材质 → 目标人群场景 → 配件内容 → 售后保障
+- **后台**: 长尾组合 + 同义词变体 + 西班牙语变体(prensa de calor) + 品牌防御词
+
+### 关键发现
+- BSR Top 3全是 **mini heat press**，说明当前市场热款集中在小型便携设备
+- 搜索量最大的词：t shirt press (1,702), shirt press (1,524), cricut heat press (1,427)
+- 西班牙语词有显著流量：prensa de calor (308), prensa de calor para camisas (151)
+- 温度设置词极少（仅4个），但BSR产品都强调3档温度，说明是差异化卖点
+- 品牌词流量大（447K搜索量），Cricut dominates品牌心智
+
+---
+
 ## 床垫产品 VAN拆词 + BSR埋词词库
 **Created:** 2026-04-28
 **Location:** `keyword_library/床垫_Mattress/`

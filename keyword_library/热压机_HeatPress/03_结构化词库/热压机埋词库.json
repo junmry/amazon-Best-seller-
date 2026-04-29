@@ -1,0 +1,2251 @@
+{
+  "category": "热压机_HeatPress",
+  "created": "2026-04-29",
+  "source": {
+    "competitor_asins": 50,
+    "competitor_keywords": 2062,
+    "bsr_products": 3
+  },
+  "van_levels": {
+    "L1": {
+      "name": "锚定层",
+      "count": 300,
+      "total_search_volume": 889391,
+      "top_keywords": [
+        {
+          "keyword": "cricut",
+          "sv": 61818,
+          "rank": 3591
+        },
+        {
+          "keyword": "heat",
+          "sv": 60715,
+          "rank": 3713
+        },
+        {
+          "keyword": "dtf",
+          "sv": 56793,
+          "rank": 4182
+        },
+        {
+          "keyword": "heat press",
+          "sv": 52424,
+          "rank": 4893
+        },
+        {
+          "keyword": "iron on patches",
+          "sv": 50836,
+          "rank": 5204
+        },
+        {
+          "keyword": "printer paper 8.5 x 11 white amazon basics",
+          "sv": 50236,
+          "rank": 5334
+        },
+        {
+          "keyword": "vevor",
+          "sv": 31398,
+          "rank": 7529
+        },
+        {
+          "keyword": "dtf printer",
+          "sv": 31005,
+          "rank": 7696
+        },
+        {
+          "keyword": "iron for clothes",
+          "sv": 29585,
+          "rank": 8282
+        },
+        {
+          "keyword": "cricut maker 4",
+          "sv": 27909,
+          "rank": 9011
+        }
+      ]
+    },
+    "L2": {
+      "name": "主战场",
+      "count": 561,
+      "total_search_volume": 699736,
+      "top_keywords": [
+        {
+          "keyword": "craft kit",
+          "sv": 4929,
+          "rank": 68926
+        },
+        {
+          "keyword": "pink sweatshirt",
+          "sv": 4888,
+          "rank": 69503
+        },
+        {
+          "keyword": "cordless iron",
+          "sv": 4808,
+          "rank": 70723
+        },
+        {
+          "keyword": "cricut tools",
+          "sv": 4797,
+          "rank": 70862
+        },
+        {
+          "keyword": "cricut joy 2",
+          "sv": 4621,
+          "rank": 73858
+        },
+        {
+          "keyword": "transfer tape",
+          "sv": 4535,
+          "rank": 75364
+        },
+        {
+          "keyword": "automatic ironing machine",
+          "sv": 4484,
+          "rank": 76220
+        },
+        {
+          "keyword": "hat heat press",
+          "sv": 4454,
+          "rank": 76774
+        },
+        {
+          "keyword": "clothing iron",
+          "sv": 4444,
+          "rank": 76942
+        },
+        {
+          "keyword": "heat gun for crafting",
+          "sv": 4348,
+          "rank": 78792
+        }
+      ]
+    },
+    "L3": {
+      "name": "验证区",
+      "count": 1201,
+      "total_search_volume": 314810,
+      "top_keywords": [
+        {
+          "keyword": "vevor press tool",
+          "sv": 499,
+          "rank": 735165
+        },
+        {
+          "keyword": "blanks for cricut projects",
+          "sv": 494,
+          "rank": 742882
+        },
+        {
+          "keyword": "girly iron on patches",
+          "sv": 494,
+          "rank": 742882
+        },
+        {
+          "keyword": "blank koozies for heat press",
+          "sv": 494,
+          "rank": 742882
+        },
+        {
+          "keyword": "toddler iron",
+          "sv": 494,
+          "rank": 742882
+        },
+        {
+          "keyword": "large heat press",
+          "sv": 489,
+          "rank": 750712
+        },
+        {
+          "keyword": "hand iron",
+          "sv": 489,
+          "rank": 750712
+        },
+        {
+          "keyword": "small steam iron",
+          "sv": 489,
+          "rank": 750712
+        },
+        {
+          "keyword": "better iron",
+          "sv": 489,
+          "rank": 750712
+        },
+        {
+          "keyword": "paper press",
+          "sv": 489,
+          "rank": 750712
+        }
+      ]
+    },
+    "L4": {
+      "name": "长尾区",
+      "count": 0,
+      "total_search_volume": 0,
+      "top_keywords": []
+    },
+    "L5": {
+      "name": "探索区",
+      "count": 0,
+      "total_search_volume": 0,
+      "top_keywords": []
+    }
+  },
+  "dimensions": {
+    "尺寸规格": {
+      "count": 237,
+      "total_search_volume": 162080,
+      "top_attributes": [
+        {
+          "word": "mini",
+          "weighted_sv": 99784
+        },
+        {
+          "word": "small",
+          "weighted_sv": 33093
+        },
+        {
+          "word": "15x15",
+          "weighted_sv": 14018
+        },
+        {
+          "word": "portable",
+          "weighted_sv": 9866
+        },
+        {
+          "word": "12x12",
+          "weighted_sv": 3618
+        },
+        {
+          "word": "tiny",
+          "weighted_sv": 3310
+        },
+        {
+          "word": "16x20",
+          "weighted_sv": 1544
+        },
+        {
+          "word": "16x24",
+          "weighted_sv": 1312
+        },
+        {
+          "word": "large",
+          "weighted_sv": 1271
+        },
+        {
+          "word": "38x38",
+          "weighted_sv": 868
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "mini iron",
+          "sv": 16898,
+          "rank": 17223
+        },
+        {
+          "keyword": "mini flat iron",
+          "sv": 10292,
+          "rank": 30802
+        },
+        {
+          "keyword": "mini sewing machine",
+          "sv": 8126,
+          "rank": 40175
+        },
+        {
+          "keyword": "small iron",
+          "sv": 7338,
+          "rank": 44864
+        },
+        {
+          "keyword": "mini heat press",
+          "sv": 5803,
+          "rank": 57867
+        },
+        {
+          "keyword": "small heater",
+          "sv": 5646,
+          "rank": 59554
+        },
+        {
+          "keyword": "travel iron mini with steam",
+          "sv": 3671,
+          "rank": 94174
+        },
+        {
+          "keyword": "portable iron",
+          "sv": 3611,
+          "rank": 95857
+        },
+        {
+          "keyword": "small beads",
+          "sv": 3489,
+          "rank": 99400
+        },
+        {
+          "keyword": "mini steam iron",
+          "sv": 3353,
+          "rank": 103622
+        },
+        {
+          "keyword": "mini iron for crafts",
+          "sv": 2893,
+          "rank": 121213
+        },
+        {
+          "keyword": "heat press 15x15",
+          "sv": 2535,
+          "rank": 139097
+        },
+        {
+          "keyword": "small flat irons for short hair",
+          "sv": 2378,
+          "rank": 148796
+        },
+        {
+          "keyword": "mini travel iron",
+          "sv": 2020,
+          "rank": 176272
+        },
+        {
+          "keyword": "cricut mat 12x12",
+          "sv": 1979,
+          "rank": 180030
+        },
+        {
+          "keyword": "mini impresora portátil",
+          "sv": 1914,
+          "rank": 186446
+        },
+        {
+          "keyword": "mini iron for sewing",
+          "sv": 1888,
+          "rank": 189038
+        },
+        {
+          "keyword": "mini tools",
+          "sv": 1873,
+          "rank": 190616
+        },
+        {
+          "keyword": "small iron for sewing",
+          "sv": 1651,
+          "rank": 217299
+        },
+        {
+          "keyword": "cricut mini heat press",
+          "sv": 1601,
+          "rank": 224490
+        }
+      ]
+    },
+    "产品类型": {
+      "count": 398,
+      "total_search_volume": 343422,
+      "top_attributes": [
+        {
+          "word": "heat press",
+          "weighted_sv": 182083
+        },
+        {
+          "word": "heat transfer",
+          "weighted_sv": 59722
+        },
+        {
+          "word": "heat press machine",
+          "weighted_sv": 35230
+        },
+        {
+          "word": "mini iron",
+          "weighted_sv": 29588
+        },
+        {
+          "word": "hat press",
+          "weighted_sv": 17121
+        },
+        {
+          "word": "flat iron",
+          "weighted_sv": 16822
+        },
+        {
+          "word": "shirt press",
+          "weighted_sv": 15036
+        },
+        {
+          "word": "screen printing",
+          "weighted_sv": 5724
+        },
+        {
+          "word": "craft iron",
+          "weighted_sv": 5426
+        },
+        {
+          "word": "tshirt press",
+          "weighted_sv": 4181
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "heat press",
+          "sv": 52424,
+          "rank": 4893
+        },
+        {
+          "keyword": "mini iron",
+          "sv": 16898,
+          "rank": 17223
+        },
+        {
+          "keyword": "heat press machine for t shirts",
+          "sv": 15661,
+          "rank": 18885
+        },
+        {
+          "keyword": "mini flat iron",
+          "sv": 10292,
+          "rank": 30802
+        },
+        {
+          "keyword": "heat transfer vinyl",
+          "sv": 9691,
+          "rank": 33024
+        },
+        {
+          "keyword": "cricut heat press",
+          "sv": 8964,
+          "rank": 35993
+        },
+        {
+          "keyword": "heat press machine",
+          "sv": 8959,
+          "rank": 36024
+        },
+        {
+          "keyword": "hat press",
+          "sv": 8888,
+          "rank": 36362
+        },
+        {
+          "keyword": "htvront heat transfer vinyl",
+          "sv": 6545,
+          "rank": 50800
+        },
+        {
+          "keyword": "teflon sheets for heat press",
+          "sv": 6429,
+          "rank": 51829
+        },
+        {
+          "keyword": "mini heat press",
+          "sv": 5803,
+          "rank": 57867
+        },
+        {
+          "keyword": "htvront heat press",
+          "sv": 5095,
+          "rank": 66514
+        },
+        {
+          "keyword": "hat heat press",
+          "sv": 4454,
+          "rank": 76774
+        },
+        {
+          "keyword": "siser easyweed heat transfer vinyl",
+          "sv": 4272,
+          "rank": 80293
+        },
+        {
+          "keyword": "shirt press machine",
+          "sv": 3722,
+          "rank": 92899
+        },
+        {
+          "keyword": "screen printing machine",
+          "sv": 3666,
+          "rank": 94288
+        },
+        {
+          "keyword": "hat press heat machine for caps",
+          "sv": 3661,
+          "rank": 94429
+        },
+        {
+          "keyword": "mini iron for crafts",
+          "sv": 2893,
+          "rank": 121213
+        },
+        {
+          "keyword": "transfer paper for t shirts heat press",
+          "sv": 2757,
+          "rank": 127549
+        },
+        {
+          "keyword": "heat press machines",
+          "sv": 2540,
+          "rank": 138822
+        }
+      ]
+    },
+    "功能特性": {
+      "count": 356,
+      "total_search_volume": 238946,
+      "top_attributes": [
+        {
+          "word": "vinyl",
+          "weighted_sv": 97371
+        },
+        {
+          "word": "sublimation",
+          "weighted_sv": 90552
+        },
+        {
+          "word": "htv",
+          "weighted_sv": 54705
+        },
+        {
+          "word": "heat transfer vinyl",
+          "weighted_sv": 46421
+        },
+        {
+          "word": "transfer tape",
+          "weighted_sv": 17412
+        },
+        {
+          "word": "transfer paper",
+          "weighted_sv": 6941
+        },
+        {
+          "word": "infusible ink",
+          "weighted_sv": 3709
+        },
+        {
+          "word": "permanent vinyl",
+          "weighted_sv": 742
+        },
+        {
+          "word": "rotating",
+          "weighted_sv": 131
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "sublimation printers",
+          "sv": 15772,
+          "rank": 18743
+        },
+        {
+          "keyword": "transfer tape for vinyl",
+          "sv": 12323,
+          "rank": 25157
+        },
+        {
+          "keyword": "heat transfer vinyl",
+          "sv": 9691,
+          "rank": 33024
+        },
+        {
+          "keyword": "sublimation tumblers",
+          "sv": 9343,
+          "rank": 34374
+        },
+        {
+          "keyword": "sublimation printer",
+          "sv": 8651,
+          "rank": 37430
+        },
+        {
+          "keyword": "sublimation",
+          "sv": 8550,
+          "rank": 37937
+        },
+        {
+          "keyword": "iron on vinyl",
+          "sv": 8434,
+          "rank": 38543
+        },
+        {
+          "keyword": "htvront heat transfer vinyl",
+          "sv": 6545,
+          "rank": 50800
+        },
+        {
+          "keyword": "htvront heat press",
+          "sv": 5095,
+          "rank": 66514
+        },
+        {
+          "keyword": "transfer tape",
+          "sv": 4535,
+          "rank": 75364
+        },
+        {
+          "keyword": "siser easyweed heat transfer vinyl",
+          "sv": 4272,
+          "rank": 80293
+        },
+        {
+          "keyword": "sublimation mugs",
+          "sv": 3959,
+          "rank": 87069
+        },
+        {
+          "keyword": "sublimation shirts",
+          "sv": 3828,
+          "rank": 90205
+        },
+        {
+          "keyword": "htv",
+          "sv": 2848,
+          "rank": 123224
+        },
+        {
+          "keyword": "transfer paper for t shirts heat press",
+          "sv": 2757,
+          "rank": 127549
+        },
+        {
+          "keyword": "htvront",
+          "sv": 2722,
+          "rank": 129248
+        },
+        {
+          "keyword": "epson f170 sublimation printer",
+          "sv": 2590,
+          "rank": 136018
+        },
+        {
+          "keyword": "printable heat transfer vinyl",
+          "sv": 2464,
+          "rank": 143311
+        },
+        {
+          "keyword": "black htv",
+          "sv": 2277,
+          "rank": 155670
+        },
+        {
+          "keyword": "weeding tools for vinyl",
+          "sv": 2262,
+          "rank": 156724
+        }
+      ]
+    },
+    "温度设置": {
+      "count": 4,
+      "total_search_volume": 4483,
+      "top_attributes": [
+        {
+          "word": "170",
+          "weighted_sv": 4271
+        },
+        {
+          "word": "celsius",
+          "weighted_sv": 212
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "epson f170 sublimation printer",
+          "sv": 2590,
+          "rank": 136018
+        },
+        {
+          "keyword": "epson f170",
+          "sv": 1479,
+          "rank": 243553
+        },
+        {
+          "keyword": "celsius heat",
+          "sv": 212,
+          "rank": 1739721
+        },
+        {
+          "keyword": "impresora de sublimación epson f170",
+          "sv": 202,
+          "rank": 1824785
+        }
+      ]
+    },
+    "使用场景": {
+      "count": 408,
+      "total_search_volume": 278815,
+      "top_attributes": [
+        {
+          "word": "shirt",
+          "weighted_sv": 96943
+        },
+        {
+          "word": "hat",
+          "weighted_sv": 74998
+        },
+        {
+          "word": "mug",
+          "weighted_sv": 51573
+        },
+        {
+          "word": "mugs",
+          "weighted_sv": 29194
+        },
+        {
+          "word": "t shirts",
+          "weighted_sv": 26243
+        },
+        {
+          "word": "fabric",
+          "weighted_sv": 13339
+        },
+        {
+          "word": "hats",
+          "weighted_sv": 12299
+        },
+        {
+          "word": "cap",
+          "weighted_sv": 9271
+        },
+        {
+          "word": "clothing",
+          "weighted_sv": 8637
+        },
+        {
+          "word": "case",
+          "weighted_sv": 5920
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "mugs",
+          "sv": 17398,
+          "rank": 16634
+        },
+        {
+          "keyword": "heat press machine for t shirts",
+          "sv": 15661,
+          "rank": 18885
+        },
+        {
+          "keyword": "fabric cutter",
+          "sv": 10040,
+          "rank": 31663
+        },
+        {
+          "keyword": "hat press",
+          "sv": 8888,
+          "rank": 36362
+        },
+        {
+          "keyword": "hat stretcher",
+          "sv": 7186,
+          "rank": 45922
+        },
+        {
+          "keyword": "custom mug",
+          "sv": 5994,
+          "rank": 55876
+        },
+        {
+          "keyword": "pink sweatshirt",
+          "sv": 4888,
+          "rank": 69503
+        },
+        {
+          "keyword": "hat heat press",
+          "sv": 4454,
+          "rank": 76774
+        },
+        {
+          "keyword": "clothing iron",
+          "sv": 4444,
+          "rank": 76942
+        },
+        {
+          "keyword": "hat shaper",
+          "sv": 4176,
+          "rank": 82260
+        },
+        {
+          "keyword": "sublimation mugs",
+          "sv": 3959,
+          "rank": 87069
+        },
+        {
+          "keyword": "sublimation shirts",
+          "sv": 3828,
+          "rank": 90205
+        },
+        {
+          "keyword": "shirt press machine",
+          "sv": 3722,
+          "rank": 92899
+        },
+        {
+          "keyword": "hat press heat machine for caps",
+          "sv": 3661,
+          "rank": 94429
+        },
+        {
+          "keyword": "hat stretcher for fitted hats",
+          "sv": 3499,
+          "rank": 99099
+        },
+        {
+          "keyword": "hat steamer",
+          "sv": 3151,
+          "rank": 110715
+        },
+        {
+          "keyword": "heated coffee mug",
+          "sv": 3090,
+          "rank": 113010
+        },
+        {
+          "keyword": "transfer paper for t shirts heat press",
+          "sv": 2757,
+          "rank": 127549
+        },
+        {
+          "keyword": "tshirt printing machine",
+          "sv": 2222,
+          "rank": 159697
+        },
+        {
+          "keyword": "hat cleaner machine",
+          "sv": 2085,
+          "rank": 170504
+        }
+      ]
+    },
+    "目标人群": {
+      "count": 46,
+      "total_search_volume": 14291,
+      "top_attributes": [
+        {
+          "word": "kids",
+          "weighted_sv": 4426
+        },
+        {
+          "word": "men",
+          "weighted_sv": 3864
+        },
+        {
+          "word": "adult",
+          "weighted_sv": 2109
+        },
+        {
+          "word": "starter",
+          "weighted_sv": 1885
+        },
+        {
+          "word": "starter kit",
+          "weighted_sv": 1885
+        },
+        {
+          "word": "adults",
+          "weighted_sv": 1867
+        },
+        {
+          "word": "diy",
+          "weighted_sv": 1079
+        },
+        {
+          "word": "beginner",
+          "weighted_sv": 550
+        },
+        {
+          "word": "beginners",
+          "weighted_sv": 550
+        },
+        {
+          "word": "women",
+          "weighted_sv": 519
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "water beads for kids",
+          "sv": 2414,
+          "rank": 146524
+        },
+        {
+          "keyword": "craft supplies for adults",
+          "sv": 1328,
+          "rank": 271850
+        },
+        {
+          "keyword": "parchment paper for heat press",
+          "sv": 707,
+          "rank": 517171
+        },
+        {
+          "keyword": "shirt measurement tool for heat press",
+          "sv": 646,
+          "rank": 566348
+        },
+        {
+          "keyword": "direct to garment printer",
+          "sv": 616,
+          "rank": 594581
+        },
+        {
+          "keyword": "mini sewing machine for beginners",
+          "sv": 550,
+          "rank": 666664
+        },
+        {
+          "keyword": "t shirt printer starter kit",
+          "sv": 530,
+          "rank": 692372
+        },
+        {
+          "keyword": "iron beads for kids kit",
+          "sv": 520,
+          "rank": 706156
+        },
+        {
+          "keyword": "diy phone case kit",
+          "sv": 489,
+          "rank": 750712
+        },
+        {
+          "keyword": "kids white tshirts for tie dye",
+          "sv": 464,
+          "rank": 791848
+        },
+        {
+          "keyword": "melting beads for kids crafts",
+          "sv": 454,
+          "rank": 809646
+        },
+        {
+          "keyword": "t shirt business starter kit",
+          "sv": 393,
+          "rank": 934761
+        },
+        {
+          "keyword": "gifts for crafters",
+          "sv": 378,
+          "rank": 972626
+        },
+        {
+          "keyword": "tshirt measurement tool for heat press",
+          "sv": 338,
+          "rank": 1090519
+        },
+        {
+          "keyword": "diy shirt",
+          "sv": 303,
+          "rank": 1218823
+        },
+        {
+          "keyword": "akeydiy heat press",
+          "sv": 287,
+          "rank": 1283798
+        },
+        {
+          "keyword": "funny iron on patches for adults",
+          "sv": 277,
+          "rank": 1330611
+        },
+        {
+          "keyword": "tshirt alignment tool",
+          "sv": 272,
+          "rank": 1355467
+        },
+        {
+          "keyword": "crafting supplies for adults",
+          "sv": 262,
+          "rank": 1407940
+        },
+        {
+          "keyword": "kids bead kit",
+          "sv": 247,
+          "rank": 1493639
+        }
+      ]
+    },
+    "品牌": {
+      "count": 389,
+      "total_search_volume": 447883,
+      "top_attributes": [
+        {
+          "word": "cricut",
+          "weighted_sv": 275249
+        },
+        {
+          "word": "sublimation",
+          "weighted_sv": 90552
+        },
+        {
+          "word": "vevor",
+          "weighted_sv": 44183
+        },
+        {
+          "word": "htvront",
+          "weighted_sv": 20132
+        },
+        {
+          "word": "siser",
+          "weighted_sv": 7555
+        },
+        {
+          "word": "epson",
+          "weighted_sv": 7179
+        },
+        {
+          "word": "brother",
+          "weighted_sv": 4660
+        },
+        {
+          "word": "teckwrap",
+          "weighted_sv": 1827
+        },
+        {
+          "word": "sawgrass",
+          "weighted_sv": 1423
+        },
+        {
+          "word": "fancierstudio",
+          "weighted_sv": 964
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "cricut",
+          "sv": 61818,
+          "rank": 3591
+        },
+        {
+          "keyword": "vevor",
+          "sv": 31398,
+          "rank": 7529
+        },
+        {
+          "keyword": "cricut maker 4",
+          "sv": 27909,
+          "rank": 9011
+        },
+        {
+          "keyword": "cricut accessories",
+          "sv": 17156,
+          "rank": 16922
+        },
+        {
+          "keyword": "cricut mat",
+          "sv": 16818,
+          "rank": 17329
+        },
+        {
+          "keyword": "sublimation printers",
+          "sv": 15772,
+          "rank": 18743
+        },
+        {
+          "keyword": "cricut machine",
+          "sv": 13499,
+          "rank": 22578
+        },
+        {
+          "keyword": "cricut joy",
+          "sv": 12424,
+          "rank": 24893
+        },
+        {
+          "keyword": "sublimation tumblers",
+          "sv": 9343,
+          "rank": 34374
+        },
+        {
+          "keyword": "cricut heat press",
+          "sv": 8964,
+          "rank": 35993
+        },
+        {
+          "keyword": "sublimation printer",
+          "sv": 8651,
+          "rank": 37430
+        },
+        {
+          "keyword": "sublimation",
+          "sv": 8550,
+          "rank": 37937
+        },
+        {
+          "keyword": "htvront heat transfer vinyl",
+          "sv": 6545,
+          "rank": 50800
+        },
+        {
+          "keyword": "cricut maker 3",
+          "sv": 6368,
+          "rank": 52371
+        },
+        {
+          "keyword": "cricut maker",
+          "sv": 5999,
+          "rank": 55828
+        },
+        {
+          "keyword": "cricut explore 5",
+          "sv": 5252,
+          "rank": 64361
+        },
+        {
+          "keyword": "htvront heat press",
+          "sv": 5095,
+          "rank": 66514
+        },
+        {
+          "keyword": "cricut tools",
+          "sv": 4797,
+          "rank": 70862
+        },
+        {
+          "keyword": "cricut joy 2",
+          "sv": 4621,
+          "rank": 73858
+        },
+        {
+          "keyword": "siser easyweed heat transfer vinyl",
+          "sv": 4272,
+          "rank": 80293
+        }
+      ]
+    },
+    "颜色": {
+      "count": 153,
+      "total_search_volume": 119934,
+      "top_attributes": [
+        {
+          "word": "white",
+          "weighted_sv": 58565
+        },
+        {
+          "word": "green",
+          "weighted_sv": 14738
+        },
+        {
+          "word": "pink",
+          "weighted_sv": 12873
+        },
+        {
+          "word": "black",
+          "weighted_sv": 7851
+        },
+        {
+          "word": "gold",
+          "weighted_sv": 6151
+        },
+        {
+          "word": "blue",
+          "weighted_sv": 4891
+        },
+        {
+          "word": "red",
+          "weighted_sv": 4742
+        },
+        {
+          "word": "orange",
+          "weighted_sv": 2728
+        },
+        {
+          "word": "purple",
+          "weighted_sv": 2708
+        },
+        {
+          "word": "yellow",
+          "weighted_sv": 1966
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "printer paper 8.5 x 11 white amazon basics",
+          "sv": 50236,
+          "rank": 5334
+        },
+        {
+          "keyword": "green machine",
+          "sv": 11999,
+          "rank": 25934
+        },
+        {
+          "keyword": "pink sweatshirt",
+          "sv": 4888,
+          "rank": 69503
+        },
+        {
+          "keyword": "black htv",
+          "sv": 2277,
+          "rank": 155670
+        },
+        {
+          "keyword": "white heat transfer vinyl",
+          "sv": 1944,
+          "rank": 183468
+        },
+        {
+          "keyword": "gold iron on vinyl",
+          "sv": 1499,
+          "rank": 240176
+        },
+        {
+          "keyword": "black heat transfer vinyl",
+          "sv": 1439,
+          "rank": 250473
+        },
+        {
+          "keyword": "white glitter htv",
+          "sv": 1232,
+          "rank": 293445
+        },
+        {
+          "keyword": "white htv heat transfer vinyl",
+          "sv": 1222,
+          "rank": 295894
+        },
+        {
+          "keyword": "gold htv",
+          "sv": 1207,
+          "rank": 299722
+        },
+        {
+          "keyword": "red htv",
+          "sv": 1176,
+          "rank": 307647
+        },
+        {
+          "keyword": "pink iron",
+          "sv": 1060,
+          "rank": 342178
+        },
+        {
+          "keyword": "black glitter htv",
+          "sv": 1060,
+          "rank": 342178
+        },
+        {
+          "keyword": "yellow htv",
+          "sv": 873,
+          "rank": 417306
+        },
+        {
+          "keyword": "gold heat transfer vinyl",
+          "sv": 787,
+          "rank": 463191
+        },
+        {
+          "keyword": "embroidered iron on patches",
+          "sv": 787,
+          "rank": 463191
+        },
+        {
+          "keyword": "gold htv heat transfer vinyl",
+          "sv": 772,
+          "rank": 472438
+        },
+        {
+          "keyword": "red glitter htv",
+          "sv": 702,
+          "rank": 521041
+        },
+        {
+          "keyword": "red heat transfer vinyl",
+          "sv": 696,
+          "rank": 524846
+        },
+        {
+          "keyword": "orange htv",
+          "sv": 696,
+          "rank": 524846
+        }
+      ]
+    },
+    "配件套餐": {
+      "count": 99,
+      "total_search_volume": 50873,
+      "top_attributes": [
+        {
+          "word": "kit",
+          "weighted_sv": 35241
+        },
+        {
+          "word": "set",
+          "weighted_sv": 12004
+        },
+        {
+          "word": "bundle",
+          "weighted_sv": 3799
+        },
+        {
+          "word": "starter kit",
+          "weighted_sv": 1885
+        },
+        {
+          "word": "combo",
+          "weighted_sv": 171
+        },
+        {
+          "word": "replacement",
+          "weighted_sv": 0
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "perler bead kit",
+          "sv": 5227,
+          "rank": 64713
+        },
+        {
+          "keyword": "craft kit",
+          "sv": 4929,
+          "rank": 68926
+        },
+        {
+          "keyword": "beading kits",
+          "sv": 2934,
+          "rank": 119358
+        },
+        {
+          "keyword": "fuse beads kit",
+          "sv": 2525,
+          "rank": 139687
+        },
+        {
+          "keyword": "kandi kit",
+          "sv": 1712,
+          "rank": 209373
+        },
+        {
+          "keyword": "perler beads kit",
+          "sv": 1499,
+          "rank": 240176
+        },
+        {
+          "keyword": "hello kitty iron on patches",
+          "sv": 1449,
+          "rank": 248671
+        },
+        {
+          "keyword": "hello kitty patches",
+          "sv": 1111,
+          "rank": 326260
+        },
+        {
+          "keyword": "mug sets",
+          "sv": 1085,
+          "rank": 334003
+        },
+        {
+          "keyword": "maquina para estampar camisetas",
+          "sv": 1070,
+          "rank": 338958
+        },
+        {
+          "keyword": "beading kit",
+          "sv": 868,
+          "rank": 419697
+        },
+        {
+          "keyword": "junk socks charms kit",
+          "sv": 808,
+          "rank": 451538
+        },
+        {
+          "keyword": "vevor 450 piece tool set",
+          "sv": 803,
+          "rank": 454392
+        },
+        {
+          "keyword": "vevor wrench set",
+          "sv": 717,
+          "rank": 509803
+        },
+        {
+          "keyword": "vevor level set",
+          "sv": 712,
+          "rank": 513492
+        },
+        {
+          "keyword": "beads kit",
+          "sv": 702,
+          "rank": 521041
+        },
+        {
+          "keyword": "cricut maker 4 bundle",
+          "sv": 626,
+          "rank": 584983
+        },
+        {
+          "keyword": "hello kitty patches iron on",
+          "sv": 611,
+          "rank": 599495
+        },
+        {
+          "keyword": "t shirt press machine and printer bundle",
+          "sv": 601,
+          "rank": 609592
+        },
+        {
+          "keyword": "shirt press machine and printer set",
+          "sv": 595,
+          "rank": 614853
+        }
+      ]
+    },
+    "价格定位": {
+      "count": 8,
+      "total_search_volume": 2719,
+      "top_attributes": [
+        {
+          "word": "deal",
+          "weighted_sv": 934
+        },
+        {
+          "word": "cheap",
+          "weighted_sv": 650
+        },
+        {
+          "word": "under",
+          "weighted_sv": 484
+        },
+        {
+          "word": "sale",
+          "weighted_sv": 419
+        },
+        {
+          "word": "value",
+          "weighted_sv": 232
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "50% off deals",
+          "sv": 934,
+          "rank": 389726
+        },
+        {
+          "keyword": "underglaze transfers",
+          "sv": 484,
+          "rank": 758440
+        },
+        {
+          "keyword": "machines like cricut but cheaper",
+          "sv": 383,
+          "rank": 959678
+        },
+        {
+          "keyword": "cheap iron",
+          "sv": 267,
+          "rank": 1381238
+        },
+        {
+          "keyword": "cricut value iron on",
+          "sv": 232,
+          "rank": 1590674
+        },
+        {
+          "keyword": "embroidery machine clearance sale",
+          "sv": 217,
+          "rank": 1700179
+        },
+        {
+          "keyword": "winter clearance sale",
+          "sv": 202,
+          "rank": 1824785
+        },
+        {
+          "keyword": "deal-supplement-strength-supplements-retention",
+          "sv": 0,
+          "rank": 0
+        }
+      ]
+    },
+    "电源电压": {
+      "count": 380,
+      "total_search_volume": 262608,
+      "top_attributes": [
+        {
+          "word": "ac",
+          "weighted_sv": 252358
+        },
+        {
+          "word": "cord",
+          "weighted_sv": 9317
+        },
+        {
+          "word": "wire",
+          "weighted_sv": 737
+        },
+        {
+          "word": "dual voltage",
+          "weighted_sv": 196
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "cricut accessories",
+          "sv": 17156,
+          "rank": 16922
+        },
+        {
+          "keyword": "heat press machine for t shirts",
+          "sv": 15661,
+          "rank": 18885
+        },
+        {
+          "keyword": "cricut machine",
+          "sv": 13499,
+          "rank": 22578
+        },
+        {
+          "keyword": "green machine",
+          "sv": 11999,
+          "rank": 25934
+        },
+        {
+          "keyword": "heat press machine",
+          "sv": 8959,
+          "rank": 36024
+        },
+        {
+          "keyword": "mini sewing machine",
+          "sv": 8126,
+          "rank": 40175
+        },
+        {
+          "keyword": "cordless iron",
+          "sv": 4808,
+          "rank": 70723
+        },
+        {
+          "keyword": "automatic ironing machine",
+          "sv": 4484,
+          "rank": 76220
+        },
+        {
+          "keyword": "circuit machine",
+          "sv": 3787,
+          "rank": 91226
+        },
+        {
+          "keyword": "shirt press machine",
+          "sv": 3722,
+          "rank": 92899
+        },
+        {
+          "keyword": "sewing accessories",
+          "sv": 3707,
+          "rank": 93251
+        },
+        {
+          "keyword": "screen printing machine",
+          "sv": 3666,
+          "rank": 94288
+        },
+        {
+          "keyword": "hat press heat machine for caps",
+          "sv": 3661,
+          "rank": 94429
+        },
+        {
+          "keyword": "embossing machine",
+          "sv": 3459,
+          "rank": 100255
+        },
+        {
+          "keyword": "heat pack",
+          "sv": 3080,
+          "rank": 113404
+        },
+        {
+          "keyword": "die cutting machine",
+          "sv": 3035,
+          "rank": 115216
+        },
+        {
+          "keyword": "impresora de sublimacion",
+          "sv": 2888,
+          "rank": 121442
+        },
+        {
+          "keyword": "heat press machines",
+          "sv": 2540,
+          "rank": 138822
+        },
+        {
+          "keyword": "black htv",
+          "sv": 2277,
+          "rank": 155670
+        },
+        {
+          "keyword": "tshirt printing machine",
+          "sv": 2222,
+          "rank": 159697
+        }
+      ]
+    },
+    "操作方式": {
+      "count": 107,
+      "total_search_volume": 57064,
+      "top_attributes": [
+        {
+          "word": "ready",
+          "weighted_sv": 15636
+        },
+        {
+          "word": "easy",
+          "weighted_sv": 13917
+        },
+        {
+          "word": "auto",
+          "weighted_sv": 11375
+        },
+        {
+          "word": "portable",
+          "weighted_sv": 9866
+        },
+        {
+          "word": "automatic",
+          "weighted_sv": 7086
+        },
+        {
+          "word": "handheld",
+          "weighted_sv": 2124
+        },
+        {
+          "word": "hand held",
+          "weighted_sv": 1549
+        },
+        {
+          "word": "lightweight",
+          "weighted_sv": 853
+        },
+        {
+          "word": "manual",
+          "weighted_sv": 645
+        },
+        {
+          "word": "compact",
+          "weighted_sv": 580
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "dtf transfers ready to press",
+          "sv": 12015,
+          "rank": 25896
+        },
+        {
+          "keyword": "automatic ironing machine",
+          "sv": 4484,
+          "rank": 76220
+        },
+        {
+          "keyword": "siser easyweed heat transfer vinyl",
+          "sv": 4272,
+          "rank": 80293
+        },
+        {
+          "keyword": "portable iron",
+          "sv": 3611,
+          "rank": 95857
+        },
+        {
+          "keyword": "cricut easy press",
+          "sv": 1580,
+          "rank": 227514
+        },
+        {
+          "keyword": "portable flat iron",
+          "sv": 1141,
+          "rank": 317507
+        },
+        {
+          "keyword": "htvront auto heat press 2",
+          "sv": 959,
+          "rank": 379066
+        },
+        {
+          "keyword": "cricut easy press mini",
+          "sv": 868,
+          "rank": 419697
+        },
+        {
+          "keyword": "portable iron for travel",
+          "sv": 828,
+          "rank": 440386
+        },
+        {
+          "keyword": "auto heat press",
+          "sv": 818,
+          "rank": 445827
+        },
+        {
+          "keyword": "handheld iron",
+          "sv": 808,
+          "rank": 451538
+        },
+        {
+          "keyword": "custom dtf transfers ready to press",
+          "sv": 737,
+          "rank": 495521
+        },
+        {
+          "keyword": "easy press",
+          "sv": 707,
+          "rank": 517171
+        },
+        {
+          "keyword": "automatic heat press",
+          "sv": 651,
+          "rank": 561906
+        },
+        {
+          "keyword": "cordless irons lightweight delicate fabrics",
+          "sv": 621,
+          "rank": 589859
+        },
+        {
+          "keyword": "automatic ironing machine for clothes",
+          "sv": 621,
+          "rank": 589859
+        },
+        {
+          "keyword": "easy sewing machine",
+          "sv": 606,
+          "rank": 604514
+        },
+        {
+          "keyword": "compact iron",
+          "sv": 580,
+          "rank": 631094
+        },
+        {
+          "keyword": "auto lift",
+          "sv": 555,
+          "rank": 660452
+        },
+        {
+          "keyword": "cricut easy press 3",
+          "sv": 540,
+          "rank": 679271
+        }
+      ]
+    },
+    "材质工艺": {
+      "count": 17,
+      "total_search_volume": 21125,
+      "top_attributes": [
+        {
+          "word": "fabric",
+          "weighted_sv": 13339
+        },
+        {
+          "word": "teflon",
+          "weighted_sv": 7786
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "fabric cutter",
+          "sv": 10040,
+          "rank": 31663
+        },
+        {
+          "keyword": "teflon sheets for heat press",
+          "sv": 6429,
+          "rank": 51829
+        },
+        {
+          "keyword": "cricut fabric mat",
+          "sv": 671,
+          "rank": 544928
+        },
+        {
+          "keyword": "cordless irons lightweight delicate fabrics",
+          "sv": 621,
+          "rank": 589859
+        },
+        {
+          "keyword": "sublimation htv for dark fabric",
+          "sv": 565,
+          "rank": 648390
+        },
+        {
+          "keyword": "teflon paper",
+          "sv": 510,
+          "rank": 720333
+        },
+        {
+          "keyword": "teflon sheets for heat press 15x15",
+          "sv": 333,
+          "rank": 1107152
+        },
+        {
+          "keyword": "fabric cutting machine",
+          "sv": 267,
+          "rank": 1381238
+        },
+        {
+          "keyword": "papel teflon para sublimar",
+          "sv": 262,
+          "rank": 1407940
+        },
+        {
+          "keyword": "teflon sheet for heat press",
+          "sv": 252,
+          "rank": 1464103
+        },
+        {
+          "keyword": "htv sublimation vinyl for dark fabric",
+          "sv": 242,
+          "rank": 1524705
+        },
+        {
+          "keyword": "fabric printer",
+          "sv": 237,
+          "rank": 1556979
+        },
+        {
+          "keyword": "iron letters for fabric",
+          "sv": 227,
+          "rank": 1625800
+        },
+        {
+          "keyword": "fabric printer machine",
+          "sv": 202,
+          "rank": 1824785
+        },
+        {
+          "keyword": "fabric iron",
+          "sv": 136,
+          "rank": 2648366
+        },
+        {
+          "keyword": "htvront sublimation htv for dark fabric",
+          "sv": 131,
+          "rank": 2741374
+        },
+        {
+          "keyword": "teflon pillow for heat press",
+          "sv": 0,
+          "rank": 0
+        }
+      ]
+    },
+    "工艺技术": {
+      "count": 40,
+      "total_search_volume": 22386,
+      "top_attributes": [
+        {
+          "word": "screen printing",
+          "weighted_sv": 5724
+        },
+        {
+          "word": "easyweed",
+          "weighted_sv": 4882
+        },
+        {
+          "word": "infusible",
+          "weighted_sv": 3709
+        },
+        {
+          "word": "infusible ink",
+          "weighted_sv": 3709
+        },
+        {
+          "word": "foil",
+          "weighted_sv": 3189
+        },
+        {
+          "word": "dtg",
+          "weighted_sv": 964
+        },
+        {
+          "word": "permanent vinyl",
+          "weighted_sv": 742
+        },
+        {
+          "word": "vinyl cutting",
+          "weighted_sv": 722
+        },
+        {
+          "word": "direct to garment",
+          "weighted_sv": 616
+        },
+        {
+          "word": "metallic",
+          "weighted_sv": 579
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "siser easyweed heat transfer vinyl",
+          "sv": 4272,
+          "rank": 80293
+        },
+        {
+          "keyword": "screen printing machine",
+          "sv": 3666,
+          "rank": 94288
+        },
+        {
+          "keyword": "infusible ink transfer sheets",
+          "sv": 1949,
+          "rank": 182961
+        },
+        {
+          "keyword": "hot foil stamping machine",
+          "sv": 1686,
+          "rank": 212551
+        },
+        {
+          "keyword": "dtg printer t-shirt machine",
+          "sv": 964,
+          "rank": 377007
+        },
+        {
+          "keyword": "htvront permanent vinyl",
+          "sv": 742,
+          "rank": 491991
+        },
+        {
+          "keyword": "cricut infusible ink",
+          "sv": 722,
+          "rank": 506283
+        },
+        {
+          "keyword": "vinyl cutting machine",
+          "sv": 722,
+          "rank": 506283
+        },
+        {
+          "keyword": "direct to garment printer",
+          "sv": 616,
+          "rank": 594581
+        },
+        {
+          "keyword": "infusible ink",
+          "sv": 560,
+          "rank": 654343
+        },
+        {
+          "keyword": "foil machine",
+          "sv": 540,
+          "rank": 679271
+        },
+        {
+          "keyword": "silk screen printing kit",
+          "sv": 515,
+          "rank": 713064
+        },
+        {
+          "keyword": "siser easyweed htv",
+          "sv": 459,
+          "rank": 800661
+        },
+        {
+          "keyword": "screen printing press",
+          "sv": 449,
+          "rank": 818831
+        },
+        {
+          "keyword": "screen printing screens",
+          "sv": 373,
+          "rank": 986157
+        },
+        {
+          "keyword": "holographic htv",
+          "sv": 338,
+          "rank": 1090519
+        },
+        {
+          "keyword": "cricut infusible ink pens",
+          "sv": 297,
+          "rank": 1239698
+        },
+        {
+          "keyword": "white glitter vinyl",
+          "sv": 297,
+          "rank": 1239698
+        },
+        {
+          "keyword": "metallic htv",
+          "sv": 257,
+          "rank": 1435428
+        },
+        {
+          "keyword": "silk screen printing machine",
+          "sv": 252,
+          "rank": 1464103
+        }
+      ]
+    },
+    "竞争属性": {
+      "count": 35,
+      "total_search_volume": 11971,
+      "top_attributes": [
+        {
+          "word": "pro",
+          "weighted_sv": 7138
+        },
+        {
+          "word": "best",
+          "weighted_sv": 1736
+        },
+        {
+          "word": "top",
+          "weighted_sv": 1685
+        },
+        {
+          "word": "2026",
+          "weighted_sv": 1125
+        },
+        {
+          "word": "rated",
+          "weighted_sv": 287
+        },
+        {
+          "word": "gen",
+          "weighted_sv": 0
+        }
+      ],
+      "keywords": [
+        {
+          "keyword": "pro press",
+          "sv": 1626,
+          "rank": 220894
+        },
+        {
+          "keyword": "promociones de hoy relampago",
+          "sv": 1303,
+          "rank": 277221
+        },
+        {
+          "keyword": "best press",
+          "sv": 1181,
+          "rank": 306310
+        },
+        {
+          "keyword": "ironing mat for table top",
+          "sv": 1015,
+          "rank": 357780
+        },
+        {
+          "keyword": "class of 2026 iron on patches",
+          "sv": 656,
+          "rank": 557574
+        },
+        {
+          "keyword": "best iron",
+          "sv": 555,
+          "rank": 660452
+        },
+        {
+          "keyword": "blanks for cricut projects",
+          "sv": 494,
+          "rank": 742882
+        },
+        {
+          "keyword": "craft lights for projects",
+          "sv": 479,
+          "rank": 766526
+        },
+        {
+          "keyword": "vevor propress",
+          "sv": 459,
+          "rank": 800661
+        },
+        {
+          "keyword": "oliso mini iron m3 pro",
+          "sv": 398,
+          "rank": 922918
+        },
+        {
+          "keyword": "vevor pro press",
+          "sv": 368,
+          "rank": 1000074
+        },
+        {
+          "keyword": "dtf pro",
+          "sv": 348,
+          "rank": 1058599
+        },
+        {
+          "keyword": "milwaukee pro press",
+          "sv": 277,
+          "rank": 1330611
+        },
+        {
+          "keyword": "cricut autopress",
+          "sv": 262,
+          "rank": 1407940
+        },
+        {
+          "keyword": "senior iron on patches 2026",
+          "sv": 262,
+          "rank": 1407940
+        },
+        {
+          "keyword": "sublimacion productos",
+          "sv": 257,
+          "rank": 1435428
+        },
+        {
+          "keyword": "top 10 heat press machines",
+          "sv": 232,
+          "rank": 1590674
+        },
+        {
+          "keyword": "apron'",
+          "sv": 232,
+          "rank": 1590674
+        },
+        {
+          "keyword": "sublimation products",
+          "sv": 217,
+          "rank": 1700179
+        },
+        {
+          "keyword": "vevor products",
+          "sv": 212,
+          "rank": 1739721
+        }
+      ]
+    }
+  },
+  "bsr_top_words": [
+    {
+      "word": "heat",
+      "count": 25
+    },
+    {
+      "word": "press",
+      "count": 24
+    },
+    {
+      "word": "mini",
+      "count": 17
+    },
+    {
+      "word": "iron",
+      "count": 16
+    },
+    {
+      "word": "small",
+      "count": 13
+    },
+    {
+      "word": "temp",
+      "count": 12
+    },
+    {
+      "word": "temperature",
+      "count": 11
+    },
+    {
+      "word": "power",
+      "count": 11
+    },
+    {
+      "word": "machine",
+      "count": 11
+    },
+    {
+      "word": "projects",
+      "count": 10
+    },
+    {
+      "word": "size",
+      "count": 7
+    },
+    {
+      "word": "suitable",
+      "count": 7
+    },
+    {
+      "word": "easy",
+      "count": 7
+    },
+    {
+      "word": "craft",
+      "count": 6
+    },
+    {
+      "word": "transfer",
+      "count": 6
+    },
+    {
+      "word": "1",
+      "count": 6
+    },
+    {
+      "word": "heating",
+      "count": 6
+    },
+    {
+      "word": "3",
+      "count": 6
+    },
+    {
+      "word": "portable",
+      "count": 5
+    },
+    {
+      "word": "base",
+      "count": 5
+    },
+    {
+      "word": "off",
+      "count": 5
+    },
+    {
+      "word": "time",
+      "count": 5
+    },
+    {
+      "word": "inches",
+      "count": 4
+    },
+    {
+      "word": "cord",
+      "count": 4
+    },
+    {
+      "word": "button",
+      "count": 4
+    },
+    {
+      "word": "plug",
+      "count": 4
+    },
+    {
+      "word": "high",
+      "count": 4
+    },
+    {
+      "word": "different",
+      "count": 4
+    },
+    {
+      "word": "284",
+      "count": 4
+    },
+    {
+      "word": "320",
+      "count": 4
+    }
+  ],
+  "title_formula": {
+    "structure": "[Brand] + [Size/Type] + [Core Product] + [Key Feature] + [Target/Scene] + [Color]",
+    "example": "Mini Heat Press Machine for T-Shirts, Portable Small Iron Press with 3 Temp Settings, Easy to Use for DIY Crafts and Heat Transfer Vinyl Projects"
+  },
+  "bullet_strategy": [
+    "尺寸规格 + 温度设置",
+    "功能特性 + 适用材质",
+    "操作便捷 + 安全保护",
+    "目标人群 + 使用场景",
+    "配件内容 + 售后保障"
+  ],
+  "backend_search_terms": "sublimation vinyl, heat transfer paper, tshirt press machine, craft iron mini, portable heat press small"
+}
