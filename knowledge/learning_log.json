@@ -9,7 +9,12 @@
       "date": "20260426",
       "amazon_topic": "广告关键词匹配类型策略",
       "stat_topic": "描述性统计与分布"
+    },
+    {
+      "date": "20260430",
+      "amazon_topic": "库存管理与IPI优化",
+      "stat_topic": "回归分析基础与应用"
     }
   ],
-  "last_date": "20260426"
+  "last_date": "20260430"
 }
