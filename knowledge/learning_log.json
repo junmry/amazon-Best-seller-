@@ -19,7 +19,12 @@
       "date": "20260501",
       "amazon_topic": "关键词研究与长尾词挖掘策略",
       "stat_topic": "回归分析基础与应用"
+    },
+    {
+      "date": "20260502",
+      "amazon_topic": "库存管理与IPI优化",
+      "stat_topic": "回归分析基础与应用"
     }
   ],
-  "last_date": "20260501"
+  "last_date": "20260502"
 }
