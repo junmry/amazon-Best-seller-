@@ -24,7 +24,12 @@
       "date": "20260502",
       "amazon_topic": "库存管理与IPI优化",
       "stat_topic": "回归分析基础与应用"
+    },
+    {
+      "date": "20260503",
+      "amazon_topic": "A9/A10搜索算法原理与排名因素",
+      "stat_topic": "A/B测试设计与分析"
     }
   ],
-  "last_date": "20260502"
+  "last_date": "20260503"
 }
