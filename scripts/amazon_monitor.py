@@ -89,19 +89,33 @@ def parse_products(html, category, list_type):
                 "asin": item.get('data-asin', ''),
             }
             
-            # 提取标题
+            # 提取标题 - 尝试多种选择器（亚马逊经常更新页面结构）
             title_selectors = [
                 'a span[data-a-color="base"]',
                 'a span[dir="auto"]',
                 'h2 a span',
                 '._cDEzb_p13n-sc-css-line-clamp-3_g3dyQ',
-                '.p13n-sc-truncated'
+                '.p13n-sc-truncated',
+                'a[href*="/dp/"]',  # 标题常在链接中
+                'a',  # 兜底：任何链接
             ]
             for ts in title_selectors:
                 title_elem = item.select_one(ts)
                 if title_elem:
-                    product["title"] = title_elem.get_text(strip=True)
-                    break
+                    text = title_elem.get_text(strip=True)
+                    if text and len(text) > 5:  # 过滤掉太短的文本
+                        product["title"] = text
+                        break
+            
+            # 如果从HTML提取不到标题，尝试从URL解析
+            if not product.get("title"):
+                link_elem = item.select_one('a[href*="/dp/"]') or item.select_one('a[href]')
+                if link_elem:
+                    href = link_elem.get('href', '')
+                    match = re.search(r'/([^/]+)/dp/', href)
+                    if match:
+                        slug = match.group(1)
+                        product["title"] = slug.replace('-', ' ').title()
             
             # 提取价格
             price_selectors = [
