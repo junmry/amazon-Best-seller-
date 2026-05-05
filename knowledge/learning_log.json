@@ -39,7 +39,12 @@
       "date": "20260505",
       "amazon_topic": "亚马逊SEO最佳实践",
       "stat_topic": "回归分析基础与应用"
+    },
+    {
+      "date": "20260506",
+      "amazon_topic": "新品推广与冷启动策略",
+      "stat_topic": "假设检验与p值解读"
     }
   ],
-  "last_date": "20260505"
+  "last_date": "20260506"
 }
