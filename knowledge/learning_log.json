@@ -44,7 +44,12 @@
       "date": "20260506",
       "amazon_topic": "新品推广与冷启动策略",
       "stat_topic": "假设检验与p值解读"
+    },
+    {
+      "date": "20260507",
+      "amazon_topic": "A9/A10搜索算法原理与排名因素",
+      "stat_topic": "统计功效与效应量"
     }
   ],
-  "last_date": "20260506"
+  "last_date": "20260507"
 }
