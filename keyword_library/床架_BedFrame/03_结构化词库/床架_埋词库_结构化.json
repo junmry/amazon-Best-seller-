@@ -1,0 +1,6842 @@
+{
+  "尺寸": {
+    "total_keywords": 4798,
+    "groups": {
+      "queen": {
+        "count": 708,
+        "total_volume": 1933917,
+        "top_keywords": [
+          "queen bed frame",
+          "queen mattress",
+          "queen bed frame with headboard",
+          "queen size mattresses",
+          "queen size mattresses"
+        ],
+        "avg_volume": 2731.5
+      },
+      "king": {
+        "count": 730,
+        "total_volume": 1427885,
+        "top_keywords": [
+          "king size bed frame",
+          "king size mattress",
+          "king size mattress",
+          "king bed frame",
+          "king mattress"
+        ],
+        "avg_volume": 1956.0
+      },
+      "full": {
+        "count": 563,
+        "total_volume": 1402527,
+        "top_keywords": [
+          "full size mattress",
+          "full size bed frame",
+          "full size bed frame",
+          "full mattress",
+          "full bed frame"
+        ],
+        "avg_volume": 2491.2
+      },
+      "twin": {
+        "count": 355,
+        "total_volume": 932232,
+        "top_keywords": [
+          "twin mattress",
+          "twin bed frames",
+          "twin bed",
+          "twin bed frame",
+          "twin mattress for kids"
+        ],
+        "avg_volume": 2626.0
+      },
+      "bed": {
+        "count": 265,
+        "total_volume": 515660,
+        "top_keywords": [
+          "bed frame queen size",
+          "bed frame full",
+          "bed frame king size",
+          "bed frame king size",
+          "bed frame queen"
+        ],
+        "avg_volume": 1945.9
+      },
+      "full size": {
+        "count": 1,
+        "total_volume": 264309,
+        "top_keywords": [
+          "full size mattress"
+        ],
+        "avg_volume": 264309.0
+      },
+      "king size": {
+        "count": 1,
+        "total_volume": 226303,
+        "top_keywords": [
+          "king size bed frame"
+        ],
+        "avg_volume": 226303.0
+      },
+      "mattress": {
+        "count": 130,
+        "total_volume": 191494,
+        "top_keywords": [
+          "mattress queen size",
+          "mattress queen size",
+          "mattress full size",
+          "mattress full size",
+          "mattress queen"
+        ],
+        "avg_volume": 1473.0
+      },
+      "queen size": {
+        "count": 1,
+        "total_volume": 144678,
+        "top_keywords": [
+          "bed frame queen size"
+        ],
+        "avg_volume": 144678.0
+      },
+      "california": {
+        "count": 75,
+        "total_volume": 120192,
+        "top_keywords": [
+          "california king bed frames",
+          "california king mattress",
+          "california king mattress",
+          "california king bed frame",
+          "california king bed frame"
+        ],
+        "avg_volume": 1602.6
+      },
+      "camas": {
+        "count": 41,
+        "total_volume": 114683,
+        "top_keywords": [
+          "camas queen",
+          "camas king",
+          "camas twin",
+          "camas full",
+          "camas queen en oferta"
+        ],
+        "avg_volume": 2797.1
+      },
+      "cama": {
+        "count": 50,
+        "total_volume": 86871,
+        "top_keywords": [
+          "cama queen",
+          "cama king",
+          "cama king size",
+          "cama king size",
+          "cama full"
+        ],
+        "avg_volume": 1737.4
+      },
+      "metal": {
+        "count": 62,
+        "total_volume": 67121,
+        "top_keywords": [
+          "metal bed frame queen size",
+          "metal bed frame queen size",
+          "metal queen bed frame",
+          "metal bed frame full",
+          "metal queen bed frame durable"
+        ],
+        "avg_volume": 1082.6
+      },
+      "colchones": {
+        "count": 13,
+        "total_volume": 58832,
+        "top_keywords": [
+          "colchones twin",
+          "colchones king size",
+          "colchones king size",
+          "colchones full",
+          "colchones king"
+        ],
+        "avg_volume": 4525.5
+      },
+      "base": {
+        "count": 53,
+        "total_volume": 55807,
+        "top_keywords": [
+          "base de cama queen",
+          "base para cama queen",
+          "base de cama king",
+          "base de cama full",
+          "base de cama twin"
+        ],
+        "avg_volume": 1053.0
+      },
+      "black": {
+        "count": 73,
+        "total_volume": 55739,
+        "top_keywords": [
+          "black bed frame queen",
+          "black queen bed frame",
+          "black king size bed frame",
+          "black king size bed frame",
+          "black full size bed frame"
+        ],
+        "avg_volume": 763.5
+      },
+      "platform": {
+        "count": 49,
+        "total_volume": 49158,
+        "top_keywords": [
+          "platform bed frame queen size",
+          "platform bed frame queen size",
+          "platform bed frame king",
+          "platform bed frame full",
+          "platform bed queen"
+        ],
+        "avg_volume": 1003.2
+      },
+      "memory": {
+        "count": 40,
+        "total_volume": 42012,
+        "top_keywords": [
+          "memory foam mattress queen",
+          "memory foam twin mattress",
+          "memory foam mattress full",
+          "memory foam mattress twin",
+          "memory foam king size mattresses"
+        ],
+        "avg_volume": 1050.3
+      },
+      "zinus": {
+        "count": 37,
+        "total_volume": 40594,
+        "top_keywords": [
+          "zinus queen mattress",
+          "zinus king mattress",
+          "zinus twin mattress",
+          "zinus full size mattress",
+          "zinus full size mattress"
+        ],
+        "avg_volume": 1097.1
+      },
+      "colchon": {
+        "count": 40,
+        "total_volume": 39433,
+        "top_keywords": [
+          "colchon queen",
+          "colchon queen size",
+          "colchon queen size",
+          "colchon full size",
+          "colchon full size"
+        ],
+        "avg_volume": 985.8
+      },
+      "white": {
+        "count": 39,
+        "total_volume": 37699,
+        "top_keywords": [
+          "white queen bed frame",
+          "white bed frame queen",
+          "white full size bed frame",
+          "white full size bed frame",
+          "white bed frame full"
+        ],
+        "avg_volume": 966.6
+      },
+      "california king": {
+        "count": 1,
+        "total_volume": 30823,
+        "top_keywords": [
+          "california king bed frames"
+        ],
+        "avg_volume": 30823.0
+      },
+      "twin size": {
+        "count": 1,
+        "total_volume": 29888,
+        "top_keywords": [
+          "twin size mattress"
+        ],
+        "avg_volume": 29888.0
+      },
+      "14": {
+        "count": 29,
+        "total_volume": 29836,
+        "top_keywords": [
+          "14 inch queen size mattress",
+          "14 inch queen size mattress",
+          "14 inch king size mattress",
+          "14 inch king size mattress",
+          "14 inch queen mattress"
+        ],
+        "avg_volume": 1028.8
+      },
+      "twin xl": {
+        "count": 1,
+        "total_volume": 29237,
+        "top_keywords": [
+          "twin xl mattress"
+        ],
+        "avg_volume": 29237.0
+      },
+      "bedframe": {
+        "count": 33,
+        "total_volume": 27346,
+        "top_keywords": [
+          "bedframe queen-size",
+          "bedframe king-size",
+          "bedframe queen-size with headboard",
+          "bedframe queen",
+          "bedframe full"
+        ],
+        "avg_volume": 828.7
+      },
+      "firm": {
+        "count": 26,
+        "total_volume": 27157,
+        "top_keywords": [
+          "firm queen mattress",
+          "firm king mattress",
+          "firm twin mattress",
+          "firm mattress queen",
+          "firm full size mattress"
+        ],
+        "avg_volume": 1044.5
+      },
+      "novilla": {
+        "count": 17,
+        "total_volume": 26959,
+        "top_keywords": [
+          "novilla queen size mattress",
+          "novilla queen size mattress",
+          "novilla king size mattress",
+          "novilla king size mattress",
+          "novilla full size mattress"
+        ],
+        "avg_volume": 1585.8
+      },
+      "12": {
+        "count": 35,
+        "total_volume": 26024,
+        "top_keywords": [
+          "12 inch queen mattress",
+          "12 inch full size mattress",
+          "12 inch full size mattress",
+          "12 inch twin mattress",
+          "12 inch king size mattress"
+        ],
+        "avg_volume": 743.5
+      },
+      "upholstered": {
+        "count": 23,
+        "total_volume": 24115,
+        "top_keywords": [
+          "upholstered queen bed frame headboard",
+          "upholstered bed frame king",
+          "upholstered bed frame queen",
+          "upholstered queen bed frame",
+          "upholstered king bed frame"
+        ],
+        "avg_volume": 1048.5
+      },
+      "wooden": {
+        "count": 23,
+        "total_volume": 21866,
+        "top_keywords": [
+          "wooden bed frame queen size",
+          "wooden bed frame queen size",
+          "wooden twin bed frames",
+          "wooden king size bed frame",
+          "wooden king size bed frame"
+        ],
+        "avg_volume": 950.7
+      },
+      "tall": {
+        "count": 31,
+        "total_volume": 20955,
+        "top_keywords": [
+          "tall headboard queen bed frame",
+          "tall queen bed frame",
+          "tall headboard king bed frame",
+          "tall queen bed frame with headboard",
+          "tall king size bed frame"
+        ],
+        "avg_volume": 676.0
+      },
+      "rv": {
+        "count": 12,
+        "total_volume": 20339,
+        "top_keywords": [
+          "rv queen mattress",
+          "rv mattress short queen",
+          "rv mattress short queen",
+          "rv short queen mattress",
+          "rv short queen mattress"
+        ],
+        "avg_volume": 1694.9
+      },
+      "wood": {
+        "count": 28,
+        "total_volume": 19265,
+        "top_keywords": [
+          "wood queen bed frame traditional",
+          "wood queen bed frame",
+          "wood bed frame full",
+          "wood king bed frame",
+          "wood bed frame king"
+        ],
+        "avg_volume": 688.0
+      },
+      "cal": {
+        "count": 13,
+        "total_volume": 18170,
+        "top_keywords": [
+          "cal king bed frame",
+          "cal king mattress",
+          "cal king bed frame with headboard",
+          "cal king bed frame with storage",
+          "cal king bed"
+        ],
+        "avg_volume": 1397.7
+      },
+      "low": {
+        "count": 25,
+        "total_volume": 16160,
+        "top_keywords": [
+          "low profile platform queen bed",
+          "low bed frame queen",
+          "low queen bed frame",
+          "low profile queen bed frame",
+          "low bed frame king"
+        ],
+        "avg_volume": 646.4
+      },
+      "floating": {
+        "count": 19,
+        "total_volume": 15783,
+        "top_keywords": [
+          "floating bed frame queen",
+          "floating bed frame king",
+          "floating bed frame full",
+          "floating queen bed frame",
+          "floating king bed frame"
+        ],
+        "avg_volume": 830.7
+      },
+      "kids": {
+        "count": 18,
+        "total_volume": 15654,
+        "top_keywords": [
+          "kids twin bed frame",
+          "kids twin bed",
+          "kids full size bed frame",
+          "kids full size bed frame",
+          "kids twin mattress"
+        ],
+        "avg_volume": 869.7
+      },
+      "single": {
+        "count": 13,
+        "total_volume": 15494,
+        "top_keywords": [
+          "single mattress",
+          "single bed frame",
+          "single bed",
+          "single bed mattress",
+          "single bed frame and mattress set"
+        ],
+        "avg_volume": 1191.8
+      },
+      "double": {
+        "count": 14,
+        "total_volume": 14199,
+        "top_keywords": [
+          "double bed frame",
+          "double mattress",
+          "double bed frame with headboard",
+          "double bed",
+          "double bed mattress"
+        ],
+        "avg_volume": 1014.2
+      },
+      "short": {
+        "count": 13,
+        "total_volume": 13857,
+        "top_keywords": [
+          "short queen mattress",
+          "short queen mattress for rv camper",
+          "short queen mattress for rv camper",
+          "short queen rv mattress",
+          "short queen rv mattress"
+        ],
+        "avg_volume": 1065.9
+      },
+      "10": {
+        "count": 24,
+        "total_volume": 13305,
+        "top_keywords": [
+          "10 inch queen mattress",
+          "10 inch full size mattress",
+          "10 inch full size mattress",
+          "10 inch mattress queen",
+          "10 inch mattress full"
+        ],
+        "avg_volume": 554.4
+      },
+      "heavy": {
+        "count": 26,
+        "total_volume": 11833,
+        "top_keywords": [
+          "heavy duty queen bed frame",
+          "heavy duty bed frame queen",
+          "heavy duty king size bed frame",
+          "heavy duty king size bed frame",
+          "heavy duty bed frame king size"
+        ],
+        "avg_volume": 455.1
+      },
+      "hybrid": {
+        "count": 11,
+        "total_volume": 11728,
+        "top_keywords": [
+          "hybrid king size mattresses",
+          "hybrid king size mattresses",
+          "hybrid king mattress",
+          "hybrid mattress king",
+          "hybrid california king mattress"
+        ],
+        "avg_volume": 1066.2
+      },
+      "mattresses": {
+        "count": 16,
+        "total_volume": 11539,
+        "top_keywords": [
+          "mattresses queen",
+          "mattresses full",
+          "mattresses full size",
+          "mattresses full size",
+          "mattresses twin"
+        ],
+        "avg_volume": 721.2
+      },
+      "nectar": {
+        "count": 18,
+        "total_volume": 11503,
+        "top_keywords": [
+          "nectar mattress king",
+          "nectar mattress queen",
+          "nectar queen mattress",
+          "nectar mattress full",
+          "nectar king mattress"
+        ],
+        "avg_volume": 639.1
+      },
+      "xl": {
+        "count": 8,
+        "total_volume": 10628,
+        "top_keywords": [
+          "xl twin mattress",
+          "xl twin bed frame",
+          "xl twin bed",
+          "xl twin bed frame with headboard",
+          "xl full bed frame"
+        ],
+        "avg_volume": 1328.5
+      },
+      "alaskan": {
+        "count": 9,
+        "total_volume": 10299,
+        "top_keywords": [
+          "alaskan king mattress",
+          "alaskan king bed",
+          "alaskan king bed frame",
+          "alaskan king mattress hybrid",
+          "alaskan king foam mattress"
+        ],
+        "avg_volume": 1144.3
+      },
+      "6": {
+        "count": 25,
+        "total_volume": 10143,
+        "top_keywords": [
+          "6 inch twin mattress",
+          "6 inch full size mattress",
+          "6 inch full size mattress",
+          "6 inch queen mattress",
+          "6 inch mattress twin"
+        ],
+        "avg_volume": 405.7
+      },
+      "colchón": {
+        "count": 14,
+        "total_volume": 9968,
+        "top_keywords": [
+          "colchón queen",
+          "colchón twin",
+          "colchón full",
+          "colchón king",
+          "colchón de espuma queen"
+        ],
+        "avg_volume": 712.0
+      },
+      "high": {
+        "count": 22,
+        "total_volume": 9496,
+        "top_keywords": [
+          "high bed frame queen size",
+          "high bed frame queen size",
+          "high queen bed frame with headboard",
+          "high headboard king bed",
+          "high headboard queen bed"
+        ],
+        "avg_volume": 431.6
+      },
+      "bases": {
+        "count": 14,
+        "total_volume": 9219,
+        "top_keywords": [
+          "bases de camas queen",
+          "bases de cama king",
+          "bases para cama queen",
+          "bases de camas twin",
+          "bases de camas full"
+        ],
+        "avg_volume": 658.5
+      },
+      "medium": {
+        "count": 20,
+        "total_volume": 8859,
+        "top_keywords": [
+          "medium firm mattress queen",
+          "medium firm mattress king",
+          "medium firm mattress full",
+          "medium plush queen mattress",
+          "medium firm queen mattress"
+        ],
+        "avg_volume": 442.9
+      },
+      "soft": {
+        "count": 14,
+        "total_volume": 8594,
+        "top_keywords": [
+          "soft queen mattress",
+          "soft king size mattress",
+          "soft king size mattress",
+          "soft twin mattress",
+          "soft mattress queen"
+        ],
+        "avg_volume": 613.9
+      },
+      "cheap": {
+        "count": 17,
+        "total_volume": 7561,
+        "top_keywords": [
+          "cheap queen mattress",
+          "cheap queen bed frame",
+          "cheap full size mattress",
+          "cheap full size mattress",
+          "cheap twin mattress"
+        ],
+        "avg_volume": 444.8
+      },
+      "storage": {
+        "count": 10,
+        "total_volume": 7133,
+        "top_keywords": [
+          "storage bed frame queen",
+          "storage bed frame full",
+          "storage bed frame king",
+          "storage queen bed frame",
+          "storage bed queen"
+        ],
+        "avg_volume": 713.3
+      },
+      "plush": {
+        "count": 8,
+        "total_volume": 7042,
+        "top_keywords": [
+          "plush queen mattress",
+          "plush king mattress",
+          "plush full size mattress",
+          "plush full size mattress",
+          "plush king size mattress"
+        ],
+        "avg_volume": 880.2
+      },
+      "canopy": {
+        "count": 6,
+        "total_volume": 6977,
+        "top_keywords": [
+          "canopy bed frame king",
+          "canopy bed frame full",
+          "canopy king size bed frame",
+          "canopy king size bed frame",
+          "canopy bed king"
+        ],
+        "avg_volume": 1162.8
+      },
+      "beds": {
+        "count": 13,
+        "total_volume": 6749,
+        "top_keywords": [
+          "beds queen size",
+          "beds queen size",
+          "beds full size",
+          "beds full size",
+          "beds twin"
+        ],
+        "avg_volume": 519.2
+      },
+      "bedframes": {
+        "count": 7,
+        "total_volume": 6379,
+        "top_keywords": [
+          "bedframes full",
+          "bedframes queen",
+          "bedframes king",
+          "bedframes twin",
+          "bedframes queen size"
+        ],
+        "avg_volume": 911.3
+      },
+      "cooling": {
+        "count": 12,
+        "total_volume": 6347,
+        "top_keywords": [
+          "cooling king size mattresses",
+          "cooling king size mattresses",
+          "cooling foam queen mattress",
+          "cooling gel king mattress",
+          "cooling queen mattress"
+        ],
+        "avg_volume": 528.9
+      },
+      "lift": {
+        "count": 8,
+        "total_volume": 6172,
+        "top_keywords": [
+          "lift up storage bed queen",
+          "lift up storage bed full",
+          "lift up storage bed king",
+          "lift up bed frame queen",
+          "lift bed frame queen"
+        ],
+        "avg_volume": 771.5
+      },
+      "cali": {
+        "count": 11,
+        "total_volume": 6091,
+        "top_keywords": [
+          "cali king bed frame with headboard",
+          "cali king bed frame",
+          "cali king mattress",
+          "cali king bedframe",
+          "cali king bed"
+        ],
+        "avg_volume": 553.7
+      },
+      "recamaras": {
+        "count": 6,
+        "total_volume": 5517,
+        "top_keywords": [
+          "recamaras queen",
+          "recamaras king size",
+          "recamaras king size",
+          "recamaras king size set completo",
+          "recamaras king size set completo"
+        ],
+        "avg_volume": 919.5
+      },
+      "allewie": {
+        "count": 8,
+        "total_volume": 5511,
+        "top_keywords": [
+          "allewie queen platform bed frame",
+          "allewie king size bed frame",
+          "allewie king size bed frame",
+          "allewie queen bed frame",
+          "allewie full size bed frame"
+        ],
+        "avg_volume": 688.9
+      },
+      "8": {
+        "count": 7,
+        "total_volume": 5442,
+        "top_keywords": [
+          "8 inch twin mattress",
+          "8 inch mattress twin",
+          "8 twin mattress",
+          "8 inch memory foam mattress twin",
+          "8 in twin mattress"
+        ],
+        "avg_volume": 777.4
+      },
+      "foam": {
+        "count": 10,
+        "total_volume": 5303,
+        "top_keywords": [
+          "foam mattress queen",
+          "foam mattress twin",
+          "foam twin mattress",
+          "foam mattress full",
+          "foam topper full"
+        ],
+        "avg_volume": 530.3
+      },
+      "grey": {
+        "count": 11,
+        "total_volume": 5267,
+        "top_keywords": [
+          "grey bed frame queen",
+          "grey queen bed frame",
+          "grey king size bed frame",
+          "grey king size bed frame",
+          "grey full size bed frame"
+        ],
+        "avg_volume": 478.8
+      },
+      "day": {
+        "count": 8,
+        "total_volume": 5244,
+        "top_keywords": [
+          "day bed frame twin",
+          "day bed full size",
+          "day bed full size",
+          "day bed frame full size",
+          "day bed frame full size"
+        ],
+        "avg_volume": 655.5
+      },
+      "floor": {
+        "count": 10,
+        "total_volume": 5189,
+        "top_keywords": [
+          "floor bed frame queen",
+          "floor bed frame full",
+          "floor bed frame king",
+          "floor bed queen",
+          "floor bed frame twin"
+        ],
+        "avg_volume": 518.9
+      },
+      "narrow": {
+        "count": 9,
+        "total_volume": 5035,
+        "top_keywords": [
+          "narrow twin mattress",
+          "narrow twin bed frame",
+          "narrow twin bed frame",
+          "narrow twin mattress 30x75",
+          "narrow twin mattress 30x75"
+        ],
+        "avg_volume": 559.4
+      },
+      "solid": {
+        "count": 12,
+        "total_volume": 4963,
+        "top_keywords": [
+          "solid wood queen bed frame",
+          "solid wood king bed frame",
+          "solid wood bed frame queen",
+          "solid wood queen bed frame with headboard",
+          "solid wood bed frame king"
+        ],
+        "avg_volume": 413.6
+      },
+      "purple": {
+        "count": 18,
+        "total_volume": 4777,
+        "top_keywords": [
+          "purple mattress queen",
+          "purple mattress king",
+          "purple queen mattress",
+          "purple mattress full",
+          "purple mattress twin"
+        ],
+        "avg_volume": 265.4
+      },
+      "modern": {
+        "count": 12,
+        "total_volume": 4726,
+        "top_keywords": [
+          "modern queen bed frame",
+          "modern king bed frame",
+          "modern king size bed frame",
+          "modern king size bed frame",
+          "modern queen bed frame with headboard"
+        ],
+        "avg_volume": 393.8
+      },
+      "girls": {
+        "count": 3,
+        "total_volume": 4661,
+        "top_keywords": [
+          "girls twin bed frame",
+          "girls full size bed frame",
+          "girls full size bed frame"
+        ],
+        "avg_volume": 1553.7
+      },
+      "led": {
+        "count": 16,
+        "total_volume": 4555,
+        "top_keywords": [
+          "led bed frame queen",
+          "led queen bed frame",
+          "led bed frame full",
+          "led queen bed frame with headboard",
+          "led full size bed frame"
+        ],
+        "avg_volume": 284.7
+      },
+      "bedroom": {
+        "count": 6,
+        "total_volume": 4492,
+        "top_keywords": [
+          "bedroom set king",
+          "bedroom furniture sets king bed",
+          "bedroom frame queen",
+          "bedroom set king size",
+          "bedroom set king size"
+        ],
+        "avg_volume": 748.7
+      },
+      "juego": {
+        "count": 5,
+        "total_volume": 4387,
+        "top_keywords": [
+          "juego de cuarto queen completo",
+          "juego de cuarto king completo",
+          "juego de cuarto king",
+          "juego de recamaras queen completo",
+          "juego de habitación king completo"
+        ],
+        "avg_volume": 877.4
+      },
+      "camper": {
+        "count": 5,
+        "total_volume": 4345,
+        "top_keywords": [
+          "camper queen mattress",
+          "camper mattress queen",
+          "camper king mattress",
+          "camper twin mattress",
+          "camper mattress full"
+        ],
+        "avg_volume": 869.0
+      },
+      "farmhouse": {
+        "count": 9,
+        "total_volume": 4312,
+        "top_keywords": [
+          "farmhouse queen bed frame",
+          "farmhouse king bed frame",
+          "farmhouse bed frame king",
+          "farmhouse bed frame queen",
+          "farmhouse king size bed frame"
+        ],
+        "avg_volume": 479.1
+      },
+      "beige": {
+        "count": 13,
+        "total_volume": 4248,
+        "top_keywords": [
+          "beige queen bed frame",
+          "beige king bed frame",
+          "beige bed frame queen",
+          "beige queen bed frame with headboard",
+          "beige upholstered bed frame queen"
+        ],
+        "avg_volume": 326.8
+      },
+      "dreamcloud": {
+        "count": 4,
+        "total_volume": 4245,
+        "top_keywords": [
+          "dreamcloud mattress queen",
+          "dreamcloud mattress king",
+          "dreamcloud hybrid mattress king",
+          "dreamcloud king mattress hybrid"
+        ],
+        "avg_volume": 1061.2
+      },
+      "sturdy": {
+        "count": 11,
+        "total_volume": 4065,
+        "top_keywords": [
+          "sturdy bed frame queen",
+          "sturdy queen bed frame with headboard",
+          "sturdy king size bed frame",
+          "sturdy king size bed frame",
+          "sturdy queen bed frame"
+        ],
+        "avg_volume": 369.5
+      },
+      "dream": {
+        "count": 4,
+        "total_volume": 3790,
+        "top_keywords": [
+          "dream cloud mattresses queen",
+          "dream cloud mattresses king",
+          "dream cloud mattress full size",
+          "dream cloud mattress full size"
+        ],
+        "avg_volume": 947.5
+      },
+      "short queen": {
+        "count": 1,
+        "total_volume": 3787,
+        "top_keywords": [
+          "short queen mattress"
+        ],
+        "avg_volume": 3787.0
+      },
+      "pink": {
+        "count": 7,
+        "total_volume": 3703,
+        "top_keywords": [
+          "pink queen bed frame",
+          "pink bed frame queen",
+          "pink bed frame twin",
+          "pink queen size bed frame",
+          "pink queen size bed frame"
+        ],
+        "avg_volume": 529.0
+      },
+      "kingsize": {
+        "count": 6,
+        "total_volume": 3522,
+        "top_keywords": [
+          "kingsize bed frame with headboard",
+          "kingsize bed frame",
+          "kingsize mattresses",
+          "kingsize mattress",
+          "kingsize bed"
+        ],
+        "avg_volume": 587.0
+      },
+      "casper": {
+        "count": 7,
+        "total_volume": 3414,
+        "top_keywords": [
+          "casper queen mattress",
+          "casper king mattress",
+          "casper full size mattress",
+          "casper full size mattress",
+          "casper twin mattress"
+        ],
+        "avg_volume": 487.7
+      },
+      "best": {
+        "count": 15,
+        "total_volume": 3343,
+        "top_keywords": [
+          "best queen mattress",
+          "best king size mattress",
+          "best king size mattress",
+          "best twin mattress",
+          "best full size mattress"
+        ],
+        "avg_volume": 222.9
+      },
+      "clearance": {
+        "count": 18,
+        "total_volume": 3078,
+        "top_keywords": [
+          "clearance king size bedframe",
+          "clearance king size bedframe",
+          "clearance twin mattresses",
+          "clearance queen bed frames",
+          "clearance queen bed frame"
+        ],
+        "avg_volume": 171.0
+      },
+      "organic": {
+        "count": 8,
+        "total_volume": 3046,
+        "top_keywords": [
+          "organic twin mattress",
+          "organic king size mattresses",
+          "organic king size mattresses",
+          "organic queen mattress",
+          "organic full mattress"
+        ],
+        "avg_volume": 380.8
+      },
+      "gold": {
+        "count": 11,
+        "total_volume": 3040,
+        "top_keywords": [
+          "gold queen bed frame",
+          "gold bed frame queen",
+          "gold twin bed frame",
+          "gold bed frame full",
+          "gold king size bed frame"
+        ],
+        "avg_volume": 276.4
+      },
+      "fullsize": {
+        "count": 6,
+        "total_volume": 2972,
+        "top_keywords": [
+          "fullsize bed frame with headboard",
+          "fullsize mattress in a box",
+          "fullsize bed frame",
+          "fullsize mattress",
+          "fullsize bed"
+        ],
+        "avg_volume": 495.3
+      },
+      "5": {
+        "count": 9,
+        "total_volume": 2930,
+        "top_keywords": [
+          "5 inch twin mattress",
+          "5 inch twin mattress for bunk bed",
+          "5 inch full size mattress",
+          "5 inch full size mattress",
+          "5 inch mattress twin"
+        ],
+        "avg_volume": 325.6
+      },
+      "serta": {
+        "count": 5,
+        "total_volume": 2891,
+        "top_keywords": [
+          "serta queen mattress",
+          "serta king size mattress",
+          "serta king size mattress",
+          "serta mattress king",
+          "serta king mattress"
+        ],
+        "avg_volume": 578.2
+      },
+      "matress": {
+        "count": 6,
+        "total_volume": 2791,
+        "top_keywords": [
+          "matress queen",
+          "matress full",
+          "matress king",
+          "matress twin",
+          "matress queen size"
+        ],
+        "avg_volume": 465.2
+      },
+      "brown": {
+        "count": 5,
+        "total_volume": 2719,
+        "top_keywords": [
+          "brown queen bed frame",
+          "brown bed frame queen",
+          "brown king size bed frame",
+          "brown king size bed frame",
+          "brown king bed frame"
+        ],
+        "avg_volume": 543.8
+      },
+      "olympic": {
+        "count": 5,
+        "total_volume": 2704,
+        "top_keywords": [
+          "olympic queen mattress",
+          "olympic queen bed frame",
+          "olympic queen bed frame",
+          "olympic queen bed frame 66x80",
+          "olympic queen bed frame 66x80"
+        ],
+        "avg_volume": 540.8
+      },
+      "marco": {
+        "count": 7,
+        "total_volume": 2637,
+        "top_keywords": [
+          "marco de cama queen",
+          "marco de cama king",
+          "marco de cama twin",
+          "marco de cama full",
+          "marco para cama queen"
+        ],
+        "avg_volume": 376.7
+      },
+      "box": {
+        "count": 8,
+        "total_volume": 2615,
+        "top_keywords": [
+          "box mattress queen size",
+          "box mattress queen size",
+          "box frame queen bed",
+          "box spring and mattress set queen",
+          "box mattress full size"
+        ],
+        "avg_volume": 326.9
+      },
+      "green": {
+        "count": 9,
+        "total_volume": 2450,
+        "top_keywords": [
+          "green queen bed frame",
+          "green king bed frame",
+          "green bed frame queen",
+          "green tea mattress queen",
+          "green king size bed frame"
+        ],
+        "avg_volume": 272.2
+      },
+      "toddler": {
+        "count": 3,
+        "total_volume": 2418,
+        "top_keywords": [
+          "toddler twin bed frame",
+          "toddler twin mattress",
+          "toddler twin mattress for floor bed"
+        ],
+        "avg_volume": 806.0
+      },
+      "split": {
+        "count": 3,
+        "total_volume": 2295,
+        "top_keywords": [
+          "split king mattress",
+          "split king bed frame",
+          "split king bed frame"
+        ],
+        "avg_volume": 765.0
+      },
+      "extra": {
+        "count": 9,
+        "total_volume": 2258,
+        "top_keywords": [
+          "extra tall king headboard 50 inches",
+          "extra long twin mattress",
+          "extra long twin bed frame",
+          "extra firm full mattress",
+          "extra plush queen mattress"
+        ],
+        "avg_volume": 250.9
+      },
+      "foldable": {
+        "count": 3,
+        "total_volume": 2256,
+        "top_keywords": [
+          "foldable queen bed frame",
+          "foldable bed frame twin",
+          "foldable king bed frame"
+        ],
+        "avg_volume": 752.0
+      },
+      "cream": {
+        "count": 5,
+        "total_volume": 2255,
+        "top_keywords": [
+          "cream queen bed frame",
+          "cream bed frame queen",
+          "cream king bed frame",
+          "cream king size bed frame",
+          "cream king size bed frame"
+        ],
+        "avg_volume": 451.0
+      },
+      "daybed": {
+        "count": 5,
+        "total_volume": 2250,
+        "top_keywords": [
+          "daybed queen",
+          "daybed frame twin",
+          "daybed mattress twin size",
+          "daybed mattress twin size",
+          "daybed twin mattress"
+        ],
+        "avg_volume": 450.0
+      },
+      "gray": {
+        "count": 8,
+        "total_volume": 2139,
+        "top_keywords": [
+          "gray bed frame queen",
+          "gray queen bed frame",
+          "gray full size bed frame",
+          "gray full size bed frame",
+          "gray queen bed frame with headboard"
+        ],
+        "avg_volume": 267.4
+      },
+      "frame": {
+        "count": 9,
+        "total_volume": 2125,
+        "top_keywords": [
+          "frame bed queen",
+          "frame bed king",
+          "frame queen",
+          "frame para cama queen",
+          "frame bed full size"
+        ],
+        "avg_volume": 236.1
+      },
+      "16": {
+        "count": 6,
+        "total_volume": 2112,
+        "top_keywords": [
+          "16 inch king size mattress",
+          "16 inch king size mattress",
+          "16 inch queen mattress",
+          "16 inch mattress queen",
+          "16 inch queen size mattress"
+        ],
+        "avg_volume": 352.0
+      },
+      "￼queen": {
+        "count": 6,
+        "total_volume": 2012,
+        "top_keywords": [
+          "￼queen size bed frame",
+          "￼queen size bed frame",
+          "￼queen mattress",
+          "￼queen size bed",
+          "￼queen size bed"
+        ],
+        "avg_volume": 335.3
+      },
+      "walnut": {
+        "count": 5,
+        "total_volume": 1957,
+        "top_keywords": [
+          "walnut bed frame queen",
+          "walnut queen bed frame",
+          "walnut king bed frame",
+          "walnut bed frame king",
+          "walnut king bed frame and headboard"
+        ],
+        "avg_volume": 391.4
+      },
+      "18": {
+        "count": 7,
+        "total_volume": 1886,
+        "top_keywords": [
+          "18 inch queen bed frame",
+          "18 inch twin bed frame",
+          "18 inch king bed frame",
+          "18 inch full size bed frame",
+          "18 inch full size bed frame"
+        ],
+        "avg_volume": 269.4
+      },
+      "full-size": {
+        "count": 4,
+        "total_volume": 1886,
+        "top_keywords": [
+          "full-size mattress",
+          "full-size bed frame",
+          "full-size bed",
+          "full-size bed frame with storage"
+        ],
+        "avg_volume": 471.5
+      },
+      "vintage": {
+        "count": 8,
+        "total_volume": 1874,
+        "top_keywords": [
+          "vintage queen bed frame",
+          "vintage king bed frame",
+          "vintage metal bed frame queen",
+          "vintage bed frame queen",
+          "vintage twin bed frame"
+        ],
+        "avg_volume": 234.2
+      },
+      "velvet": {
+        "count": 8,
+        "total_volume": 1865,
+        "top_keywords": [
+          "velvet queen bed frame",
+          "velvet king bed frame",
+          "velvet bed frame queen",
+          "velvet queen bed frame with headboard",
+          "velvet king bed"
+        ],
+        "avg_volume": 233.1
+      },
+      "novaform": {
+        "count": 4,
+        "total_volume": 1730,
+        "top_keywords": [
+          "novaform mattress queen",
+          "novaform mattress king",
+          "novaform mattress full",
+          "novaform twin mattress"
+        ],
+        "avg_volume": 432.5
+      },
+      "narrow twin": {
+        "count": 1,
+        "total_volume": 1727,
+        "top_keywords": [
+          "narrow twin mattress"
+        ],
+        "avg_volume": 1727.0
+      },
+      "olympic queen": {
+        "count": 1,
+        "total_volume": 1696,
+        "top_keywords": [
+          "olympic queen mattress"
+        ],
+        "avg_volume": 1696.0
+      },
+      "egohome": {
+        "count": 5,
+        "total_volume": 1689,
+        "top_keywords": [
+          "egohome queen mattress",
+          "egohome full size memory foam mattress",
+          "egohome full size memory foam mattress",
+          "egohome king mattress",
+          "egohome 12 inch queen mattress"
+        ],
+        "avg_volume": 337.8
+      },
+      "ego": {
+        "count": 6,
+        "total_volume": 1638,
+        "top_keywords": [
+          "ego mattress king",
+          "ego mattress queen size",
+          "ego mattress queen size",
+          "ego home mattress queen",
+          "ego home mattress king"
+        ],
+        "avg_volume": 273.0
+      },
+      "iron": {
+        "count": 6,
+        "total_volume": 1622,
+        "top_keywords": [
+          "iron bed frames queen size",
+          "iron bed frames queen size",
+          "iron bed frame full",
+          "iron bed frame queen",
+          "iron queen bed frame with headboard"
+        ],
+        "avg_volume": 270.3
+      },
+      "headboard": {
+        "count": 6,
+        "total_volume": 1614,
+        "top_keywords": [
+          "headboard and frame queen size",
+          "headboard and frame queen size",
+          "headboard queen size bed frame",
+          "headboard queen size bed frame",
+          "headboard queen size with frame"
+        ],
+        "avg_volume": 269.0
+      },
+      "small": {
+        "count": 6,
+        "total_volume": 1608,
+        "top_keywords": [
+          "small twin bed",
+          "small single mattress",
+          "small twin beds for small spaces",
+          "small twin mattress",
+          "small twin bed frame"
+        ],
+        "avg_volume": 268.0
+      },
+      "cloud": {
+        "count": 1,
+        "total_volume": 1545,
+        "top_keywords": [
+          "cloud bed frame king"
+        ],
+        "avg_volume": 1545.0
+      },
+      "trundle": {
+        "count": 3,
+        "total_volume": 1534,
+        "top_keywords": [
+          "trundle mattress twin",
+          "trundle bed twin mattress",
+          "trundle bed mattress twin"
+        ],
+        "avg_volume": 511.3
+      },
+      "wyoming": {
+        "count": 4,
+        "total_volume": 1509,
+        "top_keywords": [
+          "wyoming king mattress",
+          "wyoming king bed frame",
+          "wyoming king bed frame 84x84",
+          "wyoming king bed"
+        ],
+        "avg_volume": 377.2
+      },
+      "split king": {
+        "count": 1,
+        "total_volume": 1499,
+        "top_keywords": [
+          "split king mattress"
+        ],
+        "avg_volume": 1499.0
+      },
+      "queen-size": {
+        "count": 3,
+        "total_volume": 1483,
+        "top_keywords": [
+          "queen-size bed frame",
+          "queen-size mattress",
+          "queen-size storage bed frames with drawers"
+        ],
+        "avg_volume": 494.3
+      },
+      "hydraulic": {
+        "count": 6,
+        "total_volume": 1461,
+        "top_keywords": [
+          "hydraulic bed frame queen",
+          "hydraulic lift storage bed queen",
+          "hydraulic lift storage bed king",
+          "hydraulic bed frame full",
+          "hydraulic lift bed frame queen"
+        ],
+        "avg_volume": 243.5
+      },
+      "helix": {
+        "count": 4,
+        "total_volume": 1423,
+        "top_keywords": [
+          "helix midnight luxe mattress king",
+          "helix midnight luxe mattress queen",
+          "helix mattress king",
+          "helix mattress queen"
+        ],
+        "avg_volume": 355.8
+      },
+      "sealy": {
+        "count": 3,
+        "total_volume": 1372,
+        "top_keywords": [
+          "sealy queen mattress",
+          "sealy king mattress",
+          "sealy posturepedic mattress king"
+        ],
+        "avg_volume": 457.3
+      },
+      "simple": {
+        "count": 6,
+        "total_volume": 1346,
+        "top_keywords": [
+          "simple queen bed frame",
+          "simple bed frame queen",
+          "simple twin bed frame",
+          "simple full size bed frame",
+          "simple full size bed frame"
+        ],
+        "avg_volume": 224.3
+      },
+      "amazon": {
+        "count": 7,
+        "total_volume": 1306,
+        "top_keywords": [
+          "amazon queen mattress",
+          "amazon bed frame queen",
+          "amazon queen bed frame",
+          "amazon basics queen bed frame",
+          "amazon full size bed frame"
+        ],
+        "avg_volume": 186.6
+      },
+      "blue": {
+        "count": 6,
+        "total_volume": 1275,
+        "top_keywords": [
+          "blue queen bed frame",
+          "blue full size bed frame",
+          "blue full size bed frame",
+          "blue bed frame queen",
+          "blue king size bed frame"
+        ],
+        "avg_volume": 212.5
+      },
+      "luxury": {
+        "count": 4,
+        "total_volume": 1235,
+        "top_keywords": [
+          "luxury king size bed frame",
+          "luxury king size bed frame",
+          "luxury queen bed frame",
+          "luxury bed frame king"
+        ],
+        "avg_volume": 308.8
+      },
+      "￼king": {
+        "count": 6,
+        "total_volume": 1230,
+        "top_keywords": [
+          "￼king size mattress",
+          "￼king size mattress",
+          "￼king size bed frame",
+          "￼king size bed frame",
+          "￼king size bed"
+        ],
+        "avg_volume": 205.0
+      },
+      "2": {
+        "count": 4,
+        "total_volume": 1225,
+        "top_keywords": [
+          "2 twin bed frames set",
+          "2 twin mattresses 2 pack",
+          "2 pack twin mattress",
+          "2 twin bed frames"
+        ],
+        "avg_volume": 306.2
+      },
+      "queens": {
+        "count": 3,
+        "total_volume": 1206,
+        "top_keywords": [
+          "queens size mattress",
+          "queens size bed frame",
+          "queens bed frame"
+        ],
+        "avg_volume": 402.0
+      },
+      "pillow": {
+        "count": 4,
+        "total_volume": 1201,
+        "top_keywords": [
+          "pillow top king mattress",
+          "pillow top mattress king",
+          "pillow top king size mattress",
+          "pillow top king size mattress"
+        ],
+        "avg_volume": 300.2
+      },
+      "beauty": {
+        "count": 4,
+        "total_volume": 1190,
+        "top_keywords": [
+          "beauty rest mattress queen size",
+          "beauty rest mattress queen size",
+          "beauty rest mattress king size",
+          "beauty rest mattress king size"
+        ],
+        "avg_volume": 297.5
+      },
+      "tufted": {
+        "count": 2,
+        "total_volume": 1186,
+        "top_keywords": [
+          "tufted bed frame queen",
+          "tufted king bed frame"
+        ],
+        "avg_volume": 593.0
+      },
+      "juegos": {
+        "count": 2,
+        "total_volume": 1181,
+        "top_keywords": [
+          "juegos de cuartos queen modernos",
+          "juegos de cuartos king modernos"
+        ],
+        "avg_volume": 590.5
+      },
+      "fiberglass": {
+        "count": 4,
+        "total_volume": 1175,
+        "top_keywords": [
+          "fiberglass free mattress queen",
+          "fiberglass free mattress king",
+          "fiberglass free mattress full",
+          "fiberglass free mattress twin"
+        ],
+        "avg_volume": 293.8
+      },
+      "king-size": {
+        "count": 3,
+        "total_volume": 1170,
+        "top_keywords": [
+          "king-size bed frame",
+          "king-size mattress",
+          "king-size bed"
+        ],
+        "avg_volume": 390.0
+      },
+      "sweetnight": {
+        "count": 2,
+        "total_volume": 1100,
+        "top_keywords": [
+          "sweetnight queen mattress",
+          "sweetnight king mattress"
+        ],
+        "avg_volume": 550.0
+      },
+      "rustic": {
+        "count": 2,
+        "total_volume": 1090,
+        "top_keywords": [
+          "rustic king size bed frame",
+          "rustic king size bed frame"
+        ],
+        "avg_volume": 545.0
+      },
+      "￼full": {
+        "count": 4,
+        "total_volume": 1058,
+        "top_keywords": [
+          "￼full size mattress",
+          "￼full size mattress",
+          "￼full size bed frame",
+          "￼full size bed frame"
+        ],
+        "avg_volume": 264.5
+      },
+      "respaldar": {
+        "count": 2,
+        "total_volume": 1050,
+        "top_keywords": [
+          "respaldar de cama queen",
+          "respaldar de cama king"
+        ],
+        "avg_volume": 525.0
+      },
+      "latex": {
+        "count": 3,
+        "total_volume": 1039,
+        "top_keywords": [
+          "latex mattress queen",
+          "latex twin mattress",
+          "latex mattress king"
+        ],
+        "avg_volume": 346.3
+      },
+      "boys": {
+        "count": 1,
+        "total_volume": 1035,
+        "top_keywords": [
+          "boys twin bed frame"
+        ],
+        "avg_volume": 1035.0
+      },
+      "twin.": {
+        "count": 2,
+        "total_volume": 1029,
+        "top_keywords": [
+          "twin. bed frame",
+          "twin. mattress"
+        ],
+        "avg_volume": 514.5
+      },
+      "non": {
+        "count": 5,
+        "total_volume": 997,
+        "top_keywords": [
+          "non toxic twin mattress",
+          "non squeaky bed frame queen",
+          "non fiberglass mattress queen",
+          "non toxic queen mattress",
+          "non toxic king mattress"
+        ],
+        "avg_volume": 199.4
+      },
+      "bunk": {
+        "count": 2,
+        "total_volume": 989,
+        "top_keywords": [
+          "bunk bed mattress twin",
+          "bunk bed mattress twin set of 2"
+        ],
+        "avg_volume": 494.5
+      },
+      "thin": {
+        "count": 2,
+        "total_volume": 958,
+        "top_keywords": [
+          "thin twin mattress",
+          "thin queen mattress"
+        ],
+        "avg_volume": 479.0
+      },
+      "traditional": {
+        "count": 1,
+        "total_volume": 939,
+        "top_keywords": [
+          "traditional wood bed frame queen"
+        ],
+        "avg_volume": 939.0
+      },
+      "bad": {
+        "count": 4,
+        "total_volume": 902,
+        "top_keywords": [
+          "bad frames queen",
+          "bad frame king size",
+          "bad frame king size",
+          "bad frames full"
+        ],
+        "avg_volume": 225.5
+      },
+      "larmace": {
+        "count": 4,
+        "total_volume": 898,
+        "top_keywords": [
+          "larmace king size bed frame",
+          "larmace king size bed frame",
+          "larmace queen size bed frame",
+          "larmace queen size bed frame"
+        ],
+        "avg_volume": 224.5
+      },
+      "yaheetech": {
+        "count": 1,
+        "total_volume": 878,
+        "top_keywords": [
+          "yaheetech queen bed frame"
+        ],
+        "avg_volume": 878.0
+      },
+      "cute": {
+        "count": 3,
+        "total_volume": 868,
+        "top_keywords": [
+          "cute queen bed frame",
+          "cute full size bed frame",
+          "cute full size bed frame"
+        ],
+        "avg_volume": 289.3
+      },
+      "boneless": {
+        "count": 3,
+        "total_volume": 868,
+        "top_keywords": [
+          "boneless bed king",
+          "boneless king size bed",
+          "boneless king size bed"
+        ],
+        "avg_volume": 289.3
+      },
+      "likimio": {
+        "count": 2,
+        "total_volume": 867,
+        "top_keywords": [
+          "likimio king bed frame",
+          "likimio queen bed frame"
+        ],
+        "avg_volume": 433.5
+      },
+      "enhomee": {
+        "count": 5,
+        "total_volume": 816,
+        "top_keywords": [
+          "enhomee king size bed frame",
+          "enhomee king size bed frame",
+          "enhomee queen bed frame",
+          "enhomee king size bed frame with storage",
+          "enhomee king size bed frame with storage"
+        ],
+        "avg_volume": 163.2
+      },
+      "thuma": {
+        "count": 2,
+        "total_volume": 807,
+        "top_keywords": [
+          "thuma bed frame queen",
+          "thuma bed frame king"
+        ],
+        "avg_volume": 403.5
+      },
+      "queensize": {
+        "count": 2,
+        "total_volume": 797,
+        "top_keywords": [
+          "queensize bed frame and headboard",
+          "queensize bed frame"
+        ],
+        "avg_volume": 398.5
+      },
+      "adjustable": {
+        "count": 4,
+        "total_volume": 792,
+        "top_keywords": [
+          "adjustable mattress queen",
+          "adjustable mattress king",
+          "adjustable metal bed frame queen",
+          "adjustable full bed frame with headboard"
+        ],
+        "avg_volume": 198.0
+      },
+      "molblly": {
+        "count": 2,
+        "total_volume": 787,
+        "top_keywords": [
+          "molblly queen mattress",
+          "molblly mattress king"
+        ],
+        "avg_volume": 393.5
+      },
+      "4": {
+        "count": 2,
+        "total_volume": 767,
+        "top_keywords": [
+          "4 inch twin mattress",
+          "4 twin mattress"
+        ],
+        "avg_volume": 383.5
+      },
+      "6in": {
+        "count": 3,
+        "total_volume": 756,
+        "top_keywords": [
+          "6in twin mattress",
+          "6in full size mattress",
+          "6in full size mattress"
+        ],
+        "avg_volume": 252.0
+      },
+      "adult": {
+        "count": 3,
+        "total_volume": 705,
+        "top_keywords": [
+          "adult twin bed frame",
+          "adult twin bed",
+          "adult twin mattress"
+        ],
+        "avg_volume": 235.0
+      },
+      "ultra": {
+        "count": 2,
+        "total_volume": 690,
+        "top_keywords": [
+          "ultra plush queen mattress",
+          "ultra plush king mattress"
+        ],
+        "avg_volume": 345.0
+      },
+      "olixis-metal-queen-bed-frame": {
+        "count": 1,
+        "total_volume": 671,
+        "top_keywords": [
+          "olixis-metal-queen-bed-frame"
+        ],
+        "avg_volume": 671.0
+      },
+      "calking": {
+        "count": 2,
+        "total_volume": 636,
+        "top_keywords": [
+          "calking bed frame with headboard",
+          "calking bed frame with headboard"
+        ],
+        "avg_volume": 318.0
+      },
+      "jocisland": {
+        "count": 2,
+        "total_volume": 636,
+        "top_keywords": [
+          "jocisland king size bed frame",
+          "jocisland king size bed frame"
+        ],
+        "avg_volume": 318.0
+      },
+      "wingback": {
+        "count": 2,
+        "total_volume": 630,
+        "top_keywords": [
+          "wingback bed frame queen",
+          "wingback bed frame king"
+        ],
+        "avg_volume": 315.0
+      },
+      "new": {
+        "count": 3,
+        "total_volume": 624,
+        "top_keywords": [
+          "new jeto metal bed frame queen",
+          "new jeto metal bed frame,queen size bed frame with storage space,heavy duty sturdy mattress foundati",
+          "new jeto metal bed frame,queen size bed frame with storage space,heavy duty sturdy mattress foundati"
+        ],
+        "avg_volume": 208.0
+      },
+      "alaska": {
+        "count": 2,
+        "total_volume": 620,
+        "top_keywords": [
+          "alaska king mattress",
+          "alaska king bed"
+        ],
+        "avg_volume": 310.0
+      },
+      "-queen": {
+        "count": 1,
+        "total_volume": 611,
+        "top_keywords": [
+          "-queen bed frame"
+        ],
+        "avg_volume": 611.0
+      },
+      "texas": {
+        "count": 2,
+        "total_volume": 595,
+        "top_keywords": [
+          "texas king mattress",
+          "texas king bed frame"
+        ],
+        "avg_volume": 297.5
+      },
+      "14in": {
+        "count": 2,
+        "total_volume": 594,
+        "top_keywords": [
+          "14in king size mattress",
+          "14in king size mattress"
+        ],
+        "avg_volume": 297.0
+      },
+      "eastern": {
+        "count": 3,
+        "total_volume": 594,
+        "top_keywords": [
+          "eastern king bed frame",
+          "eastern king mattress",
+          "eastern king mattress"
+        ],
+        "avg_volume": 198.0
+      },
+      "outdoor": {
+        "count": 1,
+        "total_volume": 575,
+        "top_keywords": [
+          "outdoor twin mattress"
+        ],
+        "avg_volume": 575.0
+      },
+      "twin-size": {
+        "count": 2,
+        "total_volume": 560,
+        "top_keywords": [
+          "twin-size mattress",
+          "twin-size bed frame"
+        ],
+        "avg_volume": 280.0
+      },
+      "recamara": {
+        "count": 3,
+        "total_volume": 558,
+        "top_keywords": [
+          "recamara queen",
+          "recamara king size",
+          "recamara king size"
+        ],
+        "avg_volume": 186.0
+      },
+      "spring": {
+        "count": 4,
+        "total_volume": 555,
+        "top_keywords": [
+          "spring mattress queen",
+          "spring mattress king",
+          "spring mattresses queen",
+          "spring queen mattress"
+        ],
+        "avg_volume": 138.8
+      },
+      "saatva": {
+        "count": 2,
+        "total_volume": 555,
+        "top_keywords": [
+          "saatva mattress queen",
+          "saatva mattress king"
+        ],
+        "avg_volume": 277.5
+      },
+      "novella": {
+        "count": 2,
+        "total_volume": 534,
+        "top_keywords": [
+          "novella queen mattress",
+          "novella king mattress"
+        ],
+        "avg_volume": 267.0
+      },
+      "10in": {
+        "count": 3,
+        "total_volume": 534,
+        "top_keywords": [
+          "10in full size mattress",
+          "10in full size mattress",
+          "10in mattress full"
+        ],
+        "avg_volume": 178.0
+      },
+      "leesa": {
+        "count": 2,
+        "total_volume": 529,
+        "top_keywords": [
+          "leesa mattress queen",
+          "leesa mattress king"
+        ],
+        "avg_volume": 264.5
+      },
+      "14inch": {
+        "count": 1,
+        "total_volume": 525,
+        "top_keywords": [
+          "14inch queen mattress"
+        ],
+        "avg_volume": 525.0
+      },
+      "mens": {
+        "count": 2,
+        "total_volume": 524,
+        "top_keywords": [
+          "mens queen bed frame",
+          "mens bed frame queen"
+        ],
+        "avg_volume": 262.0
+      },
+      "full/queen": {
+        "count": 2,
+        "total_volume": 524,
+        "top_keywords": [
+          "full/queen bed frame",
+          "full/queen bed frame"
+        ],
+        "avg_volume": 262.0
+      },
+      "no": {
+        "count": 2,
+        "total_volume": 514,
+        "top_keywords": [
+          "no box spring bed frame queen",
+          "no noise bed frame queen"
+        ],
+        "avg_volume": 257.0
+      },
+      "zenus": {
+        "count": 2,
+        "total_volume": 514,
+        "top_keywords": [
+          "zenus mattresses queen",
+          "zenus mattresses king"
+        ],
+        "avg_volume": 257.0
+      },
+      "cool": {
+        "count": 6,
+        "total_volume": 508,
+        "top_keywords": [
+          "cool gel memory foam mattress queen",
+          "cool gel mattress queen",
+          "cool gel king mattress",
+          "cool gel mattress king 14 inch",
+          "cool gel mattress california king"
+        ],
+        "avg_volume": 84.7
+      },
+      "leather": {
+        "count": 3,
+        "total_volume": 504,
+        "top_keywords": [
+          "leather king bed frame",
+          "leather bed frame king",
+          "leather queen bed frame"
+        ],
+        "avg_volume": 168.0
+      },
+      "kid": {
+        "count": 2,
+        "total_volume": 504,
+        "top_keywords": [
+          "kid twin bed frame",
+          "kid twin bed"
+        ],
+        "avg_volume": 252.0
+      },
+      "fabric": {
+        "count": 2,
+        "total_volume": 494,
+        "top_keywords": [
+          "fabric bed frame queen",
+          "fabric bed frame king"
+        ],
+        "avg_volume": 247.0
+      },
+      "folding": {
+        "count": 1,
+        "total_volume": 474,
+        "top_keywords": [
+          "folding queen bed frame"
+        ],
+        "avg_volume": 474.0
+      },
+      "amerlife": {
+        "count": 2,
+        "total_volume": 464,
+        "top_keywords": [
+          "amerlife king size bed frame",
+          "amerlife king size bed frame"
+        ],
+        "avg_volume": 232.0
+      },
+      "dark": {
+        "count": 5,
+        "total_volume": 449,
+        "top_keywords": [
+          "dark wood bed frame queen",
+          "dark grey bed frame queen size",
+          "dark gry full size bed frame",
+          "dark gry full size bed frame",
+          "dark grey bed frame queen size"
+        ],
+        "avg_volume": 89.8
+      },
+      "upholstery": {
+        "count": 2,
+        "total_volume": 448,
+        "top_keywords": [
+          "upholstery bed frame queen",
+          "upholstery bed frame king"
+        ],
+        "avg_volume": 224.0
+      },
+      "soporte": {
+        "count": 2,
+        "total_volume": 433,
+        "top_keywords": [
+          "soporte para cama queen",
+          "soporte de cama queen"
+        ],
+        "avg_volume": 216.5
+      },
+      "letmoon": {
+        "count": 2,
+        "total_volume": 424,
+        "top_keywords": [
+          "letmoon king size mattress",
+          "letmoon king size mattress"
+        ],
+        "avg_volume": 212.0
+      },
+      "tempurpedic": {
+        "count": 2,
+        "total_volume": 418,
+        "top_keywords": [
+          "tempurpedic mattress queen",
+          "tempurpedic mattress king"
+        ],
+        "avg_volume": 209.0
+      },
+      "kings": {
+        "count": 2,
+        "total_volume": 418,
+        "top_keywords": [
+          "kings size bed frame",
+          "kings bed frame"
+        ],
+        "avg_volume": 209.0
+      },
+      "sleigh": {
+        "count": 1,
+        "total_volume": 414,
+        "top_keywords": [
+          "sleigh king bed frame"
+        ],
+        "avg_volume": 414.0
+      },
+      "newton": {
+        "count": 1,
+        "total_volume": 414,
+        "top_keywords": [
+          "newton twin mattress"
+        ],
+        "avg_volume": 414.0
+      },
+      "jenny": {
+        "count": 1,
+        "total_volume": 393,
+        "top_keywords": [
+          "jenny lind twin bed"
+        ],
+        "avg_volume": 393.0
+      },
+      "12in": {
+        "count": 3,
+        "total_volume": 388,
+        "top_keywords": [
+          "12in queen mattress",
+          "12in king mattress",
+          "12in full mattress"
+        ],
+        "avg_volume": 129.3
+      },
+      "two": {
+        "count": 2,
+        "total_volume": 388,
+        "top_keywords": [
+          "two twin bed frames",
+          "two twin mattresses"
+        ],
+        "avg_volume": 194.0
+      },
+      "8inch": {
+        "count": 1,
+        "total_volume": 378,
+        "top_keywords": [
+          "8inch twin mattress"
+        ],
+        "avg_volume": 378.0
+      },
+      "wrought": {
+        "count": 2,
+        "total_volume": 363,
+        "top_keywords": [
+          "wrought iron bed frame queen",
+          "wrought iron bed frame king"
+        ],
+        "avg_volume": 181.5
+      },
+      "fansace": {
+        "count": 1,
+        "total_volume": 358,
+        "top_keywords": [
+          "fansace king mattress"
+        ],
+        "avg_volume": 358.0
+      },
+      "sweet": {
+        "count": 2,
+        "total_volume": 357,
+        "top_keywords": [
+          "sweet night mattresses queen",
+          "sweet night mattresses king"
+        ],
+        "avg_volume": 178.5
+      },
+      "pillowtop": {
+        "count": 2,
+        "total_volume": 352,
+        "top_keywords": [
+          "pillowtop queen mattress",
+          "pillowtop mattress king"
+        ],
+        "avg_volume": 176.0
+      },
+      "avocado": {
+        "count": 2,
+        "total_volume": 342,
+        "top_keywords": [
+          "avocado mattress queen size",
+          "avocado mattress queen size"
+        ],
+        "avg_volume": 171.0
+      },
+      "strong": {
+        "count": 2,
+        "total_volume": 342,
+        "top_keywords": [
+          "strong bed frame queen size",
+          "strong bed frame queen size"
+        ],
+        "avg_volume": 171.0
+      },
+      "bace": {
+        "count": 1,
+        "total_volume": 338,
+        "top_keywords": [
+          "bace de cama queen"
+        ],
+        "avg_volume": 338.0
+      },
+      "coolgel": {
+        "count": 1,
+        "total_volume": 333,
+        "top_keywords": [
+          "coolgel memory foam mattress queen"
+        ],
+        "avg_volume": 333.0
+      },
+      "ca": {
+        "count": 1,
+        "total_volume": 333,
+        "top_keywords": [
+          "ca king bed frame"
+        ],
+        "avg_volume": 333.0
+      },
+      "fluted": {
+        "count": 2,
+        "total_volume": 332,
+        "top_keywords": [
+          "fluted queen bed frame",
+          "fluted king bed frame"
+        ],
+        "avg_volume": 166.0
+      },
+      "yitahome": {
+        "count": 2,
+        "total_volume": 332,
+        "top_keywords": [
+          "yitahome king size bed frame",
+          "yitahome king size bed frame"
+        ],
+        "avg_volume": 166.0
+      },
+      "velocava": {
+        "count": 2,
+        "total_volume": 322,
+        "top_keywords": [
+          "velocava full size lift up storage bed",
+          "velocava full size lift up storage bed"
+        ],
+        "avg_volume": 161.0
+      },
+      "brass": {
+        "count": 1,
+        "total_volume": 303,
+        "top_keywords": [
+          "brass bed frame queen"
+        ],
+        "avg_volume": 303.0
+      },
+      "lucid": {
+        "count": 2,
+        "total_volume": 302,
+        "top_keywords": [
+          "lucid full size mattress",
+          "lucid full size mattress"
+        ],
+        "avg_volume": 151.0
+      },
+      "lofted": {
+        "count": 1,
+        "total_volume": 297,
+        "top_keywords": [
+          "lofted queen bed frame"
+        ],
+        "avg_volume": 297.0
+      },
+      "linen": {
+        "count": 2,
+        "total_volume": 297,
+        "top_keywords": [
+          "linen upholstered bed frame queen",
+          "linen bed frame king"
+        ],
+        "avg_volume": 148.5
+      },
+      "cypbed": {
+        "count": 2,
+        "total_volume": 292,
+        "top_keywords": [
+          "cypbed king size bed frame",
+          "cypbed king size bed frame"
+        ],
+        "avg_volume": 146.0
+      },
+      "10inch": {
+        "count": 2,
+        "total_volume": 292,
+        "top_keywords": [
+          "10inch full size mattress",
+          "10inch full size mattress"
+        ],
+        "avg_volume": 146.0
+      },
+      "marcos": {
+        "count": 1,
+        "total_volume": 277,
+        "top_keywords": [
+          "marcos de cama queen"
+        ],
+        "avg_volume": 277.0
+      },
+      "steel": {
+        "count": 2,
+        "total_volume": 277,
+        "top_keywords": [
+          "steel bed frames queen",
+          "steel bed frame king"
+        ],
+        "avg_volume": 138.5
+      },
+      "vibe": {
+        "count": 1,
+        "total_volume": 272,
+        "top_keywords": [
+          "vibe mattress queen"
+        ],
+        "avg_volume": 272.0
+      },
+      "somier": {
+        "count": 1,
+        "total_volume": 272,
+        "top_keywords": [
+          "somier cama queen"
+        ],
+        "avg_volume": 272.0
+      },
+      "7": {
+        "count": 1,
+        "total_volume": 267,
+        "top_keywords": [
+          "7 inch twin mattress"
+        ],
+        "avg_volume": 267.0
+      },
+      "twin-xl": {
+        "count": 1,
+        "total_volume": 267,
+        "top_keywords": [
+          "twin-xl bed frame"
+        ],
+        "avg_volume": 267.0
+      },
+      "siena": {
+        "count": 1,
+        "total_volume": 262,
+        "top_keywords": [
+          "siena mattress queen"
+        ],
+        "avg_volume": 262.0
+      },
+      "thick": {
+        "count": 1,
+        "total_volume": 262,
+        "top_keywords": [
+          "thick twin mattress"
+        ],
+        "avg_volume": 262.0
+      },
+      "boho": {
+        "count": 2,
+        "total_volume": 252,
+        "top_keywords": [
+          "boho king size bed frame",
+          "boho king size bed frame"
+        ],
+        "avg_volume": 126.0
+      },
+      "rod": {
+        "count": 1,
+        "total_volume": 222,
+        "top_keywords": [
+          "rod iron bed frame queen"
+        ],
+        "avg_volume": 222.0
+      },
+      "basic": {
+        "count": 1,
+        "total_volume": 222,
+        "top_keywords": [
+          "basic queen bed frame"
+        ],
+        "avg_volume": 222.0
+      },
+      "unique": {
+        "count": 1,
+        "total_volume": 222,
+        "top_keywords": [
+          "unique queen bed frame"
+        ],
+        "avg_volume": 222.0
+      },
+      "orthopedic": {
+        "count": 1,
+        "total_volume": 212,
+        "top_keywords": [
+          "orthopedic mattress queen"
+        ],
+        "avg_volume": 212.0
+      },
+      "noise": {
+        "count": 1,
+        "total_volume": 212,
+        "top_keywords": [
+          "noise free bed frame queen"
+        ],
+        "avg_volume": 212.0
+      },
+      "corner": {
+        "count": 1,
+        "total_volume": 207,
+        "top_keywords": [
+          "corner bed frame king"
+        ],
+        "avg_volume": 207.0
+      },
+      "eastern king": {
+        "count": 1,
+        "total_volume": 202,
+        "top_keywords": [
+          "eastern king bed frame"
+        ],
+        "avg_volume": 202.0
+      },
+      "head": {
+        "count": 1,
+        "total_volume": 196,
+        "top_keywords": [
+          "head boards/queen bed frame"
+        ],
+        "avg_volume": 196.0
+      },
+      "top": {
+        "count": 1,
+        "total_volume": 191,
+        "top_keywords": [
+          "top 10 mattresses king"
+        ],
+        "avg_volume": 191.0
+      },
+      "mid": {
+        "count": 1,
+        "total_volume": 186,
+        "top_keywords": [
+          "mid century king bed frame"
+        ],
+        "avg_volume": 186.0
+      },
+      "florida": {
+        "count": 1,
+        "total_volume": 181,
+        "top_keywords": [
+          "florida king bed"
+        ],
+        "avg_volume": 181.0
+      },
+      "6inch": {
+        "count": 1,
+        "total_volume": 181,
+        "top_keywords": [
+          "6inch twin mattress"
+        ],
+        "avg_volume": 181.0
+      },
+      "stackable": {
+        "count": 1,
+        "total_volume": 181,
+        "top_keywords": [
+          "stackable twin beds"
+        ],
+        "avg_volume": 181.0
+      },
+      "bronze": {
+        "count": 1,
+        "total_volume": 176,
+        "top_keywords": [
+          "bronze metal bed frame queen"
+        ],
+        "avg_volume": 176.0
+      },
+      "￼twin": {
+        "count": 1,
+        "total_volume": 176,
+        "top_keywords": [
+          "￼twin bed frame"
+        ],
+        "avg_volume": 176.0
+      },
+      "5inch": {
+        "count": 1,
+        "total_volume": 171,
+        "top_keywords": [
+          "5inch twin mattress"
+        ],
+        "avg_volume": 171.0
+      },
+      "men": {
+        "count": 1,
+        "total_volume": 166,
+        "top_keywords": [
+          "men queen bed frame"
+        ],
+        "avg_volume": 166.0
+      },
+      "minimalist": {
+        "count": 1,
+        "total_volume": 166,
+        "top_keywords": [
+          "minimalist queen bed frame"
+        ],
+        "avg_volume": 166.0
+      },
+      "innerspring": {
+        "count": 3,
+        "total_volume": 166,
+        "top_keywords": [
+          "innerspring king mattress",
+          "innerspring king size mattresses",
+          "innerspring king size mattresses"
+        ],
+        "avg_volume": 55.3
+      },
+      "bamboo": {
+        "count": 1,
+        "total_volume": 161,
+        "top_keywords": [
+          "bamboo queen mattress"
+        ],
+        "avg_volume": 161.0
+      },
+      "sex": {
+        "count": 1,
+        "total_volume": 161,
+        "top_keywords": [
+          "sex beds frames queen"
+        ],
+        "avg_volume": 161.0
+      },
+      "plataforma": {
+        "count": 1,
+        "total_volume": 156,
+        "top_keywords": [
+          "plataforma de cama queen"
+        ],
+        "avg_volume": 156.0
+      },
+      "15": {
+        "count": 1,
+        "total_volume": 156,
+        "top_keywords": [
+          "15 inch mattress queen"
+        ],
+        "avg_volume": 156.0
+      },
+      "hollywood": {
+        "count": 1,
+        "total_volume": 156,
+        "top_keywords": [
+          "hollywood bed frame queen"
+        ],
+        "avg_volume": 156.0
+      },
+      "queenbed": {
+        "count": 1,
+        "total_volume": 151,
+        "top_keywords": [
+          "queenbed frame"
+        ],
+        "avg_volume": 151.0
+      },
+      "kingsdown": {
+        "count": 1,
+        "total_volume": 151,
+        "top_keywords": [
+          "kingsdown mattress"
+        ],
+        "avg_volume": 151.0
+      },
+      "bastidor": {
+        "count": 1,
+        "total_volume": 146,
+        "top_keywords": [
+          "bastidor de cama queen"
+        ],
+        "avg_volume": 146.0
+      },
+      "hafenpo": {
+        "count": 1,
+        "total_volume": 146,
+        "top_keywords": [
+          "hafenpo 14 inch queen bed frame"
+        ],
+        "avg_volume": 146.0
+      },
+      "air": {
+        "count": 1,
+        "total_volume": 146,
+        "top_keywords": [
+          "air mattress frame queen"
+        ],
+        "avg_volume": 146.0
+      },
+      "dynasty": {
+        "count": 1,
+        "total_volume": 141,
+        "top_keywords": [
+          "dynasty mattress king"
+        ],
+        "avg_volume": 141.0
+      },
+      "light": {
+        "count": 1,
+        "total_volume": 141,
+        "top_keywords": [
+          "light wood king bed frame"
+        ],
+        "avg_volume": 141.0
+      },
+      "jeto": {
+        "count": 1,
+        "total_volume": 136,
+        "top_keywords": [
+          "jeto metal bed frame queen"
+        ],
+        "avg_volume": 136.0
+      },
+      "raised": {
+        "count": 1,
+        "total_volume": 136,
+        "top_keywords": [
+          "raised queen bed frame"
+        ],
+        "avg_volume": 136.0
+      },
+      "olee": {
+        "count": 1,
+        "total_volume": 136,
+        "top_keywords": [
+          "olee sleep queen mattress"
+        ],
+        "avg_volume": 136.0
+      },
+      "corduroy": {
+        "count": 1,
+        "total_volume": 136,
+        "top_keywords": [
+          "corduroy bed frame queen"
+        ],
+        "avg_volume": 136.0
+      },
+      "antique": {
+        "count": 1,
+        "total_volume": 131,
+        "top_keywords": [
+          "antique king bed frame"
+        ],
+        "avg_volume": 131.0
+      },
+      "6”": {
+        "count": 1,
+        "total_volume": 131,
+        "top_keywords": [
+          "6” twin mattress"
+        ],
+        "avg_volume": 131.0
+      },
+      "twinbed": {
+        "count": 1,
+        "total_volume": 131,
+        "top_keywords": [
+          "twinbed"
+        ],
+        "avg_volume": 131.0
+      },
+      "5in": {
+        "count": 1,
+        "total_volume": 131,
+        "top_keywords": [
+          "5in twin mattress"
+        ],
+        "avg_volume": 131.0
+      },
+      "ned": {
+        "count": 1,
+        "total_volume": 126,
+        "top_keywords": [
+          "ned frame queen"
+        ],
+        "avg_volume": 126.0
+      },
+      "standard": {
+        "count": 1,
+        "total_volume": 126,
+        "top_keywords": [
+          "standard twin mattress"
+        ],
+        "avg_volume": 126.0
+      },
+      "motion": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "motion isolation queen mattress"
+        ],
+        "avg_volume": 0.0
+      },
+      "durable": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "durable queen mattress"
+        ],
+        "avg_volume": 0.0
+      },
+      "biege": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "biege queen bed frame"
+        ],
+        "avg_volume": 0.0
+      },
+      "back": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "back support mattress queen"
+        ],
+        "avg_volume": 0.0
+      },
+      "+led": {
+        "count": 2,
+        "total_volume": 0,
+        "top_keywords": [
+          "+led bed frame queen",
+          "+led bed frame full"
+        ],
+        "avg_volume": 0.0
+      },
+      "gel": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "gel memory foam mattress queen"
+        ],
+        "avg_volume": 0.0
+      },
+      "susalt": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "susalt black queen mattress"
+        ],
+        "avg_volume": 0.0
+      },
+      "12”": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "12” queen mattress"
+        ],
+        "avg_volume": 0.0
+      },
+      "\"mattress": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "\"mattress in a box queen"
+        ],
+        "avg_volume": 0.0
+      },
+      "inner": {
+        "count": 2,
+        "total_volume": 0,
+        "top_keywords": [
+          "inner spring mattress queen size",
+          "inner spring mattress queen size"
+        ],
+        "avg_volume": 0.0
+      },
+      "12inch": {
+        "count": 3,
+        "total_volume": 0,
+        "top_keywords": [
+          "12inch king mattress",
+          "12inch mattress king",
+          "12inch full mattress"
+        ],
+        "avg_volume": 0.0
+      },
+      "ashley": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "ashley mattress king"
+        ],
+        "avg_volume": 0.0
+      },
+      "diamond": {
+        "count": 2,
+        "total_volume": 0,
+        "top_keywords": [
+          "diamond bed full size",
+          "diamond bed full size"
+        ],
+        "avg_volume": 0.0
+      },
+      "vasagle": {
+        "count": 2,
+        "total_volume": 0,
+        "top_keywords": [
+          "vasagle led bed frame full size",
+          "vasagle led bed frame full size"
+        ],
+        "avg_volume": 0.0
+      }
+    }
+  },
+  "款式类型": {
+    "total_keywords": 722,
+    "groups": {
+      "king": {
+        "count": 119,
+        "total_volume": 100396,
+        "top_keywords": [
+          "king size bed frame with storage",
+          "king bed frame with storage",
+          "king platform bed frame",
+          "king size platform bed frame",
+          "king platform bed"
+        ],
+        "avg_volume": 843.7
+      },
+      "queen": {
+        "count": 120,
+        "total_volume": 90281,
+        "top_keywords": [
+          "queen platform bed frame",
+          "queen size bed frame with storage",
+          "queen bed with storage",
+          "queen platform bed",
+          "queen platform bed frame with headboard"
+        ],
+        "avg_volume": 752.3
+      },
+      "platform": {
+        "count": 58,
+        "total_volume": 67372,
+        "top_keywords": [
+          "platform bed",
+          "platform bed frame queen size",
+          "platform bed frame",
+          "platform bed frame king",
+          "platform bed frame full"
+        ],
+        "avg_volume": 1161.6
+      },
+      "full": {
+        "count": 77,
+        "total_volume": 62184,
+        "top_keywords": [
+          "full size bed frame with storage",
+          "full bed frame with storage",
+          "full size platform bed frame",
+          "full bed with storage",
+          "full size metal platform bed frame"
+        ],
+        "avg_volume": 807.6
+      },
+      "bed": {
+        "count": 61,
+        "total_volume": 49819,
+        "top_keywords": [
+          "bed frame with storage",
+          "bed with storage",
+          "bed frame queen size with storage",
+          "bed with storage underneath",
+          "bed frame full with storage"
+        ],
+        "avg_volume": 816.7
+      },
+      "storage": {
+        "count": 21,
+        "total_volume": 47922,
+        "top_keywords": [
+          "queen bed frame with storage",
+          "storage bed",
+          "storage bed frame queen",
+          "storage bed frame",
+          "storage bed frame full"
+        ],
+        "avg_volume": 2282.0
+      },
+      "twin": {
+        "count": 50,
+        "total_volume": 36591,
+        "top_keywords": [
+          "twin bed frame with storage",
+          "twin platform bed frame",
+          "twin bed frames with storage",
+          "twin mattress for bunk bed",
+          "twin platform bed"
+        ],
+        "avg_volume": 731.8
+      },
+      "canopy": {
+        "count": 7,
+        "total_volume": 35144,
+        "top_keywords": [
+          "canopy bed",
+          "canopy bed frame",
+          "canopy bed frame king",
+          "canopy bed frame full",
+          "canopy king size bed frame"
+        ],
+        "avg_volume": 5020.6
+      },
+      "low": {
+        "count": 16,
+        "total_volume": 11832,
+        "top_keywords": [
+          "low profile platform queen bed",
+          "low profile platform queen bed",
+          "low profile queen bed frame",
+          "low platform bed frame",
+          "low profile king bed frame"
+        ],
+        "avg_volume": 739.5
+      },
+      "daybed": {
+        "count": 7,
+        "total_volume": 10430,
+        "top_keywords": [
+          "twin daybed",
+          "daybed mattress",
+          "daybed queen",
+          "daybed frame twin",
+          "daybed with mattress"
+        ],
+        "avg_volume": 1490.0
+      },
+      "lift": {
+        "count": 6,
+        "total_volume": 7422,
+        "top_keywords": [
+          "lift up storage bed queen",
+          "lift up storage bed",
+          "lift up storage bed full",
+          "lift up storage bed king",
+          "lift storage bed"
+        ],
+        "avg_volume": 1237.0
+      },
+      "metal": {
+        "count": 14,
+        "total_volume": 6874,
+        "top_keywords": [
+          "metal platform bed frames",
+          "metal box spring",
+          "metal box spring queen",
+          "metal platform bed frame queen",
+          "metal platform twin xl bed frame"
+        ],
+        "avg_volume": 491.0
+      },
+      "futon": {
+        "count": 3,
+        "total_volume": 5938,
+        "top_keywords": [
+          "futon frame",
+          "futon frame only",
+          "futon bed frame"
+        ],
+        "avg_volume": 1979.3
+      },
+      "box spring": {
+        "count": 1,
+        "total_volume": 5393,
+        "top_keywords": [
+          "queen bed frame no box spring needed"
+        ],
+        "avg_volume": 5393.0
+      },
+      "bunk": {
+        "count": 6,
+        "total_volume": 4608,
+        "top_keywords": [
+          "rv bunk mattress",
+          "bunk bed mattress",
+          "bunk bed mattress twin",
+          "bunk bed frame",
+          "bunk bed mattress twin set of 2"
+        ],
+        "avg_volume": 768.0
+      },
+      "mattress": {
+        "count": 10,
+        "total_volume": 4136,
+        "top_keywords": [
+          "mattress and box spring set",
+          "mattress for adjustable bed",
+          "mattress foundation",
+          "mattress foundation queen",
+          "mattress & box spring sets"
+        ],
+        "avg_volume": 413.6
+      },
+      "bedframe": {
+        "count": 6,
+        "total_volume": 3856,
+        "top_keywords": [
+          "bedframe with storage drawers",
+          "bedframe with storage",
+          "bedframe queen-size with storage",
+          "bedframe queen size with storage",
+          "bedframe for adjustable base"
+        ],
+        "avg_volume": 642.7
+      },
+      "adjustable": {
+        "count": 9,
+        "total_volume": 3572,
+        "top_keywords": [
+          "bed frame compatible with adjustable base",
+          "adjustable mattress",
+          "adjustable metal bed frame",
+          "adjustable mattress queen",
+          "adjustable mattress king"
+        ],
+        "avg_volume": 396.9
+      },
+      "wood": {
+        "count": 7,
+        "total_volume": 3553,
+        "top_keywords": [
+          "wood platform bed frame",
+          "wood platform bed",
+          "wood platform bed frame queen",
+          "wood bed frame with storage",
+          "wood queen bed frame with storage"
+        ],
+        "avg_volume": 507.6
+      },
+      "california": {
+        "count": 7,
+        "total_volume": 3153,
+        "top_keywords": [
+          "california king bed frames with storage",
+          "california king platform bed frame",
+          "california king storage bed frame",
+          "california king platform bed",
+          "california king bed frame with storage"
+        ],
+        "avg_volume": 450.4
+      },
+      "upholstered": {
+        "count": 12,
+        "total_volume": 3046,
+        "top_keywords": [
+          "upholstered platform bed",
+          "upholstered platform bed frame",
+          "upholstered bed with storage",
+          "upholstered bed frame with storage",
+          "upholstered queen platform bed frame"
+        ],
+        "avg_volume": 253.8
+      },
+      "low profile": {
+        "count": 1,
+        "total_volume": 3045,
+        "top_keywords": [
+          "low profile bed frame"
+        ],
+        "avg_volume": 3045.0
+      },
+      "trundle": {
+        "count": 5,
+        "total_volume": 2482,
+        "top_keywords": [
+          "trundle mattress twin",
+          "trundle mattress",
+          "trundle bed mattress",
+          "trundle bed twin mattress",
+          "trundle bed mattress twin"
+        ],
+        "avg_volume": 496.4
+      },
+      "solid": {
+        "count": 7,
+        "total_volume": 2081,
+        "top_keywords": [
+          "solid wood platform bed frame",
+          "solid platform bed no slats",
+          "solid wood platform bed",
+          "solid wood platform bed frame queen with headboard",
+          "solid wood queen platform bed storage"
+        ],
+        "avg_volume": 297.3
+      },
+      "white": {
+        "count": 6,
+        "total_volume": 2002,
+        "top_keywords": [
+          "white queen bed frame with storage",
+          "white bed frame with storage",
+          "white full size bed frame with storage",
+          "white platform bed",
+          "white bed frame queen with storage"
+        ],
+        "avg_volume": 333.7
+      },
+      "split": {
+        "count": 2,
+        "total_volume": 1897,
+        "top_keywords": [
+          "split king mattress",
+          "split king bed frame"
+        ],
+        "avg_volume": 948.5
+      },
+      "wooden": {
+        "count": 4,
+        "total_volume": 1892,
+        "top_keywords": [
+          "wooden platform bed frame",
+          "wooden bed frame with storage",
+          "wooden platform bed frame queen size",
+          "wooden queen bed frame with storage"
+        ],
+        "avg_volume": 473.0
+      },
+      "allewie": {
+        "count": 2,
+        "total_volume": 1812,
+        "top_keywords": [
+          "allewie queen platform bed frame",
+          "allewie queen size lift up storage bed"
+        ],
+        "avg_volume": 906.0
+      },
+      "black": {
+        "count": 7,
+        "total_volume": 1644,
+        "top_keywords": [
+          "black platform bed",
+          "black queen bed frame with storage",
+          "black platform bed frame queen",
+          "black king size bed frame with storage",
+          "black platform bed king"
+        ],
+        "avg_volume": 234.9
+      },
+      "panel": {
+        "count": 3,
+        "total_volume": 1307,
+        "top_keywords": [
+          "twin bed frames platform panel metal wood",
+          "panel bed frame",
+          "panel bed"
+        ],
+        "avg_volume": 435.7
+      },
+      "camper": {
+        "count": 1,
+        "total_volume": 1242,
+        "top_keywords": [
+          "camper bunk mattress"
+        ],
+        "avg_volume": 1242.0
+      },
+      "beds": {
+        "count": 2,
+        "total_volume": 1237,
+        "top_keywords": [
+          "beds with storage",
+          "beds with storage underneath"
+        ],
+        "avg_volume": 618.5
+      },
+      "wingback": {
+        "count": 4,
+        "total_volume": 1235,
+        "top_keywords": [
+          "wingback bed frame queen",
+          "wingback bed",
+          "wingback bed frame",
+          "wingback bed frame king"
+        ],
+        "avg_volume": 308.8
+      },
+      "rv": {
+        "count": 2,
+        "total_volume": 1110,
+        "top_keywords": [
+          "rv bunk bed mattress",
+          "rv bunk replacement mattress"
+        ],
+        "avg_volume": 555.0
+      },
+      "cal": {
+        "count": 2,
+        "total_volume": 949,
+        "top_keywords": [
+          "cal king bed frame with storage",
+          "cal king storage bed"
+        ],
+        "avg_volume": 474.5
+      },
+      "box": {
+        "count": 2,
+        "total_volume": 716,
+        "top_keywords": [
+          "box spring required bed frame",
+          "box spring and mattress set queen"
+        ],
+        "avg_volume": 358.0
+      },
+      "zinus": {
+        "count": 4,
+        "total_volume": 695,
+        "top_keywords": [
+          "zinus platform bed frame",
+          "zinus wood platform bed frame",
+          "zinus vivek deluxe wood platform bed frame with headboard",
+          "zinus platform bed"
+        ],
+        "avg_volume": 173.8
+      },
+      "hydraulic": {
+        "count": 3,
+        "total_volume": 660,
+        "top_keywords": [
+          "hydraulic lift storage bed queen",
+          "hydraulic lift storage bed king",
+          "hydraulic storage bed"
+        ],
+        "avg_volume": 220.0
+      },
+      "foundation": {
+        "count": 1,
+        "total_volume": 585,
+        "top_keywords": [
+          "queen bed foundation"
+        ],
+        "avg_volume": 585.0
+      },
+      "tall": {
+        "count": 3,
+        "total_volume": 580,
+        "top_keywords": [
+          "tall platform bed frame",
+          "tall queen bed frame with storage space",
+          "tall queen bed frame with storage"
+        ],
+        "avg_volume": 193.3
+      },
+      "no": {
+        "count": 2,
+        "total_volume": 579,
+        "top_keywords": [
+          "no box spring bed frame queen",
+          "no box spring needed bed frame"
+        ],
+        "avg_volume": 289.5
+      },
+      "mellow": {
+        "count": 1,
+        "total_volume": 570,
+        "top_keywords": [
+          "mellow naturalista classic 12-inch solid wood platform bed"
+        ],
+        "avg_volume": 570.0
+      },
+      "tein": {
+        "count": 1,
+        "total_volume": 545,
+        "top_keywords": [
+          "tein bed frame with storage"
+        ],
+        "avg_volume": 545.0
+      },
+      "5": {
+        "count": 2,
+        "total_volume": 524,
+        "top_keywords": [
+          "5 inch twin mattress for bunk bed",
+          "5 inch twin mattress for trundle bed"
+        ],
+        "avg_volume": 262.0
+      },
+      "6": {
+        "count": 2,
+        "total_volume": 509,
+        "top_keywords": [
+          "6 inch twin mattress for bunk bed",
+          "6 inch twin mattress for trundle bed"
+        ],
+        "avg_volume": 254.5
+      },
+      "small": {
+        "count": 1,
+        "total_volume": 489,
+        "top_keywords": [
+          "small daybed"
+        ],
+        "avg_volume": 489.0
+      },
+      "folding": {
+        "count": 1,
+        "total_volume": 474,
+        "top_keywords": [
+          "folding queen bed frame"
+        ],
+        "avg_volume": 474.0
+      },
+      "single": {
+        "count": 2,
+        "total_volume": 454,
+        "top_keywords": [
+          "single bed frame with storage",
+          "single bed with storage"
+        ],
+        "avg_volume": 227.0
+      },
+      "the": {
+        "count": 1,
+        "total_volume": 439,
+        "top_keywords": [
+          "the lift up storage bed"
+        ],
+        "avg_volume": 439.0
+      },
+      "high": {
+        "count": 3,
+        "total_volume": 428,
+        "top_keywords": [
+          "high platform bed",
+          "high queen bed frame with storage",
+          "high platform bed frame queen size"
+        ],
+        "avg_volume": 142.7
+      },
+      "double": {
+        "count": 2,
+        "total_volume": 418,
+        "top_keywords": [
+          "double bed frame with storage",
+          "double platform bed frame"
+        ],
+        "avg_volume": 209.0
+      },
+      "sleigh": {
+        "count": 1,
+        "total_volume": 414,
+        "top_keywords": [
+          "sleigh king bed frame"
+        ],
+        "avg_volume": 414.0
+      },
+      "outer": {
+        "count": 1,
+        "total_volume": 358,
+        "top_keywords": [
+          "outer bed frame for adjustable bed"
+        ],
+        "avg_volume": 358.0
+      },
+      "outdoor": {
+        "count": 1,
+        "total_volume": 323,
+        "top_keywords": [
+          "outdoor daybed mattress"
+        ],
+        "avg_volume": 323.0
+      },
+      "clearance": {
+        "count": 2,
+        "total_volume": 322,
+        "top_keywords": [
+          "clearance twin bed with storage",
+          "clearance platform beds"
+        ],
+        "avg_volume": 161.0
+      },
+      "floating": {
+        "count": 1,
+        "total_volume": 297,
+        "top_keywords": [
+          "floating platform bed frame"
+        ],
+        "avg_volume": 297.0
+      },
+      "loft": {
+        "count": 1,
+        "total_volume": 297,
+        "top_keywords": [
+          "lofted queen bed frame"
+        ],
+        "avg_volume": 297.0
+      },
+      "bedframes": {
+        "count": 2,
+        "total_volume": 287,
+        "top_keywords": [
+          "bedframes with storage",
+          "bedframes full with storage"
+        ],
+        "avg_volume": 143.5
+      },
+      "headboard": {
+        "count": 2,
+        "total_volume": 287,
+        "top_keywords": [
+          "headboard and footboard for adjustable bed",
+          "headboard compatible platform bed"
+        ],
+        "avg_volume": 143.5
+      },
+      "kd": {
+        "count": 1,
+        "total_volume": 272,
+        "top_keywords": [
+          "kd frames nomad platform bed"
+        ],
+        "avg_volume": 272.0
+      },
+      "velvet": {
+        "count": 1,
+        "total_volume": 242,
+        "top_keywords": [
+          "velvet platform bed"
+        ],
+        "avg_volume": 242.0
+      },
+      "fullsize": {
+        "count": 1,
+        "total_volume": 232,
+        "top_keywords": [
+          "fullsize platform bed frame"
+        ],
+        "avg_volume": 232.0
+      },
+      "castlery": {
+        "count": 1,
+        "total_volume": 217,
+        "top_keywords": [
+          "castlery dalton storage bed"
+        ],
+        "avg_volume": 217.0
+      },
+      "cali": {
+        "count": 1,
+        "total_volume": 202,
+        "top_keywords": [
+          "cali king bed frame with storage"
+        ],
+        "avg_volume": 202.0
+      },
+      "heavy": {
+        "count": 1,
+        "total_volume": 202,
+        "top_keywords": [
+          "heavy duty platform bed frame"
+        ],
+        "avg_volume": 202.0
+      },
+      "kind": {
+        "count": 1,
+        "total_volume": 191,
+        "top_keywords": [
+          "kind bed frame with storage"
+        ],
+        "avg_volume": 191.0
+      },
+      "new": {
+        "count": 1,
+        "total_volume": 166,
+        "top_keywords": [
+          "new jeto metal bed frame,queen size bed frame with storage space,heavy duty sturdy mattress foundati"
+        ],
+        "avg_volume": 166.0
+      },
+      "velocava": {
+        "count": 1,
+        "total_volume": 161,
+        "top_keywords": [
+          "velocava full size lift up storage bed"
+        ],
+        "avg_volume": 161.0
+      },
+      "full-size": {
+        "count": 1,
+        "total_volume": 151,
+        "top_keywords": [
+          "full-size bed frame with storage"
+        ],
+        "avg_volume": 151.0
+      },
+      "14": {
+        "count": 1,
+        "total_volume": 146,
+        "top_keywords": [
+          "14 inch queen size metal platform bed frame"
+        ],
+        "avg_volume": 146.0
+      },
+      "queen-size": {
+        "count": 1,
+        "total_volume": 131,
+        "top_keywords": [
+          "queen-size storage bed frames with drawers"
+        ],
+        "avg_volume": 131.0
+      },
+      "gas": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "gas lift storage bed"
+        ],
+        "avg_volume": 0.0
+      },
+      "enhomee": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "enhomee king size bed frame with storage"
+        ],
+        "avg_volume": 0.0
+      },
+      "toddler": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "toddler platform bed"
+        ],
+        "avg_volume": 0.0
+      }
+    }
+  },
+  "功能": {
+    "total_keywords": 1139,
+    "groups": {
+      "king": {
+        "count": 230,
+        "total_volume": 281116,
+        "top_keywords": [
+          "king bed frame and headboard",
+          "king size bed frame and headboard",
+          "king size bed frame with storage",
+          "king size bed frame with storage",
+          "king bed frame with storage"
+        ],
+        "avg_volume": 1222.2
+      },
+      "queen": {
+        "count": 227,
+        "total_volume": 160814,
+        "top_keywords": [
+          "queen size bed frame with headboard",
+          "queen size bed frame with storage",
+          "queen size bed frame with storage",
+          "queen headboard and frame",
+          "queen bed with storage"
+        ],
+        "avg_volume": 708.4
+      },
+      "headboard": {
+        "count": 12,
+        "total_volume": 136143,
+        "top_keywords": [
+          "queen bed frame with headboard",
+          "headboard and frame queen size",
+          "headboard queen size bed frame",
+          "headboard compatible bed frame",
+          "headboard with frame"
+        ],
+        "avg_volume": 11345.2
+      },
+      "full": {
+        "count": 103,
+        "total_volume": 131479,
+        "top_keywords": [
+          "full size bed frame with headboard",
+          "full bed frame with headboard",
+          "full size bed frame with storage",
+          "full size bed frame with storage",
+          "full bed frame with storage"
+        ],
+        "avg_volume": 1276.5
+      },
+      "bed": {
+        "count": 139,
+        "total_volume": 129188,
+        "top_keywords": [
+          "bed frame with storage",
+          "bed frame with storage",
+          "bed frame with headboard",
+          "bed with storage",
+          "bed with storage"
+        ],
+        "avg_volume": 929.4
+      },
+      "storage": {
+        "count": 29,
+        "total_volume": 50416,
+        "top_keywords": [
+          "queen bed frame with storage",
+          "storage bed",
+          "storage bed frame queen",
+          "storage bed frame",
+          "storage bed frame full"
+        ],
+        "avg_volume": 1738.5
+      },
+      "twin": {
+        "count": 38,
+        "total_volume": 47175,
+        "top_keywords": [
+          "twin bed frame with storage",
+          "twin bed frame with storage",
+          "twin bed frames with storage",
+          "twin bed frames with storage",
+          "twin bed frame with headboard"
+        ],
+        "avg_volume": 1241.4
+      },
+      "with storage": {
+        "count": 1,
+        "total_volume": 31919,
+        "top_keywords": [
+          "queen bed frame with storage"
+        ],
+        "avg_volume": 31919.0
+      },
+      "bedframe": {
+        "count": 23,
+        "total_volume": 16426,
+        "top_keywords": [
+          "bedframe with storage drawers",
+          "bedframe with storage drawers",
+          "bedframe with storage drawers",
+          "bedframe with storage drawers",
+          "bedframe queen-size with headboard"
+        ],
+        "avg_volume": 714.2
+      },
+      "lift": {
+        "count": 15,
+        "total_volume": 13059,
+        "top_keywords": [
+          "lift up storage bed queen",
+          "lift up storage bed",
+          "lift up storage bed",
+          "lift up storage bed full",
+          "lift up storage bed full"
+        ],
+        "avg_volume": 870.6
+      },
+      "platform": {
+        "count": 27,
+        "total_volume": 12246,
+        "top_keywords": [
+          "platform bed with headboard",
+          "platform bed with storage",
+          "platform bed with storage",
+          "platform bed frame with headboard",
+          "platform queen bed frame with headboard"
+        ],
+        "avg_volume": 453.6
+      },
+      "upholstered": {
+        "count": 18,
+        "total_volume": 10519,
+        "top_keywords": [
+          "upholstered queen bed frame headboard",
+          "upholstered bed frames with headboard",
+          "upholstered king bed frame with headboard",
+          "upholstered bed with storage",
+          "upholstered bed with storage"
+        ],
+        "avg_volume": 584.4
+      },
+      "tall": {
+        "count": 15,
+        "total_volume": 10156,
+        "top_keywords": [
+          "tall headboard queen bed frame",
+          "tall headboard king bed frame",
+          "tall queen bed frame with headboard",
+          "tall headboard",
+          "tall king size bed frame and headboard"
+        ],
+        "avg_volume": 677.1
+      },
+      "california": {
+        "count": 20,
+        "total_volume": 7811,
+        "top_keywords": [
+          "california king bed frame with headboard",
+          "california king bed frames with storage",
+          "california king bed frames with storage",
+          "california king bed frames with headboard",
+          "california king storage bed frame"
+        ],
+        "avg_volume": 390.6
+      },
+      "metal": {
+        "count": 17,
+        "total_volume": 6024,
+        "top_keywords": [
+          "metal bed frame with headboard",
+          "metal queen bed frame with headboard",
+          "metal king bed frame with headboard",
+          "metal bed frame queen size with headboard",
+          "metal bedframe with headboard"
+        ],
+        "avg_volume": 354.4
+      },
+      "led": {
+        "count": 17,
+        "total_volume": 5898,
+        "top_keywords": [
+          "led bed",
+          "led bed frame queen",
+          "led bed frame full",
+          "led queen bed frame",
+          "led queen bed frame with headboard"
+        ],
+        "avg_volume": 346.9
+      },
+      "black": {
+        "count": 15,
+        "total_volume": 5706,
+        "top_keywords": [
+          "black queen bed frame with headboard",
+          "black king size bed frame and headboard",
+          "black queen bed frame with storage",
+          "black queen bed frame with storage",
+          "black king bed frame with headboard"
+        ],
+        "avg_volume": 380.4
+      },
+      "white": {
+        "count": 15,
+        "total_volume": 5034,
+        "top_keywords": [
+          "white queen bed frame with headboard",
+          "white queen bed frame with storage",
+          "white queen bed frame with storage",
+          "white bed frame with storage",
+          "white bed frame with storage"
+        ],
+        "avg_volume": 335.6
+      },
+      "wood": {
+        "count": 11,
+        "total_volume": 4506,
+        "top_keywords": [
+          "wood queen bed frame with headboard",
+          "wood headboard",
+          "wood bed frame with headboard",
+          "wood king bed frame with headboard",
+          "wood bed frame with storage"
+        ],
+        "avg_volume": 409.6
+      },
+      "drawer": {
+        "count": 1,
+        "total_volume": 4101,
+        "top_keywords": [
+          "queen bed frame with storage drawers"
+        ],
+        "avg_volume": 4101.0
+      },
+      "drawers": {
+        "count": 1,
+        "total_volume": 4101,
+        "top_keywords": [
+          "queen bed frame with storage drawers"
+        ],
+        "avg_volume": 4101.0
+      },
+      "with drawers": {
+        "count": 1,
+        "total_volume": 3631,
+        "top_keywords": [
+          "queen bed frame with drawers"
+        ],
+        "avg_volume": 3631.0
+      },
+      "head board": {
+        "count": 1,
+        "total_volume": 3601,
+        "top_keywords": [
+          "queen bedframe with head board"
+        ],
+        "avg_volume": 3601.0
+      },
+      "adjustable": {
+        "count": 10,
+        "total_volume": 3572,
+        "top_keywords": [
+          "bed frame compatible with adjustable base",
+          "adjustable mattress",
+          "adjustable metal bed frame",
+          "adjustable mattress queen",
+          "adjustable mattress king"
+        ],
+        "avg_volume": 357.2
+      },
+      "cal": {
+        "count": 5,
+        "total_volume": 3484,
+        "top_keywords": [
+          "cal king bed frame with headboard",
+          "cal king bed frame with storage",
+          "cal king bed frame with storage",
+          "cal king storage bed",
+          "cal king headboard and frame"
+        ],
+        "avg_volume": 696.8
+      },
+      "wooden": {
+        "count": 8,
+        "total_volume": 3273,
+        "top_keywords": [
+          "wooden queen bed frame with headboard",
+          "wooden bed frame with headboard",
+          "wooden king bed frame with headboard",
+          "wooden bed frame with storage",
+          "wooden bed frame with storage"
+        ],
+        "avg_volume": 409.1
+      },
+      "high": {
+        "count": 9,
+        "total_volume": 3177,
+        "top_keywords": [
+          "high queen bed frame with headboard",
+          "high headboard king bed",
+          "high headboard queen bed",
+          "high bed frame with headboard",
+          "high king size bed frame and headboard"
+        ],
+        "avg_volume": 353.0
+      },
+      "lift up": {
+        "count": 1,
+        "total_volume": 3020,
+        "top_keywords": [
+          "lift up storage bed queen"
+        ],
+        "avg_volume": 3020.0
+      },
+      "double": {
+        "count": 3,
+        "total_volume": 2720,
+        "top_keywords": [
+          "double bed frame with headboard",
+          "double bed frame with storage",
+          "double bed frame with storage"
+        ],
+        "avg_volume": 906.7
+      },
+      "trundle": {
+        "count": 5,
+        "total_volume": 2482,
+        "top_keywords": [
+          "trundle mattress twin",
+          "trundle mattress",
+          "trundle bed mattress",
+          "trundle bed twin mattress",
+          "trundle bed mattress twin"
+        ],
+        "avg_volume": 496.4
+      },
+      "beds": {
+        "count": 4,
+        "total_volume": 2474,
+        "top_keywords": [
+          "beds with storage",
+          "beds with storage",
+          "beds with storage underneath",
+          "beds with storage underneath"
+        ],
+        "avg_volume": 618.5
+      },
+      "cali": {
+        "count": 3,
+        "total_volume": 2207,
+        "top_keywords": [
+          "cali king bed frame with headboard",
+          "cali king bed frame with storage",
+          "cali king bed frame with storage"
+        ],
+        "avg_volume": 735.7
+      },
+      "low": {
+        "count": 9,
+        "total_volume": 2147,
+        "top_keywords": [
+          "low queen bed frame with headboard",
+          "low bed frame with headboard",
+          "low profile king bed frame with headboard",
+          "low profile queen bed frame with headboard",
+          "low profile bed frame with headboard"
+        ],
+        "avg_volume": 238.6
+      },
+      "kingsize": {
+        "count": 1,
+        "total_volume": 1818,
+        "top_keywords": [
+          "kingsize bed frame with headboard"
+        ],
+        "avg_volume": 1818.0
+      },
+      "kind": {
+        "count": 4,
+        "total_volume": 1653,
+        "top_keywords": [
+          "kind bed frame with headboard",
+          "kind size bed frame with head board",
+          "kind bed frame with storage",
+          "kind bed frame with storage"
+        ],
+        "avg_volume": 413.2
+      },
+      "hydraulic": {
+        "count": 6,
+        "total_volume": 1255,
+        "top_keywords": [
+          "hydraulic lift storage bed queen",
+          "hydraulic lift storage bed king",
+          "hydraulic lift storage bed king",
+          "hydraulic lift bed",
+          "hydraulic lift bed frame queen"
+        ],
+        "avg_volume": 209.2
+      },
+      "zinus": {
+        "count": 4,
+        "total_volume": 1245,
+        "top_keywords": [
+          "zinus bed frame with headboards",
+          "zinus queen bed frame with headboard",
+          "zinus bed frame without headboards",
+          "zinus vivek deluxe wood platform bed frame with headboard"
+        ],
+        "avg_volume": 311.2
+      },
+      "tein": {
+        "count": 3,
+        "total_volume": 1221,
+        "top_keywords": [
+          "tein bed frame with storage",
+          "tein bed frame with storage",
+          "tein bed frame with headboard"
+        ],
+        "avg_volume": 407.0
+      },
+      "floating": {
+        "count": 3,
+        "total_volume": 1220,
+        "top_keywords": [
+          "floating bed frame with headboard",
+          "floating bed frame with led lights",
+          "floating led bed frame"
+        ],
+        "avg_volume": 406.7
+      },
+      "charging": {
+        "count": 1,
+        "total_volume": 1186,
+        "top_keywords": [
+          "queen bed frame with charging station"
+        ],
+        "avg_volume": 1186.0
+      },
+      "fullsize": {
+        "count": 1,
+        "total_volume": 1136,
+        "top_keywords": [
+          "fullsize bed frame with headboard"
+        ],
+        "avg_volume": 1136.0
+      },
+      "solid": {
+        "count": 4,
+        "total_volume": 1099,
+        "top_keywords": [
+          "solid wood queen bed frame with headboard",
+          "solid wood bed frame with headboard",
+          "solid wood platform bed frame queen with headboard",
+          "solid wood queen platform bed storage"
+        ],
+        "avg_volume": 274.8
+      },
+      "heavy": {
+        "count": 4,
+        "total_volume": 1094,
+        "top_keywords": [
+          "heavy duty queen bed frame with headboard",
+          "heavy duty king size bed frame with headboard",
+          "heavy duty king size bed frame 3000lbs with headboard",
+          "heavy duty bed frame with headboard"
+        ],
+        "avg_volume": 273.5
+      },
+      "single": {
+        "count": 4,
+        "total_volume": 908,
+        "top_keywords": [
+          "single bed frame with storage",
+          "single bed frame with storage",
+          "single bed with storage",
+          "single bed with storage"
+        ],
+        "avg_volume": 227.0
+      },
+      "the": {
+        "count": 2,
+        "total_volume": 878,
+        "top_keywords": [
+          "the lift up storage bed",
+          "the lift up storage bed"
+        ],
+        "avg_volume": 439.0
+      },
+      "footboard": {
+        "count": 1,
+        "total_volume": 742,
+        "top_keywords": [
+          "king size headboard and footboard sets"
+        ],
+        "avg_volume": 742.0
+      },
+      "headboard and footboard": {
+        "count": 1,
+        "total_volume": 742,
+        "top_keywords": [
+          "king size headboard and footboard sets"
+        ],
+        "avg_volume": 742.0
+      },
+      "bedframes": {
+        "count": 5,
+        "total_volume": 730,
+        "top_keywords": [
+          "bedframes with headboard",
+          "bedframes with storage",
+          "bedframes with storage",
+          "bedframes full with storage",
+          "bedframes full with storage"
+        ],
+        "avg_volume": 146.0
+      },
+      "pink": {
+        "count": 1,
+        "total_volume": 702,
+        "top_keywords": [
+          "pink headboard"
+        ],
+        "avg_volume": 702.0
+      },
+      "mattress": {
+        "count": 1,
+        "total_volume": 661,
+        "top_keywords": [
+          "mattress for adjustable bed"
+        ],
+        "avg_volume": 661.0
+      },
+      "queensize": {
+        "count": 1,
+        "total_volume": 601,
+        "top_keywords": [
+          "queensize bed frame and headboard"
+        ],
+        "avg_volume": 601.0
+      },
+      "kng": {
+        "count": 2,
+        "total_volume": 530,
+        "top_keywords": [
+          "kng bed frame with headboard",
+          "kng size bed frame with headboard"
+        ],
+        "avg_volume": 265.0
+      },
+      "queen-size": {
+        "count": 4,
+        "total_volume": 524,
+        "top_keywords": [
+          "queen-size storage bed frames with drawers",
+          "queen-size storage bed frames with drawers",
+          "queen-size storage bed frames with drawers",
+          "queen-size storage bed frames with drawers"
+        ],
+        "avg_volume": 131.0
+      },
+      "modern": {
+        "count": 2,
+        "total_volume": 494,
+        "top_keywords": [
+          "modern queen bed frame with headboard",
+          "modern king bed frame and headboard"
+        ],
+        "avg_volume": 247.0
+      },
+      "allewie": {
+        "count": 2,
+        "total_volume": 494,
+        "top_keywords": [
+          "allewie queen size lift up storage bed",
+          "allewie queen size lift up storage bed"
+        ],
+        "avg_volume": 247.0
+      },
+      "scheduled": {
+        "count": 1,
+        "total_volume": 484,
+        "top_keywords": [
+          "scheduled delivery items"
+        ],
+        "avg_volume": 484.0
+      },
+      "folding": {
+        "count": 1,
+        "total_volume": 474,
+        "top_keywords": [
+          "folding queen bed frame"
+        ],
+        "avg_volume": 474.0
+      },
+      "xl": {
+        "count": 1,
+        "total_volume": 469,
+        "top_keywords": [
+          "xl twin bed frame with headboard"
+        ],
+        "avg_volume": 469.0
+      },
+      "grey": {
+        "count": 1,
+        "total_volume": 469,
+        "top_keywords": [
+          "grey queen bed frame with headboard"
+        ],
+        "avg_volume": 469.0
+      },
+      "sturdy": {
+        "count": 1,
+        "total_volume": 459,
+        "top_keywords": [
+          "sturdy queen bed frame with headboard"
+        ],
+        "avg_volume": 459.0
+      },
+      "extra": {
+        "count": 1,
+        "total_volume": 444,
+        "top_keywords": [
+          "extra tall king headboard 50 inches"
+        ],
+        "avg_volume": 444.0
+      },
+      "vintage": {
+        "count": 2,
+        "total_volume": 388,
+        "top_keywords": [
+          "vintage headboard",
+          "vintage queen bed frame with headboard"
+        ],
+        "avg_volume": 194.0
+      },
+      "clearance": {
+        "count": 2,
+        "total_volume": 382,
+        "top_keywords": [
+          "clearance twin bed with storage",
+          "clearance twin bed with storage"
+        ],
+        "avg_volume": 191.0
+      },
+      "outer": {
+        "count": 1,
+        "total_volume": 358,
+        "top_keywords": [
+          "outer bed frame for adjustable bed"
+        ],
+        "avg_volume": 358.0
+      },
+      "ling": {
+        "count": 2,
+        "total_volume": 342,
+        "top_keywords": [
+          "ling bed frame with headboard",
+          "ling size bed frame with headboard"
+        ],
+        "avg_volume": 171.0
+      },
+      "new": {
+        "count": 2,
+        "total_volume": 332,
+        "top_keywords": [
+          "new jeto metal bed frame,queen size bed frame with storage space,heavy duty sturdy mattress foundati",
+          "new jeto metal bed frame,queen size bed frame with storage space,heavy duty sturdy mattress foundati"
+        ],
+        "avg_volume": 166.0
+      },
+      "velocava": {
+        "count": 2,
+        "total_volume": 322,
+        "top_keywords": [
+          "velocava full size lift up storage bed",
+          "velocava full size lift up storage bed"
+        ],
+        "avg_volume": 161.0
+      },
+      "calking": {
+        "count": 1,
+        "total_volume": 318,
+        "top_keywords": [
+          "calking bed frame with headboard"
+        ],
+        "avg_volume": 318.0
+      },
+      "full-size": {
+        "count": 2,
+        "total_volume": 302,
+        "top_keywords": [
+          "full-size bed frame with storage",
+          "full-size bed frame with storage"
+        ],
+        "avg_volume": 151.0
+      },
+      "hydraulic lift": {
+        "count": 1,
+        "total_volume": 287,
+        "top_keywords": [
+          "hydraulic lift storage bed queen"
+        ],
+        "avg_volume": 287.0
+      },
+      "beige": {
+        "count": 7,
+        "total_volume": 282,
+        "top_keywords": [
+          "beige queen bed frame with headboard",
+          "beige queen bed frame with drawers",
+          "beige full size bed with drawers",
+          "beige queen bed frame with drawers",
+          "beige full size bed with drawers"
+        ],
+        "avg_volume": 40.3
+      },
+      "blue": {
+        "count": 1,
+        "total_volume": 232,
+        "top_keywords": [
+          "blue headboard"
+        ],
+        "avg_volume": 232.0
+      },
+      "gray": {
+        "count": 1,
+        "total_volume": 217,
+        "top_keywords": [
+          "gray queen bed frame with headboard"
+        ],
+        "avg_volume": 217.0
+      },
+      "castlery": {
+        "count": 1,
+        "total_volume": 217,
+        "top_keywords": [
+          "castlery dalton storage bed"
+        ],
+        "avg_volume": 217.0
+      },
+      "6": {
+        "count": 1,
+        "total_volume": 212,
+        "top_keywords": [
+          "6 inch twin mattress for trundle bed"
+        ],
+        "avg_volume": 212.0
+      },
+      "velvet": {
+        "count": 1,
+        "total_volume": 207,
+        "top_keywords": [
+          "velvet queen bed frame with headboard"
+        ],
+        "avg_volume": 207.0
+      },
+      "head": {
+        "count": 1,
+        "total_volume": 196,
+        "top_keywords": [
+          "head boards/queen bed frame"
+        ],
+        "avg_volume": 196.0
+      },
+      "under bed storage": {
+        "count": 1,
+        "total_volume": 176,
+        "top_keywords": [
+          "queen bed frame under bed storage"
+        ],
+        "avg_volume": 176.0
+      },
+      "5": {
+        "count": 1,
+        "total_volume": 156,
+        "top_keywords": [
+          "5 inch twin mattress for trundle bed"
+        ],
+        "avg_volume": 156.0
+      },
+      "iron": {
+        "count": 1,
+        "total_volume": 146,
+        "top_keywords": [
+          "iron queen bed frame with headboard"
+        ],
+        "avg_volume": 146.0
+      },
+      "walnut": {
+        "count": 1,
+        "total_volume": 126,
+        "top_keywords": [
+          "walnut king bed frame and headboard"
+        ],
+        "avg_volume": 126.0
+      },
+      "best": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "best full size bed frame with headboard"
+        ],
+        "avg_volume": 0.0
+      },
+      "no": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "no headboard bed frame"
+        ],
+        "avg_volume": 0.0
+      },
+      "diamond": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "diamond bed frame with headboard"
+        ],
+        "avg_volume": 0.0
+      },
+      "gas": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "gas lift storage bed"
+        ],
+        "avg_volume": 0.0
+      },
+      "enhomee": {
+        "count": 2,
+        "total_volume": 0,
+        "top_keywords": [
+          "enhomee king size bed frame with storage",
+          "enhomee king size bed frame with storage"
+        ],
+        "avg_volume": 0.0
+      },
+      "+led": {
+        "count": 2,
+        "total_volume": 0,
+        "top_keywords": [
+          "+led bed frame queen",
+          "+led bed frame full"
+        ],
+        "avg_volume": 0.0
+      },
+      "vasagle": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "vasagle led bed frame full size"
+        ],
+        "avg_volume": 0.0
+      },
+      "usb": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "queen bed frame usb"
+        ],
+        "avg_volume": 0.0
+      },
+      "gas lift": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "gas lift storage bed"
+        ],
+        "avg_volume": 0.0
+      }
+    }
+  },
+  "材质": {
+    "total_keywords": 527,
+    "groups": {
+      "metal": {
+        "count": 68,
+        "total_volume": 68070,
+        "top_keywords": [
+          "metal bed frame queen size",
+          "metal bed frame",
+          "metal queen bed frame",
+          "metal bed frame full",
+          "metal queen bed frame durable"
+        ],
+        "avg_volume": 1001.0
+      },
+      "queen": {
+        "count": 72,
+        "total_volume": 55379,
+        "top_keywords": [
+          "queen metal bed frame",
+          "queen bed frame wood",
+          "queen bed frame with headboard wood",
+          "queen bed frame metal",
+          "queen upholstered bed frame with headboard"
+        ],
+        "avg_volume": 769.2
+      },
+      "king": {
+        "count": 68,
+        "total_volume": 37581,
+        "top_keywords": [
+          "king upholstered bed frame",
+          "king bed frame wood",
+          "king size metal bed frame",
+          "king size bed frame wood",
+          "king metal bed frame"
+        ],
+        "avg_volume": 552.7
+      },
+      "wood": {
+        "count": 34,
+        "total_volume": 33650,
+        "top_keywords": [
+          "wood bed frame",
+          "wood queen bed frame traditional",
+          "wood queen bed frame",
+          "wood bed frame full",
+          "wood king bed frame"
+        ],
+        "avg_volume": 989.7
+      },
+      "upholstered": {
+        "count": 30,
+        "total_volume": 32511,
+        "top_keywords": [
+          "upholstered queen bed frame headboard",
+          "upholstered bed frame",
+          "upholstered bed frame king",
+          "upholstered bed frame queen",
+          "upholstered queen bed frame"
+        ],
+        "avg_volume": 1083.7
+      },
+      "wooden": {
+        "count": 26,
+        "total_volume": 26106,
+        "top_keywords": [
+          "wooden bed frame",
+          "wooden bed frame queen size",
+          "wooden twin bed frames",
+          "wooden bed frames",
+          "wooden king size bed frame"
+        ],
+        "avg_volume": 1004.1
+      },
+      "full": {
+        "count": 29,
+        "total_volume": 18915,
+        "top_keywords": [
+          "full size wooden bed frame",
+          "full size metal bed frame",
+          "full size metal platform bed frame",
+          "full size upholstered bed frame with headboard",
+          "full size bed frame metal"
+        ],
+        "avg_volume": 652.2
+      },
+      "solid": {
+        "count": 29,
+        "total_volume": 14074,
+        "top_keywords": [
+          "solid wood bed frame",
+          "solid wood queen bed frame",
+          "solid wood queen bed frame",
+          "solid wood king bed frame",
+          "solid wood king bed frame"
+        ],
+        "avg_volume": 485.3
+      },
+      "twin": {
+        "count": 20,
+        "total_volume": 11713,
+        "top_keywords": [
+          "twin metal bed frame",
+          "twin bed frame wood",
+          "twin wood bed frame",
+          "twin bed frames platform panel metal wood",
+          "twin bed frames platform panel metal wood"
+        ],
+        "avg_volume": 585.6
+      },
+      "bed": {
+        "count": 16,
+        "total_volume": 8957,
+        "top_keywords": [
+          "bed frame wood",
+          "bed frame queen size wood",
+          "bed frame queen metal",
+          "bed frame metal",
+          "bed frame queen size metal"
+        ],
+        "avg_volume": 559.8
+      },
+      "black": {
+        "count": 23,
+        "total_volume": 6950,
+        "top_keywords": [
+          "black metal bed frame",
+          "black metal bed frame queen",
+          "black upholstered bed frame queen",
+          "black wood bed frame",
+          "black metal queen bed frame"
+        ],
+        "avg_volume": 302.2
+      },
+      "velvet": {
+        "count": 12,
+        "total_volume": 4333,
+        "top_keywords": [
+          "velvet bed frame",
+          "velvet queen bed frame",
+          "velvet king bed frame",
+          "velvet bed",
+          "velvet bed frame queen"
+        ],
+        "avg_volume": 361.1
+      },
+      "walnut": {
+        "count": 6,
+        "total_volume": 3169,
+        "top_keywords": [
+          "walnut bed frame",
+          "walnut bed frame queen",
+          "walnut queen bed frame",
+          "walnut king bed frame",
+          "walnut bed frame king"
+        ],
+        "avg_volume": 528.2
+      },
+      "linen": {
+        "count": 5,
+        "total_volume": 2629,
+        "top_keywords": [
+          "linenspa mattress",
+          "linen bed frame",
+          "linen upholstered bed frame queen",
+          "linen upholstered bed frame queen",
+          "linen bed frame king"
+        ],
+        "avg_volume": 525.8
+      },
+      "iron": {
+        "count": 7,
+        "total_volume": 2268,
+        "top_keywords": [
+          "iron bed frame",
+          "iron bed frames queen size",
+          "iron bed",
+          "iron bed frame full",
+          "iron bed frame queen"
+        ],
+        "avg_volume": 324.0
+      },
+      "bamboo": {
+        "count": 3,
+        "total_volume": 2029,
+        "top_keywords": [
+          "bamboo mattress",
+          "bamboo memory foam mattress",
+          "bamboo queen mattress"
+        ],
+        "avg_volume": 676.3
+      },
+      "tufted": {
+        "count": 3,
+        "total_volume": 1908,
+        "top_keywords": [
+          "tufted bed frame queen",
+          "tufted bed frame",
+          "tufted king bed frame"
+        ],
+        "avg_volume": 636.0
+      },
+      "solid wood": {
+        "count": 1,
+        "total_volume": 1888,
+        "top_keywords": [
+          "solid wood bed frame"
+        ],
+        "avg_volume": 1888.0
+      },
+      "white": {
+        "count": 4,
+        "total_volume": 1841,
+        "top_keywords": [
+          "white metal bed frame full",
+          "white wood bed frame",
+          "white upholstered bed frame queen",
+          "white metal bed"
+        ],
+        "avg_volume": 460.2
+      },
+      "leather": {
+        "count": 5,
+        "total_volume": 1372,
+        "top_keywords": [
+          "leather bed frame",
+          "leather bed",
+          "leather king bed frame",
+          "leather bed frame king",
+          "leather queen bed frame"
+        ],
+        "avg_volume": 274.4
+      },
+      "base": {
+        "count": 4,
+        "total_volume": 1150,
+        "top_keywords": [
+          "base de metal para cama queen",
+          "base para cama queen de metal",
+          "base de cama queen de metal",
+          "base de metal para cama full"
+        ],
+        "avg_volume": 287.5
+      },
+      "mellow": {
+        "count": 2,
+        "total_volume": 1140,
+        "top_keywords": [
+          "mellow naturalista classic 12-inch solid wood platform bed",
+          "mellow naturalista classic 12-inch solid wood platform bed"
+        ],
+        "avg_volume": 570.0
+      },
+      "dark": {
+        "count": 2,
+        "total_volume": 1085,
+        "top_keywords": [
+          "dark wood bed frame",
+          "dark wood bed frame queen"
+        ],
+        "avg_volume": 542.5
+      },
+      "california": {
+        "count": 3,
+        "total_volume": 1044,
+        "top_keywords": [
+          "california king wood bed frame",
+          "california king metal platform bed frame",
+          "california king metal bed frame"
+        ],
+        "avg_volume": 348.0
+      },
+      "traditional": {
+        "count": 1,
+        "total_volume": 939,
+        "top_keywords": [
+          "traditional wood bed frame queen"
+        ],
+        "avg_volume": 939.0
+      },
+      "wrought": {
+        "count": 5,
+        "total_volume": 937,
+        "top_keywords": [
+          "wrought iron bed frame queen",
+          "wrought iron bed frame",
+          "wrought iron bed frame",
+          "wrought iron bed frame king",
+          "wrought iron bed frame king"
+        ],
+        "avg_volume": 187.4
+      },
+      "fabric": {
+        "count": 3,
+        "total_volume": 933,
+        "top_keywords": [
+          "king size upholstered headboard fabric",
+          "fabric bed frame queen",
+          "fabric bed frame king"
+        ],
+        "avg_volume": 311.0
+      },
+      "new": {
+        "count": 3,
+        "total_volume": 846,
+        "top_keywords": [
+          "new jeto metal bed frame",
+          "new jeto metal bed frame queen",
+          "new jeto metal bed frame,queen size bed frame with storage space,heavy duty sturdy mattress foundati"
+        ],
+        "avg_volume": 282.0
+      },
+      "brass": {
+        "count": 3,
+        "total_volume": 716,
+        "top_keywords": [
+          "brass bed frame queen",
+          "brass bed frame",
+          "brass bed"
+        ],
+        "avg_volume": 238.7
+      },
+      "steel": {
+        "count": 3,
+        "total_volume": 701,
+        "top_keywords": [
+          "steel bed frame",
+          "steel bed frames queen",
+          "steel bed frame king"
+        ],
+        "avg_volume": 233.7
+      },
+      "olixis-metal-queen-bed-frame": {
+        "count": 1,
+        "total_volume": 671,
+        "top_keywords": [
+          "olixis-metal-queen-bed-frame"
+        ],
+        "avg_volume": 671.0
+      },
+      "heavy": {
+        "count": 4,
+        "total_volume": 644,
+        "top_keywords": [
+          "heavy duty metal bed frame full size",
+          "heavy duty metal bed frame",
+          "heavy duty metal bed frame queen",
+          "heavy duty queen metal bed frame"
+        ],
+        "avg_volume": 161.0
+      },
+      "adjustable": {
+        "count": 2,
+        "total_volume": 580,
+        "top_keywords": [
+          "adjustable metal bed frame",
+          "adjustable metal bed frame queen"
+        ],
+        "avg_volume": 290.0
+      },
+      "cama": {
+        "count": 3,
+        "total_volume": 528,
+        "top_keywords": [
+          "cama de metal queen",
+          "cama de metal",
+          "cama queen de metal"
+        ],
+        "avg_volume": 176.0
+      },
+      "zinus": {
+        "count": 3,
+        "total_volume": 513,
+        "top_keywords": [
+          "zinus wood bed frame",
+          "zinus wood platform bed frame",
+          "zinus vivek deluxe wood platform bed frame with headboard"
+        ],
+        "avg_volume": 171.0
+      },
+      "jeto": {
+        "count": 2,
+        "total_volume": 474,
+        "top_keywords": [
+          "jeto metal bed frame",
+          "jeto metal bed frame queen"
+        ],
+        "avg_volume": 237.0
+      },
+      "tall": {
+        "count": 2,
+        "total_volume": 463,
+        "top_keywords": [
+          "tall upholstered bed frame queen",
+          "tall upholstered bed frame king"
+        ],
+        "avg_volume": 231.5
+      },
+      "oak": {
+        "count": 1,
+        "total_volume": 439,
+        "top_keywords": [
+          "oak bed frame"
+        ],
+        "avg_volume": 439.0
+      },
+      "hollywood": {
+        "count": 2,
+        "total_volume": 433,
+        "top_keywords": [
+          "hollywood bed frame",
+          "hollywood bed frame queen"
+        ],
+        "avg_volume": 216.5
+      },
+      "camas": {
+        "count": 2,
+        "total_volume": 423,
+        "top_keywords": [
+          "camas de metal",
+          "camas queen de metal"
+        ],
+        "avg_volume": 211.5
+      },
+      "wrought iron": {
+        "count": 1,
+        "total_volume": 363,
+        "top_keywords": [
+          "wrought iron bed frame queen"
+        ],
+        "avg_volume": 363.0
+      },
+      "gold": {
+        "count": 1,
+        "total_volume": 338,
+        "top_keywords": [
+          "gold metal bed frame"
+        ],
+        "avg_volume": 338.0
+      },
+      "pink": {
+        "count": 2,
+        "total_volume": 312,
+        "top_keywords": [
+          "pink upholstered bed",
+          "pink velvet bed frame"
+        ],
+        "avg_volume": 156.0
+      },
+      "vintage": {
+        "count": 1,
+        "total_volume": 297,
+        "top_keywords": [
+          "vintage metal bed frame queen"
+        ],
+        "avg_volume": 297.0
+      },
+      "beige": {
+        "count": 1,
+        "total_volume": 277,
+        "top_keywords": [
+          "beige upholstered bed frame queen"
+        ],
+        "avg_volume": 277.0
+      },
+      "rod": {
+        "count": 1,
+        "total_volume": 222,
+        "top_keywords": [
+          "rod iron bed frame queen"
+        ],
+        "avg_volume": 222.0
+      },
+      "grey": {
+        "count": 2,
+        "total_volume": 191,
+        "top_keywords": [
+          "grey upholstered bed",
+          "grey velvet bed frame"
+        ],
+        "avg_volume": 95.5
+      },
+      "bronze": {
+        "count": 1,
+        "total_volume": 176,
+        "top_keywords": [
+          "bronze metal bed frame queen"
+        ],
+        "avg_volume": 176.0
+      },
+      "faux": {
+        "count": 1,
+        "total_volume": 166,
+        "top_keywords": [
+          "faux leather bed frame"
+        ],
+        "avg_volume": 166.0
+      },
+      "faux leather": {
+        "count": 1,
+        "total_volume": 166,
+        "top_keywords": [
+          "faux leather bed frame"
+        ],
+        "avg_volume": 166.0
+      },
+      "brown": {
+        "count": 1,
+        "total_volume": 146,
+        "top_keywords": [
+          "brown metal bed frame"
+        ],
+        "avg_volume": 146.0
+      },
+      "14": {
+        "count": 1,
+        "total_volume": 146,
+        "top_keywords": [
+          "14 inch queen size metal platform bed frame"
+        ],
+        "avg_volume": 146.0
+      },
+      "light": {
+        "count": 1,
+        "total_volume": 141,
+        "top_keywords": [
+          "light wood king bed frame"
+        ],
+        "avg_volume": 141.0
+      }
+    }
+  },
+  "风格": {
+    "total_keywords": 115,
+    "groups": {
+      "modern": {
+        "count": 13,
+        "total_volume": 12175,
+        "top_keywords": [
+          "cama queen moderna",
+          "modern bed frame",
+          "modern queen bed frame",
+          "modern king bed frame",
+          "modern bed"
+        ],
+        "avg_volume": 936.5
+      },
+      "farmhouse": {
+        "count": 11,
+        "total_volume": 7387,
+        "top_keywords": [
+          "farmhouse bed frame",
+          "farmhouse queen bed frame",
+          "farmhouse king bed frame",
+          "farmhouse bed",
+          "farmhouse bed frame king"
+        ],
+        "avg_volume": 671.5
+      },
+      "cama": {
+        "count": 8,
+        "total_volume": 7183,
+        "top_keywords": [
+          "cama king size moderna",
+          "cama full size moderna",
+          "cama king size moderna alta",
+          "cama king moderna",
+          "cama moderna"
+        ],
+        "avg_volume": 897.9
+      },
+      "camas": {
+        "count": 11,
+        "total_volume": 6041,
+        "top_keywords": [
+          "camas king size modernas 2026",
+          "camas queen modernas",
+          "camas full size modernas",
+          "camas modernas",
+          "camas queen modernas 2026"
+        ],
+        "avg_volume": 549.2
+      },
+      "traditional": {
+        "count": 2,
+        "total_volume": 4469,
+        "top_keywords": [
+          "wood queen bed frame traditional",
+          "traditional wood bed frame queen"
+        ],
+        "avg_volume": 2234.5
+      },
+      "mid": {
+        "count": 7,
+        "total_volume": 4222,
+        "top_keywords": [
+          "mid century modern bed frame",
+          "mid century bed frame",
+          "mid century modern bedroom set",
+          "mid century modern bedroom set",
+          "mid century modern bed"
+        ],
+        "avg_volume": 603.1
+      },
+      "vintage": {
+        "count": 11,
+        "total_volume": 4120,
+        "top_keywords": [
+          "vintage bed frame",
+          "vintage queen bed frame",
+          "vintage king bed frame",
+          "vintage metal bed frame queen",
+          "vintage headboard"
+        ],
+        "avg_volume": 374.5
+      },
+      "luxury": {
+        "count": 6,
+        "total_volume": 2527,
+        "top_keywords": [
+          "luxury bed frame",
+          "luxury bed",
+          "luxury king size bed frame",
+          "luxury queen bed frame",
+          "luxury mattress"
+        ],
+        "avg_volume": 421.2
+      },
+      "king": {
+        "count": 11,
+        "total_volume": 2222,
+        "top_keywords": [
+          "king farmhouse bed frame",
+          "king size bed frame farmhouse style",
+          "king size farmhouse bed frame",
+          "king size bed frame modern",
+          "king bed frame farmhouse"
+        ],
+        "avg_volume": 202.0
+      },
+      "mid century": {
+        "count": 1,
+        "total_volume": 1969,
+        "top_keywords": [
+          "mid century modern bed frame"
+        ],
+        "avg_volume": 1969.0
+      },
+      "queen": {
+        "count": 6,
+        "total_volume": 1396,
+        "top_keywords": [
+          "queen farmhouse bed frame",
+          "queen bed frame modern",
+          "queen bed frame farmhouse",
+          "queen bed frame with headboard farmhouse",
+          "queen modern bed frame"
+        ],
+        "avg_volume": 232.7
+      },
+      "rustic": {
+        "count": 2,
+        "total_volume": 1378,
+        "top_keywords": [
+          "rustic bed frame",
+          "rustic king size bed frame"
+        ],
+        "avg_volume": 689.0
+      },
+      "minimalist": {
+        "count": 4,
+        "total_volume": 1286,
+        "top_keywords": [
+          "minimalist bed frame",
+          "minimalist furniture",
+          "minimalist queen bed frame",
+          "minimalist bed"
+        ],
+        "avg_volume": 321.5
+      },
+      "juegos": {
+        "count": 2,
+        "total_volume": 1181,
+        "top_keywords": [
+          "juegos de cuartos queen modernos",
+          "juegos de cuartos king modernos"
+        ],
+        "avg_volume": 590.5
+      },
+      "classic": {
+        "count": 1,
+        "total_volume": 989,
+        "top_keywords": [
+          "nectar classic memory foam mattress"
+        ],
+        "avg_volume": 989.0
+      },
+      "victorian": {
+        "count": 1,
+        "total_volume": 767,
+        "top_keywords": [
+          "victorian bed frame"
+        ],
+        "avg_volume": 767.0
+      },
+      "western": {
+        "count": 1,
+        "total_volume": 595,
+        "top_keywords": [
+          "western bed frame"
+        ],
+        "avg_volume": 595.0
+      },
+      "mellow": {
+        "count": 1,
+        "total_volume": 570,
+        "top_keywords": [
+          "mellow naturalista classic 12-inch solid wood platform bed"
+        ],
+        "avg_volume": 570.0
+      },
+      "base": {
+        "count": 2,
+        "total_volume": 534,
+        "top_keywords": [
+          "base de cama queen moderna",
+          "base de cama king size moderna"
+        ],
+        "avg_volume": 267.0
+      },
+      "twin": {
+        "count": 2,
+        "total_volume": 428,
+        "top_keywords": [
+          "twin bed frame traditional",
+          "twin mattress for loft bed"
+        ],
+        "avg_volume": 214.0
+      },
+      "zen": {
+        "count": 1,
+        "total_volume": 318,
+        "top_keywords": [
+          "zenus mattresses queen"
+        ],
+        "avg_volume": 318.0
+      },
+      "dreamcloud": {
+        "count": 1,
+        "total_volume": 297,
+        "top_keywords": [
+          "dreamcloud classic hybrid"
+        ],
+        "avg_volume": 297.0
+      },
+      "loft": {
+        "count": 1,
+        "total_volume": 297,
+        "top_keywords": [
+          "lofted queen bed frame"
+        ],
+        "avg_volume": 297.0
+      },
+      "boho": {
+        "count": 2,
+        "total_volume": 252,
+        "top_keywords": [
+          "king boho bed frame",
+          "boho king size bed frame"
+        ],
+        "avg_volume": 126.0
+      },
+      "scandinavian": {
+        "count": 1,
+        "total_volume": 237,
+        "top_keywords": [
+          "scandinavian bed frame"
+        ],
+        "avg_volume": 237.0
+      },
+      "bed": {
+        "count": 1,
+        "total_volume": 222,
+        "top_keywords": [
+          "bed frame modern"
+        ],
+        "avg_volume": 222.0
+      },
+      "art deco": {
+        "count": 1,
+        "total_volume": 212,
+        "top_keywords": [
+          "art deco bed frame"
+        ],
+        "avg_volume": 212.0
+      },
+      "elegant": {
+        "count": 1,
+        "total_volume": 207,
+        "top_keywords": [
+          "elegant bed frame"
+        ],
+        "avg_volume": 207.0
+      },
+      "zenus": {
+        "count": 1,
+        "total_volume": 196,
+        "top_keywords": [
+          "zenus mattresses king"
+        ],
+        "avg_volume": 196.0
+      },
+      "industrial": {
+        "count": 1,
+        "total_volume": 156,
+        "top_keywords": [
+          "industrial bed frame"
+        ],
+        "avg_volume": 156.0
+      },
+      "nectar": {
+        "count": 1,
+        "total_volume": 146,
+        "top_keywords": [
+          "nectar classic memory foam"
+        ],
+        "avg_volume": 146.0
+      }
+    }
+  },
+  "场景": {
+    "total_keywords": 64,
+    "groups": {
+      "rv": {
+        "count": 13,
+        "total_volume": 23080,
+        "top_keywords": [
+          "rv mattress",
+          "rv queen mattress",
+          "rv mattress short queen",
+          "rv bunk mattress",
+          "rv short queen mattress"
+        ],
+        "avg_volume": 1775.4
+      },
+      "bedroom": {
+        "count": 11,
+        "total_volume": 10867,
+        "top_keywords": [
+          "king bedroom set",
+          "bedroom set king",
+          "bedroom beds",
+          "bedroom frame",
+          "bedroom furniture sets king bed"
+        ],
+        "avg_volume": 987.9
+      },
+      "king": {
+        "count": 8,
+        "total_volume": 9799,
+        "top_keywords": [
+          "king bedroom furniture sets",
+          "king size bedroom set",
+          "king size bedroom furniture sets",
+          "king bedroom sets clearance",
+          "king bedroom sets"
+        ],
+        "avg_volume": 1224.9
+      },
+      "camper": {
+        "count": 7,
+        "total_volume": 8536,
+        "top_keywords": [
+          "short queen mattress for rv camper",
+          "camper queen mattress",
+          "camper bunk mattress",
+          "camper mattress queen",
+          "camper king mattress"
+        ],
+        "avg_volume": 1219.4
+      },
+      "queen": {
+        "count": 5,
+        "total_volume": 4154,
+        "top_keywords": [
+          "queen rv mattress",
+          "queen camper mattress",
+          "queen size bedroom sets 5 piece",
+          "queen size rv mattress",
+          "queen size camper mattress"
+        ],
+        "avg_volume": 830.8
+      },
+      "short": {
+        "count": 2,
+        "total_volume": 3640,
+        "top_keywords": [
+          "short queen mattress for rv camper",
+          "short queen rv mattress"
+        ],
+        "avg_volume": 1820.0
+      },
+      "dorm": {
+        "count": 2,
+        "total_volume": 717,
+        "top_keywords": [
+          "dorm bed",
+          "dorm room bed frames"
+        ],
+        "avg_volume": 358.5
+      },
+      "twin": {
+        "count": 3,
+        "total_volume": 670,
+        "top_keywords": [
+          "twin rv mattress",
+          "twin mattress for loft bed",
+          "twin camper mattress"
+        ],
+        "avg_volume": 223.3
+      },
+      "pop": {
+        "count": 1,
+        "total_volume": 666,
+        "top_keywords": [
+          "pop up camper mattress"
+        ],
+        "avg_volume": 666.0
+      },
+      "mid": {
+        "count": 1,
+        "total_volume": 363,
+        "top_keywords": [
+          "mid century modern bedroom set"
+        ],
+        "avg_volume": 363.0
+      },
+      "small space": {
+        "count": 1,
+        "total_volume": 358,
+        "top_keywords": [
+          "bed for small spaces"
+        ],
+        "avg_volume": 358.0
+      },
+      "small": {
+        "count": 2,
+        "total_volume": 358,
+        "top_keywords": [
+          "small twin beds for small spaces",
+          "small space bed"
+        ],
+        "avg_volume": 179.0
+      },
+      "beds": {
+        "count": 1,
+        "total_volume": 348,
+        "top_keywords": [
+          "beds for small spaces"
+        ],
+        "avg_volume": 348.0
+      },
+      "loft": {
+        "count": 1,
+        "total_volume": 297,
+        "top_keywords": [
+          "lofted queen bed frame"
+        ],
+        "avg_volume": 297.0
+      },
+      "hidden": {
+        "count": 1,
+        "total_volume": 277,
+        "top_keywords": [
+          "hidden beds for small spaces"
+        ],
+        "avg_volume": 277.0
+      },
+      "bedrooms": {
+        "count": 1,
+        "total_volume": 232,
+        "top_keywords": [
+          "bedrooms furniture"
+        ],
+        "avg_volume": 232.0
+      },
+      "guest": {
+        "count": 1,
+        "total_volume": 217,
+        "top_keywords": [
+          "guest bedroom furniture"
+        ],
+        "avg_volume": 217.0
+      },
+      "vintage": {
+        "count": 1,
+        "total_volume": 166,
+        "top_keywords": [
+          "vintage bedroom set"
+        ],
+        "avg_volume": 166.0
+      },
+      "bed": {
+        "count": 2,
+        "total_volume": 0,
+        "top_keywords": [
+          "bed king for bedroom",
+          "bed for bedroom"
+        ],
+        "avg_volume": 0.0
+      }
+    }
+  },
+  "颜色": {
+    "total_keywords": 479,
+    "groups": {
+      "black": {
+        "count": 85,
+        "total_volume": 62974,
+        "top_keywords": [
+          "black bed frame queen",
+          "black queen bed frame",
+          "black bed frame",
+          "black king size bed frame",
+          "black full size bed frame"
+        ],
+        "avg_volume": 740.9
+      },
+      "white": {
+        "count": 45,
+        "total_volume": 46845,
+        "top_keywords": [
+          "white bed frame",
+          "white queen bed frame",
+          "white bed frame queen",
+          "white full size bed frame",
+          "white bed frame full"
+        ],
+        "avg_volume": 1041.0
+      },
+      "queen": {
+        "count": 56,
+        "total_volume": 26842,
+        "top_keywords": [
+          "queen bed frame white",
+          "queen upholstered bed frame with headboard",
+          "queen bed frame black",
+          "queen upholstered bed frames velvet linen",
+          "queen upholstered bed frame"
+        ],
+        "avg_volume": 479.3
+      },
+      "upholstered": {
+        "count": 29,
+        "total_volume": 25562,
+        "top_keywords": [
+          "upholstered bed frame",
+          "upholstered bed frame king",
+          "upholstered bed frame queen",
+          "upholstered queen bed frame",
+          "upholstered king bed frame"
+        ],
+        "avg_volume": 881.4
+      },
+      "king": {
+        "count": 53,
+        "total_volume": 21539,
+        "top_keywords": [
+          "king upholstered bed frame",
+          "king size upholstered bed frame with headboard",
+          "king size bed frame black",
+          "king size upholstered bed frame",
+          "king size upholstered bed frames"
+        ],
+        "avg_volume": 406.4
+      },
+      "purple": {
+        "count": 16,
+        "total_volume": 19419,
+        "top_keywords": [
+          "purple mattress",
+          "purple mattress queen",
+          "purple mattress king",
+          "purple bed",
+          "purple queen mattress"
+        ],
+        "avg_volume": 1213.7
+      },
+      "full": {
+        "count": 33,
+        "total_volume": 15660,
+        "top_keywords": [
+          "full size bed frame white",
+          "full size upholstered bed frame with headboard",
+          "full size bed frame black",
+          "full bed frame white",
+          "full size upholstered bed frame"
+        ],
+        "avg_volume": 474.5
+      },
+      "bed": {
+        "count": 26,
+        "total_volume": 10235,
+        "top_keywords": [
+          "bed frame white",
+          "bed frame black",
+          "bed frame queen size white",
+          "bed frame full white",
+          "bed frame queen size black"
+        ],
+        "avg_volume": 393.7
+      },
+      "pink": {
+        "count": 13,
+        "total_volume": 8660,
+        "top_keywords": [
+          "pink bed frame",
+          "pink queen bed frame",
+          "pink bed frame queen",
+          "pink headboard",
+          "pink beds"
+        ],
+        "avg_volume": 666.2
+      },
+      "green": {
+        "count": 14,
+        "total_volume": 7908,
+        "top_keywords": [
+          "zinus green tea memory foam mattress",
+          "green bed frame",
+          "green tea mattress",
+          "green queen bed frame",
+          "green king bed frame"
+        ],
+        "avg_volume": 564.9
+      },
+      "beige": {
+        "count": 15,
+        "total_volume": 7130,
+        "top_keywords": [
+          "beige bed frame",
+          "beige queen bed frame",
+          "beige king bed frame",
+          "beige bed frame queen",
+          "beige bed"
+        ],
+        "avg_volume": 475.3
+      },
+      "red": {
+        "count": 1,
+        "total_volume": 6949,
+        "top_keywords": [
+          "upholstered queen bed frame headboard"
+        ],
+        "avg_volume": 6949.0
+      },
+      "grey": {
+        "count": 14,
+        "total_volume": 6235,
+        "top_keywords": [
+          "grey bed frame",
+          "grey bed frame queen",
+          "grey queen bed frame",
+          "grey king size bed frame",
+          "grey full size bed frame"
+        ],
+        "avg_volume": 445.4
+      },
+      "gold": {
+        "count": 12,
+        "total_volume": 5226,
+        "top_keywords": [
+          "gold bed frame",
+          "gold queen bed frame",
+          "gold bed frame queen",
+          "gold twin bed frame",
+          "gold metal bed frame"
+        ],
+        "avg_volume": 435.5
+      },
+      "brown": {
+        "count": 6,
+        "total_volume": 4477,
+        "top_keywords": [
+          "brown bed frame",
+          "brown queen bed frame",
+          "brown bed frame queen",
+          "brown king size bed frame",
+          "brown king bed frame"
+        ],
+        "avg_volume": 746.2
+      },
+      "zinus": {
+        "count": 5,
+        "total_volume": 4028,
+        "top_keywords": [
+          "zinus 12 inch green tea memory foam mattress",
+          "zinus green tea mattress",
+          "zinus 10 inch green tea memory foam mattress",
+          "zinus green tea",
+          "zinus green tea memory foam"
+        ],
+        "avg_volume": 805.6
+      },
+      "cream": {
+        "count": 5,
+        "total_volume": 3715,
+        "top_keywords": [
+          "cream bed frame",
+          "cream queen bed frame",
+          "cream bed frame queen",
+          "cream king bed frame",
+          "cream king size bed frame"
+        ],
+        "avg_volume": 743.0
+      },
+      "walnut": {
+        "count": 6,
+        "total_volume": 3169,
+        "top_keywords": [
+          "walnut bed frame",
+          "walnut bed frame queen",
+          "walnut queen bed frame",
+          "walnut king bed frame",
+          "walnut bed frame king"
+        ],
+        "avg_volume": 528.2
+      },
+      "tan": {
+        "count": 3,
+        "total_volume": 2105,
+        "top_keywords": [
+          "bed stand",
+          "tan bed frame",
+          "tan bed"
+        ],
+        "avg_volume": 701.7
+      },
+      "blue": {
+        "count": 7,
+        "total_volume": 2073,
+        "top_keywords": [
+          "blue bed frame",
+          "blue bed",
+          "blue queen bed frame",
+          "blue headboard",
+          "blue full size bed frame"
+        ],
+        "avg_volume": 296.1
+      },
+      "gray": {
+        "count": 7,
+        "total_volume": 2043,
+        "top_keywords": [
+          "gray bed frame queen",
+          "gray queen bed frame",
+          "gray bed frame",
+          "gray full size bed frame",
+          "gray queen bed frame with headboard"
+        ],
+        "avg_volume": 291.9
+      },
+      "rust": {
+        "count": 1,
+        "total_volume": 833,
+        "top_keywords": [
+          "rustic bed frame"
+        ],
+        "avg_volume": 833.0
+      },
+      "natural": {
+        "count": 2,
+        "total_volume": 822,
+        "top_keywords": [
+          "mellow naturalista classic 12-inch solid wood platform bed",
+          "natural mattress"
+        ],
+        "avg_volume": 411.0
+      },
+      "twin": {
+        "count": 3,
+        "total_volume": 720,
+        "top_keywords": [
+          "twin bed frame black",
+          "twin black bed frame",
+          "twin bed frame upholstered"
+        ],
+        "avg_volume": 240.0
+      },
+      "cama": {
+        "count": 2,
+        "total_volume": 570,
+        "top_keywords": [
+          "cama flotante",
+          "cama flotante queen"
+        ],
+        "avg_volume": 285.0
+      },
+      "rustic": {
+        "count": 1,
+        "total_volume": 545,
+        "top_keywords": [
+          "rustic king size bed frame"
+        ],
+        "avg_volume": 545.0
+      },
+      "box": {
+        "count": 1,
+        "total_volume": 499,
+        "top_keywords": [
+          "box spring required bed frame"
+        ],
+        "avg_volume": 499.0
+      },
+      "tall": {
+        "count": 2,
+        "total_volume": 463,
+        "top_keywords": [
+          "tall upholstered bed frame queen",
+          "tall upholstered bed frame king"
+        ],
+        "avg_volume": 231.5
+      },
+      "beautyrest": {
+        "count": 1,
+        "total_volume": 449,
+        "top_keywords": [
+          "beautyrest black mattress"
+        ],
+        "avg_volume": 449.0
+      },
+      "titan": {
+        "count": 2,
+        "total_volume": 438,
+        "top_keywords": [
+          "titan plus luxe mattress",
+          "titan mattress"
+        ],
+        "avg_volume": 219.0
+      },
+      "bronze": {
+        "count": 2,
+        "total_volume": 362,
+        "top_keywords": [
+          "bronze bed frame",
+          "bronze metal bed frame queen"
+        ],
+        "avg_volume": 181.0
+      },
+      "avocado": {
+        "count": 1,
+        "total_volume": 318,
+        "top_keywords": [
+          "avocado green mattress"
+        ],
+        "avg_volume": 318.0
+      },
+      "my": {
+        "count": 1,
+        "total_volume": 313,
+        "top_keywords": [
+          "my green mattress"
+        ],
+        "avg_volume": 313.0
+      },
+      "greenguard": {
+        "count": 1,
+        "total_volume": 176,
+        "top_keywords": [
+          "greenguard mattress"
+        ],
+        "avg_volume": 176.0
+      },
+      "dark": {
+        "count": 2,
+        "total_volume": 171,
+        "top_keywords": [
+          "dark grey bed frame",
+          "dark grey bed frame queen size"
+        ],
+        "avg_volume": 85.5
+      },
+      "linen": {
+        "count": 1,
+        "total_volume": 161,
+        "top_keywords": [
+          "linen upholstered bed frame queen"
+        ],
+        "avg_volume": 161.0
+      },
+      "light": {
+        "count": 1,
+        "total_volume": 151,
+        "top_keywords": [
+          "light brown bed frame"
+        ],
+        "avg_volume": 151.0
+      },
+      "copper": {
+        "count": 1,
+        "total_volume": 131,
+        "top_keywords": [
+          "copper mattress"
+        ],
+        "avg_volume": 131.0
+      },
+      "standard": {
+        "count": 1,
+        "total_volume": 126,
+        "top_keywords": [
+          "standard twin mattress"
+        ],
+        "avg_volume": 126.0
+      },
+      "susalt": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "susalt black queen mattress"
+        ],
+        "avg_volume": 0.0
+      },
+      "velvet": {
+        "count": 1,
+        "total_volume": 0,
+        "top_keywords": [
+          "velvet upholstered bed frame"
+        ],
+        "avg_volume": 0.0
+      }
+    }
+  },
+  "人群": {
+    "total_keywords": 200,
+    "groups": {
+      "twin": {
+        "count": 69,
+        "total_volume": 88181,
+        "top_keywords": [
+          "twin bed frames for kids",
+          "twin bed frames for kids",
+          "twin bed for kids",
+          "twin bed for kids",
+          "twin beds for kids"
+        ],
+        "avg_volume": 1278.0
+      },
+      "kids": {
+        "count": 39,
+        "total_volume": 74865,
+        "top_keywords": [
+          "twin mattress for kids",
+          "kids bed frame",
+          "kids bed frame",
+          "kids beds",
+          "kids beds"
+        ],
+        "avg_volume": 1919.6
+      },
+      "kid": {
+        "count": 5,
+        "total_volume": 32068,
+        "top_keywords": [
+          "twin mattress for kids",
+          "kid bed frame",
+          "kid mattress",
+          "kid twin bed frame",
+          "kid twin bed"
+        ],
+        "avg_volume": 6413.6
+      },
+      "full": {
+        "count": 29,
+        "total_volume": 18962,
+        "top_keywords": [
+          "full size bed frame kids",
+          "full size bed frame kids",
+          "full bed frames for kids",
+          "full bed frames for kids",
+          "full size kids bed frame"
+        ],
+        "avg_volume": 653.9
+      },
+      "boys": {
+        "count": 5,
+        "total_volume": 5074,
+        "top_keywords": [
+          "twin bed frames for boys",
+          "boys twin bed frame",
+          "boys twin bed frame",
+          "boys bed frame",
+          "boys bed frame"
+        ],
+        "avg_volume": 1014.8
+      },
+      "girls": {
+        "count": 3,
+        "total_volume": 4661,
+        "top_keywords": [
+          "girls twin bed frame",
+          "girls full size bed frame",
+          "girls full size bed frame"
+        ],
+        "avg_volume": 1553.7
+      },
+      "tein": {
+        "count": 4,
+        "total_volume": 4574,
+        "top_keywords": [
+          "tein bed frames kids",
+          "tein bed frames kids",
+          "tein mattress for kids",
+          "tein mattress for kids"
+        ],
+        "avg_volume": 1143.5
+      },
+      "adult": {
+        "count": 4,
+        "total_volume": 3381,
+        "top_keywords": [
+          "cama twin para adultos",
+          "adult twin bed frame",
+          "adult twin bed",
+          "adult twin mattress"
+        ],
+        "avg_volume": 845.2
+      },
+      "cama": {
+        "count": 3,
+        "total_volume": 2923,
+        "top_keywords": [
+          "cama individual para adultos",
+          "cama unipersonal para adultos",
+          "cama twin xl para adultos"
+        ],
+        "avg_volume": 974.3
+      },
+      "toddler": {
+        "count": 4,
+        "total_volume": 2418,
+        "top_keywords": [
+          "toddler twin bed frame",
+          "toddler twin mattress",
+          "toddler twin mattress for floor bed",
+          "toddler platform bed"
+        ],
+        "avg_volume": 604.5
+      },
+      "camas": {
+        "count": 3,
+        "total_volume": 2301,
+        "top_keywords": [
+          "camas individuales para adultos",
+          "camas twin para adultos",
+          "camas unipersonales para adultos"
+        ],
+        "avg_volume": 767.0
+      },
+      "girl": {
+        "count": 1,
+        "total_volume": 2045,
+        "top_keywords": [
+          "girls twin bed frame"
+        ],
+        "avg_volume": 2045.0
+      },
+      "boy": {
+        "count": 2,
+        "total_volume": 1792,
+        "top_keywords": [
+          "twin bed frames for boys",
+          "boy bed frame"
+        ],
+        "avg_volume": 896.0
+      },
+      "queen": {
+        "count": 7,
+        "total_volume": 1451,
+        "top_keywords": [
+          "queen bed frame kids",
+          "queen bed frame kids",
+          "queen kids bed frame",
+          "queen kids bed frame",
+          "queen size kids bed frame"
+        ],
+        "avg_volume": 207.3
+      },
+      "colchón": {
+        "count": 2,
+        "total_volume": 953,
+        "top_keywords": [
+          "colchón individual para adultos",
+          "colchón twin para adultos"
+        ],
+        "avg_volume": 476.5
+      },
+      "colchones": {
+        "count": 2,
+        "total_volume": 918,
+        "top_keywords": [
+          "colchones twin para adultos",
+          "colchones individuales para adultos"
+        ],
+        "avg_volume": 459.0
+      },
+      "teen": {
+        "count": 1,
+        "total_volume": 828,
+        "top_keywords": [
+          "teen bed"
+        ],
+        "avg_volume": 828.0
+      },
+      "bed": {
+        "count": 3,
+        "total_volume": 786,
+        "top_keywords": [
+          "bed frame for kids",
+          "bed frame for kids",
+          "bed for adults"
+        ],
+        "avg_volume": 262.0
+      },
+      "wooden": {
+        "count": 2,
+        "total_volume": 736,
+        "top_keywords": [
+          "wooden twin bed frames for kids",
+          "wooden twin bed frames for kids"
+        ],
+        "avg_volume": 368.0
+      },
+      "dorm": {
+        "count": 2,
+        "total_volume": 717,
+        "top_keywords": [
+          "dorm bed",
+          "dorm room bed frames"
+        ],
+        "avg_volume": 358.5
+      },
+      "metal": {
+        "count": 3,
+        "total_volume": 611,
+        "top_keywords": [
+          "metal toddler bed frame",
+          "metal twin bed frames for kids",
+          "metal twin bed frames for kids"
+        ],
+        "avg_volume": 203.7
+      },
+      "firm": {
+        "count": 1,
+        "total_volume": 606,
+        "top_keywords": [
+          "firm twin mattress for adults"
+        ],
+        "avg_volume": 606.0
+      },
+      "low": {
+        "count": 2,
+        "total_volume": 424,
+        "top_keywords": [
+          "low twin bed frames for kids",
+          "low twin bed frames for kids"
+        ],
+        "avg_volume": 212.0
+      },
+      "base": {
+        "count": 1,
+        "total_volume": 262,
+        "top_keywords": [
+          "base de cama individual para adultos"
+        ],
+        "avg_volume": 262.0
+      },
+      "plus size": {
+        "count": 1,
+        "total_volume": 232,
+        "top_keywords": [
+          "king size mattress for plus size people"
+        ],
+        "avg_volume": 232.0
+      },
+      "best": {
+        "count": 1,
+        "total_volume": 207,
+        "top_keywords": [
+          "best twin mattress for adults"
+        ],
+        "avg_volume": 207.0
+      },
+      "heavy": {
+        "count": 1,
+        "total_volume": 141,
+        "top_keywords": [
+          "heavy duty twin bed frames for adults"
+        ],
+        "avg_volume": 141.0
+      }
+    }
+  },
+  "品牌": {
+    "total_keywords": 205,
+    "groups": {
+      "zinus": {
+        "count": 56,
+        "total_volume": 60165,
+        "top_keywords": [
+          "zinus queen mattress",
+          "zinus king mattress",
+          "zinus bed frame",
+          "zinus mattress",
+          "zinus twin mattress"
+        ],
+        "avg_volume": 1074.4
+      },
+      "nectar": {
+        "count": 24,
+        "total_volume": 36566,
+        "top_keywords": [
+          "nectar mattress",
+          "nectar mattress king",
+          "nectar mattress queen",
+          "nectar bed frame",
+          "nectar premier hybrid mattress"
+        ],
+        "avg_volume": 1523.6
+      },
+      "purple": {
+        "count": 16,
+        "total_volume": 19419,
+        "top_keywords": [
+          "purple mattress",
+          "purple mattress queen",
+          "purple mattress king",
+          "purple bed",
+          "purple queen mattress"
+        ],
+        "avg_volume": 1213.7
+      },
+      "king": {
+        "count": 20,
+        "total_volume": 11965,
+        "top_keywords": [
+          "king bedroom furniture sets",
+          "king size bedroom set",
+          "king size bedroom furniture sets",
+          "king bedroom sets clearance",
+          "king bedroom sets"
+        ],
+        "avg_volume": 598.2
+      },
+      "dreamcloud": {
+        "count": 9,
+        "total_volume": 8429,
+        "top_keywords": [
+          "dreamcloud mattress",
+          "dreamcloud mattress queen",
+          "dreamcloud mattress king",
+          "dreamcloud",
+          "dreamcloud hybrid mattress"
+        ],
+        "avg_volume": 936.6
+      },
+      "helix": {
+        "count": 9,
+        "total_volume": 7052,
+        "top_keywords": [
+          "helix mattress",
+          "helix midnight luxe",
+          "helix midnight luxe mattress",
+          "helix midnight luxe mattress king",
+          "helix midnight luxe mattress queen"
+        ],
+        "avg_volume": 783.6
+      },
+      "casper": {
+        "count": 9,
+        "total_volume": 7049,
+        "top_keywords": [
+          "casper mattress",
+          "casper queen mattress",
+          "casper king mattress",
+          "casper full size mattress",
+          "casper twin mattress"
+        ],
+        "avg_volume": 783.2
+      },
+      "bedroom": {
+        "count": 10,
+        "total_volume": 5989,
+        "top_keywords": [
+          "bedroom set king",
+          "bedroom beds",
+          "bedroom frame",
+          "bedroom furniture sets king bed",
+          "bedroom frame queen"
+        ],
+        "avg_volume": 598.9
+      },
+      "room": {
+        "count": 1,
+        "total_volume": 4878,
+        "top_keywords": [
+          "king bedroom set"
+        ],
+        "avg_volume": 4878.0
+      },
+      "saatva": {
+        "count": 3,
+        "total_volume": 4459,
+        "top_keywords": [
+          "saatva mattress",
+          "saatva mattress queen",
+          "saatva mattress king"
+        ],
+        "avg_volume": 1486.3
+      },
+      "bed": {
+        "count": 4,
+        "total_volume": 4035,
+        "top_keywords": [
+          "bed room set furnitures",
+          "bed frame zinus",
+          "bed king for bedroom",
+          "bed for bedroom"
+        ],
+        "avg_volume": 1008.8
+      },
+      "queen": {
+        "count": 9,
+        "total_volume": 3071,
+        "top_keywords": [
+          "queen mattress zinus",
+          "queen size bedroom sets 5 piece",
+          "queen mattress purple",
+          "queen purple mattress",
+          "queen mattress nectar"
+        ],
+        "avg_volume": 341.2
+      },
+      "tuft": {
+        "count": 1,
+        "total_volume": 2661,
+        "top_keywords": [
+          "tuft and needle mattress"
+        ],
+        "avg_volume": 2661.0
+      },
+      "thuma": {
+        "count": 3,
+        "total_volume": 2150,
+        "top_keywords": [
+          "thuma bed frame",
+          "thuma bed frame queen",
+          "thuma bed frame king"
+        ],
+        "avg_volume": 716.7
+      },
+      "tufted": {
+        "count": 3,
+        "total_volume": 1908,
+        "top_keywords": [
+          "tufted bed frame queen",
+          "tufted bed frame",
+          "tufted king bed frame"
+        ],
+        "avg_volume": 636.0
+      },
+      "ashley": {
+        "count": 2,
+        "total_volume": 1323,
+        "top_keywords": [
+          "ashley mattress",
+          "ashley mattress king"
+        ],
+        "avg_volume": 661.5
+      },
+      "leesa": {
+        "count": 3,
+        "total_volume": 1069,
+        "top_keywords": [
+          "leesa mattress",
+          "leesa mattress queen",
+          "leesa mattress king"
+        ],
+        "avg_volume": 356.3
+      },
+      "ikea": {
+        "count": 3,
+        "total_volume": 1019,
+        "top_keywords": [
+          "ikea clearance furniture",
+          "ikea bed frame",
+          "ikea bed"
+        ],
+        "avg_volume": 339.7
+      },
+      "full": {
+        "count": 4,
+        "total_volume": 847,
+        "top_keywords": [
+          "full size mattress zinus",
+          "full size bed frame girls room",
+          "full size tufted bed frame",
+          "full size purple mattress"
+        ],
+        "avg_volume": 211.8
+      },
+      "signature": {
+        "count": 1,
+        "total_volume": 737,
+        "top_keywords": [
+          "signature design by ashley mattress"
+        ],
+        "avg_volume": 737.0
+      },
+      "mattress": {
+        "count": 2,
+        "total_volume": 670,
+        "top_keywords": [
+          "mattress zinus",
+          "mattress nectar"
+        ],
+        "avg_volume": 335.0
+      },
+      "floyd": {
+        "count": 1,
+        "total_volume": 499,
+        "top_keywords": [
+          "floyd bed frame"
+        ],
+        "avg_volume": 499.0
+      },
+      "amazon basics": {
+        "count": 1,
+        "total_volume": 454,
+        "top_keywords": [
+          "amazon basics bed frame"
+        ],
+        "avg_volume": 454.0
+      },
+      "wayfair": {
+        "count": 1,
+        "total_volume": 449,
+        "top_keywords": [
+          "wayfair furniture clearance"
+        ],
+        "avg_volume": 449.0
+      },
+      "mid": {
+        "count": 1,
+        "total_volume": 363,
+        "top_keywords": [
+          "mid century modern bedroom set"
+        ],
+        "avg_volume": 363.0
+      },
+      "black": {
+        "count": 2,
+        "total_volume": 363,
+        "top_keywords": [
+          "black tufted bed frame queen",
+          "black upholstered queen bed frame tufted"
+        ],
+        "avg_volume": 181.5
+      },
+      "twin": {
+        "count": 1,
+        "total_volume": 328,
+        "top_keywords": [
+          "twin mattress zinus"
+        ],
+        "avg_volume": 328.0
+      },
+      "mattresses": {
+        "count": 1,
+        "total_volume": 287,
+        "top_keywords": [
+          "mattresses nectar"
+        ],
+        "avg_volume": 287.0
+      },
+      "bedrooms": {
+        "count": 1,
+        "total_volume": 232,
+        "top_keywords": [
+          "bedrooms furniture"
+        ],
+        "avg_volume": 232.0
+      },
+      "guest": {
+        "count": 1,
+        "total_volume": 217,
+        "top_keywords": [
+          "guest bedroom furniture"
+        ],
+        "avg_volume": 217.0
+      },
+      "dorm": {
+        "count": 1,
+        "total_volume": 202,
+        "top_keywords": [
+          "dorm room bed frames"
+        ],
+        "avg_volume": 202.0
+      },
+      "vintage": {
+        "count": 1,
+        "total_volume": 166,
+        "top_keywords": [
+          "vintage bedroom set"
+        ],
+        "avg_volume": 166.0
+      },
+      "amazon": {
+        "count": 1,
+        "total_volume": 161,
+        "top_keywords": [
+          "amazon basics queen bed frame"
+        ],
+        "avg_volume": 161.0
+      }
+    }
+  },
+  "属性卖点": {
+    "total_keywords": 154,
+    "groups": {
+      "heavy": {
+        "count": 24,
+        "total_volume": 10531,
+        "top_keywords": [
+          "heavy duty queen bed frame",
+          "heavy duty bed frame",
+          "heavy duty bed frame queen",
+          "heavy duty king size bed frame",
+          "heavy duty bed frame king size"
+        ],
+        "avg_volume": 438.8
+      },
+      "cheap": {
+        "count": 18,
+        "total_volume": 8822,
+        "top_keywords": [
+          "cheap queen mattress",
+          "cheap bed frame",
+          "cheap mattress",
+          "cheap queen bed frame",
+          "cheap full size mattress"
+        ],
+        "avg_volume": 490.1
+      },
+      "solid": {
+        "count": 18,
+        "total_volume": 8717,
+        "top_keywords": [
+          "solid wood bed frame",
+          "solid wood queen bed frame",
+          "solid wood king bed frame",
+          "solid wood platform bed frame",
+          "solid wood bed frame queen"
+        ],
+        "avg_volume": 484.3
+      },
+      "queen": {
+        "count": 21,
+        "total_volume": 8399,
+        "top_keywords": [
+          "queen bed frame no box spring",
+          "queen bed frame heavy duty",
+          "queen bedframe no box spring needed",
+          "queen mattress cheap",
+          "queen bed frame no box spring needed with headboard"
+        ],
+        "avg_volume": 400.0
+      },
+      "king": {
+        "count": 14,
+        "total_volume": 5851,
+        "top_keywords": [
+          "king bed frame no box spring needed",
+          "king size bed frame no box spring needed",
+          "king bed frame heavy duty",
+          "king bedframe no box spring needed",
+          "king size heavy duty bed frame"
+        ],
+        "avg_volume": 417.9
+      },
+      "no box spring": {
+        "count": 1,
+        "total_volume": 5393,
+        "top_keywords": [
+          "queen bed frame no box spring needed"
+        ],
+        "avg_volume": 5393.0
+      },
+      "durable": {
+        "count": 2,
+        "total_volume": 3762,
+        "top_keywords": [
+          "metal queen bed frame durable",
+          "durable queen mattress"
+        ],
+        "avg_volume": 1881.0
+      },
+      "sturdy": {
+        "count": 10,
+        "total_volume": 3687,
+        "top_keywords": [
+          "sturdy bed frame queen",
+          "sturdy queen bed frame with headboard",
+          "sturdy king size bed frame",
+          "sturdy queen bed frame",
+          "sturdy bed frame"
+        ],
+        "avg_volume": 368.7
+      },
+      "full": {
+        "count": 9,
+        "total_volume": 3457,
+        "top_keywords": [
+          "full size bed frame no box spring needed",
+          "full bed frame no box spring needed",
+          "full size bed frame heavy duty",
+          "full size mattress no box spring needed",
+          "full size mattress cheap"
+        ],
+        "avg_volume": 384.1
+      },
+      "twin": {
+        "count": 9,
+        "total_volume": 2954,
+        "top_keywords": [
+          "twin bed frame no box spring needed",
+          "twin frames no box spring needed",
+          "twin mattress cheap",
+          "twin bed frames no box spring needed",
+          "twin mattress frame no box spring needed"
+        ],
+        "avg_volume": 328.2
+      },
+      "luxury": {
+        "count": 6,
+        "total_volume": 2527,
+        "top_keywords": [
+          "luxury bed frame",
+          "luxury bed",
+          "luxury king size bed frame",
+          "luxury queen bed frame",
+          "luxury mattress"
+        ],
+        "avg_volume": 421.2
+      },
+      "heavy duty": {
+        "count": 1,
+        "total_volume": 1797,
+        "top_keywords": [
+          "king size bed frame heavy duty"
+        ],
+        "avg_volume": 1797.0
+      },
+      "bed": {
+        "count": 6,
+        "total_volume": 1715,
+        "top_keywords": [
+          "bed frame no box spring needed",
+          "bed frame queen size heavy duty",
+          "bed frame heavy duty",
+          "bed frame cheap",
+          "bed frame easy assembly"
+        ],
+        "avg_volume": 285.8
+      },
+      "no": {
+        "count": 2,
+        "total_volume": 579,
+        "top_keywords": [
+          "no box spring bed frame queen",
+          "no box spring needed bed frame"
+        ],
+        "avg_volume": 289.5
+      },
+      "box spring required": {
+        "count": 1,
+        "total_volume": 575,
+        "top_keywords": [
+          "bed frame box spring required"
+        ],
+        "avg_volume": 575.0
+      },
+      "mellow": {
+        "count": 1,
+        "total_volume": 570,
+        "top_keywords": [
+          "mellow naturalista classic 12-inch solid wood platform bed"
+        ],
+        "avg_volume": 570.0
+      },
+      "easy assembly": {
+        "count": 1,
+        "total_volume": 530,
+        "top_keywords": [
+          "easy assembly bed frame"
+        ],
+        "avg_volume": 530.0
+      },
+      "box": {
+        "count": 1,
+        "total_volume": 499,
+        "top_keywords": [
+          "box spring required bed frame"
+        ],
+        "avg_volume": 499.0
+      },
+      "new": {
+        "count": 2,
+        "total_volume": 332,
+        "top_keywords": [
+          "new jeto metal bed frame,queen size bed frame with storage space,heavy duty sturdy mattress foundati",
+          "new jeto metal bed frame,queen size bed frame with storage space,heavy duty sturdy mattress foundati"
+        ],
+        "avg_volume": 166.0
+      },
+      "strong": {
+        "count": 2,
+        "total_volume": 312,
+        "top_keywords": [
+          "strong bed frame queen size",
+          "strong bed frame"
+        ],
+        "avg_volume": 156.0
+      },
+      "noise free": {
+        "count": 1,
+        "total_volume": 292,
+        "top_keywords": [
+          "queen bed frame noise free"
+        ],
+        "avg_volume": 292.0
+      },
+      "quiet": {
+        "count": 1,
+        "total_volume": 257,
+        "top_keywords": [
+          "quiet bed frame"
+        ],
+        "avg_volume": 257.0
+      },
+      "noise": {
+        "count": 1,
+        "total_volume": 212,
+        "top_keywords": [
+          "noise free bed frame queen"
+        ],
+        "avg_volume": 212.0
+      },
+      "extra": {
+        "count": 1,
+        "total_volume": 151,
+        "top_keywords": [
+          "extra heavy duty king bed frame"
+        ],
+        "avg_volume": 151.0
+      },
+      "silent": {
+        "count": 1,
+        "total_volume": 131,
+        "top_keywords": [
+          "silent bed frame"
+        ],
+        "avg_volume": 131.0
+      }
+    }
+  }
+}
