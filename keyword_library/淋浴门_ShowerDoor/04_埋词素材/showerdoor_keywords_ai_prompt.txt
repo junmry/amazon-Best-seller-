@@ -1,0 +1,17 @@
+基于以下淋浴门(Shower Door)关键词库，为亚马逊Listing生成标题和五点描述。产品ASIN: B0F6XWBVW8。
+
+核心词库：
+- 核心大词: shower door (12090), glass shower door (3570), shower doors (3540)
+- 款式词: sliding (1348), frameless (1696), pivot (550), walk in (171), double sliding (131)
+- 场景词: shower (12090), bathroom (1484), tub (595+), walk in shower (1676)
+- 材质词: glass (3570), acrylic (151)
+- 尺寸词: 48 inch (297+434), 60 inch (282+257), wide (247)
+- 功能词: no drill (363), kit (1606), complete with base and door (459)
+- 西语词: puertas de vidrio para shower (747), puerta de cristal para baño (272), puerta corrediza para baño (373)
+- 品牌/系列: enso (1757)
+
+要求：
+1. 标题 150-200 字符，包含核心词+款式+材质+尺寸
+2. 五点描述每点突出不同维度（款式/材质/安装/耐用/场景）
+3. 后台Search Terms 249字节以内，覆盖所有长尾组合
+4. 如产品具体参数与关键词不符，在输出中标注"需确认"

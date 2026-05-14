@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "product": "Shower Door / Glass Shower Door",
+    "asin": "B0F6XWBVW8",
+    "total_keywords": 213,
+    "valid_keywords": 103,
+    "total_search_volume": 58712,
+    "dimensions": [
+      "款式",
+      "场景",
+      "材质",
+      "尺寸",
+      "颜色",
+      "功能",
+      "人群",
+      "品牌",
+      "价格意图"
+    ],
+    "analysis_date": "2026-05-14"
+  },
+  "款式": {
+    "主词": [
+      {"term": "sliding shower door", "volume": 1348, "keyword": "sliding"},
+      {"term": "frameless shower door", "volume": 1696, "keyword": "frameless"},
+      {"term": "pivot shower door", "volume": 550, "keyword": "pivot"},
+      {"term": "walk in shower door", "volume": 171, "keyword": "walk in"},
+      {"term": "bypass shower door", "volume": 0, "keyword": "bypass"},
+      {"term": "framed shower door", "volume": 0, "keyword": "framed"},
+      {"term": "double sliding shower door", "volume": 131, "keyword": "double sliding"}
+    ],
+    "副词": [
+      {"term": "sliding shower door", "volume": 1348, "keyword": "shower door"},
+      {"term": "frameless shower door", "volume": 1696, "keyword": "shower door"},
+      {"term": "pivot shower door", "volume": 550, "keyword": "shower door"}
+    ],
+    "次副词": [],
+    "长尾词": [
+      {"term": "sliding shower door", "volume": 1348},
+      {"term": "frameless shower door", "volume": 1696},
+      {"term": "double sliding shower door", "volume": 131},
+      {"term": "pivot shower door", "volume": 550},
+      {"term": "sliding glass shower door", "volume": 282},
+      {"term": "frameless shower doors", "volume": 131},
+      {"term": "frameless tub shower door", "volume": 0},
+      {"term": "frameless sliding shower door", "volume": 0},
+      {"term": "frameless shower door black", "volume": 0},
+      {"term": "one panel sliding shower door", "volume": 0},
+      {"term": "bypass shower door", "volume": 0},
+      {"term": "shower door frameless", "volume": 146},
+      {"term": "46 shower door frameless", "volume": 0}
+    ]
+  },
+  "场景": {
+    "主词": [
+      {"term": "shower door", "volume": 12090, "keyword": "shower"},
+      {"term": "bathroom door", "volume": 1484, "keyword": "bathroom"},
+      {"term": "tub shower door", "volume": 595, "keyword": "tub"},
+      {"term": "walk in shower", "volume": 939, "keyword": "walk in"}
+    ],
+    "副词": [
+      {"term": "shower door", "volume": 12090, "keyword": "door"},
+      {"term": "bathroom door", "volume": 1484, "keyword": "door"},
+      {"term": "tub shower door", "volume": 595, "keyword": "shower door"}
+    ],
+    "次副词": [],
+    "长尾词": [
+      {"term": "shower door", "volume": 12090},
+      {"term": "bathroom door", "volume": 1484},
+      {"term": "tub shower door", "volume": 595},
+      {"term": "shower door for bathtub", "volume": 378},
+      {"term": "bathtub shower door", "volume": 469},
+      {"term": "shower doors for bath tub", "volume": 565},
+      {"term": "bathroom sliding door", "volume": 232},
+      {"term": "bathroom glass door", "volume": 424},
+      {"term": "bathroom shower door", "volume": 247},
+      {"term": "walk in shower", "volume": 939},
+      {"term": "shower doors for walk in shower", "volume": 1676},
+      {"term": "tub door", "volume": 318},
+      {"term": "bathtub door", "volume": 383},
+      {"term": "shower door tub", "volume": 0},
+      {"term": "glass shower door for bathtub", "volume": 0},
+      {"term": "shower door for tub", "volume": 297},
+      {"term": "bathtub sliding doors", "volume": 0},
+      {"term": "sliding bathtub door", "volume": 0},
+      {"term": "tub glass door", "volume": 262},
+      {"term": "bathtub glass door", "volume": 373}
+    ]
+  },
+  "材质": {
+    "主词": [
+      {"term": "glass shower door", "volume": 3570, "keyword": "glass"},
+      {"term": "acrylic shower doors", "volume": 151, "keyword": "acrylic"}
+    ],
+    "副词": [
+      {"term": "glass shower door", "volume": 3570, "keyword": "shower door"},
+      {"term": "acrylic shower doors", "volume": 151, "keyword": "shower doors"}
+    ],
+    "次副词": [],
+    "长尾词": [
+      {"term": "glass shower door", "volume": 3570},
+      {"term": "shower glass door", "volume": 2621},
+      {"term": "glass shower doors", "volume": 717},
+      {"term": "sliding glass shower door", "volume": 282},
+      {"term": "glass door shower", "volume": 141},
+      {"term": "shower sliding glass door", "volume": 424},
+      {"term": "bathtub glass door sliding", "volume": 0},
+      {"term": "tub glass shower door", "volume": 0},
+      {"term": "bath tub glass shower door", "volume": 0},
+      {"term": "acrylic shower doors", "volume": 151}
+    ]
+  },
+  "尺寸": {
+    "主词": [
+      {"term": "48 inch shower door", "volume": 297, "keyword": "48 inch"},
+      {"term": "60 inch shower door", "volume": 282, "keyword": "60 inch"},
+      {"term": "60 shower door", "volume": 257, "keyword": "60"},
+      {"term": "48 shower door", "volume": 434, "keyword": "48"},
+      {"term": "wide", "volume": 247, "keyword": "wide"}
+    ],
+    "副词": [
+      {"term": "48 inch shower door", "volume": 297, "keyword": "shower door"},
+      {"term": "60 inch shower door", "volume": 282, "keyword": "shower door"}
+    ],
+    "次副词": [],
+    "长尾词": [
+      {"term": "48 inch shower door", "volume": 297},
+      {"term": "60 inch shower door", "volume": 282},
+      {"term": "48 shower door", "volume": 434},
+      {"term": "60 shower door", "volume": 257},
+      {"term": "shower door 48 inch wide", "volume": 247},
+      {"term": "shower door 60 x 72", "volume": 0},
+      {"term": "56x72 shower door", "volume": 0},
+      {"term": "58 inch shower door", "volume": 0},
+      {"term": "46 inch shower door", "volume": 0},
+      {"term": "57\" glass shower door", "volume": 0},
+      {"term": "shower doors glass sliding 60+ inches", "volume": 0},
+      {"term": "60\" shower door", "volume": 0},
+      {"term": "56-60 glass doors shower black", "volume": 0},
+      {"term": "black shower doors 60 x 72", "volume": 0},
+      {"term": "50-54 inch sliding shower door", "volume": 0},
+      {"term": "shower doors glass sliding 44-48 inches", "volume": 0},
+      {"term": "44-48 shower glass sliding door matte black", "volume": 0},
+      {"term": "sliding shower door 44-48", "volume": 0},
+      {"term": "tub doors glass sliding 60 inches", "volume": 0},
+      {"term": "bath tub shower double doors glass sliding 60 inches matte black", "volume": 0}
+    ]
+  },
+  "颜色": {
+    "主词": [
+      {"term": "black shower door", "volume": 0, "keyword": "black"},
+      {"term": "gold tub glass sliding doors", "volume": 0, "keyword": "gold"},
+      {"term": "brushed nickel", "volume": 0, "keyword": "brushed nickel"}
+    ],
+    "副词": [
+      {"term": "black shower door", "volume": 0, "keyword": "shower door"}
+    ],
+    "次副词": [],
+    "长尾词": [
+      {"term": "black shower door", "volume": 0},
+      {"term": "black tub shower doors", "volume": 0},
+      {"term": "black bathtub doors", "volume": 0},
+      {"term": "tub shower door black", "volume": 0},
+      {"term": "black shower doors 60 x 72", "volume": 0},
+      {"term": "56-60 glass doors shower black", "volume": 0},
+      {"term": "46-60 glass doors shower black", "volume": 0},
+      {"term": "44-48 shower glass sliding door matte black", "volume": 0},
+      {"term": "bath tub shower double doors glass sliding 60 inches matte black", "volume": 0},
+      {"term": "gold tub glass sliding doors", "volume": 0},
+      {"term": "brushed gold sliding door tub shower", "volume": 0},
+      {"term": "48 brushed nickel shower door", "volume": 0}
+    ]
+  },
+  "功能": {
+    "主词": [
+      {"term": "no drill shower door", "volume": 363, "keyword": "no drill"},
+      {"term": "walk in shower kit", "volume": 1606, "keyword": "kit"},
+      {"term": "water resistant bathtub door", "volume": 0, "keyword": "water resistant"}
+    ],
+    "副词": [
+      {"term": "no drill shower door", "volume": 363, "keyword": "shower door"},
+      {"term": "walk in shower kit", "volume": 1606, "keyword": "shower"}
+    ],
+    "次副词": [],
+    "长尾词": [
+      {"term": "no drill shower door", "volume": 363},
+      {"term": "walk in shower kit", "volume": 1606},
+      {"term": "shower kit complete with base and door", "volume": 459},
+      {"term": "bathtub sliding door kit", "volume": 0},
+      {"term": "water resistant bathtub door", "volume": 0}
+    ]
+  },
+  "人群": {
+    "主词": [
+      {"term": "puertas de vidrio para shower", "volume": 747, "keyword": "西语"},
+      {"term": "puerta de cristal para baño", "volume": 272, "keyword": "西语"}
+    ],
+    "副词": [
+      {"term": "puertas de vidrio para shower", "volume": 747, "keyword": "shower"}
+    ],
+    "次副词": [],
+    "长尾词": [
+      {"term": "puertas de vidrio para shower", "volume": 747},
+      {"term": "puerta de vidrio para baño", "volume": 0},
+      {"term": "puerta de cristal para baño", "volume": 272},
+      {"term": "puerta corrediza para baño", "volume": 373}
+    ]
+  },
+  "品牌": {
+    "主词": [
+      {"term": "enso", "volume": 1757, "keyword": "enso"},
+      {"term": "yelna", "volume": 0, "keyword": "yelna"}
+    ],
+    "副词": [],
+    "次副词": [],
+    "长尾词": [
+      {"term": "enso", "volume": 1757},
+      {"term": "yelna bathtub shower door", "volume": 0}
+    ]
+  }
+}
