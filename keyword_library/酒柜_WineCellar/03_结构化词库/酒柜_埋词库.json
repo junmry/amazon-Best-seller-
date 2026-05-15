@@ -1,0 +1,3567 @@
+{
+  "category": "酒柜_WineCellar",
+  "total_keywords": 304,
+  "total_volume": 257741,
+  "data_source": "Sif卖家精灵 (50个竞品拓词) + BSR Top 3",
+  "date": "2026-05-06",
+  "rufus_groups": {
+    "generalization": {
+      "display_name": "Generalization_品类识别",
+      "english_key": "generalization",
+      "sub_groups": {
+        "wine_only": {
+          "keyword_count": 91,
+          "total_volume": 95108,
+          "top_keywords": [
+            {
+              "keyword": "wine",
+              "volume": 25262
+            },
+            {
+              "keyword": "wine fridge",
+              "volume": 15823
+            },
+            {
+              "keyword": "white wine",
+              "volume": 7772
+            },
+            {
+              "keyword": "wine cooler",
+              "volume": 7712
+            },
+            {
+              "keyword": "wine chiller",
+              "volume": 5080
+            },
+            {
+              "keyword": "wine cooler refrigerator",
+              "volume": 3585
+            },
+            {
+              "keyword": "wine refrigerator",
+              "volume": 2262
+            },
+            {
+              "keyword": "wine fridge small",
+              "volume": 2161
+            },
+            {
+              "keyword": "sparkling wine",
+              "volume": 1737
+            },
+            {
+              "keyword": "wine chillers for bottles",
+              "volume": 1631
+            }
+          ]
+        },
+        "wine_fridge": {
+          "keyword_count": 30,
+          "total_volume": 26293,
+          "top_keywords": [
+            {
+              "keyword": "wine fridge",
+              "volume": 15823
+            },
+            {
+              "keyword": "wine fridge small",
+              "volume": 2161
+            },
+            {
+              "keyword": "mini wine fridge",
+              "volume": 1489
+            },
+            {
+              "keyword": "small wine fridge",
+              "volume": 1292
+            },
+            {
+              "keyword": "wine fridge cabinet",
+              "volume": 868
+            },
+            {
+              "keyword": "dual zone wine fridge",
+              "volume": 777
+            },
+            {
+              "keyword": "wine fridge dual zone",
+              "volume": 555
+            },
+            {
+              "keyword": "wine fridge freestanding",
+              "volume": 414
+            },
+            {
+              "keyword": "wine fridge under counter",
+              "volume": 404
+            },
+            {
+              "keyword": "bar cabinet with wine fridge",
+              "volume": 343
+            }
+          ]
+        },
+        "wine_cooler": {
+          "keyword_count": 18,
+          "total_volume": 14620,
+          "top_keywords": [
+            {
+              "keyword": "wine cooler",
+              "volume": 7712
+            },
+            {
+              "keyword": "wine cooler refrigerator",
+              "volume": 3585
+            },
+            {
+              "keyword": "wine coolers",
+              "volume": 505
+            },
+            {
+              "keyword": "small wine cooler",
+              "volume": 434
+            },
+            {
+              "keyword": "wine cooler cabinet furniture",
+              "volume": 358
+            },
+            {
+              "keyword": "wine coolers refrigerators",
+              "volume": 257
+            },
+            {
+              "keyword": "wine cooler fridge",
+              "volume": 242
+            },
+            {
+              "keyword": "mini wine cooler",
+              "volume": 237
+            },
+            {
+              "keyword": "thermoelectric wine cooler",
+              "volume": 227
+            },
+            {
+              "keyword": "newair wine cooler",
+              "volume": 222
+            }
+          ]
+        },
+        "wine_chiller": {
+          "keyword_count": 9,
+          "total_volume": 8243,
+          "top_keywords": [
+            {
+              "keyword": "wine chiller",
+              "volume": 5080
+            },
+            {
+              "keyword": "wine chillers for bottles",
+              "volume": 1631
+            },
+            {
+              "keyword": "vinglace wine chiller",
+              "volume": 348
+            },
+            {
+              "keyword": "electric wine chiller",
+              "volume": 277
+            },
+            {
+              "keyword": "wine chillers",
+              "volume": 277
+            },
+            {
+              "keyword": "white wine chiller",
+              "volume": 227
+            },
+            {
+              "keyword": "cold cork rapid wine chiller",
+              "volume": 212
+            },
+            {
+              "keyword": "rapid wine chiller",
+              "volume": 191
+            },
+            {
+              "keyword": "wine chiller fridge",
+              "volume": 0
+            }
+          ]
+        },
+        "bottle_cooler": {
+          "keyword_count": 2,
+          "total_volume": 4398,
+          "top_keywords": [
+            {
+              "keyword": "bottle cooler",
+              "volume": 3858
+            },
+            {
+              "keyword": "wine bottle cooler",
+              "volume": 540
+            }
+          ]
+        },
+        "wine_refrigerator": {
+          "keyword_count": 7,
+          "total_volume": 4058,
+          "top_keywords": [
+            {
+              "keyword": "wine refrigerator",
+              "volume": 2262
+            },
+            {
+              "keyword": "wine refrigerators free standing",
+              "volume": 737
+            },
+            {
+              "keyword": "wine enthusiast wine refrigerator",
+              "volume": 414
+            },
+            {
+              "keyword": "wine refrigerator under counter",
+              "volume": 358
+            },
+            {
+              "keyword": "wine refrigerator small",
+              "volume": 146
+            },
+            {
+              "keyword": "dual zone wine refrigerator",
+              "volume": 141
+            },
+            {
+              "keyword": "small wine refrigerator",
+              "volume": 0
+            }
+          ]
+        },
+        "wine_cellar": {
+          "keyword_count": 4,
+          "total_volume": 1044,
+          "top_keywords": [
+            {
+              "keyword": "wine cellars",
+              "volume": 484
+            },
+            {
+              "keyword": "wine cellar",
+              "volume": 303
+            },
+            {
+              "keyword": "wine cellar racks",
+              "volume": 257
+            },
+            {
+              "keyword": "wine cellar cabinet",
+              "volume": 0
+            }
+          ]
+        },
+        "builtin_wine": {
+          "keyword_count": 2,
+          "total_volume": 393,
+          "top_keywords": [
+            {
+              "keyword": "under counter wine fridge",
+              "volume": 257
+            },
+            {
+              "keyword": "under counter wine cooler refrigerator",
+              "volume": 136
+            }
+          ]
+        },
+        "freestanding_wine": {
+          "keyword_count": 1,
+          "total_volume": 0,
+          "top_keywords": [
+            {
+              "keyword": "freestanding wine fridge cooler",
+              "volume": 0
+            }
+          ]
+        }
+      },
+      "total_keywords": 164,
+      "total_volume": 154157
+    },
+    "specification": {
+      "display_name": "Specification_规格深度",
+      "english_key": "specification",
+      "sub_groups": {
+        "wine_type": {
+          "keyword_count": 5,
+          "total_volume": 10205,
+          "top_keywords": [
+            {
+              "keyword": "white wine",
+              "volume": 7772
+            },
+            {
+              "keyword": "sparkling wine",
+              "volume": 1737
+            },
+            {
+              "keyword": "champagne cooler",
+              "volume": 469
+            },
+            {
+              "keyword": "white wine chiller",
+              "volume": 227
+            },
+            {
+              "keyword": "red wine bottles",
+              "volume": 0
+            }
+          ]
+        },
+        "capacity_small": {
+          "keyword_count": 11,
+          "total_volume": 6925,
+          "top_keywords": [
+            {
+              "keyword": "wine fridge small",
+              "volume": 2161
+            },
+            {
+              "keyword": "mini wine fridge",
+              "volume": 1489
+            },
+            {
+              "keyword": "small wine fridge",
+              "volume": 1292
+            },
+            {
+              "keyword": "wine fridge cabinet",
+              "volume": 868
+            },
+            {
+              "keyword": "small wine cooler",
+              "volume": 434
+            },
+            {
+              "keyword": "mini wine cooler",
+              "volume": 237
+            },
+            {
+              "keyword": "12 bottle wine fridge",
+              "volume": 232
+            },
+            {
+              "keyword": "small wine cooler refrigerator",
+              "volume": 212
+            },
+            {
+              "keyword": "wine fridge 12 bottle",
+              "volume": 0
+            },
+            {
+              "keyword": "18 bottle wine fridge",
+              "volume": 0
+            }
+          ]
+        },
+        "under_counter": {
+          "keyword_count": 18,
+          "total_volume": 6333,
+          "top_keywords": [
+            {
+              "keyword": "under counter refrigerator",
+              "volume": 1303
+            },
+            {
+              "keyword": "undercounter refrigerators",
+              "volume": 1156
+            },
+            {
+              "keyword": "under counter fridge",
+              "volume": 1015
+            },
+            {
+              "keyword": "under counter beverage refrigerator",
+              "volume": 515
+            },
+            {
+              "keyword": "wine fridge under counter",
+              "volume": 404
+            },
+            {
+              "keyword": "wine refrigerator under counter",
+              "volume": 358
+            },
+            {
+              "keyword": "bar refrigerator under counter",
+              "volume": 292
+            },
+            {
+              "keyword": "under counter wine fridge",
+              "volume": 257
+            },
+            {
+              "keyword": "24 inch undercounter refrigerator",
+              "volume": 252
+            },
+            {
+              "keyword": "24 beverage fridge under counter",
+              "volume": 237
+            }
+          ]
+        },
+        "stainless_steel": {
+          "keyword_count": 13,
+          "total_volume": 6292,
+          "top_keywords": [
+            {
+              "keyword": "drink fridge with glass door",
+              "volume": 1727
+            },
+            {
+              "keyword": "beverage refrigerator with glass door",
+              "volume": 1328
+            },
+            {
+              "keyword": "beverage fridge with glass door",
+              "volume": 636
+            },
+            {
+              "keyword": "beer fridge with glass door",
+              "volume": 575
+            },
+            {
+              "keyword": "drink refrigerator glass door",
+              "volume": 469
+            },
+            {
+              "keyword": "glass door refrigerator",
+              "volume": 459
+            },
+            {
+              "keyword": "bar fridge with glass door",
+              "volume": 393
+            },
+            {
+              "keyword": "stainless steel cooler",
+              "volume": 292
+            },
+            {
+              "keyword": "stainless steel wine glasses",
+              "volume": 272
+            },
+            {
+              "keyword": "refrigerator glass door",
+              "volume": 141
+            }
+          ]
+        },
+        "glass_door": {
+          "keyword_count": 12,
+          "total_volume": 6187,
+          "top_keywords": [
+            {
+              "keyword": "drink fridge with glass door",
+              "volume": 1727
+            },
+            {
+              "keyword": "beverage refrigerator with glass door",
+              "volume": 1328
+            },
+            {
+              "keyword": "beverage fridge with glass door",
+              "volume": 636
+            },
+            {
+              "keyword": "beer fridge with glass door",
+              "volume": 575
+            },
+            {
+              "keyword": "drink refrigerator glass door",
+              "volume": 469
+            },
+            {
+              "keyword": "glass door refrigerator",
+              "volume": 459
+            },
+            {
+              "keyword": "double pane glass panels",
+              "volume": 459
+            },
+            {
+              "keyword": "bar fridge with glass door",
+              "volume": 393
+            },
+            {
+              "keyword": "refrigerator glass door",
+              "volume": 141
+            },
+            {
+              "keyword": "commercial glass door refrigerator",
+              "volume": 0
+            }
+          ]
+        },
+        "display_fridge": {
+          "keyword_count": 8,
+          "total_volume": 2583,
+          "top_keywords": [
+            {
+              "keyword": "wine glass chiller",
+              "volume": 1333
+            },
+            {
+              "keyword": "display fridge",
+              "volume": 358
+            },
+            {
+              "keyword": "display refrigerator",
+              "volume": 292
+            },
+            {
+              "keyword": "glass front fridge",
+              "volume": 222
+            },
+            {
+              "keyword": "glass chiller",
+              "volume": 217
+            },
+            {
+              "keyword": "commercial display refrigerator",
+              "volume": 161
+            },
+            {
+              "keyword": "commercial display refrigerators",
+              "volume": 0
+            },
+            {
+              "keyword": "glass front refrigerator",
+              "volume": 0
+            }
+          ]
+        },
+        "bar_cabinet": {
+          "keyword_count": 2,
+          "total_volume": 2317,
+          "top_keywords": [
+            {
+              "keyword": "bar cabinet with fridge",
+              "volume": 1974
+            },
+            {
+              "keyword": "bar cabinet with wine fridge",
+              "volume": 343
+            }
+          ]
+        },
+        "dual_zone": {
+          "keyword_count": 6,
+          "total_volume": 2310,
+          "top_keywords": [
+            {
+              "keyword": "dual zone wine fridge",
+              "volume": 777
+            },
+            {
+              "keyword": "iceco dual zone fridge freezer",
+              "volume": 651
+            },
+            {
+              "keyword": "wine fridge dual zone",
+              "volume": 555
+            },
+            {
+              "keyword": "dual zone wine cooler",
+              "volume": 186
+            },
+            {
+              "keyword": "dual zone wine refrigerator",
+              "volume": 141
+            },
+            {
+              "keyword": "wine cooler dual zone",
+              "volume": 0
+            }
+          ]
+        },
+        "drawer_type": {
+          "keyword_count": 3,
+          "total_volume": 998,
+          "top_keywords": [
+            {
+              "keyword": "drawer refrigerator",
+              "volume": 363
+            },
+            {
+              "keyword": "drawer fridge",
+              "volume": 353
+            },
+            {
+              "keyword": "cooler with drawer",
+              "volume": 282
+            }
+          ]
+        },
+        "vintage_style": {
+          "keyword_count": 1,
+          "total_volume": 792,
+          "top_keywords": [
+            {
+              "keyword": "vintage cooler",
+              "volume": 792
+            }
+          ]
+        },
+        "thermoelectric": {
+          "keyword_count": 2,
+          "total_volume": 762,
+          "top_keywords": [
+            {
+              "keyword": "thermoelectric cooler",
+              "volume": 535
+            },
+            {
+              "keyword": "thermoelectric wine cooler",
+              "volume": 227
+            }
+          ]
+        },
+        "size_inch": {
+          "keyword_count": 4,
+          "total_volume": 634,
+          "top_keywords": [
+            {
+              "keyword": "24 inch refrigerator",
+              "volume": 176
+            },
+            {
+              "keyword": "30 inch refrigerator",
+              "volume": 176
+            },
+            {
+              "keyword": "shallow depth refrigerator",
+              "volume": 141
+            },
+            {
+              "keyword": "shallow cooler",
+              "volume": 141
+            }
+          ]
+        },
+        "table_top": {
+          "keyword_count": 2,
+          "total_volume": 620,
+          "top_keywords": [
+            {
+              "keyword": "table top cooler",
+              "volume": 429
+            },
+            {
+              "keyword": "tabletop cooler",
+              "volume": 191
+            }
+          ]
+        },
+        "temperature_control": {
+          "keyword_count": 1,
+          "total_volume": 616,
+          "top_keywords": [
+            {
+              "keyword": "electronic humidor with temperature control",
+              "volume": 616
+            }
+          ]
+        },
+        "lock": {
+          "keyword_count": 1,
+          "total_volume": 515,
+          "top_keywords": [
+            {
+              "keyword": "lockable mini fridge",
+              "volume": 515
+            }
+          ]
+        },
+        "humidity_control": {
+          "keyword_count": 2,
+          "total_volume": 484,
+          "top_keywords": [
+            {
+              "keyword": "electric humidors for cigars humidity control",
+              "volume": 277
+            },
+            {
+              "keyword": "humidor electric humidifier cigar",
+              "volume": 207
+            }
+          ]
+        },
+        "under_cabinet": {
+          "keyword_count": 2,
+          "total_volume": 383,
+          "top_keywords": [
+            {
+              "keyword": "under cabinet fridge",
+              "volume": 212
+            },
+            {
+              "keyword": "under cabinet refrigerator",
+              "volume": 171
+            }
+          ]
+        },
+        "built_in": {
+          "keyword_count": 1,
+          "total_volume": 292,
+          "top_keywords": [
+            {
+              "keyword": "bar with refrigerator built in cabinet",
+              "volume": 292
+            }
+          ]
+        },
+        "compressor": {
+          "keyword_count": 1,
+          "total_volume": 212,
+          "top_keywords": [
+            {
+              "keyword": "mini fridge with compressor",
+              "volume": 212
+            }
+          ]
+        }
+      },
+      "total_keywords": 95,
+      "total_volume": 49460
+    },
+    "substitution": {
+      "display_name": "Substitution_替代防御",
+      "english_key": "substitution",
+      "sub_groups": {
+        "vs_ice_cooler": {
+          "keyword_count": 2,
+          "total_volume": 535,
+          "top_keywords": [
+            {
+              "keyword": "thermoelectric cooler",
+              "volume": 535
+            },
+            {
+              "keyword": "drawer electric cooler",
+              "volume": 0
+            }
+          ]
+        }
+      },
+      "total_keywords": 2,
+      "total_volume": 535
+    },
+    "complement": {
+      "display_name": "Complement_配件延伸",
+      "english_key": "complement",
+      "sub_groups": {
+        "lock_keys": {
+          "keyword_count": 7,
+          "total_volume": 1993,
+          "top_keywords": [
+            {
+              "keyword": "lockable mini fridge",
+              "volume": 515
+            },
+            {
+              "keyword": "locking mini fridge",
+              "volume": 429
+            },
+            {
+              "keyword": "mini fridge with lock and key",
+              "volume": 272
+            },
+            {
+              "keyword": "refrigerator with lock",
+              "volume": 227
+            },
+            {
+              "keyword": "locking refrigerator",
+              "volume": 207
+            },
+            {
+              "keyword": "medical refrigerator with lock",
+              "volume": 202
+            },
+            {
+              "keyword": "wine fridge lock",
+              "volume": 141
+            }
+          ]
+        },
+        "wine_holder": {
+          "keyword_count": 5,
+          "total_volume": 1094,
+          "top_keywords": [
+            {
+              "keyword": "wine rack for fridge",
+              "volume": 252
+            },
+            {
+              "keyword": "fridge wine rack",
+              "volume": 252
+            },
+            {
+              "keyword": "wine holder for fridge",
+              "volume": 212
+            },
+            {
+              "keyword": "wine rack for refrigerator",
+              "volume": 202
+            },
+            {
+              "keyword": "refrigerator wine rack",
+              "volume": 176
+            }
+          ]
+        }
+      },
+      "total_keywords": 12,
+      "total_volume": 3087
+    },
+    "irrelevant": {
+      "display_name": "Irrelevant_过滤词",
+      "english_key": "irrelevant",
+      "sub_groups": {
+        "beverage": {
+          "keyword_count": 43,
+          "total_volume": 32293,
+          "top_keywords": [
+            {
+              "keyword": "beverage refrigerator",
+              "volume": 11671
+            },
+            {
+              "keyword": "beverage fridge",
+              "volume": 4873
+            },
+            {
+              "keyword": "beverage cooler",
+              "volume": 2626
+            },
+            {
+              "keyword": "beverage refrigerators",
+              "volume": 1742
+            },
+            {
+              "keyword": "drink fridge with glass door",
+              "volume": 1727
+            },
+            {
+              "keyword": "beverage refrigerator with glass door",
+              "volume": 1328
+            },
+            {
+              "keyword": "mini beverage fridge",
+              "volume": 949
+            },
+            {
+              "keyword": "wine and beverage refrigerator",
+              "volume": 712
+            },
+            {
+              "keyword": "outdoor beverage refrigerator",
+              "volume": 671
+            },
+            {
+              "keyword": "beverage fridge with glass door",
+              "volume": 636
+            }
+          ]
+        },
+        "outdoor": {
+          "keyword_count": 19,
+          "total_volume": 11580,
+          "top_keywords": [
+            {
+              "keyword": "outdoor fridge",
+              "volume": 2510
+            },
+            {
+              "keyword": "outdoor refrigerator",
+              "volume": 2161
+            },
+            {
+              "keyword": "garage fridge",
+              "volume": 1707
+            },
+            {
+              "keyword": "outdoor refrigerator for patio",
+              "volume": 1126
+            },
+            {
+              "keyword": "garage refrigerator",
+              "volume": 1060
+            },
+            {
+              "keyword": "outdoor fridge for patio",
+              "volume": 813
+            },
+            {
+              "keyword": "outdoor refrigerator cabinet",
+              "volume": 409
+            },
+            {
+              "keyword": "outdoor refrigerators",
+              "volume": 368
+            },
+            {
+              "keyword": "outdoor refrigerator for outdoor kitchen",
+              "volume": 323
+            },
+            {
+              "keyword": "outdoor kegerator",
+              "volume": 292
+            }
+          ]
+        },
+        "mini_fridge": {
+          "keyword_count": 15,
+          "total_volume": 7998,
+          "top_keywords": [
+            {
+              "keyword": "outdoor mini fridge",
+              "volume": 1999
+            },
+            {
+              "keyword": "magic chef mini fridge",
+              "volume": 1575
+            },
+            {
+              "keyword": "euhomy mini fridge",
+              "volume": 792
+            },
+            {
+              "keyword": "outdoor mini fridge for patio",
+              "volume": 560
+            },
+            {
+              "keyword": "lockable mini fridge",
+              "volume": 515
+            },
+            {
+              "keyword": "locking mini fridge",
+              "volume": 429
+            },
+            {
+              "keyword": "outdoor mini fridge cabinet",
+              "volume": 313
+            },
+            {
+              "keyword": "newair mini fridge",
+              "volume": 277
+            },
+            {
+              "keyword": "mini fridge with lock and key",
+              "volume": 272
+            },
+            {
+              "keyword": "slim mini fridge",
+              "volume": 272
+            }
+          ]
+        },
+        "commercial": {
+          "keyword_count": 9,
+          "total_volume": 4578,
+          "top_keywords": [
+            {
+              "keyword": "commercial refrigerators",
+              "volume": 2207
+            },
+            {
+              "keyword": "commercial fridge",
+              "volume": 1025
+            },
+            {
+              "keyword": "commercial refrigerator",
+              "volume": 661
+            },
+            {
+              "keyword": "bar refrigerator under counter",
+              "volume": 292
+            },
+            {
+              "keyword": "commercial cooler",
+              "volume": 232
+            },
+            {
+              "keyword": "commercial display refrigerator",
+              "volume": 161
+            },
+            {
+              "keyword": "commercial display refrigerators",
+              "volume": 0
+            },
+            {
+              "keyword": "commercial fridges",
+              "volume": 0
+            },
+            {
+              "keyword": "industrial refrigerator",
+              "volume": 0
+            }
+          ]
+        },
+        "account_junk": {
+          "keyword_count": 1,
+          "total_volume": 3863,
+          "top_keywords": [
+            {
+              "keyword": "my account with amazon",
+              "volume": 3863
+            }
+          ]
+        },
+        "generic_fridge": {
+          "keyword_count": 8,
+          "total_volume": 2708,
+          "top_keywords": [
+            {
+              "keyword": "refrigerator cooler",
+              "volume": 858
+            },
+            {
+              "keyword": "black refrigerator",
+              "volume": 580
+            },
+            {
+              "keyword": "fridge cooler",
+              "volume": 474
+            },
+            {
+              "keyword": "cooler fridge",
+              "volume": 378
+            },
+            {
+              "keyword": "wine cooler fridge",
+              "volume": 242
+            },
+            {
+              "keyword": "panel ready refrigerator",
+              "volume": 176
+            },
+            {
+              "keyword": "freestanding wine fridge cooler",
+              "volume": 0
+            },
+            {
+              "keyword": "beverage cooler fridge",
+              "volume": 0
+            }
+          ]
+        },
+        "wine_accessory": {
+          "keyword_count": 5,
+          "total_volume": 2291,
+          "top_keywords": [
+            {
+              "keyword": "wine glass chiller",
+              "volume": 1333
+            },
+            {
+              "keyword": "stainless steel wine glasses",
+              "volume": 272
+            },
+            {
+              "keyword": "wine glass cooler",
+              "volume": 242
+            },
+            {
+              "keyword": "single wine glass",
+              "volume": 232
+            },
+            {
+              "keyword": "wine holder for fridge",
+              "volume": 212
+            }
+          ]
+        },
+        "spanish_misc": {
+          "keyword_count": 1,
+          "total_volume": 1186,
+          "top_keywords": [
+            {
+              "keyword": "hogar y cocina",
+              "volume": 1186
+            }
+          ]
+        },
+        "food": {
+          "keyword_count": 4,
+          "total_volume": 862,
+          "top_keywords": [
+            {
+              "keyword": "refrigerator drawers",
+              "volume": 676
+            },
+            {
+              "keyword": "outdoor kitchen refrigerator",
+              "volume": 186
+            },
+            {
+              "keyword": "portable refrigerator drawer",
+              "volume": 0
+            },
+            {
+              "keyword": "cooler with food drawer",
+              "volume": 0
+            }
+          ]
+        },
+        "car_fridge": {
+          "keyword_count": 2,
+          "total_volume": 575,
+          "top_keywords": [
+            {
+              "keyword": "model y cooler",
+              "volume": 363
+            },
+            {
+              "keyword": "gliston-adjustable-automobile-motorcycle-refrigerator",
+              "volume": 212
+            }
+          ]
+        },
+        "can_cooler": {
+          "keyword_count": 2,
+          "total_volume": 510,
+          "top_keywords": [
+            {
+              "keyword": "24 can cooler",
+              "volume": 510
+            },
+            {
+              "keyword": "36 can cooler",
+              "volume": 0
+            }
+          ]
+        },
+        "oem_parts": {
+          "keyword_count": 4,
+          "total_volume": 237,
+          "top_keywords": [
+            {
+              "keyword": "refrigerant rack",
+              "volume": 237
+            },
+            {
+              "keyword": "oem mania 5221jb2006a refrigerator refrigerator",
+              "volume": 0
+            },
+            {
+              "keyword": "242252702-refrigerator-fr-igidaire-elec-trolux-fetechmate",
+              "volume": 0
+            },
+            {
+              "keyword": "refrigerator-fftr1814qw4a-fftr1821qw0-fftr1821qw1-fftr1814qw3",
+              "volume": 0
+            }
+          ]
+        }
+      },
+      "total_keywords": 113,
+      "total_volume": 68681
+    }
+  },
+  "standard_dimensions": {
+    "category": {
+      "display_name": "品类词",
+      "english_key": "category",
+      "sub_dimensions": {
+        "wine_only": {
+          "keyword_count": 91,
+          "total_volume": 95108,
+          "top_keywords": [
+            {
+              "keyword": "wine",
+              "volume": 25262
+            },
+            {
+              "keyword": "wine fridge",
+              "volume": 15823
+            },
+            {
+              "keyword": "white wine",
+              "volume": 7772
+            },
+            {
+              "keyword": "wine cooler",
+              "volume": 7712
+            },
+            {
+              "keyword": "wine chiller",
+              "volume": 5080
+            },
+            {
+              "keyword": "wine cooler refrigerator",
+              "volume": 3585
+            },
+            {
+              "keyword": "wine refrigerator",
+              "volume": 2262
+            },
+            {
+              "keyword": "wine fridge small",
+              "volume": 2161
+            },
+            {
+              "keyword": "sparkling wine",
+              "volume": 1737
+            },
+            {
+              "keyword": "wine chillers for bottles",
+              "volume": 1631
+            }
+          ]
+        },
+        "wine_fridge": {
+          "keyword_count": 30,
+          "total_volume": 26293,
+          "top_keywords": [
+            {
+              "keyword": "wine fridge",
+              "volume": 15823
+            },
+            {
+              "keyword": "wine fridge small",
+              "volume": 2161
+            },
+            {
+              "keyword": "mini wine fridge",
+              "volume": 1489
+            },
+            {
+              "keyword": "small wine fridge",
+              "volume": 1292
+            },
+            {
+              "keyword": "wine fridge cabinet",
+              "volume": 868
+            },
+            {
+              "keyword": "dual zone wine fridge",
+              "volume": 777
+            },
+            {
+              "keyword": "wine fridge dual zone",
+              "volume": 555
+            },
+            {
+              "keyword": "wine fridge freestanding",
+              "volume": 414
+            },
+            {
+              "keyword": "wine fridge under counter",
+              "volume": 404
+            },
+            {
+              "keyword": "bar cabinet with wine fridge",
+              "volume": 343
+            }
+          ]
+        },
+        "wine_cooler": {
+          "keyword_count": 18,
+          "total_volume": 14620,
+          "top_keywords": [
+            {
+              "keyword": "wine cooler",
+              "volume": 7712
+            },
+            {
+              "keyword": "wine cooler refrigerator",
+              "volume": 3585
+            },
+            {
+              "keyword": "wine coolers",
+              "volume": 505
+            },
+            {
+              "keyword": "small wine cooler",
+              "volume": 434
+            },
+            {
+              "keyword": "wine cooler cabinet furniture",
+              "volume": 358
+            },
+            {
+              "keyword": "wine coolers refrigerators",
+              "volume": 257
+            },
+            {
+              "keyword": "wine cooler fridge",
+              "volume": 242
+            },
+            {
+              "keyword": "mini wine cooler",
+              "volume": 237
+            },
+            {
+              "keyword": "thermoelectric wine cooler",
+              "volume": 227
+            },
+            {
+              "keyword": "newair wine cooler",
+              "volume": 222
+            }
+          ]
+        },
+        "wine_chiller": {
+          "keyword_count": 9,
+          "total_volume": 8243,
+          "top_keywords": [
+            {
+              "keyword": "wine chiller",
+              "volume": 5080
+            },
+            {
+              "keyword": "wine chillers for bottles",
+              "volume": 1631
+            },
+            {
+              "keyword": "vinglace wine chiller",
+              "volume": 348
+            },
+            {
+              "keyword": "electric wine chiller",
+              "volume": 277
+            },
+            {
+              "keyword": "wine chillers",
+              "volume": 277
+            },
+            {
+              "keyword": "white wine chiller",
+              "volume": 227
+            },
+            {
+              "keyword": "cold cork rapid wine chiller",
+              "volume": 212
+            },
+            {
+              "keyword": "rapid wine chiller",
+              "volume": 191
+            },
+            {
+              "keyword": "wine chiller fridge",
+              "volume": 0
+            }
+          ]
+        },
+        "wine_refrigerator": {
+          "keyword_count": 7,
+          "total_volume": 4058,
+          "top_keywords": [
+            {
+              "keyword": "wine refrigerator",
+              "volume": 2262
+            },
+            {
+              "keyword": "wine refrigerators free standing",
+              "volume": 737
+            },
+            {
+              "keyword": "wine enthusiast wine refrigerator",
+              "volume": 414
+            },
+            {
+              "keyword": "wine refrigerator under counter",
+              "volume": 358
+            },
+            {
+              "keyword": "wine refrigerator small",
+              "volume": 146
+            },
+            {
+              "keyword": "dual zone wine refrigerator",
+              "volume": 141
+            },
+            {
+              "keyword": "small wine refrigerator",
+              "volume": 0
+            }
+          ]
+        },
+        "wine_cellar": {
+          "keyword_count": 4,
+          "total_volume": 1044,
+          "top_keywords": [
+            {
+              "keyword": "wine cellars",
+              "volume": 484
+            },
+            {
+              "keyword": "wine cellar",
+              "volume": 303
+            },
+            {
+              "keyword": "wine cellar racks",
+              "volume": 257
+            },
+            {
+              "keyword": "wine cellar cabinet",
+              "volume": 0
+            }
+          ]
+        }
+      },
+      "total_keywords": 159,
+      "total_volume": 149366
+    },
+    "installation": {
+      "display_name": "安装类型",
+      "english_key": "installation",
+      "sub_dimensions": {
+        "under_counter": {
+          "keyword_count": 17,
+          "total_volume": 6333,
+          "top_keywords": [
+            {
+              "keyword": "under counter refrigerator",
+              "volume": 1303
+            },
+            {
+              "keyword": "undercounter refrigerators",
+              "volume": 1156
+            },
+            {
+              "keyword": "under counter fridge",
+              "volume": 1015
+            },
+            {
+              "keyword": "under counter beverage refrigerator",
+              "volume": 515
+            },
+            {
+              "keyword": "wine fridge under counter",
+              "volume": 404
+            },
+            {
+              "keyword": "wine refrigerator under counter",
+              "volume": 358
+            },
+            {
+              "keyword": "bar refrigerator under counter",
+              "volume": 292
+            },
+            {
+              "keyword": "under counter wine fridge",
+              "volume": 257
+            },
+            {
+              "keyword": "24 inch undercounter refrigerator",
+              "volume": 252
+            },
+            {
+              "keyword": "24 beverage fridge under counter",
+              "volume": 237
+            }
+          ]
+        },
+        "bar_cabinet": {
+          "keyword_count": 2,
+          "total_volume": 2317,
+          "top_keywords": [
+            {
+              "keyword": "bar cabinet with fridge",
+              "volume": 1974
+            },
+            {
+              "keyword": "bar cabinet with wine fridge",
+              "volume": 343
+            }
+          ]
+        },
+        "freestanding": {
+          "keyword_count": 3,
+          "total_volume": 1151,
+          "top_keywords": [
+            {
+              "keyword": "wine refrigerators free standing",
+              "volume": 737
+            },
+            {
+              "keyword": "wine fridge freestanding",
+              "volume": 414
+            },
+            {
+              "keyword": "freestanding wine fridge cooler",
+              "volume": 0
+            }
+          ]
+        },
+        "table_top": {
+          "keyword_count": 2,
+          "total_volume": 620,
+          "top_keywords": [
+            {
+              "keyword": "table top cooler",
+              "volume": 429
+            },
+            {
+              "keyword": "tabletop cooler",
+              "volume": 191
+            }
+          ]
+        },
+        "under_cabinet": {
+          "keyword_count": 2,
+          "total_volume": 383,
+          "top_keywords": [
+            {
+              "keyword": "under cabinet fridge",
+              "volume": 212
+            },
+            {
+              "keyword": "under cabinet refrigerator",
+              "volume": 171
+            }
+          ]
+        },
+        "built_in": {
+          "keyword_count": 1,
+          "total_volume": 292,
+          "top_keywords": [
+            {
+              "keyword": "bar with refrigerator built in cabinet",
+              "volume": 292
+            }
+          ]
+        }
+      },
+      "total_keywords": 27,
+      "total_volume": 11096
+    },
+    "capacity": {
+      "display_name": "容量规格",
+      "english_key": "capacity",
+      "sub_dimensions": {
+        "small_capacity": {
+          "keyword_count": 8,
+          "total_volume": 6693,
+          "top_keywords": [
+            {
+              "keyword": "wine fridge small",
+              "volume": 2161
+            },
+            {
+              "keyword": "mini wine fridge",
+              "volume": 1489
+            },
+            {
+              "keyword": "small wine fridge",
+              "volume": 1292
+            },
+            {
+              "keyword": "wine fridge cabinet",
+              "volume": 868
+            },
+            {
+              "keyword": "small wine cooler",
+              "volume": 434
+            },
+            {
+              "keyword": "mini wine cooler",
+              "volume": 237
+            },
+            {
+              "keyword": "small wine cooler refrigerator",
+              "volume": 212
+            },
+            {
+              "keyword": "small wine refrigerator",
+              "volume": 0
+            }
+          ]
+        },
+        "24_bottle": {
+          "keyword_count": 3,
+          "total_volume": 232,
+          "top_keywords": [
+            {
+              "keyword": "12 bottle wine fridge",
+              "volume": 232
+            },
+            {
+              "keyword": "wine fridge 12 bottle",
+              "volume": 0
+            },
+            {
+              "keyword": "18 bottle wine fridge",
+              "volume": 0
+            }
+          ]
+        }
+      },
+      "total_keywords": 11,
+      "total_volume": 6925
+    },
+    "zone": {
+      "display_name": "温区",
+      "english_key": "zone",
+      "sub_dimensions": {
+        "dual_zone": {
+          "keyword_count": 6,
+          "total_volume": 2310,
+          "top_keywords": [
+            {
+              "keyword": "dual zone wine fridge",
+              "volume": 777
+            },
+            {
+              "keyword": "iceco dual zone fridge freezer",
+              "volume": 651
+            },
+            {
+              "keyword": "wine fridge dual zone",
+              "volume": 555
+            },
+            {
+              "keyword": "dual zone wine cooler",
+              "volume": 186
+            },
+            {
+              "keyword": "dual zone wine refrigerator",
+              "volume": 141
+            },
+            {
+              "keyword": "wine cooler dual zone",
+              "volume": 0
+            }
+          ]
+        }
+      },
+      "total_keywords": 6,
+      "total_volume": 2310
+    },
+    "cooling_tech": {
+      "display_name": "制冷技术",
+      "english_key": "cooling_tech",
+      "sub_dimensions": {
+        "thermoelectric": {
+          "keyword_count": 2,
+          "total_volume": 762,
+          "top_keywords": [
+            {
+              "keyword": "thermoelectric cooler",
+              "volume": 535
+            },
+            {
+              "keyword": "thermoelectric wine cooler",
+              "volume": 227
+            }
+          ]
+        },
+        "compressor": {
+          "keyword_count": 1,
+          "total_volume": 212,
+          "top_keywords": [
+            {
+              "keyword": "mini fridge with compressor",
+              "volume": 212
+            }
+          ]
+        }
+      },
+      "total_keywords": 3,
+      "total_volume": 974
+    },
+    "material": {
+      "display_name": "材质",
+      "english_key": "material",
+      "sub_dimensions": {
+        "glass_door": {
+          "keyword_count": 11,
+          "total_volume": 5728,
+          "top_keywords": [
+            {
+              "keyword": "drink fridge with glass door",
+              "volume": 1727
+            },
+            {
+              "keyword": "beverage refrigerator with glass door",
+              "volume": 1328
+            },
+            {
+              "keyword": "beverage fridge with glass door",
+              "volume": 636
+            },
+            {
+              "keyword": "beer fridge with glass door",
+              "volume": 575
+            },
+            {
+              "keyword": "drink refrigerator glass door",
+              "volume": 469
+            },
+            {
+              "keyword": "glass door refrigerator",
+              "volume": 459
+            },
+            {
+              "keyword": "bar fridge with glass door",
+              "volume": 393
+            },
+            {
+              "keyword": "refrigerator glass door",
+              "volume": 141
+            },
+            {
+              "keyword": "commercial glass door refrigerator",
+              "volume": 0
+            },
+            {
+              "keyword": "beverage cooler with glass door",
+              "volume": 0
+            }
+          ]
+        },
+        "stainless_steel": {
+          "keyword_count": 2,
+          "total_volume": 564,
+          "top_keywords": [
+            {
+              "keyword": "stainless steel cooler",
+              "volume": 292
+            },
+            {
+              "keyword": "stainless steel wine glasses",
+              "volume": 272
+            }
+          ]
+        }
+      },
+      "total_keywords": 13,
+      "total_volume": 6292
+    },
+    "function": {
+      "display_name": "功能",
+      "english_key": "function",
+      "sub_dimensions": {
+        "lock": {
+          "keyword_count": 7,
+          "total_volume": 1993,
+          "top_keywords": [
+            {
+              "keyword": "lockable mini fridge",
+              "volume": 515
+            },
+            {
+              "keyword": "locking mini fridge",
+              "volume": 429
+            },
+            {
+              "keyword": "mini fridge with lock and key",
+              "volume": 272
+            },
+            {
+              "keyword": "refrigerator with lock",
+              "volume": 227
+            },
+            {
+              "keyword": "locking refrigerator",
+              "volume": 207
+            },
+            {
+              "keyword": "medical refrigerator with lock",
+              "volume": 202
+            },
+            {
+              "keyword": "wine fridge lock",
+              "volume": 141
+            }
+          ]
+        },
+        "display_fridge": {
+          "keyword_count": 5,
+          "total_volume": 1033,
+          "top_keywords": [
+            {
+              "keyword": "display fridge",
+              "volume": 358
+            },
+            {
+              "keyword": "display refrigerator",
+              "volume": 292
+            },
+            {
+              "keyword": "glass front fridge",
+              "volume": 222
+            },
+            {
+              "keyword": "commercial display refrigerator",
+              "volume": 161
+            },
+            {
+              "keyword": "commercial display refrigerators",
+              "volume": 0
+            }
+          ]
+        },
+        "temperature_control": {
+          "keyword_count": 1,
+          "total_volume": 616,
+          "top_keywords": [
+            {
+              "keyword": "electronic humidor with temperature control",
+              "volume": 616
+            }
+          ]
+        },
+        "humidity_control": {
+          "keyword_count": 1,
+          "total_volume": 277,
+          "top_keywords": [
+            {
+              "keyword": "electric humidors for cigars humidity control",
+              "volume": 277
+            }
+          ]
+        }
+      },
+      "total_keywords": 14,
+      "total_volume": 3919
+    },
+    "scene": {
+      "display_name": "场景",
+      "english_key": "scene",
+      "sub_dimensions": {
+        "home_bar": {
+          "keyword_count": 10,
+          "total_volume": 5726,
+          "top_keywords": [
+            {
+              "keyword": "bar cabinet with fridge",
+              "volume": 1974
+            },
+            {
+              "keyword": "soda bar",
+              "volume": 1439
+            },
+            {
+              "keyword": "bar fridge with glass door",
+              "volume": 393
+            },
+            {
+              "keyword": "bar cabinet with wine fridge",
+              "volume": 343
+            },
+            {
+              "keyword": "outdoor refrigerator for outdoor kitchen",
+              "volume": 323
+            },
+            {
+              "keyword": "bar refrigerator under counter",
+              "volume": 292
+            },
+            {
+              "keyword": "bar with refrigerator built in cabinet",
+              "volume": 292
+            },
+            {
+              "keyword": "outdoor kitchen fridge",
+              "volume": 262
+            },
+            {
+              "keyword": "outdoor fridge for outdoor kitchen",
+              "volume": 222
+            },
+            {
+              "keyword": "outdoor kitchen refrigerator",
+              "volume": 186
+            }
+          ]
+        },
+        "rv": {
+          "keyword_count": 2,
+          "total_volume": 297,
+          "top_keywords": [
+            {
+              "keyword": "wine preservation system",
+              "volume": 297
+            },
+            {
+              "keyword": "bourge rv fridge",
+              "volume": 0
+            }
+          ]
+        }
+      },
+      "total_keywords": 12,
+      "total_volume": 6023
+    },
+    "brand": {
+      "display_name": "品牌",
+      "english_key": "brand",
+      "sub_dimensions": {
+        "euhomy": {
+          "keyword_count": 5,
+          "total_volume": 2967,
+          "top_keywords": [
+            {
+              "keyword": "euhomy",
+              "volume": 1232
+            },
+            {
+              "keyword": "euhomy mini fridge",
+              "volume": 792
+            },
+            {
+              "keyword": "euhomy cooler",
+              "volume": 636
+            },
+            {
+              "keyword": "euhomy refrigerator",
+              "volume": 161
+            },
+            {
+              "keyword": "euhomy fridge",
+              "volume": 146
+            }
+          ]
+        },
+        "zephyr": {
+          "keyword_count": 2,
+          "total_volume": 1479,
+          "top_keywords": [
+            {
+              "keyword": "zephyr",
+              "volume": 868
+            },
+            {
+              "keyword": "zephyr pro 40",
+              "volume": 611
+            }
+          ]
+        },
+        "newair": {
+          "keyword_count": 4,
+          "total_volume": 1084,
+          "top_keywords": [
+            {
+              "keyword": "newair humidor",
+              "volume": 444
+            },
+            {
+              "keyword": "newair mini fridge",
+              "volume": 277
+            },
+            {
+              "keyword": "newair wine cooler",
+              "volume": 222
+            },
+            {
+              "keyword": "newair",
+              "volume": 141
+            }
+          ]
+        },
+        "nutrichef": {
+          "keyword_count": 1,
+          "total_volume": 818,
+          "top_keywords": [
+            {
+              "keyword": "nutrichef",
+              "volume": 818
+            }
+          ]
+        },
+        "rovsun": {
+          "keyword_count": 1,
+          "total_volume": 767,
+          "top_keywords": [
+            {
+              "keyword": "rovsun",
+              "volume": 767
+            }
+          ]
+        },
+        "needone": {
+          "keyword_count": 1,
+          "total_volume": 651,
+          "top_keywords": [
+            {
+              "keyword": "needone cigar humidor",
+              "volume": 651
+            }
+          ]
+        },
+        "rocco": {
+          "keyword_count": 1,
+          "total_volume": 464,
+          "top_keywords": [
+            {
+              "keyword": "rocco fridge",
+              "volume": 464
+            }
+          ]
+        },
+        "koolatron": {
+          "keyword_count": 2,
+          "total_volume": 408,
+          "top_keywords": [
+            {
+              "keyword": "koolatron",
+              "volume": 247
+            },
+            {
+              "keyword": "koolatron wine fridge",
+              "volume": 161
+            }
+          ]
+        },
+        "yeego": {
+          "keyword_count": 1,
+          "total_volume": 191,
+          "top_keywords": [
+            {
+              "keyword": "yeego 24 inch beverage refrigerator",
+              "volume": 191
+            }
+          ]
+        },
+        "brisa": {
+          "keyword_count": 1,
+          "total_volume": 136,
+          "top_keywords": [
+            {
+              "keyword": "brisa",
+              "volume": 136
+            }
+          ]
+        },
+        "whynter": {
+          "keyword_count": 1,
+          "total_volume": 0,
+          "top_keywords": [
+            {
+              "keyword": "whynter wine fridge",
+              "volume": 0
+            }
+          ]
+        }
+      },
+      "total_keywords": 20,
+      "total_volume": 8965
+    },
+    "competitor": {
+      "display_name": "竞争品类",
+      "english_key": "competitor",
+      "sub_dimensions": {
+        "cigar_humidor": {
+          "keyword_count": 35,
+          "total_volume": 68443,
+          "top_keywords": [
+            {
+              "keyword": "cigar humidor",
+              "volume": 28883
+            },
+            {
+              "keyword": "humidor",
+              "volume": 20696
+            },
+            {
+              "keyword": "electric humidor",
+              "volume": 2464
+            },
+            {
+              "keyword": "cigar humidors",
+              "volume": 2404
+            },
+            {
+              "keyword": "electric humidors for cigars",
+              "volume": 1782
+            },
+            {
+              "keyword": "cigar humidor electric",
+              "volume": 1186
+            },
+            {
+              "keyword": "fridge cig",
+              "volume": 909
+            },
+            {
+              "keyword": "electric cigar humidor",
+              "volume": 843
+            },
+            {
+              "keyword": "tupperdor cigar humidor",
+              "volume": 681
+            },
+            {
+              "keyword": "needone cigar humidor",
+              "volume": 651
+            }
+          ]
+        },
+        "beverage_fridge": {
+          "keyword_count": 26,
+          "total_volume": 23516,
+          "top_keywords": [
+            {
+              "keyword": "beverage refrigerator",
+              "volume": 11671
+            },
+            {
+              "keyword": "beverage cooler",
+              "volume": 2626
+            },
+            {
+              "keyword": "beverage refrigerators",
+              "volume": 1742
+            },
+            {
+              "keyword": "drink fridge with glass door",
+              "volume": 1727
+            },
+            {
+              "keyword": "beverage refrigerator with glass door",
+              "volume": 1328
+            },
+            {
+              "keyword": "wine and beverage refrigerator",
+              "volume": 712
+            },
+            {
+              "keyword": "outdoor beverage refrigerator",
+              "volume": 671
+            },
+            {
+              "keyword": "under counter beverage refrigerator",
+              "volume": 515
+            },
+            {
+              "keyword": "drinks fridge",
+              "volume": 378
+            },
+            {
+              "keyword": "outdoor beverage cooler",
+              "volume": 313
+            }
+          ]
+        },
+        "generic_fridge": {
+          "keyword_count": 9,
+          "total_volume": 3248,
+          "top_keywords": [
+            {
+              "keyword": "refrigerator cooler",
+              "volume": 858
+            },
+            {
+              "keyword": "black refrigerator",
+              "volume": 580
+            },
+            {
+              "keyword": "fridge cooler",
+              "volume": 474
+            },
+            {
+              "keyword": "cooler fridge",
+              "volume": 378
+            },
+            {
+              "keyword": "drawer refrigerator",
+              "volume": 363
+            },
+            {
+              "keyword": "drawer fridge",
+              "volume": 353
+            },
+            {
+              "keyword": "wine cooler fridge",
+              "volume": 242
+            },
+            {
+              "keyword": "freestanding wine fridge cooler",
+              "volume": 0
+            },
+            {
+              "keyword": "beverage cooler fridge",
+              "volume": 0
+            }
+          ]
+        },
+        "can_cooler": {
+          "keyword_count": 2,
+          "total_volume": 510,
+          "top_keywords": [
+            {
+              "keyword": "24 can cooler",
+              "volume": 510
+            },
+            {
+              "keyword": "36 can cooler",
+              "volume": 0
+            }
+          ]
+        },
+        "outdoor_kegerator": {
+          "keyword_count": 2,
+          "total_volume": 292,
+          "top_keywords": [
+            {
+              "keyword": "outdoor kegerator",
+              "volume": 292
+            },
+            {
+              "keyword": "marine refrigerator",
+              "volume": 0
+            }
+          ]
+        }
+      },
+      "total_keywords": 74,
+      "total_volume": 96009
+    },
+    "spanish": {
+      "display_name": "西班牙语",
+      "english_key": "spanish",
+      "sub_dimensions": {
+        "spanish": {
+          "keyword_count": 6,
+          "total_volume": 2108,
+          "top_keywords": [
+            {
+              "keyword": "hogar y cocina",
+              "volume": 1186
+            },
+            {
+              "keyword": "yeleras para bebidas",
+              "volume": 348
+            },
+            {
+              "keyword": "frigo",
+              "volume": 297
+            },
+            {
+              "keyword": "vineras modernas para cocina",
+              "volume": 277
+            },
+            {
+              "keyword": "vinera electrica",
+              "volume": 0
+            },
+            {
+              "keyword": "refrigerador de bebidas",
+              "volume": 0
+            }
+          ]
+        }
+      },
+      "total_keywords": 6,
+      "total_volume": 2108
+    }
+  },
+  "top_keywords_by_volume": [
+    {
+      "keyword": "wine enthusiast wine refrigerator",
+      "volume": 414,
+      "relevance": "中",
+      "bid_mid": 1.64
+    },
+    {
+      "keyword": "dual zone wine refrigerator",
+      "volume": 141,
+      "relevance": "中",
+      "bid_mid": 4.12
+    },
+    {
+      "keyword": "dual zone wine cooler",
+      "volume": 186,
+      "relevance": "中",
+      "bid_mid": 3.32
+    },
+    {
+      "keyword": "under counter wine fridge",
+      "volume": 257,
+      "relevance": "低",
+      "bid_mid": 4.09
+    },
+    {
+      "keyword": "wine fridge dual zone",
+      "volume": 555,
+      "relevance": "低",
+      "bid_mid": 4.21
+    },
+    {
+      "keyword": "wine fridge under counter",
+      "volume": 404,
+      "relevance": "低",
+      "bid_mid": 3.83
+    },
+    {
+      "keyword": "dual zone wine fridge",
+      "volume": 777,
+      "relevance": "低",
+      "bid_mid": 3.79
+    },
+    {
+      "keyword": "24 beverage fridge under counter",
+      "volume": 237,
+      "relevance": "低",
+      "bid_mid": 3.99
+    },
+    {
+      "keyword": "oem mania 5221jb2006a refrigerator refrigerator",
+      "volume": 0,
+      "relevance": "低",
+      "bid_mid": 1.06
+    },
+    {
+      "keyword": "whynter wine fridge",
+      "volume": 0,
+      "relevance": "低",
+      "bid_mid": null
+    },
+    {
+      "keyword": "wine coolers",
+      "volume": 505,
+      "relevance": "低",
+      "bid_mid": 3.41
+    },
+    {
+      "keyword": "under counter wine cooler refrigerator",
+      "volume": 136,
+      "relevance": "低",
+      "bid_mid": 3.76
+    },
+    {
+      "keyword": "ivation wine fridge",
+      "volume": 247,
+      "relevance": "低",
+      "bid_mid": null
+    },
+    {
+      "keyword": "ivation wine cooler",
+      "volume": 0,
+      "relevance": "低",
+      "bid_mid": 3
+    },
+    {
+      "keyword": "panel ready refrigerator",
+      "volume": 176,
+      "relevance": "低",
+      "bid_mid": 1.68
+    },
+    {
+      "keyword": "mxclimate-central-conditioners-systems-decorative",
+      "volume": 0,
+      "relevance": "低",
+      "bid_mid": null
+    },
+    {
+      "keyword": "freestanding wine fridge cooler",
+      "volume": 0,
+      "relevance": "低",
+      "bid_mid": 1.8
+    },
+    {
+      "keyword": "wine cooler dual zone",
+      "volume": 0,
+      "relevance": "低",
+      "bid_mid": 3.22
+    },
+    {
+      "keyword": "wine refrigerators free standing",
+      "volume": 737,
+      "relevance": "低",
+      "bid_mid": 3.54
+    },
+    {
+      "keyword": "slim wine fridge",
+      "volume": 0,
+      "relevance": "低",
+      "bid_mid": 1.62
+    },
+    {
+      "keyword": "wine and beverage fridge",
+      "volume": 0,
+      "relevance": "低",
+      "bid_mid": 3.77
+    },
+    {
+      "keyword": "wine cooler",
+      "volume": 7712,
+      "relevance": "低",
+      "bid_mid": 1.68
+    },
+    {
+      "keyword": "24 in wine fridge",
+      "volume": 0,
+      "relevance": "低",
+      "bid_mid": 3.88
+    },
+    {
+      "keyword": "display beverage cooler",
+      "volume": 0,
+      "relevance": "低",
+      "bid_mid": 1.86
+    },
+    {
+      "keyword": "wine cellar",
+      "volume": 303,
+      "relevance": "低",
+      "bid_mid": 3.86
+    },
+    {
+      "keyword": "wine refrigerator small",
+      "volume": 146,
+      "relevance": "低",
+      "bid_mid": 1.61
+    },
+    {
+      "keyword": "wine cellars",
+      "volume": 484,
+      "relevance": "低",
+      "bid_mid": 3.06
+    },
+    {
+      "keyword": "kalamera 24 inch beverage refrigerator",
+      "volume": 191,
+      "relevance": "低",
+      "bid_mid": 3.75
+    },
+    {
+      "keyword": "wine refrigerator under counter",
+      "volume": 358,
+      "relevance": "低",
+      "bid_mid": 3.8
+    },
+    {
+      "keyword": "wine fridge 12 bottle",
+      "volume": 0,
+      "relevance": "低",
+      "bid_mid": 4.05
+    },
+    {
+      "keyword": "gliston-adjustable-automobile-motorcycle-refrigerator",
+      "volume": 212,
+      "relevance": "低",
+      "bid_mid": null
+    },
+    {
+      "keyword": "zephyr pro 40",
+      "volume": 611,
+      "relevance": "低",
+      "bid_mid": 0.55
+    },
+    {
+      "keyword": "outdoor refrigerator for patio",
+      "volume": 1126,
+      "relevance": "低",
+      "bid_mid": 0.35
+    },
+    {
+      "keyword": "koolatron wine fridge",
+      "volume": 161,
+      "relevance": "低",
+      "bid_mid": 1.07
+    },
+    {
+      "keyword": "wine refrigerator",
+      "volume": 2262,
+      "relevance": "低",
+      "bid_mid": 1.58
+    },
+    {
+      "keyword": "wine fridge freestanding",
+      "volume": 414,
+      "relevance": "低",
+      "bid_mid": 3.93
+    },
+    {
+      "keyword": "outdoor refrigerator",
+      "volume": 2161,
+      "relevance": "几乎不相关",
+      "bid_mid": 1.19
+    },
+    {
+      "keyword": "outdoor refrigerators",
+      "volume": 368,
+      "relevance": "几乎不相关",
+      "bid_mid": 1.23
+    },
+    {
+      "keyword": "wine and beverage refrigerator",
+      "volume": 712,
+      "relevance": "几乎不相关",
+      "bid_mid": 3.82
+    },
+    {
+      "keyword": "wine fridge",
+      "volume": 15823,
+      "relevance": "几乎不相关",
+      "bid_mid": 1.91
+    },
+    {
+      "keyword": "wine cooler refrigerator",
+      "volume": 3585,
+      "relevance": "几乎不相关",
+      "bid_mid": null
+    },
+    {
+      "keyword": "small wine cooler",
+      "volume": 434,
+      "relevance": "几乎不相关",
+      "bid_mid": 1.66
+    },
+    {
+      "keyword": "wine coolers refrigerators",
+      "volume": 257,
+      "relevance": "几乎不相关",
+      "bid_mid": 3.92
+    },
+    {
+      "keyword": "narrow wine fridge",
+      "volume": 136,
+      "relevance": "几乎不相关",
+      "bid_mid": 3.24
+    },
+    {
+      "keyword": "24 inch beverage refrigerator",
+      "volume": 303,
+      "relevance": "几乎不相关",
+      "bid_mid": 3.62
+    },
+    {
+      "keyword": "wine fridge 24 inch",
+      "volume": 0,
+      "relevance": "几乎不相关",
+      "bid_mid": 3.2
+    },
+    {
+      "keyword": "tall wine fridge",
+      "volume": 0,
+      "relevance": "几乎不相关",
+      "bid_mid": 4.29
+    },
+    {
+      "keyword": "outdoor refrigerator for outdoor kitchen",
+      "volume": 323,
+      "relevance": "几乎不相关",
+      "bid_mid": 2.11
+    },
+    {
+      "keyword": "outdoor fridge for outdoor kitchen",
+      "volume": 222,
+      "relevance": "几乎不相关",
+      "bid_mid": 1.23
+    },
+    {
+      "keyword": "12 bottle wine fridge",
+      "volume": 232,
+      "relevance": "几乎不相关",
+      "bid_mid": 4.65
+    }
+  ],
+  "bsr_high_freq_words": [
+    {
+      "word": "fridge",
+      "count": 94,
+      "volume": 60717
+    },
+    {
+      "word": "wine",
+      "count": 93,
+      "volume": 95522
+    },
+    {
+      "word": "refrigerator",
+      "count": 78,
+      "volume": 39450
+    },
+    {
+      "word": "cooler",
+      "count": 50,
+      "volume": 29114
+    },
+    {
+      "word": "beverage",
+      "count": 33,
+      "volume": 28575
+    },
+    {
+      "word": "outdoor",
+      "count": 27,
+      "volume": 14080
+    },
+    {
+      "word": "humidor",
+      "count": 26,
+      "volume": 61352
+    },
+    {
+      "word": "glass",
+      "count": 20,
+      "volume": 8433
+    },
+    {
+      "word": "cabinet",
+      "count": 19,
+      "volume": 7209
+    },
+    {
+      "word": "mini",
+      "count": 18,
+      "volume": 10673
+    },
+    {
+      "word": "cigar",
+      "count": 16,
+      "volume": 37179
+    },
+    {
+      "word": "under",
+      "count": 15,
+      "volume": 5137
+    },
+    {
+      "word": "door",
+      "count": 14,
+      "volume": 5728
+    },
+    {
+      "word": "commercial",
+      "count": 14,
+      "volume": 4533
+    },
+    {
+      "word": "counter",
+      "count": 13,
+      "volume": 4754
+    },
+    {
+      "word": "24",
+      "count": 13,
+      "volume": 2490
+    },
+    {
+      "word": "inch",
+      "count": 12,
+      "volume": 2065
+    },
+    {
+      "word": "electric",
+      "count": 11,
+      "volume": 8089
+    },
+    {
+      "word": "chiller",
+      "count": 9,
+      "volume": 7885
+    },
+    {
+      "word": "refrigerators",
+      "count": 7,
+      "volume": 6467
+    },
+    {
+      "word": "display",
+      "count": 7,
+      "volume": 811
+    },
+    {
+      "word": "small",
+      "count": 7,
+      "volume": 4421
+    },
+    {
+      "word": "bottle",
+      "count": 7,
+      "volume": 4852
+    },
+    {
+      "word": "patio",
+      "count": 7,
+      "volume": 2675
+    },
+    {
+      "word": "drawer",
+      "count": 7,
+      "volume": 1169
+    },
+    {
+      "word": "dual",
+      "count": 6,
+      "volume": 2310
+    },
+    {
+      "word": "zone",
+      "count": 6,
+      "volume": 2310
+    },
+    {
+      "word": "drink",
+      "count": 6,
+      "volume": 2776
+    },
+    {
+      "word": "bar",
+      "count": 6,
+      "volume": 4733
+    },
+    {
+      "word": "humidors",
+      "count": 5,
+      "volume": 5204
+    },
+    {
+      "word": "undercounter",
+      "count": 5,
+      "volume": 1579
+    },
+    {
+      "word": "euhomy",
+      "count": 5,
+      "volume": 2967
+    },
+    {
+      "word": "rack",
+      "count": 5,
+      "volume": 1119
+    },
+    {
+      "word": "coolers",
+      "count": 4,
+      "volume": 762
+    },
+    {
+      "word": "kitchen",
+      "count": 4,
+      "volume": 993
+    },
+    {
+      "word": "newair",
+      "count": 4,
+      "volume": 1084
+    },
+    {
+      "word": "cigars",
+      "count": 4,
+      "volume": 2694
+    },
+    {
+      "word": "bottles",
+      "count": 4,
+      "volume": 1631
+    },
+    {
+      "word": "lock",
+      "count": 4,
+      "volume": 842
+    },
+    {
+      "word": "can",
+      "count": 4,
+      "volume": 994
+    },
+    {
+      "word": "slim",
+      "count": 3,
+      "volume": 676
+    },
+    {
+      "word": "cellar",
+      "count": 3,
+      "volume": 560
+    },
+    {
+      "word": "12",
+      "count": 3,
+      "volume": 378
+    },
+    {
+      "word": "tall",
+      "count": 3,
+      "volume": 146
+    },
+    {
+      "word": "shallow",
+      "count": 3,
+      "volume": 539
+    },
+    {
+      "word": "depth",
+      "count": 3,
+      "volume": 544
+    },
+    {
+      "word": "beer",
+      "count": 3,
+      "volume": 963
+    },
+    {
+      "word": "fridges",
+      "count": 3,
+      "volume": 0
+    },
+    {
+      "word": "soda",
+      "count": 3,
+      "volume": 1726
+    },
+    {
+      "word": "ivation",
+      "count": 2,
+      "volume": 247
+    }
+  ],
+  "filter_keywords": [
+    {
+      "keyword": "beverage refrigerator",
+      "volume": 11671
+    },
+    {
+      "keyword": "beverage fridge",
+      "volume": 4873
+    },
+    {
+      "keyword": "beverage cooler",
+      "volume": 2626
+    },
+    {
+      "keyword": "beverage refrigerators",
+      "volume": 1742
+    },
+    {
+      "keyword": "drink fridge with glass door",
+      "volume": 1727
+    },
+    {
+      "keyword": "beverage refrigerator with glass door",
+      "volume": 1328
+    },
+    {
+      "keyword": "mini beverage fridge",
+      "volume": 949
+    },
+    {
+      "keyword": "wine and beverage refrigerator",
+      "volume": 712
+    },
+    {
+      "keyword": "outdoor beverage refrigerator",
+      "volume": 671
+    },
+    {
+      "keyword": "beverage fridge with glass door",
+      "volume": 636
+    },
+    {
+      "keyword": "beer fridge with glass door",
+      "volume": 575
+    },
+    {
+      "keyword": "under counter beverage refrigerator",
+      "volume": 515
+    },
+    {
+      "keyword": "drink cooler refrigerator",
+      "volume": 404
+    },
+    {
+      "keyword": "drinks fridge",
+      "volume": 378
+    },
+    {
+      "keyword": "outdoor beverage cooler",
+      "volume": 313
+    },
+    {
+      "keyword": "24 inch beverage refrigerator",
+      "volume": 303
+    },
+    {
+      "keyword": "soda cooler",
+      "volume": 287
+    },
+    {
+      "keyword": "full size beverage refrigerator 150 can capacity",
+      "volume": 282
+    },
+    {
+      "keyword": "simzlife beverage refrigerator",
+      "volume": 272
+    },
+    {
+      "keyword": "shallow depth beverage fridge",
+      "volume": 257
+    },
+    {
+      "keyword": "commercial beverage refrigerator",
+      "volume": 247
+    },
+    {
+      "keyword": "outdoor beverage fridge",
+      "volume": 242
+    },
+    {
+      "keyword": "24 beverage fridge under counter",
+      "volume": 237
+    },
+    {
+      "keyword": "kalamera 24 inch beverage refrigerator",
+      "volume": 191
+    },
+    {
+      "keyword": "yeego 24 inch beverage refrigerator",
+      "volume": 191
+    },
+    {
+      "keyword": "outdoor drink fridge",
+      "volume": 176
+    },
+    {
+      "keyword": "wine and beer fridge combo",
+      "volume": 171
+    },
+    {
+      "keyword": "undercounter drawer beverage refrigerator",
+      "volume": 171
+    },
+    {
+      "keyword": "tall beverage fridge",
+      "volume": 146
+    },
+    {
+      "keyword": "wine and beverage fridge",
+      "volume": 0
+    },
+    {
+      "keyword": "display beverage cooler",
+      "volume": 0
+    },
+    {
+      "keyword": "commercial drink cooler",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage coolers",
+      "volume": 0
+    },
+    {
+      "keyword": "under counter beverage fridge",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage refrigerator under counter",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage display cooler",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage fridges",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage cooler with glass door",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage cooler fridge",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage refrigerator 24 inch wide",
+      "volume": 0
+    },
+    {
+      "keyword": "drink fridges",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage refrigerator cabinet",
+      "volume": 0
+    },
+    {
+      "keyword": "soda storage refrigerator",
+      "volume": 0
+    },
+    {
+      "keyword": "outdoor fridge",
+      "volume": 2510
+    },
+    {
+      "keyword": "outdoor refrigerator",
+      "volume": 2161
+    },
+    {
+      "keyword": "garage fridge",
+      "volume": 1707
+    },
+    {
+      "keyword": "outdoor refrigerator for patio",
+      "volume": 1126
+    },
+    {
+      "keyword": "garage refrigerator",
+      "volume": 1060
+    },
+    {
+      "keyword": "outdoor fridge for patio",
+      "volume": 813
+    },
+    {
+      "keyword": "outdoor refrigerator cabinet",
+      "volume": 409
+    },
+    {
+      "keyword": "outdoor refrigerators",
+      "volume": 368
+    },
+    {
+      "keyword": "outdoor refrigerator for outdoor kitchen",
+      "volume": 323
+    },
+    {
+      "keyword": "outdoor kegerator",
+      "volume": 292
+    },
+    {
+      "keyword": "outdoor fridge cabinet",
+      "volume": 252
+    },
+    {
+      "keyword": "outdoor fridge for outdoor kitchen",
+      "volume": 222
+    },
+    {
+      "keyword": "small outdoor refrigerator for patio",
+      "volume": 176
+    },
+    {
+      "keyword": "blaze outdoor refrigerator",
+      "volume": 161
+    },
+    {
+      "keyword": "outdoor patio fridge",
+      "volume": 0
+    },
+    {
+      "keyword": "outdoor fridge for patio and deck",
+      "volume": 0
+    },
+    {
+      "keyword": "outdoor fridge cabinet for patio",
+      "volume": 0
+    },
+    {
+      "keyword": "all weather outdoor refrigerator",
+      "volume": 0
+    },
+    {
+      "keyword": "marine refrigerator",
+      "volume": 0
+    },
+    {
+      "keyword": "outdoor mini fridge",
+      "volume": 1999
+    },
+    {
+      "keyword": "magic chef mini fridge",
+      "volume": 1575
+    },
+    {
+      "keyword": "euhomy mini fridge",
+      "volume": 792
+    },
+    {
+      "keyword": "outdoor mini fridge for patio",
+      "volume": 560
+    },
+    {
+      "keyword": "lockable mini fridge",
+      "volume": 515
+    },
+    {
+      "keyword": "locking mini fridge",
+      "volume": 429
+    },
+    {
+      "keyword": "outdoor mini fridge cabinet",
+      "volume": 313
+    },
+    {
+      "keyword": "newair mini fridge",
+      "volume": 277
+    },
+    {
+      "keyword": "mini fridge with lock and key",
+      "volume": 272
+    },
+    {
+      "keyword": "slim mini fridge",
+      "volume": 272
+    },
+    {
+      "keyword": "wine mini fridge",
+      "volume": 212
+    },
+    {
+      "keyword": "mini fridge with compressor",
+      "volume": 212
+    },
+    {
+      "keyword": "24 inch mini fridge",
+      "volume": 212
+    },
+    {
+      "keyword": "mini fridge with cabinet",
+      "volume": 212
+    },
+    {
+      "keyword": "12 inch depth mini fridge",
+      "volume": 146
+    },
+    {
+      "keyword": "commercial refrigerators",
+      "volume": 2207
+    },
+    {
+      "keyword": "commercial fridge",
+      "volume": 1025
+    },
+    {
+      "keyword": "commercial refrigerator",
+      "volume": 661
+    },
+    {
+      "keyword": "bar refrigerator under counter",
+      "volume": 292
+    },
+    {
+      "keyword": "commercial cooler",
+      "volume": 232
+    },
+    {
+      "keyword": "commercial display refrigerator",
+      "volume": 161
+    },
+    {
+      "keyword": "commercial display refrigerators",
+      "volume": 0
+    },
+    {
+      "keyword": "commercial fridges",
+      "volume": 0
+    },
+    {
+      "keyword": "industrial refrigerator",
+      "volume": 0
+    },
+    {
+      "keyword": "my account with amazon",
+      "volume": 3863
+    },
+    {
+      "keyword": "refrigerator cooler",
+      "volume": 858
+    },
+    {
+      "keyword": "black refrigerator",
+      "volume": 580
+    },
+    {
+      "keyword": "fridge cooler",
+      "volume": 474
+    },
+    {
+      "keyword": "cooler fridge",
+      "volume": 378
+    },
+    {
+      "keyword": "wine cooler fridge",
+      "volume": 242
+    },
+    {
+      "keyword": "panel ready refrigerator",
+      "volume": 176
+    },
+    {
+      "keyword": "freestanding wine fridge cooler",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage cooler fridge",
+      "volume": 0
+    },
+    {
+      "keyword": "wine glass chiller",
+      "volume": 1333
+    },
+    {
+      "keyword": "stainless steel wine glasses",
+      "volume": 272
+    },
+    {
+      "keyword": "wine glass cooler",
+      "volume": 242
+    },
+    {
+      "keyword": "single wine glass",
+      "volume": 232
+    },
+    {
+      "keyword": "wine holder for fridge",
+      "volume": 212
+    },
+    {
+      "keyword": "hogar y cocina",
+      "volume": 1186
+    },
+    {
+      "keyword": "refrigerator drawers",
+      "volume": 676
+    },
+    {
+      "keyword": "outdoor kitchen refrigerator",
+      "volume": 186
+    },
+    {
+      "keyword": "portable refrigerator drawer",
+      "volume": 0
+    },
+    {
+      "keyword": "cooler with food drawer",
+      "volume": 0
+    },
+    {
+      "keyword": "model y cooler",
+      "volume": 363
+    },
+    {
+      "keyword": "gliston-adjustable-automobile-motorcycle-refrigerator",
+      "volume": 212
+    },
+    {
+      "keyword": "24 can cooler",
+      "volume": 510
+    },
+    {
+      "keyword": "36 can cooler",
+      "volume": 0
+    },
+    {
+      "keyword": "refrigerant rack",
+      "volume": 237
+    },
+    {
+      "keyword": "oem mania 5221jb2006a refrigerator refrigerator",
+      "volume": 0
+    },
+    {
+      "keyword": "242252702-refrigerator-fr-igidaire-elec-trolux-fetechmate",
+      "volume": 0
+    },
+    {
+      "keyword": "refrigerator-fftr1814qw4a-fftr1821qw0-fftr1821qw1-fftr1814qw3",
+      "volume": 0
+    }
+  ],
+  "competitor_keywords": [
+    {
+      "keyword": "cigar humidor",
+      "volume": 28883
+    },
+    {
+      "keyword": "humidor",
+      "volume": 20696
+    },
+    {
+      "keyword": "electric humidor",
+      "volume": 2464
+    },
+    {
+      "keyword": "cigar humidors",
+      "volume": 2404
+    },
+    {
+      "keyword": "electric humidors for cigars",
+      "volume": 1782
+    },
+    {
+      "keyword": "cigar humidor electric",
+      "volume": 1186
+    },
+    {
+      "keyword": "fridge cig",
+      "volume": 909
+    },
+    {
+      "keyword": "electric cigar humidor",
+      "volume": 843
+    },
+    {
+      "keyword": "tupperdor cigar humidor",
+      "volume": 681
+    },
+    {
+      "keyword": "needone cigar humidor",
+      "volume": 651
+    },
+    {
+      "keyword": "humidor cabinet",
+      "volume": 626
+    },
+    {
+      "keyword": "electronic humidor with temperature control",
+      "volume": 616
+    },
+    {
+      "keyword": "electric cigarhumidor",
+      "volume": 494
+    },
+    {
+      "keyword": "large humidor",
+      "volume": 449
+    },
+    {
+      "keyword": "herf cool-a-dor humidor 450",
+      "volume": 449
+    },
+    {
+      "keyword": "humidors",
+      "volume": 449
+    },
+    {
+      "keyword": "newair humidor",
+      "volume": 444
+    },
+    {
+      "keyword": "cigar humidor cabinet",
+      "volume": 363
+    },
+    {
+      "keyword": "kingchii cigar humidor",
+      "volume": 353
+    },
+    {
+      "keyword": "humidor for cigars",
+      "volume": 343
+    },
+    {
+      "keyword": "mahogany humidor",
+      "volume": 323
+    },
+    {
+      "keyword": "case elegance cigar humidor",
+      "volume": 318
+    },
+    {
+      "keyword": "raching cigar humidor",
+      "volume": 313
+    },
+    {
+      "keyword": "cigars humidors",
+      "volume": 292
+    },
+    {
+      "keyword": "large cigar humidor",
+      "volume": 282
+    },
+    {
+      "keyword": "electric humidors for cigars humidity control",
+      "volume": 277
+    },
+    {
+      "keyword": "cigar cabinet",
+      "volume": 267
+    },
+    {
+      "keyword": "yohtron cigar humidor",
+      "volume": 242
+    },
+    {
+      "keyword": "king chii humidor",
+      "volume": 227
+    },
+    {
+      "keyword": "humador",
+      "volume": 217
+    },
+    {
+      "keyword": "humidor electric humidifier cigar",
+      "volume": 207
+    },
+    {
+      "keyword": "savoy classic humidor executive edition",
+      "volume": 207
+    },
+    {
+      "keyword": "cigar electric humidor",
+      "volume": 186
+    },
+    {
+      "keyword": "kingchii humidor",
+      "volume": 0
+    },
+    {
+      "keyword": "handcrafted cigar humidor",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage refrigerator",
+      "volume": 11671
+    },
+    {
+      "keyword": "beverage cooler",
+      "volume": 2626
+    },
+    {
+      "keyword": "beverage refrigerators",
+      "volume": 1742
+    },
+    {
+      "keyword": "drink fridge with glass door",
+      "volume": 1727
+    },
+    {
+      "keyword": "beverage refrigerator with glass door",
+      "volume": 1328
+    },
+    {
+      "keyword": "wine and beverage refrigerator",
+      "volume": 712
+    },
+    {
+      "keyword": "outdoor beverage refrigerator",
+      "volume": 671
+    },
+    {
+      "keyword": "under counter beverage refrigerator",
+      "volume": 515
+    },
+    {
+      "keyword": "drinks fridge",
+      "volume": 378
+    },
+    {
+      "keyword": "outdoor beverage cooler",
+      "volume": 313
+    },
+    {
+      "keyword": "24 inch beverage refrigerator",
+      "volume": 303
+    },
+    {
+      "keyword": "full size beverage refrigerator 150 can capacity",
+      "volume": 282
+    },
+    {
+      "keyword": "simzlife beverage refrigerator",
+      "volume": 272
+    },
+    {
+      "keyword": "commercial beverage refrigerator",
+      "volume": 247
+    },
+    {
+      "keyword": "kalamera 24 inch beverage refrigerator",
+      "volume": 191
+    },
+    {
+      "keyword": "yeego 24 inch beverage refrigerator",
+      "volume": 191
+    },
+    {
+      "keyword": "outdoor drink fridge",
+      "volume": 176
+    },
+    {
+      "keyword": "undercounter drawer beverage refrigerator",
+      "volume": 171
+    },
+    {
+      "keyword": "display beverage cooler",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage coolers",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage refrigerator under counter",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage cooler with glass door",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage cooler fridge",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage refrigerator 24 inch wide",
+      "volume": 0
+    },
+    {
+      "keyword": "drink fridges",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage refrigerator cabinet",
+      "volume": 0
+    },
+    {
+      "keyword": "refrigerator cooler",
+      "volume": 858
+    },
+    {
+      "keyword": "black refrigerator",
+      "volume": 580
+    },
+    {
+      "keyword": "fridge cooler",
+      "volume": 474
+    },
+    {
+      "keyword": "cooler fridge",
+      "volume": 378
+    },
+    {
+      "keyword": "drawer refrigerator",
+      "volume": 363
+    },
+    {
+      "keyword": "drawer fridge",
+      "volume": 353
+    },
+    {
+      "keyword": "wine cooler fridge",
+      "volume": 242
+    },
+    {
+      "keyword": "freestanding wine fridge cooler",
+      "volume": 0
+    },
+    {
+      "keyword": "beverage cooler fridge",
+      "volume": 0
+    },
+    {
+      "keyword": "24 can cooler",
+      "volume": 510
+    },
+    {
+      "keyword": "36 can cooler",
+      "volume": 0
+    },
+    {
+      "keyword": "outdoor kegerator",
+      "volume": 292
+    },
+    {
+      "keyword": "marine refrigerator",
+      "volume": 0
+    }
+  ]
+}

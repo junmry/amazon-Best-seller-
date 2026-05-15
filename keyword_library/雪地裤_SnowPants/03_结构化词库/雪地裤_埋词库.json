@@ -1,0 +1,1669 @@
+{
+  "category": "雪地裤_SnowPants",
+  "total_keywords": 341,
+  "total_volume": 5258819,
+  "dimensions": {
+    "gender": {
+      "display_name": "性别人群",
+      "english_key": "gender",
+      "sub_dimensions": {
+        "men": {
+          "keyword_count": 230,
+          "total_volume": 3359440,
+          "top_keywords": [
+            {
+              "keyword": "snow pants men",
+              "volume": 296443
+            },
+            {
+              "keyword": "mens snow pants",
+              "volume": 234406
+            },
+            {
+              "keyword": "cargo pants for men",
+              "volume": 192462
+            },
+            {
+              "keyword": "ski pants men",
+              "volume": 145900
+            },
+            {
+              "keyword": "work pants for men",
+              "volume": 137639
+            },
+            {
+              "keyword": "mens ski pants",
+              "volume": 92913
+            },
+            {
+              "keyword": "fleece lined pants men",
+              "volume": 80823
+            },
+            {
+              "keyword": "dickies work pants for men",
+              "volume": 66835
+            },
+            {
+              "keyword": "hiking pants men",
+              "volume": 62646
+            },
+            {
+              "keyword": "winter pants for men",
+              "volume": 59399
+            }
+          ]
+        },
+        "plus_size": {
+          "keyword_count": 4,
+          "total_volume": 25153,
+          "top_keywords": [
+            {
+              "keyword": "big and tall pants for men",
+              "volume": 18112
+            },
+            {
+              "keyword": "big and tall snow pants men",
+              "volume": 3537
+            },
+            {
+              "keyword": "mens tall snow pants",
+              "volume": 1825
+            },
+            {
+              "keyword": "mens xl snow pants",
+              "volume": 1679
+            }
+          ]
+        },
+        "women": {
+          "keyword_count": 1,
+          "total_volume": 6051,
+          "top_keywords": [
+            {
+              "keyword": "womens ski pants waterproof",
+              "volume": 6051
+            }
+          ]
+        }
+      },
+      "total_keywords": 235,
+      "total_volume": 3390644
+    },
+    "activity": {
+      "display_name": "场景用途",
+      "english_key": "activity",
+      "sub_dimensions": {
+        "winter": {
+          "keyword_count": 134,
+          "total_volume": 2305879,
+          "top_keywords": [
+            {
+              "keyword": "snow pants",
+              "volume": 308016
+            },
+            {
+              "keyword": "snow pants men",
+              "volume": 296443
+            },
+            {
+              "keyword": "mens snow pants",
+              "volume": 234406
+            },
+            {
+              "keyword": "snowboard",
+              "volume": 150934
+            },
+            {
+              "keyword": "snowboard pants",
+              "volume": 76454
+            },
+            {
+              "keyword": "winter pants for men",
+              "volume": 59399
+            },
+            {
+              "keyword": "snow storm essentials",
+              "volume": 57389
+            },
+            {
+              "keyword": "snowboarding pants",
+              "volume": 53057
+            },
+            {
+              "keyword": "snowboard pants men",
+              "volume": 52282
+            },
+            {
+              "keyword": "men snow pants",
+              "volume": 51099
+            }
+          ]
+        },
+        "ski": {
+          "keyword_count": 52,
+          "total_volume": 598888,
+          "top_keywords": [
+            {
+              "keyword": "ski pants men",
+              "volume": 145900
+            },
+            {
+              "keyword": "ski pants",
+              "volume": 122121
+            },
+            {
+              "keyword": "mens ski pants",
+              "volume": 92913
+            },
+            {
+              "keyword": "ski pants men waterproof",
+              "volume": 21006
+            },
+            {
+              "keyword": "men ski pants",
+              "volume": 20716
+            },
+            {
+              "keyword": "mens ski pants waterproof insulated",
+              "volume": 17227
+            },
+            {
+              "keyword": "men's ski pants",
+              "volume": 16772
+            },
+            {
+              "keyword": "ski pants for men",
+              "volume": 9558
+            },
+            {
+              "keyword": "skis for men",
+              "volume": 9420
+            },
+            {
+              "keyword": "ski pants mens",
+              "volume": 8155
+            }
+          ]
+        },
+        "snowboard": {
+          "keyword_count": 19,
+          "total_volume": 505184,
+          "top_keywords": [
+            {
+              "keyword": "snowboard",
+              "volume": 150934
+            },
+            {
+              "keyword": "snowboard pants",
+              "volume": 76454
+            },
+            {
+              "keyword": "snowboarding pants",
+              "volume": 53057
+            },
+            {
+              "keyword": "snowboard pants men",
+              "volume": 52282
+            },
+            {
+              "keyword": "snowboard bindings",
+              "volume": 47464
+            },
+            {
+              "keyword": "mens snowboard pants",
+              "volume": 35077
+            },
+            {
+              "keyword": "snowboards",
+              "volume": 26152
+            },
+            {
+              "keyword": "snowboarding pants men",
+              "volume": 25003
+            },
+            {
+              "keyword": "men's snowboard pants",
+              "volume": 10815
+            },
+            {
+              "keyword": "mens snowboarding pants",
+              "volume": 8138
+            }
+          ]
+        },
+        "work": {
+          "keyword_count": 22,
+          "total_volume": 349088,
+          "top_keywords": [
+            {
+              "keyword": "work pants for men",
+              "volume": 137639
+            },
+            {
+              "keyword": "dickies work pants for men",
+              "volume": 66835
+            },
+            {
+              "keyword": "fleece lined work pants for men",
+              "volume": 23288
+            },
+            {
+              "keyword": "carhartt work pants",
+              "volume": 16191
+            },
+            {
+              "keyword": "insulated work pants",
+              "volume": 15269
+            },
+            {
+              "keyword": "insulated work pants for men",
+              "volume": 14650
+            },
+            {
+              "keyword": "carhartt pants for men work",
+              "volume": 13640
+            },
+            {
+              "keyword": "winter work pants for men",
+              "volume": 9416
+            },
+            {
+              "keyword": "duluth work pants for men",
+              "volume": 6003
+            },
+            {
+              "keyword": "working pants for men",
+              "volume": 5922
+            }
+          ]
+        },
+        "hiking": {
+          "keyword_count": 13,
+          "total_volume": 182849,
+          "top_keywords": [
+            {
+              "keyword": "hiking pants men",
+              "volume": 62646
+            },
+            {
+              "keyword": "hiking pants",
+              "volume": 51670
+            },
+            {
+              "keyword": "mens hiking pants",
+              "volume": 33459
+            },
+            {
+              "keyword": "men's hiking pants",
+              "volume": 7326
+            },
+            {
+              "keyword": "waterproof hiking pants",
+              "volume": 4954
+            },
+            {
+              "keyword": "men hiking pants",
+              "volume": 3436
+            },
+            {
+              "keyword": "hiking pants for men",
+              "volume": 3129
+            },
+            {
+              "keyword": "hiking pants men waterproof",
+              "volume": 3123
+            },
+            {
+              "keyword": "waterproof hiking pants men",
+              "volume": 3057
+            },
+            {
+              "keyword": "winter hiking pants",
+              "volume": 3051
+            }
+          ]
+        },
+        "fishing": {
+          "keyword_count": 5,
+          "total_volume": 33683,
+          "top_keywords": [
+            {
+              "keyword": "ice fishing tip up",
+              "volume": 13325
+            },
+            {
+              "keyword": "fishing pants",
+              "volume": 8667
+            },
+            {
+              "keyword": "fishing pants for men",
+              "volume": 7266
+            },
+            {
+              "keyword": "ice fishing pants",
+              "volume": 2888
+            },
+            {
+              "keyword": "ice fishing pants for men",
+              "volume": 1537
+            }
+          ]
+        },
+        "hunting": {
+          "keyword_count": 3,
+          "total_volume": 16061,
+          "top_keywords": [
+            {
+              "keyword": "hunting pants for men",
+              "volume": 9453
+            },
+            {
+              "keyword": "upland hunting pants",
+              "volume": 4544
+            },
+            {
+              "keyword": "insulated hunting pants",
+              "volume": 2064
+            }
+          ]
+        },
+        "outdoor": {
+          "keyword_count": 5,
+          "total_volume": 15127,
+          "top_keywords": [
+            {
+              "keyword": "outdoor pants men",
+              "volume": 4306
+            },
+            {
+              "keyword": "outdoors apparel",
+              "volume": 3320
+            },
+            {
+              "keyword": "mens outdoor pants",
+              "volume": 2957
+            },
+            {
+              "keyword": "outdoor pants",
+              "volume": 2777
+            },
+            {
+              "keyword": "outdoor sports pants",
+              "volume": 1767
+            }
+          ]
+        },
+        "ice_skating": {
+          "keyword_count": 1,
+          "total_volume": 3915,
+          "top_keywords": [
+            {
+              "keyword": "ice skating pants",
+              "volume": 3915
+            }
+          ]
+        }
+      },
+      "total_keywords": 254,
+      "total_volume": 4010674
+    },
+    "function": {
+      "display_name": "功能特性",
+      "english_key": "function",
+      "sub_dimensions": {
+        "waterproof": {
+          "keyword_count": 50,
+          "total_volume": 352552,
+          "top_keywords": [
+            {
+              "keyword": "waterproof pants",
+              "volume": 46754
+            },
+            {
+              "keyword": "waterproof pants mens",
+              "volume": 37475
+            },
+            {
+              "keyword": "mens snow pants waterproof insulated",
+              "volume": 30128
+            },
+            {
+              "keyword": "ski pants men waterproof",
+              "volume": 21006
+            },
+            {
+              "keyword": "mens waterproof pants",
+              "volume": 19525
+            },
+            {
+              "keyword": "mens ski pants waterproof insulated",
+              "volume": 17227
+            },
+            {
+              "keyword": "snow pants mens waterproof",
+              "volume": 14716
+            },
+            {
+              "keyword": "water proof pants men",
+              "volume": 13401
+            },
+            {
+              "keyword": "waterproof snow pants",
+              "volume": 9589
+            },
+            {
+              "keyword": "mens waterproof snow pants",
+              "volume": 8509
+            }
+          ]
+        },
+        "fleece_lined": {
+          "keyword_count": 31,
+          "total_volume": 333590,
+          "top_keywords": [
+            {
+              "keyword": "fleece lined pants men",
+              "volume": 80823
+            },
+            {
+              "keyword": "fleece lined pants",
+              "volume": 31663
+            },
+            {
+              "keyword": "mens fleece lined pants",
+              "volume": 29856
+            },
+            {
+              "keyword": "fleece pants men",
+              "volume": 27287
+            },
+            {
+              "keyword": "fleece lined work pants for men",
+              "volume": 23288
+            },
+            {
+              "keyword": "fleece pants",
+              "volume": 19429
+            },
+            {
+              "keyword": "flannel lined pants men",
+              "volume": 14362
+            },
+            {
+              "keyword": "coleman fleece lined pants men",
+              "volume": 13687
+            },
+            {
+              "keyword": "mens fleece pants",
+              "volume": 11145
+            },
+            {
+              "keyword": "fleece lined cargo pants men",
+              "volume": 10887
+            }
+          ]
+        },
+        "insulated": {
+          "keyword_count": 46,
+          "total_volume": 307286,
+          "top_keywords": [
+            {
+              "keyword": "insulated pants for men",
+              "volume": 51559
+            },
+            {
+              "keyword": "mens snow pants waterproof insulated",
+              "volume": 30128
+            },
+            {
+              "keyword": "insulated pants",
+              "volume": 20298
+            },
+            {
+              "keyword": "mens insulated pants",
+              "volume": 18126
+            },
+            {
+              "keyword": "mens ski pants waterproof insulated",
+              "volume": 17227
+            },
+            {
+              "keyword": "warm pants for men",
+              "volume": 16517
+            },
+            {
+              "keyword": "insulated work pants",
+              "volume": 15269
+            },
+            {
+              "keyword": "insulated work pants for men",
+              "volume": 14650
+            },
+            {
+              "keyword": "carhartt insulated pants for men",
+              "volume": 11786
+            },
+            {
+              "keyword": "warm pants",
+              "volume": 11209
+            }
+          ]
+        },
+        "thermal": {
+          "keyword_count": 6,
+          "total_volume": 170157,
+          "top_keywords": [
+            {
+              "keyword": "mens thermals",
+              "volume": 58535
+            },
+            {
+              "keyword": "mens thermal pants",
+              "volume": 51412
+            },
+            {
+              "keyword": "thermal pants",
+              "volume": 38362
+            },
+            {
+              "keyword": "mens thermal",
+              "volume": 15455
+            },
+            {
+              "keyword": "thermal pants for men cold weather",
+              "volume": 4336
+            },
+            {
+              "keyword": "thermal lined pants men",
+              "volume": 2057
+            }
+          ]
+        },
+        "reinforced": {
+          "keyword_count": 1,
+          "total_volume": 17969,
+          "top_keywords": [
+            {
+              "keyword": "carhartt double knee pants for men",
+              "volume": 17969
+            }
+          ]
+        },
+        "windproof": {
+          "keyword_count": 2,
+          "total_volume": 5361,
+          "top_keywords": [
+            {
+              "keyword": "windproof pants men",
+              "volume": 3559
+            },
+            {
+              "keyword": "windproof pants",
+              "volume": 1802
+            }
+          ]
+        }
+      },
+      "total_keywords": 136,
+      "total_volume": 1186915
+    },
+    "style": {
+      "display_name": "款式类型",
+      "english_key": "style",
+      "sub_dimensions": {
+        "cargo": {
+          "keyword_count": 11,
+          "total_volume": 300537,
+          "top_keywords": [
+            {
+              "keyword": "cargo pants for men",
+              "volume": 192462
+            },
+            {
+              "keyword": "black cargo pants men",
+              "volume": 39862
+            },
+            {
+              "keyword": "black cargo pants",
+              "volume": 23030
+            },
+            {
+              "keyword": "pantalones cargo para hombres",
+              "volume": 16046
+            },
+            {
+              "keyword": "fleece lined cargo pants men",
+              "volume": 10887
+            },
+            {
+              "keyword": "mens black cargo pants",
+              "volume": 8002
+            },
+            {
+              "keyword": "fleece cargo pants men",
+              "volume": 3015
+            },
+            {
+              "keyword": "winter cargo pants men",
+              "volume": 2092
+            },
+            {
+              "keyword": "mens fleece lined cargo pants",
+              "volume": 1904
+            },
+            {
+              "keyword": "insulated cargo pants",
+              "volume": 1682
+            }
+          ]
+        },
+        "sweatpant_style": {
+          "keyword_count": 1,
+          "total_volume": 3220,
+          "top_keywords": [
+            {
+              "keyword": "insulated sweatpants for men",
+              "volume": 3220
+            }
+          ]
+        }
+      },
+      "total_keywords": 12,
+      "total_volume": 303757
+    },
+    "material": {
+      "display_name": "材质面料",
+      "english_key": "material",
+      "sub_dimensions": {
+        "fleece": {
+          "keyword_count": 29,
+          "total_volume": 317171,
+          "top_keywords": [
+            {
+              "keyword": "fleece lined pants men",
+              "volume": 80823
+            },
+            {
+              "keyword": "fleece lined pants",
+              "volume": 31663
+            },
+            {
+              "keyword": "mens fleece lined pants",
+              "volume": 29856
+            },
+            {
+              "keyword": "fleece pants men",
+              "volume": 27287
+            },
+            {
+              "keyword": "fleece lined work pants for men",
+              "volume": 23288
+            },
+            {
+              "keyword": "fleece pants",
+              "volume": 19429
+            },
+            {
+              "keyword": "coleman fleece lined pants men",
+              "volume": 13687
+            },
+            {
+              "keyword": "mens fleece pants",
+              "volume": 11145
+            },
+            {
+              "keyword": "fleece lined cargo pants men",
+              "volume": 10887
+            },
+            {
+              "keyword": "carhartt fleece lined pants",
+              "volume": 6875
+            }
+          ]
+        },
+        "softshell": {
+          "keyword_count": 2,
+          "total_volume": 4116,
+          "top_keywords": [
+            {
+              "keyword": "gash hao mens snow ski waterproof softshell snowboard pants",
+              "volume": 2108
+            },
+            {
+              "keyword": "softshell pants men",
+              "volume": 2008
+            }
+          ]
+        }
+      },
+      "total_keywords": 31,
+      "total_volume": 321287
+    },
+    "brand": {
+      "display_name": "品牌",
+      "english_key": "brand",
+      "sub_dimensions": {
+        "amazon": {
+          "keyword_count": 6,
+          "total_volume": 124353,
+          "top_keywords": [
+            {
+              "keyword": "snow storm essentials",
+              "volume": 57389
+            },
+            {
+              "keyword": "snow essentials",
+              "volume": 27418
+            },
+            {
+              "keyword": "snow boarding essentials",
+              "volume": 15957
+            },
+            {
+              "keyword": "snow day essentials",
+              "volume": 13722
+            },
+            {
+              "keyword": "ski essentials",
+              "volume": 6793
+            },
+            {
+              "keyword": "amazon essentials snow pants",
+              "volume": 3074
+            }
+          ]
+        },
+        "carhartt": {
+          "keyword_count": 13,
+          "total_volume": 113445,
+          "top_keywords": [
+            {
+              "keyword": "carhartt double knee pants for men",
+              "volume": 17969
+            },
+            {
+              "keyword": "carhartt work pants",
+              "volume": 16191
+            },
+            {
+              "keyword": "carhartt hats",
+              "volume": 15606
+            },
+            {
+              "keyword": "carhartt pants for men work",
+              "volume": 13640
+            },
+            {
+              "keyword": "carhartt insulated pants for men",
+              "volume": 11786
+            },
+            {
+              "keyword": "carhartt lined pants for men",
+              "volume": 8527
+            },
+            {
+              "keyword": "carhartt fleece lined pants",
+              "volume": 6875
+            },
+            {
+              "keyword": "carhartt yukon extremes",
+              "volume": 6818
+            },
+            {
+              "keyword": "carhartt snow pants",
+              "volume": 6815
+            },
+            {
+              "keyword": "carhartt insulated pants",
+              "volume": 2750
+            }
+          ]
+        },
+        "dickies": {
+          "keyword_count": 1,
+          "total_volume": 66835,
+          "top_keywords": [
+            {
+              "keyword": "dickies work pants for men",
+              "volume": 66835
+            }
+          ]
+        },
+        "arctix": {
+          "keyword_count": 4,
+          "total_volume": 55766,
+          "top_keywords": [
+            {
+              "keyword": "arctix snow pants",
+              "volume": 47049
+            },
+            {
+              "keyword": "arctix snow pants men",
+              "volume": 3777
+            },
+            {
+              "keyword": "arctix mens snow pants",
+              "volume": 3135
+            },
+            {
+              "keyword": "arctix ski pants",
+              "volume": 1805
+            }
+          ]
+        },
+        "north_face": {
+          "keyword_count": 4,
+          "total_volume": 22364,
+          "top_keywords": [
+            {
+              "keyword": "north face snow pants",
+              "volume": 11461
+            },
+            {
+              "keyword": "north face ski pants",
+              "volume": 6794
+            },
+            {
+              "keyword": "north face ski pants men",
+              "volume": 2327
+            },
+            {
+              "keyword": "north face snow pants men",
+              "volume": 1782
+            }
+          ]
+        },
+        "columbia": {
+          "keyword_count": 4,
+          "total_volume": 14999,
+          "top_keywords": [
+            {
+              "keyword": "columbia ski pants men",
+              "volume": 4965
+            },
+            {
+              "keyword": "columbia snow pants men",
+              "volume": 4509
+            },
+            {
+              "keyword": "columbia ski pants",
+              "volume": 4002
+            },
+            {
+              "keyword": "columbia mens snow pants",
+              "volume": 1523
+            }
+          ]
+        },
+        "gerry": {
+          "keyword_count": 4,
+          "total_volume": 14393,
+          "top_keywords": [
+            {
+              "keyword": "gerry fleece lined pants mens",
+              "volume": 5283
+            },
+            {
+              "keyword": "gerry pants",
+              "volume": 3871
+            },
+            {
+              "keyword": "gerry snow pants men",
+              "volume": 2944
+            },
+            {
+              "keyword": "gerry snow pants",
+              "volume": 2295
+            }
+          ]
+        },
+        "alpinestars": {
+          "keyword_count": 1,
+          "total_volume": 3979,
+          "top_keywords": [
+            {
+              "keyword": "alpinestars pants",
+              "volume": 3979
+            }
+          ]
+        },
+        "free_soldier": {
+          "keyword_count": 1,
+          "total_volume": 1979,
+          "top_keywords": [
+            {
+              "keyword": "free soldier pants",
+              "volume": 1979
+            }
+          ]
+        },
+        "refrigiwear": {
+          "keyword_count": 1,
+          "total_volume": 1555,
+          "top_keywords": [
+            {
+              "keyword": "refrigiwear pants",
+              "volume": 1555
+            }
+          ]
+        }
+      },
+      "total_keywords": 39,
+      "total_volume": 419668
+    },
+    "color": {
+      "display_name": "颜色",
+      "english_key": "color",
+      "sub_dimensions": {
+        "black": {
+          "keyword_count": 9,
+          "total_volume": 103868,
+          "top_keywords": [
+            {
+              "keyword": "black cargo pants men",
+              "volume": 39862
+            },
+            {
+              "keyword": "black cargo pants",
+              "volume": 23030
+            },
+            {
+              "keyword": "black diamond",
+              "volume": 14533
+            },
+            {
+              "keyword": "mens black cargo pants",
+              "volume": 8002
+            },
+            {
+              "keyword": "black snow pants",
+              "volume": 6933
+            },
+            {
+              "keyword": "black ski pants",
+              "volume": 5857
+            },
+            {
+              "keyword": "black snowboard pants",
+              "volume": 2014
+            },
+            {
+              "keyword": "black snow pants men",
+              "volume": 1821
+            },
+            {
+              "keyword": "black ski pants men",
+              "volume": 1816
+            }
+          ]
+        },
+        "brown": {
+          "keyword_count": 2,
+          "total_volume": 9194,
+          "top_keywords": [
+            {
+              "keyword": "water resistant pants men",
+              "volume": 7471
+            },
+            {
+              "keyword": "water resistant pants",
+              "volume": 1723
+            }
+          ]
+        },
+        "grey": {
+          "keyword_count": 2,
+          "total_volume": 5045,
+          "top_keywords": [
+            {
+              "keyword": "crash pants snowboarding",
+              "volume": 2937
+            },
+            {
+              "keyword": "gash hao mens snow ski waterproof softshell snowboard pants",
+              "volume": 2108
+            }
+          ]
+        }
+      },
+      "total_keywords": 13,
+      "total_volume": 118107
+    },
+    "price": {
+      "display_name": "价格",
+      "english_key": "price",
+      "sub_dimensions": {
+        "sale": {
+          "keyword_count": 3,
+          "total_volume": 21313,
+          "top_keywords": [
+            {
+              "keyword": "mens pants clearance sale",
+              "volume": 14186
+            },
+            {
+              "keyword": "ski clearance outlet",
+              "volume": 3822
+            },
+            {
+              "keyword": "clearance snow pants",
+              "volume": 3305
+            }
+          ]
+        }
+      },
+      "total_keywords": 3,
+      "total_volume": 21313
+    },
+    "spanish": {
+      "display_name": "西班牙语",
+      "english_key": "spanish",
+      "sub_dimensions": {
+        "spanish": {
+          "keyword_count": 10,
+          "total_volume": 152902,
+          "top_keywords": [
+            {
+              "keyword": "pantalones termicos frio hombre",
+              "volume": 48828
+            },
+            {
+              "keyword": "ropa termica hombre frio",
+              "volume": 44581
+            },
+            {
+              "keyword": "overol para hombre para el frio",
+              "volume": 23417
+            },
+            {
+              "keyword": "pantalones cargo para hombres",
+              "volume": 16046
+            },
+            {
+              "keyword": "pantalones impermeables para hombre",
+              "volume": 5167
+            },
+            {
+              "keyword": "pantalones para la nieve de hombre",
+              "volume": 4160
+            },
+            {
+              "keyword": "pantalones de invierno para hombres",
+              "volume": 3663
+            },
+            {
+              "keyword": "pantalones de nieve para hombre",
+              "volume": 2793
+            },
+            {
+              "keyword": "pantalones de trabajo para hombre para el frio",
+              "volume": 2175
+            },
+            {
+              "keyword": "pantalon termico para frio extremo",
+              "volume": 2072
+            }
+          ]
+        }
+      },
+      "total_keywords": 10,
+      "total_volume": 152902
+    },
+    "competitor_peripheral": {
+      "display_name": "竞争词_周边品类",
+      "english_key": "competitor_peripheral",
+      "sub_dimensions": {
+        "yaktrax": {
+          "keyword_count": 1,
+          "total_volume": 154923,
+          "top_keywords": [
+            {
+              "keyword": "yaktrax",
+              "volume": 154923
+            }
+          ]
+        },
+        "base_layer": {
+          "keyword_count": 2,
+          "total_volume": 27941,
+          "top_keywords": [
+            {
+              "keyword": "mesh base layer",
+              "volume": 15079
+            },
+            {
+              "keyword": "base layer men cold weather",
+              "volume": 12862
+            }
+          ]
+        },
+        "jacket": {
+          "keyword_count": 1,
+          "total_volume": 17079,
+          "top_keywords": [
+            {
+              "keyword": "mens parka",
+              "volume": 17079
+            }
+          ]
+        },
+        "beanie": {
+          "keyword_count": 1,
+          "total_volume": 15606,
+          "top_keywords": [
+            {
+              "keyword": "carhartt hats",
+              "volume": 15606
+            }
+          ]
+        }
+      },
+      "total_keywords": 5,
+      "total_volume": 215549
+    }
+  },
+  "top_keywords_by_volume": [
+    {
+      "keyword": "snow pants",
+      "volume": 308016,
+      "ppc": "$0.77"
+    },
+    {
+      "keyword": "snow pants men",
+      "volume": 296443,
+      "ppc": "$1.38"
+    },
+    {
+      "keyword": "mens snow pants",
+      "volume": 234406,
+      "ppc": "$1.50"
+    },
+    {
+      "keyword": "cargo pants for men",
+      "volume": 192462,
+      "ppc": "$1.17"
+    },
+    {
+      "keyword": "yaktrax",
+      "volume": 154923,
+      "ppc": "$8.25"
+    },
+    {
+      "keyword": "snowboard",
+      "volume": 150934,
+      "ppc": "$0.55"
+    },
+    {
+      "keyword": "ski pants men",
+      "volume": 145900,
+      "ppc": "$1.36"
+    },
+    {
+      "keyword": "work pants for men",
+      "volume": 137639,
+      "ppc": "$1.19"
+    },
+    {
+      "keyword": "ski pants",
+      "volume": 122121,
+      "ppc": "$0.59"
+    },
+    {
+      "keyword": "mens ski pants",
+      "volume": 92913,
+      "ppc": "$1.33"
+    },
+    {
+      "keyword": "fleece lined pants men",
+      "volume": 80823,
+      "ppc": "$1.30"
+    },
+    {
+      "keyword": "snowboard pants",
+      "volume": 76454,
+      "ppc": "$0.64"
+    },
+    {
+      "keyword": "dickies work pants for men",
+      "volume": 66835,
+      "ppc": "$0.86"
+    },
+    {
+      "keyword": "hiking pants men",
+      "volume": 62646,
+      "ppc": "$2.06"
+    },
+    {
+      "keyword": "winter pants for men",
+      "volume": 59399,
+      "ppc": "$1.05"
+    },
+    {
+      "keyword": "mens thermals",
+      "volume": 58535,
+      "ppc": "$1.23"
+    },
+    {
+      "keyword": "snow storm essentials",
+      "volume": 57389,
+      "ppc": "$1.04"
+    },
+    {
+      "keyword": "snowboarding pants",
+      "volume": 53057,
+      "ppc": "$1.11"
+    },
+    {
+      "keyword": "snowboard pants men",
+      "volume": 52282,
+      "ppc": "$0.98"
+    },
+    {
+      "keyword": "hiking pants",
+      "volume": 51670,
+      "ppc": "$0.89"
+    },
+    {
+      "keyword": "insulated pants for men",
+      "volume": 51559,
+      "ppc": "$1.10"
+    },
+    {
+      "keyword": "mens thermal pants",
+      "volume": 51412,
+      "ppc": "$1.04"
+    },
+    {
+      "keyword": "men snow pants",
+      "volume": 51099,
+      "ppc": "$1.52"
+    },
+    {
+      "keyword": "pantalones termicos frio hombre",
+      "volume": 48828,
+      "ppc": null
+    },
+    {
+      "keyword": "snowboard bindings",
+      "volume": 47464,
+      "ppc": "$0.69"
+    },
+    {
+      "keyword": "arctix snow pants",
+      "volume": 47049,
+      "ppc": "$0.35"
+    },
+    {
+      "keyword": "waterproof pants",
+      "volume": 46754,
+      "ppc": "$1.47"
+    },
+    {
+      "keyword": "adult snow pants",
+      "volume": 45858,
+      "ppc": "$0.76"
+    },
+    {
+      "keyword": "ropa termica hombre frio",
+      "volume": 44581,
+      "ppc": "$0.98"
+    },
+    {
+      "keyword": "men pants",
+      "volume": 44001,
+      "ppc": "$0.71"
+    },
+    {
+      "keyword": "black cargo pants men",
+      "volume": 39862,
+      "ppc": "$0.75"
+    },
+    {
+      "keyword": "thermal pants",
+      "volume": 38362,
+      "ppc": "$1.87"
+    },
+    {
+      "keyword": "snow board",
+      "volume": 38083,
+      "ppc": "$0.84"
+    },
+    {
+      "keyword": "men's snow pants",
+      "volume": 37901,
+      "ppc": "$1.49"
+    },
+    {
+      "keyword": "waterproof pants mens",
+      "volume": 37475,
+      "ppc": "$1.60"
+    },
+    {
+      "keyword": "mens snowboard pants",
+      "volume": 35077,
+      "ppc": "$0.88"
+    },
+    {
+      "keyword": "mens hiking pants",
+      "volume": 33459,
+      "ppc": "$2.10"
+    },
+    {
+      "keyword": "gsou snow pants",
+      "volume": 33440,
+      "ppc": "$0.91"
+    },
+    {
+      "keyword": "mens ear muffs",
+      "volume": 33175,
+      "ppc": "$0.64"
+    },
+    {
+      "keyword": "snow pants for men",
+      "volume": 31939,
+      "ppc": "$1.39"
+    },
+    {
+      "keyword": "fleece lined pants",
+      "volume": 31663,
+      "ppc": "$0.48"
+    },
+    {
+      "keyword": "mens snow pants waterproof insulated",
+      "volume": 30128,
+      "ppc": null
+    },
+    {
+      "keyword": "mens fleece lined pants",
+      "volume": 29856,
+      "ppc": "$1.25"
+    },
+    {
+      "keyword": "winter pants",
+      "volume": 29667,
+      "ppc": "$3.92"
+    },
+    {
+      "keyword": "running pants men",
+      "volume": 29150,
+      "ppc": "$1.63"
+    },
+    {
+      "keyword": "carpenter pants for men",
+      "volume": 28584,
+      "ppc": "$0.71"
+    },
+    {
+      "keyword": "snow essentials",
+      "volume": 27418,
+      "ppc": "$0.35"
+    },
+    {
+      "keyword": "fleece pants men",
+      "volume": 27287,
+      "ppc": "$1.98"
+    },
+    {
+      "keyword": "snowboards",
+      "volume": 26152,
+      "ppc": "$0.55"
+    },
+    {
+      "keyword": "snowboarding pants men",
+      "volume": 25003,
+      "ppc": "$0.81"
+    }
+  ],
+  "bsr_high_freq_words": [
+    {
+      "word": "pants",
+      "count": 290,
+      "volume": 4226912
+    },
+    {
+      "word": "men",
+      "count": 143,
+      "volume": 2162673
+    },
+    {
+      "word": "snow",
+      "count": 83,
+      "volume": 1540966
+    },
+    {
+      "word": "mens",
+      "count": 72,
+      "volume": 1026280
+    },
+    {
+      "word": "for",
+      "count": 46,
+      "volume": 850231
+    },
+    {
+      "word": "ski",
+      "count": 46,
+      "volume": 570587
+    },
+    {
+      "word": "waterproof",
+      "count": 46,
+      "volume": 323385
+    },
+    {
+      "word": "insulated",
+      "count": 42,
+      "volume": 271214
+    },
+    {
+      "word": "lined",
+      "count": 34,
+      "volume": 310793
+    },
+    {
+      "word": "fleece",
+      "count": 29,
+      "volume": 317171
+    },
+    {
+      "word": "work",
+      "count": 21,
+      "volume": 343166
+    },
+    {
+      "word": "winter",
+      "count": 19,
+      "volume": 155786
+    },
+    {
+      "word": "hiking",
+      "count": 13,
+      "volume": 182849
+    },
+    {
+      "word": "carhartt",
+      "count": 13,
+      "volume": 113445
+    },
+    {
+      "word": "snowboard",
+      "count": 12,
+      "volume": 386383
+    },
+    {
+      "word": "cargo",
+      "count": 11,
+      "volume": 300537
+    },
+    {
+      "word": "para",
+      "count": 10,
+      "volume": 85085
+    },
+    {
+      "word": "black",
+      "count": 9,
+      "volume": 103868
+    },
+    {
+      "word": "cold",
+      "count": 9,
+      "volume": 58802
+    },
+    {
+      "word": "weather",
+      "count": 9,
+      "volume": 58802
+    },
+    {
+      "word": "pantalones",
+      "count": 7,
+      "volume": 82832
+    },
+    {
+      "word": "hombre",
+      "count": 7,
+      "volume": 131121
+    },
+    {
+      "word": "essentials",
+      "count": 6,
+      "volume": 124353
+    },
+    {
+      "word": "snowboarding",
+      "count": 6,
+      "volume": 92649
+    },
+    {
+      "word": "thermal",
+      "count": 5,
+      "volume": 111622
+    },
+    {
+      "word": "frio",
+      "count": 5,
+      "volume": 121073
+    },
+    {
+      "word": "adult",
+      "count": 5,
+      "volume": 55067
+    },
+    {
+      "word": "snowpants",
+      "count": 5,
+      "volume": 44771
+    },
+    {
+      "word": "fishing",
+      "count": 5,
+      "volume": 33683
+    },
+    {
+      "word": "arctix",
+      "count": 4,
+      "volume": 55766
+    },
+    {
+      "word": "warm",
+      "count": 4,
+      "volume": 36072
+    },
+    {
+      "word": "water",
+      "count": 4,
+      "volume": 29167
+    },
+    {
+      "word": "ice",
+      "count": 4,
+      "volume": 21665
+    },
+    {
+      "word": "north",
+      "count": 4,
+      "volume": 22364
+    },
+    {
+      "word": "face",
+      "count": 4,
+      "volume": 22364
+    },
+    {
+      "word": "pant",
+      "count": 4,
+      "volume": 13014
+    },
+    {
+      "word": "skiing",
+      "count": 4,
+      "volume": 16166
+    },
+    {
+      "word": "gerry",
+      "count": 4,
+      "volume": 14393
+    },
+    {
+      "word": "columbia",
+      "count": 4,
+      "volume": 14999
+    },
+    {
+      "word": "outdoor",
+      "count": 4,
+      "volume": 11807
+    },
+    {
+      "word": "de",
+      "count": 4,
+      "volume": 12791
+    },
+    {
+      "word": "board",
+      "count": 3,
+      "volume": 45611
+    },
+    {
+      "word": "tall",
+      "count": 3,
+      "volume": 23474
+    },
+    {
+      "word": "boarding",
+      "count": 3,
+      "volume": 22748
+    },
+    {
+      "word": "clearance",
+      "count": 3,
+      "volume": 21313
+    },
+    {
+      "word": "hunting",
+      "count": 3,
+      "volume": 16061
+    },
+    {
+      "word": "wind",
+      "count": 3,
+      "volume": 15759
+    },
+    {
+      "word": "snowmobile",
+      "count": 3,
+      "volume": 9070
+    },
+    {
+      "word": "spyder",
+      "count": 3,
+      "volume": 7511
+    },
+    {
+      "word": "northface",
+      "count": 3,
+      "volume": 5809
+    }
+  ]
+}
