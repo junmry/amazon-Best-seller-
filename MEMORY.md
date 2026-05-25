@@ -81,16 +81,47 @@
 - [x] 2026-05-13 累计：今日群聊额度10/10全部用完，产出10条{资料}消息全部归档素材库。iqoo 5/5收工。
 - [ ] 关注家具社媒趋势对亚马逊运营的启示
 - [ ] 关注用户熬夜情况，适时提醒休息
-- 用户2026-05-19问2027-2028年财运及月入3万可能性：2027丁未年财官相生最有希望，2028戊申比劫争财偏印夺食需守成
+- [x] 2026-05-19问2027-2028年财运及月入3万可能性：2027丁未年财官相生最有希望，2028戊申比劫争财偏印夺食需守成
 - **用户主业确认：亚马逊运营（2026-05-19）**，个人卖家/精铺模式
+
+## 新增需求：双链出货侦探自动扫描（BSC + Hyperliquid）（2026-05-25）
+
+**用户要求**：每天自动扫描 BSC + Hyperliquid 链代币，执行创始人钱包出货追踪
+**合并脚本**：`skills/dump-detective/scripts/daily_scan.py`
+**输出报告**：`memory/crypto-scans/daily-YYYY-MM-DD.md`（合并摘要）+ `bsc-YYYY-MM-DD.md` + `hype-YYYY-MM-DD.md`
+**定时**：每天 11:47
+
+**BSC 链**：
+- 脚本：`daily_bsc_scan.py`
+- 数据源：BSCScan 页面爬取 + BNB Chain RPC (`bsc-dataseed.bnbchain.org`)
+- 无需 API Key
+- 候选池：`memory/crypto-scans/candidate_tokens.json`
+
+**Hyperliquid 链**：
+- 脚本：`hl_step5.py`
+- 数据源：Hyperliquid 官方 API (`api.hyperliquid.xyz`)
+- 自动发现 147 个非官方 spot 代币，随机轮询
+- 提供 deployer + genesis 分配 + 当前余额的完整追踪
+
+**今日发现（2026-05-25）**：
+- BSC SafeMoon V2 — deployer 钱包清零 🔴
+- Hyperliquid UETH/USOL — 同一 deployer (0xf036a5...) 批量出货，全部创世分配清零 🔴
+- Hyperliquid QONE — deployer 出货 99.9% 🔴
+- Hyperliquid UBTC — deployer 出货 100% 🔴
+
+**观察到的模式**：
+- 地址 `0xf036a5261406a394bd63eb4df49c464634a66155` 在 Hyperliquid 上批量部署了 UBTC/UETH/USOL 三个"U 前缀"代币，全部 100% 出货
+- 疑似同一实体的批量操作，可作为后续追踪的关联地址
 
 ## 当前 cron 任务
 
 1. **明日运势提醒** — 每天 17:30，发QQ，内容包含：**命局诊断 + 穿搭建议 + 破局之法**（具体行动建议）
    - **新增审查步骤**：每日检查是否为农历换月、换年、或重大关键时间点（节气交替、大运交接等），如触发则额外提醒月/年走势变化
+   - **2026-05-25 更新**：用户要求运势合并发送，以后每日运势合二为一，不再拆分发送
 2. 美国家具社媒趋势日报 — 每天 9:47
 3. 美国总统每日口播稿 — 每天 7:47
 4. **Dreaming（工作区反思整理）** — 每天 22:17，合并重复记忆、发现跨 session 模式、生成洞察报告，删除建议通知用户但不自动执行
+5. **双链出货侦探（BSC + Hyperliquid）** — 每天 11:47，合并扫描 BSC + Hyperliquid，输出合并日报 `daily-YYYY-MM-DD.md`。BSC 走 BSCScan 页面爬取 + BNB Chain RPC，Hyperliquid 走官方 API。
 
 ## Kimi Group Chat 管理
 
