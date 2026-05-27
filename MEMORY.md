@@ -107,7 +107,39 @@
 
 **2026-05-26 扫描**：BSC 7天内无新候选；Hyperliquid 扫描3个代币（BEATS/AZTEC/HEAD），HEAD deployer 有持仓 204.98K（1.71%）
 
-## 当前 cron 任务（2026-05-26 整理后）
+---
+
+## 🔥 重大转向：Hyperliquid 大户多空异动监控（2026-05-27）
+
+**用户指令**："bsc链条放弃，主要抓取hype里面的主流币种的大额度做空做多的变动"
+
+**变更内容**：
+1. **BSC 链正式下线** — 不再扫描，脚本保留但不再调用
+2. **Hyperliquid 方向切换** — 从"出货侦探"（追踪 deployer 钱包出货）改为"大户多空异动监控"
+3. **新脚本**：`skills/dump-detective/scripts/hl_perp_monitor.py`
+4. **监控币种**：51 个主流 perp（覆盖大市值核心 + Meme/热门）
+5. **核心指标**：
+   - 资金费率极端值（>0.03% 或 <-0.03%）
+   - 资金费率 Z-score 跳变（vs 7日平均偏离 >2.5σ）
+   - 成交量异常放大（vs 7日均量 >2x）
+   - 价格24h剧烈波动（>8% 或 <-8%）
+   - 价格-资金费率背离（趋势与付费方向相反）
+6. **评分体系**：1-3分/信号，🔴≥6分强烈异动，🟠3-5分值得关注，🟡1-2分温和
+7. **报告输出**：`memory/crypto-scans/hype-YYYY-MM-DD.md`（同时也是 daily 合并文件）
+8. **定时**：保持每天 11:47 不变
+
+**监控币种列表（51个）**：
+BTC, ETH, SOL, XRP, DOGE, HYPE, SUI, LINK, AVAX, APT, TIA, NEAR, DOT, ENA, JUP, INJ, STX, OP, FTM, LTC, BCH, ARB, SEI, PYTH, DYM, WIF, kBONK, kPEPE, kSHIB, POPCAT, BRETT, FARTCOIN, GOAT, SPX, TRUMP, TON, PUMP, VIRTUAL, AIXBT, AI16Z, MOODENG, PNUT, MEW, RENDER, RNDR, FIL, ICP, UNI, AAVE, GALA, HBAR
+
+**2026-05-27 首次运行发现**：
+- **SEI** 🔴 评分7：资金费率暴跌（Z-score -2.62）+ 成交量放大2.2x + 24h大涨10.2%
+- **AVAX** 🟠 评分3：资金费率跳水（Z-score -2.11）
+- **TRUMP** 🟠 评分3：资金费率跳水（Z-score -2.15）
+- **PNUT** 🟠 评分3：资金费率跳水 + 成交量放大1.8x
+- **AAVE** 🟠 评分3：资金费率跳水（Z-score -2.08）
+- ETH/XRP/HYPE/NEAR/INJ/TON/VIRTUAL/RENDER 也有温和信号
+
+## 当前 cron 任务（2026-05-27 整理后）
 
 1. **明日运势提醒** — 每天 17:30，发QQ，内容包含：**命局诊断 + 穿搭建议 + 破局之法**（具体行动建议）
    - **新增审查步骤**：每日检查是否为农历换月、换年、或重大关键时间点（节气交替、大运交接等），如触发则额外提醒月/年走势变化
