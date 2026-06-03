@@ -144,7 +144,9 @@ BTC, ETH, SOL, XRP, DOGE, HYPE, SUI, LINK, AVAX, APT, TIA, NEAR, DOT, ENA, JUP, 
 - 5/30 凌晨 HYPE 突破分析：利弗莫尔关键点 $59.39，链上持仓量 $15亿，资金费率转负 -0.0021%，$67 空头反击。判断突破有效但需盯紧 $59.39 止损线。
 - 5/30 大户监控恢复 51 币种全覆盖，CORE_COINS 已修复
 - 5/31 ARB 🟠3分 / DOGE🟡2分 / APT🟡2分，市场从 5/27 激烈异动后进入平静期
-- 6/1 HYPE 🔴6分：资金费率 Z-score 7.17（7日偏离暴涨），+6.6% 24h涨幅，多头拥挤明显
+**6/2 大户监控**：TON 🟠4分（成交量放大 2.8x + 24h +8.35%），NEAR 24h暴涨 +15.67%，FARTCOIN 🟠3分（成交量放大 2.0x）
+- **6/3 大户监控：市场极端暴跌日** — 51个币种中37个异动（73%）。MOODENG 🔴8分（资金费率 Z-score -4.85），kBONK 🔴7分（Z-score -3.05），SOL 🔴6分（Z-score -2.42），BCH 🟠5分（24h暴跌 -15.37%），ARB 🟠5分，BRETT 🟠5分（Z-score -12.90）。BTC -7.15%、ETH -8.66%、SOL -9.77%，主流币种全面大跌。本月最极端信号日。
+- 6/2 飞书通道连接成功：Lark 国际版，App ID cli_aa94cbbe2478de17，allowFrom: ["*"] 跳过配对，sender_id: ou_6e41bc60c598be275a6b4d176983da2b
 
 ## 当前 cron 任务（2026-05-31 整理后）
 
