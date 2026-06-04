@@ -142,11 +142,14 @@ BTC, ETH, SOL, XRP, DOGE, HYPE, SUI, LINK, AVAX, APT, TIA, NEAR, DOT, ENA, JUP, 
 - ETH/XRP/HYPE/NEAR/INJ/TON/VIRTUAL/RENDER 也有温和信号
 
 - 5/30 凌晨 HYPE 突破分析：利弗莫尔关键点 $59.39，链上持仓量 $15亿，资金费率转负 -0.0021%，$67 空头反击。判断突破有效但需盯紧 $59.39 止损线。
-- 5/30 大户监控恢复 51 币种全覆盖，CORE_COINS 已修复
-- 5/31 ARB 🟠3分 / DOGE🟡2分 / APT🟡2分，市场从 5/27 激烈异动后进入平静期
-**6/2 大户监控**：TON 🟠4分（成交量放大 2.8x + 24h +8.35%），NEAR 24h暴涨 +15.67%，FARTCOIN 🟠3分（成交量放大 2.0x）
-- **6/3 大户监控：市场极端暴跌日** — 51个币种中37个异动（73%）。MOODENG 🔴8分（资金费率 Z-score -4.85），kBONK 🔴7分（Z-score -3.05），SOL 🔴6分（Z-score -2.42），BCH 🟠5分（24h暴跌 -15.37%），ARB 🟠5分，BRETT 🟠5分（Z-score -12.90）。BTC -7.15%、ETH -8.66%、SOL -9.77%，主流币种全面大跌。本月最极端信号日。
-- 6/2 飞书通道连接成功：Lark 国际版，App ID cli_aa94cbbe2478de17，allowFrom: ["*"] 跳过配对，sender_id: ou_6e41bc60c598be275a6b4d176983da2b
+- 5/30 大户监控恢复 51 币种全覆盖，CORE_COINS 已修复。INJ 🟠4分 / MOODENG 🟠3分 / ENA 🟠3分
+- 5/31 大户监控：ARB 🟠3分 / DOGE🟡2分 / APT🟡2分，市场从 5/27 激烈异动后进入平静期
+- **6/1 大户监控**：HYPE 🔴6分（资金费率 Z-score 7.17，7日偏离暴涨），+6.6% 24h涨幅，多头拥挤。HYPE 每日技术分析首次运行（24重点+27辅助币种）。HYPE 突破监控 ($74.10) 已取消，用户手动 $73 走一半利润。
+- **6/2 大户监控**：TON 🟠4分（成交量放大 2.8x + 24h +8.35%），NEAR 24h暴涨 +15.67%，FARTCOIN 🟠3分。飞书通道连接成功：Lark 国际版，App ID cli_aa94cbbe2478de17，allowFrom ["*"] 跳过配对。
+- **6/3 大户监控：市场极端暴跌日** — 51个币种中37个异动（73%）。MOODENG 🔴8分（Z-score -4.85），kBONK 🔴7分（Z-score -3.05），SOL 🔴6分（Z-score -2.42），BCH 🟠5分（24h -15.37%），ARB 🟠5分，BRETT 🟠5分（Z-score -12.90）。BTC -7.15%、ETH -8.66%、SOL -9.77%。
+- **6/4 大户监控**：ENA 🔴6分（+20.9% 24h，成交量 3.3x），SEI 🟠5分（Z-score -2.98），ICP 🟠5分（Z-score -2.89），kSHIB Z-score -7.00（本月最极端偏离）。市场延续下跌，23个币种异动。
+- **6/4 HYPE 技术分析**：市场极端下跌情绪，12个下降趋势，HYPE 唯一确认上升（RSI 69.9 接近超买），BTC/ETH/BCH 极度超卖（RSI 17-18）。hype-tech 连续 4 天稳定运行，6/4 新增 summary 格式（2KB）。
+- **6/4 家具日报**：新增 Resonate 消费者旅程数据（50%从社媒开始灵感）、"已死趋势"清单（廉价镀铬/过度glam/宝石天鹅绒/纽扣簇绒）、Fat Furniture 概念。
 
 ## 当前 cron 任务（2026-05-31 整理后）
 
