@@ -152,6 +152,10 @@ BTC, ETH, SOL, XRP, DOGE, HYPE, SUI, LINK, AVAX, APT, TIA, NEAR, DOT, ENA, JUP, 
 - **6/4 家具日报**：新增 Resonate 消费者旅程数据（50%从社媒开始灵感）、“已死趋势”清单（廉价镀铬/过度glam/宝石天鹅绒/纽扣簇绒）、Fat Furniture 概念。
 - **6/5 大户监控**：市场延续下跌，WIF 🔴6分（资金费率 Z-score -5.33），PUMP 🟠5分（Z-score -3.52），BTC/SOL/SUI 🟠4分。51币种中 26 个异动（51%），BTC 7日 -14.7%、ETH 7日 -13.4%、SOL 7日 -18.3%。
 - **6/5 HYPE 技术分析**：14个下降趋势，0个上升，大量主流币 RSI < 30 历史级超卖（BTC 17.9 / ETH 18.0 / BCH 13.3 / XRP 22.3 / AVAX 23.8 / APT 24.4 / LTC 20.6 / DOGE 23.9 / LINK 25.1）。HYPE 趋势不明（RSI 57.9，24h -9.93%）。hype-tech-summary 临时测试结论：6/4 出现，6/5 未出现，非永久性变更。
+- **6/7 大户监控：市场首次缓和** — 51 币种中仅 6 个异动（12%，vs 6/3 的 73% 和 6/6 的 76%），POPCAT 🟠3分（Z-score -2.03），AVAX/TIA/JUP/WIF 🟡2分，SEI 空头付费偏高 -0.0101%。BTC +1.08%、ETH +1.09% — 主流币首次小幅反弹。大户异动层面恐慌情绪显著缓解，但市场仍处于深度下跌后的修复期
+- **6/7 HYPE 技术分析**：16 个下降趋势，0 个上升，大量主流币 RSI < 20 历史级极度超卖（BTC 17.8 / ETH 15.4 / BCH 15.2 / SOL 19.2 / LTC 16.5），HYPE 趋势不明（RSI 49.4，24h -3.23%）
+- **6/7 家具日报**：冷极简退场/温暖极简接棒、弧形家具基础设施化、白色 Bouclé 翻车、Color Drenching 走红
+- **绿电ETF监控新增(2026-06-07)**：每天 12:03，AKShare 获取 5 只绿电 ETF + 15 只核心个股实时行情，通过 kimi-claw 发送报告。脚本:`scripts/green_power_monitor.py`, 报告:`memory/green-power/YYYY-MM-DD.md`
 - **6/6 大户监控：市场延续暴跌，第二极端信号日** — 51 币种中 39 个异动（76%），ETH 🔴6分（Z-score -1.99，24h -9.8%），SUI 🔴6分（Z-score -3.67），PNUT 🟠5分（Z-score -7.02，本月最极端资金费率偏离），SPX 🟠5分（Z-score -5.42），LINK 🟠4分（Z-score -3.92），INJ 🟠3分（Z-score -3.04），AVAX/BCH/AAVE 🟠4分。BTC 7日 -14.7%、ETH 7日 -22.5%、SOL 7日 -23.6%。
 - **6/6 HYPE 技术分析**：15 个下降趋势，0 个上升，大量主流币 RSI < 20 历史级极度超卖（BTC 15.5 / ETH 14.4 / BCH 9.3 / SOL 18.0），HYPE 趋势不明（RSI 44.8，24h -7.18%）。
 - **6/6 家具日报**：Y2K 复古回流、小空间多功能升温、零间隙可倾斜沙发、中价位 $300-$800 高转化。
@@ -171,6 +175,7 @@ BTC, ETH, SOL, XRP, DOGE, HYPE, SUI, LINK, AVAX, APT, TIA, NEAR, DOT, ENA, JUP, 
    - **2026-05-31**:ARB 🟠3分 / DOGE🟡2分 / APT🟡2分;市场总体平静,资金费率普跌
 5. **HYPE每日技术分析** - 每天 10:40,结合技术分析skill(趋势/支撑阻力/MACD/RSI/布林带/ATR)+ 大户异动数据,生成51个perp深度技术报告并推送。首次运行2026-06-01,24重点+27辅助币种全覆盖。报告路径:`memory/crypto-scans/hype-tech-YYYY-MM-DD.md`。Dreaming 已纳入扫描范围。
 6. **~~HYPE突破监控 ($74.10)~~** - ~~每15分钟自动检测,触发条件:价格突破$74.10阻力位 + 成交量放大≥1.5x。~~ **已取消(2026-06-01 14:32)**,用户已手动在$73走一半利润,不需要高频监控。
+7. **绿电ETF监控** - 每天 12:03,AKShare 获取绿电ETF(5只)+ 核心个股(15只)实时行情,通过 kimi-claw 发送报告。脚本:`scripts/green_power_monitor.py`, 报告:`memory/green-power/YYYY-MM-DD.md` **(2026-06-07 新增)**
 
 
 ## 用户独立需求:商业知识系统学习(2026-05-24)
