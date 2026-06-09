@@ -1,0 +1,396 @@
+{
+  "dimensions": {
+    "产品类型": {
+      "subdimensions": {
+        "tool_box": ["tool box", "toolbox", "tool boxes", "toolboxes", "took box", "toll box", "tool bix"],
+        "tool_chest": ["tool chest", "tool chests", "chest tool box", "tool cheat"],
+        "tool_cabinet": ["tool cabinet", "tool cabinets", "cabinet tool box"],
+        "storage_cabinet": ["storage cabinet", "storage cabinets", "cabinet storage", "cabnet", "cabnets", "cabniet"],
+        "metal_cabinet": ["metal cabinet", "metal cabinets", "steel cabinet", "steel cabinets"],
+        "outdoor_cabinet": ["outdoor cabinet", "outdoor cabinets", "outdoor storage cabinet", "outdoor storage cabinets"],
+        "garage_cabinet": ["garage cabinet", "garage cabinets", "garage storage cabinet"],
+        "locker": ["locker", "lockers", "lovker"],
+        "tool_cart": ["tool cart", "tool carts", "rolling cart"],
+        "tool_bag": ["tool bag", "tool bags", "tool backpack"],
+        "tool_organizer": ["tool organizer", "tool organizers"],
+        "workbench": ["workbench", "work bench"],
+        "tool_shed": ["tool shed", "tool sheds"]
+      }
+    },
+    "材质": {
+      "subdimensions": {
+        "metal": ["metal", "metallic", "sheet metal"],
+        "steel": ["steel", "stainless steel"],
+        "plastic": ["plastic", "polypropylene"],
+        "wooden": ["wooden", "wood", "hardwood", "plywood"],
+        "aluminum": ["aluminum", "aluminium"],
+        "fiberglass": ["fiberglass"]
+      }
+    },
+    "品牌": {
+      "subdimensions": {
+        "milwaukee": ["milwaukee", "packout", "milwauke", "milwuakee", "milwake", "milwalkee", "mileaukee"],
+        "dewalt": ["dewalt", "de walt"],
+        "husky": ["husky"],
+        "craftsman": ["craftsman", "craftman"],
+        "kobalt": ["kobalt"],
+        "bosch": ["bosch"],
+        "ridgid": ["ridgid", "rigid"],
+        "stanley": ["stanley"],
+        "snap_on": ["snap on", "snap-on"],
+        "mastercraft": ["mastercraft"],
+        "trinity": ["trinity"],
+        "gladiator": ["gladiator"]
+      }
+    },
+    "功能特性": {
+      "subdimensions": {
+        "rolling": ["rolling", "on wheels", "with wheels", "wheel"],
+        "portable": ["portable", "portability"],
+        "waterproof": ["waterproof", "water proof", "weatherproof", "weather proof", "water resistant"],
+        "lockable": ["lockable", "locking", "lock", "locks"],
+        "with_drawers": ["with drawers", "drawer", "drawers"],
+        "stackable": ["stackable", "stack"],
+        "wall_mounted": ["wall mounted", "wall mount", "mounted", "mounting", "hanging"],
+        "heavy_duty": ["heavy duty", "heavy-duty"],
+        "fireproof": ["fireproof", "fire proof"],
+        "lighted": ["lighted", "light", "led", "illuminated"],
+        "with_handle": ["with handle", "handle"]
+      }
+    },
+    "尺寸": {
+      "subdimensions": {
+        "small": ["small", "mini", "compact"],
+        "large": ["large", "big", "extra large", "xl"],
+        "size_specific": ["26 inch", "26\"", "20 inch", "20\"", "36 inch", "36\"", "40 inch", "40\"", "16 inch", "16\"", "30 inch", "30\""]
+      }
+    },
+    "场景用途": {
+      "subdimensions": {
+        "garage": ["garage", "garages", "garag"],
+        "outdoor": ["outdoor", "outside", "exterior"],
+        "truck": ["truck", "trucks", "pickup", "vehicle"],
+        "workshop": ["workshop", "work shop", "mechanic"],
+        "jobsite": ["job site", "jobsite", "construction"],
+        "home": ["home", "house", "residential"],
+        "kitchen": ["kitchen"],
+        "bathroom": ["bathroom", "bath"],
+        "office": ["office"],
+        "pantry": ["pantry", "pantey", "oantry"],
+        "closet": ["closet", "closets"]
+      }
+    },
+    "颜色": {
+      "subdimensions": {
+        "black": ["black"],
+        "red": ["red"],
+        "blue": ["blue"],
+        "yellow": ["yellow"],
+        "orange": ["orange"],
+        "green": ["green"],
+        "silver": ["silver", "grey", "gray"],
+        "white": ["white"]
+      }
+    },
+    "周边配件": {
+      "subdimensions": {
+        "shelf": ["shelf", "shelves"],
+        "drawer": ["drawer", "drawers"],
+        "organizer": ["organizer", "organizers", "organization", "organizing"],
+        "divider": ["divider", "dividers"],
+        "tray": ["tray", "trays"],
+        "foam": ["foam", "kaizen foam"],
+        "pegboard": ["pegboard", "peg board"],
+        "safety": ["safety", "safety glasses", "gloves"]
+      }
+    },
+    "价格定位": {
+      "subdimensions": {
+        "cheap": ["cheap", "budget", "affordable", "inexpensive"],
+        "expensive": ["expensive", "premium", "high end"],
+        "used": ["used", "refurbished", "second hand"]
+      }
+    },
+    "收纳容器": {
+      "subdimensions": {
+        "storage_bin": ["storage bin", "storage bins", "bin", "bins"],
+        "shed": ["shed", "sheds", "resin shed", "rubbermaid shed"],
+        "pool_storage": ["pool storage", "pool towel storage"],
+        "towel_storage": ["towel storage"],
+        "ammo_storage": ["ammo storage"],
+        "craft_storage": ["craft cabinet", "craft storage"],
+        "linen_storage": ["linen cabinet", "linen storage"],
+        "pantries": ["pantry", "pantries"],
+        "dorm_storage": ["dorm storage"]
+      }
+    },
+    "通用家具": {
+      "subdimensions": {
+        "accent_cabinet": ["accent cabinet", "accent cabinets"],
+        "hutch": ["hutch", "hutch cabinet"],
+        "cupboard": ["cupboard", "cupboards"],
+        "armoire": ["armoire", "armoires", "amoire"],
+        "chest": ["chest", "chests"],
+        "wardrobe": ["wardrobe", "wardrobe cabinet", "wardrobes", "wordrobe", "wadrobe", "wardobe"]
+      }
+    },
+    "工作品牌": {
+      "subdimensions": {
+        "workpro": ["workpro"],
+        "vevor": ["vevor", "vevor tools"],
+        "hft": ["hft", "harbor freight", "harbor freight tools", "harbour freight", "harbour freight tools"]
+      }
+    },
+    "工具相关": {
+      "subdimensions": {
+        "tool_roll": ["tool roll", "tool rolls"],
+        "tool_storage": ["tool storage"],
+        "tools_sale": ["tools on sale", "tool sale", "clearance"],
+        "di_box": ["di box"]
+      }
+    },
+    "房间空间": {
+      "subdimensions": {
+        "laundry": ["laundry", "laundry room", "laundry room cabinets"],
+        "living_room": ["living room"],
+        "room": ["room storage"],
+        "garden": ["garden storage"],
+        "deck": ["deck storage"],
+        "patio": ["patio storage"]
+      }
+    },
+    "工业收纳": {
+      "subdimensions": {
+        "industrial_shelving": ["industrial shelving", "industrial shelf"],
+        "shelving": ["shelving", "shelving unit", "shelving units", "shelves", "shelve", "shelvs", "shelr", "shlef"]
+      }
+    },
+    "其他收纳": {
+      "subdimensions": {
+        "tote_rack": ["tote", "tote storage", "tote rack"],
+        "cubbies": ["cubbies", "cubby"],
+        "shoe_rack": ["shoe rack", "shoe racks"],
+        "paint_storage": ["paint storage"],
+        "can_storage": ["can storage"],
+        "vertical_storage": ["vertical storage"],
+        "utility_racks": ["utility racks", "utility rack"],
+        "storage_unit": ["storage unit", "storage units"],
+        "storage_building": ["storage building"],
+        "storage_solutions": ["storage solutions"],
+        "storage_furniture": ["storage furniture"],
+        "backyard_storage": ["backyard storage"],
+        "porch_storage": ["porch storage"],
+        "mudroom": ["mudroom", "mud room"],
+        "countertop": ["counter top", "countertop"]
+      }
+    },
+    "工具变体": {
+      "subdimensions": {
+        "tools_box": ["tools box"],
+        "tool_bench": ["tool bench", "tool benches"],
+        "work_cart": ["work cart"],
+        "utility_box": ["utility box"],
+        "job_box": ["job box"]
+      }
+    },
+    "其他语言": {
+      "subdimensions": {
+        "chinese": ["衣柜", "柜子", "收纳柜", "工具箱", "斗柜", "文件柜", "储物柜"],
+        "arabic": ["دولاب ملابس"]
+      }
+    },
+    "品牌2": {
+      "subdimensions": {
+        "sterilite": ["sterilite"],
+        "suncast": ["suncast"],
+        "seville": ["seville classics", "seville"],
+        "ryobi": ["ryobi", "ryobi link"],
+        "wen": ["wen", "wen tools"],
+        "peakpursuit": ["peakpursuit"],
+        "eliteedge": ["eliteedge"],
+        "amazon_basics": ["amazon basics"]
+      }
+    },
+    "品牌3": {
+      "subdimensions": {
+        "modbox": ["modbox"],
+        "goplus": ["goplus"],
+        "us_general": ["us general"],
+        "milleloom": ["milleloom"],
+        "sterlite": ["sterlite"],
+        "rubbermaid": ["rubbermaid", "rubbermaid storage"],
+        "patio_essentials": ["patio essentials"]
+      }
+    },
+    "其他工具2": {
+      "subdimensions": {
+        "tool_stand": ["tool stand"],
+        "shop_cart": ["shop cart"],
+        "pink_cart": ["pink cart", "pink utility cart"],
+        "purple_tools": ["purple tools"],
+        "x_tool": ["x tool"]
+      }
+    },
+    "收纳场景": {
+      "subdimensions": {
+        "basement": ["basement", "basement storage", "basement shelving"],
+        "yard": ["yard storage"],
+        "balcony": ["balcony storage"],
+        "under_stairs": ["under stairs storage"],
+        "outdoor": ["out door storage"]
+      }
+    },
+    "收纳类型2": {
+      "subdimensions": {
+        "ammo_safe": ["ammo safe"],
+        "screw_storage": ["screw storage"],
+        "tshirt_storage": ["tshirt storage"],
+        "sports_storage": ["sports storage"],
+        "cleaning_storage": ["cleaning storage", "cleaning supply storage"],
+        "pool_chemical": ["pool chemical storage"],
+        "modular_storage": ["modular storage"],
+        "storage_for_room": ["storage for room"],
+        "caninet": ["caninet"]
+      }
+    },
+    "pack_out": {
+      "subdimensions": {
+        "pack_out": ["pack out"]
+      }
+    },
+    "das_storage": {
+      "subdimensions": {
+        "das_storage": ["das storage"]
+      }
+    },
+    "armoir": {
+      "subdimensions": {
+        "armoir": ["armoir"]
+      }
+    },
+    "通用词汇": {
+      "subdimensions": {
+        "storage": ["storage", "stirage"]
+      }
+    },
+    "品牌4": {
+      "subdimensions": {
+        "klein_tools": ["klein tools"],
+        "sierrasquad": ["sierrasquad"],
+        "dreambox": ["dreambox"],
+        "little_tikes": ["little tikes"],
+        "unicoly": ["unicoly"],
+        "uline": ["uline"],
+        "yolobox": ["yolobox"]
+      }
+    },
+    "印地语": {
+      "subdimensions": {
+        "almirah": ["almirah", "almari", "almarios"]
+      }
+    },
+    "收纳类型3": {
+      "subdimensions": {
+        "appliance_storage": ["appliance storage"],
+        "cleaning_supplies": ["cleaning supplies storage", "storage for cleaning supplies"],
+        "hardware_storage": ["hardware storage"],
+        "parts_storage": ["parts storage"],
+        "gardening_storage": ["gardening storage"],
+        "hobby_storage": ["hobby storage"],
+        "canned_food": ["canned food storage"],
+        "attic_storage": ["attic storage"],
+        "towel_storage": ["storage for towels"],
+        "storage_room": ["storage room"],
+        "tall_storage": ["tall storage"],
+        "shop_storage": ["shop storage"],
+        "cube_storage": ["cube storage"],
+        "storage_with_doors": ["storage with doors"]
+      }
+    },
+    "工具3": {
+      "subdimensions": {
+        "screw_sorter": ["screw sorter"],
+        "screw_box": ["screw box"],
+        "tool_table": ["tool table", "tool station"]
+      }
+    },
+    "品牌5": {
+      "subdimensions": {
+        "sortimo": ["sortimo"],
+        "prepac": ["prepac"],
+        "plano": ["plano 3400"],
+        "larbanke": ["larbanke"]
+      }
+    },
+    "其他家具": {
+      "subdimensions": {
+        "enclosed_bookcase": ["enclosed bookcase"]
+      }
+    },
+    "其他工具4": {
+      "subdimensions": {
+        "girly_tackle": ["girly tackle box"],
+        "box_tools": ["box for tools"],
+        "parts_box": ["parts box"]
+      }
+    },
+    "其他工具5": {
+      "subdimensions": {
+        "shop_tools": ["shop tools and equipment", "shop equipment"]
+      }
+    },
+    "其他空间": {
+      "subdimensions": {
+        "utility_room": ["utility room"]
+      }
+    },
+    "品牌6": {
+      "subdimensions": {
+        "yizosh": ["yizosh"],
+        "besta": ["besta"],
+        "makita": ["makita", "makita box"],
+        "levrack": ["levrack"]
+      }
+    },
+    "其他物品": {
+      "subdimensions": {
+        "adjustable_door": ["adjustable door"]
+      }
+    },
+    "西班牙语汇总": {
+      "subdimensions": {
+        "caja_herramientas": ["caja de herramientas", "caja herramientas", "cajas de herramientas"],
+        "roperos": ["roperos", "armario para ropa", "armario para ropas"],
+        "estantes": ["estantes", "estantes de almacenamiento"],
+        "gabinetes": ["gabinetes", "gabinetes para cocina", "gabinetes para baños", "gabinetes para baño"],
+        "estante_ropa": ["estante para ropa", "estante de cocina", "repisas para cocina"],
+        "caja_guardar": ["caja para guardar herramientas"],
+        "anaquel": ["anaquel", "anaqueles"],
+        "mueble": ["mueble", "mueble para cocina"],
+        "archivero": ["archivero"],
+        "caja_dados": ["caja de dados herramientas"],
+        "caja_herramienta": ["caja de herramienta", "cajas para guardar herramientas"],
+        "maleta": ["maleta de herramientas con ruedas", "maleta para herramientas"],
+        "almacenamiento": ["almacenamiento"],
+        "ropero": ["ropero", "ropero de madera"],
+        "armario": ["armario", "armarios", "armario para cocina", "armario para baño", "armario de cocina", "armario de madera", "armario de despensa"],
+        "gabetero": ["gabetero"],
+        "caja_herramientas2": ["caja para herramientas", "cajas para herramientas", "cajas para herramientas de trabajo", "caja para herramientas con ruedas", "caja para tornillos"],
+        "alacena": ["alacena", "alacenas", "alacenas para cocina", "alacena para cocina", "alacenas para cocina para despensa"],
+        "despensa": ["despensa", "despensa para cocina", "despensa de cocina para organizar"],
+        "estante_cocina": ["estante para cocina"],
+        "organizador": ["organizador de herramientas", "organizadores de herramientas", "organizador de tornillos"],
+        "herramientas_total": ["herramientas total"],
+        "carrito": ["carrito para herramientas"],
+        "close": ["close para ropa"],
+        "lavanderia": ["lavanderia organizacion"],
+        "cajon": ["cajón de herramientas"],
+        "carro": ["carro de herramientas con ruedas", "carrito de herramientas con ruedas", "carrito de herramientas"],
+        "estanteria": ["estanteria de garaje"],
+        "archivador": ["archivador de documentos"],
+        "caja_organizadora": ["caja organizadora de herramientas"],
+        "caixa": ["caixa de ferramentas"]
+      }
+    }
+  }
+}

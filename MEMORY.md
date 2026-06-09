@@ -80,6 +80,13 @@
   - 输出:`keyword_library/温室_Greenhouse_B0GPQ7S3J1/02_拆词结果/温室_关键词拆词_完整层级V2.xlsx`
   - 脚本:`scripts/tools/split_words_greenhouse_v2.py`
 - **关键词拆词+埋词任务(2026-05-26)**:完成 vanity / floating vanity(ASIN B0F3HNYT9K)关键词拆词+埋词全套。
+- **entry door 关键词拆词 V2 完成(2026-06-09)**: 786个关键词,总搜索量 865,998。16个维度,177个子维度,0未分类。见MEMORY.md "entry door 拆词"段落。
+- **工具箱(tool box)关键词拆词 V2 完成(2026-06-09)**: 3,556个关键词(高相关1,000+低相关2,556),总搜索量 3,653,288。37个维度,约220个子维度,0未分类。
+  - **脚本**: `scripts/tools/split_words_tool_box_v2.py`
+  - **维度库**: `keyword_library/tool_box/dimensions_v2.json`
+  - **输出**: `keyword_library/tool_box/02_拆词结果/tool_box_关键词拆词_完整层级V2.xlsx`
+  - **核心发现**: 通用词汇"storage"独占138万搜索量(37.8%),说明工具箱类目高度泛化。收纳容器(storage bin/shed等)159.6万,门配件周边872个词87.8万。真正工具箱本体(tool box/chest/cabinet)约110万。品牌维度覆盖9个品牌+6个品牌子维度,Milwaukee(Packout) dominate。西班牙语汇总96个词7.7万搜索量。工业收纳(shelving)42.9万。
+  - **维度结构**: 产品类型13子维 / 材质6 / 品牌9+ / 功能特性10 / 尺寸3 / 场景用途11 / 颜色8 / 周边配件8 / 价格定位3 / 收纳容器8 / 通用家具6 / 工作品牌3 / 工具相关4 / 房间空间6 / 工业收纳2 / 其他收纳15 / 工具变体5 / 其他语言2 / 品牌2-6 / 收纳场景5 / 收纳类型2-3 / pack_out / das_storage / armoir / 通用词汇 / 拼写容错 / 印地语 / 西班牙语汇总31 / 其他工具2-5 / 其他家具 / 其他物品 / 其他空间 / 品牌4-6
 
 ## 新增需求:双链出货侦探自动扫描(BSC + Hyperliquid)(2026-05-25)
 
@@ -158,7 +165,20 @@ BTC, ETH, SOL, XRP, DOGE, HYPE, SUI, LINK, AVAX, APT, TIA, NEAR, DOT, ENA, JUP, 
 - **6/7 大户监控：市场首次缓和** — 51 币种中仅 6 个异动（12%，vs 6/3 的 73% 和 6/6 的 76%），POPCAT 🟠3分（Z-score -2.03），AVAX/TIA/JUP/WIF 🟡2分，SEI 空头付费偏高 -0.0101%。BTC +1.08%、ETH +1.09% — 主流币首次小幅反弹。大户异动层面恐慌情绪显著缓解，但市场仍处于深度下跌后的修复期
 - **6/7 HYPE 技术分析**：16 个下降趋势，0 个上升，大量主流币 RSI < 20 历史级极度超卖（BTC 17.8 / ETH 15.4 / BCH 15.2 / SOL 19.2 / LTC 16.5），HYPE 趋势不明（RSI 49.4，24h -3.23%）
 - **6/7 家具日报**：冷极简退场/温暖极简接棒、弧形家具基础设施化、白色 Bouclé 翻车、Color Drenching 走红
-- **绿电ETF监控新增(2026-06-07)**：每天 12:03，AKShare 获取 5 只绿电 ETF + 15 只核心个股实时行情，通过 kimi-claw 发送报告。脚本:`scripts/green_power_monitor.py`, 报告:`memory/green-power/YYYY-MM-DD.md`
+补充结构化词库
+
+当前拆词结果问题：
+1. 未分类100个关键词 - 主要是rug/mat/screen变体、尺寸变体、装饰类
+2. 品牌词0匹配 - 需要确认是否真的没有，还是维度遗漏
+3. 颜色、风格、尺寸覆盖严重不足（颜色只有7个关键词，风格14个，尺寸23个）
+
+需要补充的维度：
+- 门类型：增加折叠门、旋转门、口袋门、防火门、隔音门、隐蔽门
+- 门配件：增加门牌、信箱、门挡、猫眼、门镜、门楔、门底密封条、门把手套、门挂饰
+- 颜色：增加更多颜色词（米色、黄色、橙色、紫色、粉色、金色等）
+- 风格：增加更多风格（极简、日式、中式、北欧、地中海、乡村、工业等）
+- 尺寸：增加更多尺寸变体（42x80、32x84、36x84等）
+- 新维度：装饰类、户外门廊、窗纱/百叶、特殊功能（智能、防盗等）
 - **6/6 大户监控：市场延续暴跌，第二极端信号日** — 51 币种中 39 个异动（76%），ETH 🔴6分（Z-score -1.99，24h -9.8%），SUI 🔴6分（Z-score -3.67），PNUT 🟠5分（Z-score -7.02，本月最极端资金费率偏离），SPX 🟠5分（Z-score -5.42），LINK 🟠4分（Z-score -3.92），INJ 🟠3分（Z-score -3.04），AVAX/BCH/AAVE 🟠4分。BTC 7日 -14.7%、ETH 7日 -22.5%、SOL 7日 -23.6%。
 - **6/6 HYPE 技术分析**：15 个下降趋势，0 个上升，大量主流币 RSI < 20 历史级极度超卖（BTC 15.5 / ETH 14.4 / BCH 9.3 / SOL 18.0），HYPE 趋势不明（RSI 44.8，24h -7.18%）。
 - **6/6 家具日报**：Y2K 复古回流、小空间多功能升温、零间隙可倾斜沙发、中价位 $300-$800 高转化。
@@ -179,6 +199,36 @@ BTC, ETH, SOL, XRP, DOGE, HYPE, SUI, LINK, AVAX, APT, TIA, NEAR, DOT, ENA, JUP, 
 5. **HYPE每日技术分析** - 每天 10:40,结合技术分析skill(趋势/支撑阻力/MACD/RSI/布林带/ATR)+ 大户异动数据,生成51个perp深度技术报告并推送。首次运行2026-06-01,24重点+27辅助币种全覆盖。报告路径:`memory/crypto-scans/hype-tech-YYYY-MM-DD.md`。Dreaming 已纳入扫描范围。
 6. **~~HYPE突破监控 ($74.10)~~** - ~~每15分钟自动检测,触发条件:价格突破$74.10阻力位 + 成交量放大≥1.5x。~~ **已取消(2026-06-01 14:32)**,用户已手动在$73走一半利润,不需要高频监控。
 7. **绿电ETF监控** - 每天 12:03,AKShare 获取绿电ETF(5只)+ 核心个股(15只)实时行情,通过 kimi-claw 发送报告。脚本:`scripts/green_power_monitor.py`, 报告:`memory/green-power/YYYY-MM-DD.md` **(2026-06-07 新增)**
+
+## 关键词拆词任务
+
+### entry door 关键词拆词 V2 完成(2026-06-09)
+**数据**: 786个关键词,总搜索量 865,998。16个维度,177个子维度,**0未分类**。
+- **脚本**: `scripts/tools/split_words_entry_door_v2.py`
+- **维度库**: `keyword_library/entry_door/dimensions_v2.json` (177子维)
+- **输出**: `keyword_library/entry_door/02_拆词结果/entry_door_关键词拆词_完整层级V2.xlsx`
+
+**维度结构**:
+- 门类型(18): entry/front/exterior/interior/dutch/french/patio/sliding/barn/storm/screen/garage/prehung/glass/security/fire/soundproof/flush/panel/louvered/folding/pocket/swing/pivot/hidden/smart/rv/general
+- 门配件_周边(8): door_mat/rug/curtain/screen/frame/handle/lock/hinge/threshold/seal/stop/bell/number/viewer/sign/mail_slot/kick_plate/closer/guard/organizer/layering_mat/renter_friendly
+- 材质(7): wood/fiberglass/steel/glass/pvc/aluminum/composite/wrought_iron/concrete/stone
+- 颜色_外观(5): black/white/brown/gray/blue/red/green/yellow/orange/purple/pink/beige/wood_stain/paintable/metallic/two_tone
+- 风格(7): modern/farmhouse/craftsman/traditional/rustic/industrial/mediterranean/mid_century/coastal/transitional/scandinavian/bohemian/japanese/chinese/art_deco/southwestern/shabby_chic/minimalist/eclectic
+- 尺寸(10): 24/28/30/32/34/36/38/42/48/60/72/2x3/3x5/5x3/single/double/triple/custom/standard
+- 安装_功能(6): prehung/slab/left_hand/right_hand/in_swing/out_swing/energy_efficient/fire_rated/impact_resistant/soundproof/easy_install/weather_seal/ADA_compliant/pet_door
+- 磁性_纱网(9): magnetic/mesh/retractable/bug/heavy_duty/pet_friendly/hands_free/no_drill/custom_fit/screen_only
+- 西班牙语(1): puertas
+- 价格_定位(2): cheap/expensive/used/mid_range/wholesale
+- 品牌_型号(0匹配): therma_tru/jeld_wen/masonite/feather_river/simpson/plastpro/home_depot/lowes/menards/larson/andersen/pella/mi/steves_sons/kuiken_brothers/craftmaster/reliabilt/castlegate/derby
+- 户外空间(5): porch/patio/backyard/front_yard/deck/outdoor
+- 房屋类型(2): mobile_home/house/apartment/cottage
+- 多语言(4): chinese/german/korean/french
+- 图案_设计(4): floral/geometric/plain/striped/checkerboard/scalloped/jute
+- 房间_空间(5): kitchen/bedroom/bathroom/hallway/entryway
+
+**搜索量分布**: 磁性_纱网 1,254,070 > 门类型 1,211,994 > 门配件_周边 684,955 > 户外空间 140,924 > 尺寸 63,978 > 房间_空间 23,368 > 材质 23,454 > 图案_设计 20,135 > 颜色_外观 15,506 > 风格 13,393 > 西班牙语 14,304 > 安装_功能 2,460 > 价格_定位 1,125 > 房屋类型 4,660 > 多语言 962
+
+**核心发现**: 品牌词在数据源中零出现,说明该ASIN所在类目无品牌垄断。磁性纱网(screen door/magnetic screen)是绝对流量大头,占搜索量 81%以上。真正入户门(entry door/front door/exterior door)的搜索量约 50万级别。
 
 
 ## 用户独立需求:商业知识系统学习(2026-05-24)
