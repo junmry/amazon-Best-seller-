@@ -192,9 +192,9 @@ BTC, ETH, SOL, XRP, DOGE, HYPE, SUI, LINK, AVAX, APT, TIA, NEAR, DOT, ENA, JUP, 
    - 监控 Top 20 动态币种（v3 重构，153次API → 61次，减少60%）
    - 数据层：共享缓存 + SQLite 记录 + 审核验证
    - 报告路径：`memory/crypto-scans/hype-YYYY-MM-DD.md` / `hype-tech-YYYY-MM-DD.md`
-3. **绿电ETF监控** — 每天 12:03，AKShare 获取行情
-   - 脚本：`scripts/green_power_monitor.py`
-   - 报告：`memory/green-power/YYYY-MM-DD.md`（2026-06-07 新增）
+3. **绿电ETF监控** — 每天 12:03，纯 Python 新浪接口
+   - 脚本：`scripts/green_power_monitor_v2.py`（v2 增强版，分析层 + 三级触发）
+   - 报告：`memory/green-power/YYYY-MM-DD.md`（2026-06-07 新增，2026-06-11 升级 v2）
 4. **每周批次**（周一 9:47）— 美国家具社媒趋势 + 美国总统每日口播稿
 
 ### 历史任务（已取消/归档）
